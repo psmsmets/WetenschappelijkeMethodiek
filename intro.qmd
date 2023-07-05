@@ -1,0 +1,88 @@
+# Introductie
+
+## Géén LAB$^3$
+
+`Wetenschappelijke Methodiek` is een vervolg op LAB$^2$, maar breekt met de eerdere invulling in de tweede graad. Verwacht je aan een abstracter niveau met veel aandacht voor `soft-skills`. 
+
+...
+
+
+onderzoekscompetenties
+
+verschillende stappen om tot een goed onderzoek te komen
+
+- bronnenmateriaal vinden + toetsen op betrouwbaarheid + citeren
+
+- onderzoeksvraag
+
+- onderzoeksmethoden
+
+- communiceren = rapporteren + delen
+
+
+## Methode of methodiek?
+
+Het verschil tussen methoden en methodieken ligt in het niveau van abstractie en toepassing.
+
+**Methoden** verwijzen naar specifieke procedures, technieken of stappen die worden gebruikt om een bepaald doel te bereiken. Het zijn concrete en gedetailleerde benaderingen die worden toegepast binnen een bepaald vakgebied of domein. Een methode kan bijvoorbeeld een statistische analysemethode zijn, een laboratoriumtechniek of een interviewprotocol. Methoden zijn praktische instrumenten die worden gebruikt om specifieke taken uit te voeren.
+
+Aan de andere kant hebben **methodieken** betrekking op bredere raamwerken of systemen van methoden die worden toegepast in een bepaalde context. Een methodologie is een meer overkoepelende en conceptuele benadering die richtlijnen, principes en strategieën biedt voor het gebruik van verschillende methoden om een specifiek doel te bereiken. Het omvat vaak een reeks richtlijnen, procedures en regels die worden toegepast op een bepaald domein of onderzoeksgebied. Een methodologie kan bijvoorbeeld de wetenschappelijke methode zijn, een kwalitatieve onderzoeksbenadering zoals fenomenologie, of een projectmanagementmethodologie zoals Agile of Waterfall.
+
+Kort gezegd: methoden zijn de specifieke tools en technieken die worden gebruikt om taken uit te voeren, terwijl methodieken bredere raamwerken en systemen van methoden zijn die worden toegepast binnen een bepaalde context om een specifiek doel te bereiken. Methodieken bieden richtlijnen en strategieën voor het gebruik van methoden in een samenhangende en gestructureerde manier.
+
+
+## Planning
+
+...
+
+
+```{mermaid}
+%%| fig-cap: "Jaarplanning jaar 1"
+gantt
+        introductie : i1, 2023-09-01, 2w
+        vooronderzoek : i2, 2023-09-08, 3w
+        Python deel 1 : py1, after i2, 4w
+        Herfstvakantie : done, v1, 2023-10-30, 1w
+        Project 1 : crit, proj1, after v1, 4w
+        Functionality added : milestone, 2023-12-05, 0d
+        Kerstvakantie : done, v2, 2023-12-25, 2w
+        vooronderzoek : i3, after v2, 3w
+        Krokusvakantie : done, v3, 2024-02-12, 1w
+        Paasvakantie : done, v4, 2024-04-01, 2w
+        Project 2 : crit, proj2, after v4, 6w
+        Functionality added : milestone, 2024-06-01, 0d
+```
+
+Soft-skills:
+
+ - wetenschappelijk lezen
+ - wetenschappelijk analyseren
+ - wetenschappelijk schrijven
+ - wetenschappelijk presenteren
+ - programmeren
+
+Learning-on-the-job bij projecten:
+
+ - jaar 1: vooraf bepaald
+ - jaar 2: eigen keuzes
+
+Het eerste jaar is een voorbereiding om in jaar twee te werken rond een geïntegreerde proef (GIP).
+
+
+## Verwachtingen
+
+...
+
+
+## Doelstellingen
+
+::: {.callout-note title="Informaticawetenschappen"}
+Wetenschappelijke Methodiek integreert het leerplan van `Informaticawetenschappen` voor de 3de graad D-finaliteit (`D/2023/13.758/` versie 3 mei 2023).
+:::
+
+Het leerplan omvat twee grote onderdelen:
+
+  * efficiënt programma’s ontwikkelen;
+  * algoritmiek.
+
+Deze twee onderdelen worden opgesplitst bij het vak Wetenschappelijke Methodiek over het eerste en tweede jaar.

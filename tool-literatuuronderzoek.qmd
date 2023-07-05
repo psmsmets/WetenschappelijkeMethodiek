@@ -1,0 +1,17 @@
+# Zoekmachines voor literuuronderzoek 
+
+Hoe zoeken?
+
+https://paperpile.com/g/academic-search-engines/
+
+* Google scholar: <https://scholar.google.com/>
+
+* BASE: <https://www.base-search.net/>
+
+* CORE: <https://core.ac.uk/>
+
+* Science.gov: <http://science.gov/>
+
+* Semantic Scholar: <https://www.semanticscholar.org/>
+
+* RefSeek: <https://www.refseek.com/>

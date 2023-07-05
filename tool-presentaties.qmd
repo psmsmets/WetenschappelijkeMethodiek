@@ -1,0 +1,11 @@
+# Slides voor presentaties
+
+Verschillende opties voor visuele ondersteuning
+
+- PowerPoint (Microsoft) / Pages (Apple) / Impress (LibreOffice, gratis)
+- LaTeX beamer (gratis)
+- Reveal
+
+reveal.js is een open source HTML-presentatieraamwerk. Het is een tool waarmee iedereen met een webbrowser gratis volledig uitgeruste en prachtige presentaties kan maken.
+
+Online editor: <https://slides.com/>

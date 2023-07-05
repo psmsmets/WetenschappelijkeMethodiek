@@ -1,0 +1,84 @@
+# Rapporteren
+
+Het hoofddoel van wetenschappelijk onderzoek is rapporteren van de bevindingen. Dit kan zowel schriftelijk als mondeling. 
+
+## Schriftelijk rapporteren
+
+Wetenschappelijk schrijven.
+
+Hoe een goede wetenschappelijke tekst schrijven?
+
+Voor een rapport, onderzoeksverslag, paper, artikel, essay, betoog en scriptie hanteer je een wetenschappelijke of academische schrijfstijl.
+
+::: {.callout-note title="Wetenschappelijke schrijfstijl"}
+Wetenschappelijk schrijven zet in de eerste plaats het onderwerp centraal, niet de schrijver. 
+Jouw mening is dus niet van belang. 
+Wetenschappelijk schrijven houdt vooral in dat niet jijzelf maar juist het onderwerp centraal staat. Het gaat er niet om wat jij vindt, maar wel wat bijvoorbeeld het onderzoek oplevert.
+:::
+
+### Vaste structuur
+
+* Titel: <https://plos.org/resource/how-to-write-a-great-title/>
+* Abstract/samenvatting: <https://plos.org/resource/how-to-write-a-great-abstract/>
+* Inleiding
+* Methode(n): <https://plos.org/resource/how-to-write-your-methods/>
+* Resultaten
+* Discussie (en conclusie): <https://plos.org/resource/how-to-write-conclusions/>
+
+
+Klaarmaken ter publicatie: <https://plos.org/resource/how-to-edit-your-work/>
+
+
+### Tips voor een wetenschappelijke schrijfstijl
+
+<https://www.taaluilen.nl/20-tips-voor-een-wetenschappelijke-schrijfstijl/>(5 januari 2016 | Taaluilen, geraadpleegd 1/7/2023)
+
+1. Schrijf zo veel mogelijk in de tegenwoordige tijd. Dat geldt zeker voor Inleiding en Discussie. Methode (en materialen) en Resultaten kunnen in de voltooid tegenwoordige of in de verleden tijd. Er zijn geen vaste regels voor, maar wees consequent in je taalgebruik. (IMRD-methode)
+
+2.  Gebruik de ik-vorm niet of bijna niet. Het gaat niet om jou, maar om het resultaat.
+
+3.  Kenmerken van een leesbare academische stijl zijn:
+
+    * Objectief
+    * Zorgvuldig
+    * Onpersoonlijk
+    * Zakelijk
+
+4.  Zorg voor een heldere structuur. Daarvoor heb je hoofdstukken, paragrafen, alinea’s en zinnen tot je beschikking.
+5.  Titels van hoofdstukken en paragrafen hebben dezelfde stijl, dezelfde opbouw en dezelfde logische hiërarchie. Titels en ondertitels eindigen niet met een punt.
+6.  Alineakoppen hebben dezelfde stijl, dezelfde opbouw en eindigen niet met een punt.
+7.  Zorg voor verband tussen alinea’s.
+8.  Zorg door middel van stuctuuraanduiders voor samenhang binnen alinea’s en zinnen.
+9.  Zet in de alinea de belangrijkste informatie aan het begin.
+10. Vermijd jip-en-janneketaal, maar maak je zinnen zeker ook niet onnodig lang. Wissel korte en lange zinnen af.
+11. Gebruik opsommingen om de leesbaarheid en de structuur van de tekst te vergroten.
+12. Hanteer zo veel mogelijk de actieve vorm.
+13. Wees schaars met de hulpwerkwoorden worden, zullen, kunnen, mogen en moeten.
+14. Vermijd ouderwetse woorden en uitdrukkingen.
+15. Toets je tekst aan de zes eisen van zakelijke communicatie: duidelijk, efficiënt, aantrekkelijk, gepast, correct, overtuigend.
+16. Ontwerp eerst de structuur voor je aan het schrijfproces begint.
+17. Je hoeft niet ‘gewichtig’ te schrijven om je tekst wetenschappelijk te maken. Het gaat om de inhoud, jouw standpunten en jouw bevindingen. Door helder en overtuigend te presenteren valt er bij de lezer een wereld te winnen.
+18. Varieer in zinsbouw. Laat niet elke zin op dezelfde manier beginnen.
+19. Wees voorzichtig met het gebruik van vaktermen.
+20. Citeren doe je bij voorkeur met enkele aanhalingstekens met vermelding van naam en jaartal en pagina van bijvoorbeeld het boek of tijdschrift waar de geciteerde tekst terug te vinden is.
+
+
+## Mondeling rapporteren
+
+Wetenschappelijk presenteren.
+
+## Vertel het verhaal op maat van je doelpubliek
+
+Wetenschappelijk communiceren door middel van analytisch verhalen vertellen, ook wel bekend als analytic storytelling, is een benadering waarbij wetenschappelijke informatie op een narratieve en boeiende manier wordt gepresenteerd. Hierbij wordt gebruik gemaakt van verhaalstructuren en elementen om complexe gegevens en resultaten op een toegankelijke manier over te brengen naar verschillende doelgroepen.
+
+Analytische storytelling combineert de analytische en rigoureuze aspecten van wetenschap met de kracht van verhalen. Het omvat de volgende elementen:
+
+1.  Identificeer het verhaal: Begin met het identificeren van het kernverhaal dat je wilt vertellen. Dit kan bijvoorbeeld het belangrijkste wetenschappelijke resultaat zijn dat je wilt communiceren of de ontdekking die je hebt gedaan.
+1. Kies een narratieve structuur: Selecteer een geschikte narratieve structuur, zoals een reisverhaal, een heldenreis of een probleem-oplossingsverhaal. Het doel is om een logische en meeslepende verhaallijn te creëren die de lezer of luisteraar aanspreekt.
+1.  Gebruik personages: Introduceer personages, zoals wetenschappers, proefpersonen of historische figuren, om het verhaal menselijker en persoonlijker te maken. Dit helpt de lezers zich te identificeren met de wetenschappelijke context en betrokken te raken bij het verhaal.
+1.  Gebruik visuele elementen: Ondersteun het verhaal met visuele elementen, zoals afbeeldingen, grafieken, diagrammen of video's. Deze visuele hulpmiddelen kunnen helpen om complexe gegevens begrijpelijker te maken en de boodschap te versterken.
+1.  Maak gebruik van emotie en spanning: Creëer emotie en spanning in het verhaal om de interesse van het publiek te wekken en vast te houden. Dit kan gedaan worden door uitdagingen, onverwachte wendingen of persoonlijke anekdotes toe te voegen.
+1.  Wees duidelijk en beknopt: Zorg ervoor dat de wetenschappelijke informatie duidelijk en beknopt wordt gecommuniceerd. Vermijd jargon en technisch taalgebruik en leg complexe concepten op een begrijpelijke manier uit.
+1.  Verbind met de bredere betekenis: Breng de wetenschappelijke bevindingen in verband met bredere betekenis en relevantie, bijvoorbeeld in termen van maatschappelijke impact, toekomstig onderzoek of praktische toepassingen.
+
+Door analytische storytelling toe te passen, kunnen wetenschappers hun onderzoek op een boeiende en begrijpelijke manier presenteren aan verschillende doelgroepen, waaronder niet-wetenschappers. Dit draagt bij aan een betere verspreiding van wetenschappelijke kennis, vergroot het begrip en de waardering voor wetenschap, en bevordert de dialoog tussen wetenschappers en de samenleving.

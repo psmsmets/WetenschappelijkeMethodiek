@@ -1,0 +1,62 @@
+# LaTeX voor publicaties
+
+Online editor: <https://www.overleaf.com>
+
+
+
+<https://www.overleaf.com/learn/latex/Tutorials>
+<https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes>
+
+```{.latex}
+\documentclass{article}
+\begin{document}
+First document. This is a simple example, with no 
+extra parameters or packages included.
+\end{document}
+```
+
+
+```{.latex}
+\documentclass[12pt, letterpaper]{article}
+\title{My first LaTeX document}
+\author{Hubert Farnsworth\thanks{Funded by the Overleaf team.}}
+\date{August 2022}
+\begin{document}
+\maketitle
+We have now added a title, author and date to our first \LaTeX{} document!
+\end{document}
+```
+
+```{.latex}
+Some of the \textbf{greatest}
+discoveries in \underline{science} 
+were made by \textbf{\textit{accident}}.
+```
+
+```{.latex}
+Some of the greatest \emph{discoveries} in science 
+were made by accident.
+
+\textit{Some of the greatest \emph{discoveries} 
+in science were made by accident.}
+
+\textbf{Some of the greatest \emph{discoveries} 
+in science were made by accident.}
+```
+
+```{.latex}
+\begin{itemize}
+  \item The individual entries are indicated with a black dot, a so-called bullet.
+  \item The text in the entries may be of any length.
+\end{itemize}
+```
+
+```{.latex}
+\begin{enumerate}
+  \item This is the first entry in our list.
+  \item The list numbers increase with each entry we add.
+\end{enumerate}
+```
+
+```{.latex}
+```

@@ -1,0 +1,127 @@
+# De wetenschappelijke methode 
+
+De wetenschappelijke methode is een systematische benadering die wordt gebruikt in de wetenschap om kennis te vergaren en hypothesen te testen. Het omvat een reeks kernprincipes die wetenschappers volgen om betrouwbare en objectieve resultaten te verkrijgen. 
+
+::: {.callout-note}
+Er bestaat geen universele overeenstemming over wat dé wetenschappelijke methode inhoudt. Toch zijn er bepaalde kernprincipes die vandaag de dag de basis vormen van wetenschappelijk onderzoek.
+:::
+
+## De 7 kernprincipes
+
+```{dot}
+digraph "De 7 stappen van de wetenschappelijke methode" {
+  layout = twopi;
+  fontname = "Source Sans Pro";
+  fontsize = 16;
+  normalize = true;
+
+  graph [ranksep=3]
+  node [fontname = "Source Sans Pro", colorscheme=blues7, color = transparent, style = filled, shape = circle, width=1.8, height=1.8];
+
+  // Title node
+  title [label = "Wetenschappelijke Methode", shape = none, fontname = "Source Sans Pro", fontsize = 20];
+
+  // Connect title node to other nodes
+  title -> 2 [style = invis];
+  title -> 1 [style = invis];
+  title -> 7 [style = invis];
+  title -> 6 [style = invis];
+  title -> 5 [style = invis];
+  title -> 4 [style = invis];
+  title -> 3 [style = invis];
+
+  1 [label = "1. Observatie", color = 1];
+  2 [label = "2. Hypothese", color = 2];
+  3 [label = "3. Voorspelling", color = 3];
+  4 [label = "4. Experiment", color = 4];
+  5 [label = "5. Data-analyse", fillcolor = 5, fontcolor = white];
+  6 [label = "6. Conclusie", fillcolor = 6, fontcolor = white];
+  7 [label = "7. Communicatie", fillcolor = 7, fontcolor = white];
+
+  1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 1;
+}
+```
+
+ Over het algemeen bestaat de wetenschappelijke methode uit de volgende stappen:
+
+1. **Observatie:** Waarnemen van een fenomeen of verschijnsel en het stellen van een vraag over hoe of waarom dit gebeurt.
+1. **Hypothese:** Formuleren van een verklaring of een voorlopige antwoord op de vraag die gebaseerd is op bestaande kennis en logisch redeneren.
+1. **Voorspelling:** Afleiden van specifieke voorspellingen uit de hypothese die getest kunnen worden.
+1. **Experiment:** Ontwerpen en uitvoeren van gecontroleerde experimenten om de voorspellingen te testen. Het experiment moet zorgvuldig worden opgezet, met controlevariabelen en experimentele groepen, om nauwkeurige en reproduceerbare resultaten te verkrijgen.
+1. **Data-analyse:** Verzamelen en analyseren van de gegevens die tijdens het experiment zijn verzameld, vaak met behulp van statistische methoden.
+1. **Conclusie:** Op basis van de resultaten van het experiment, beoordelen of de hypothesen worden ondersteund of weerlegd. Het kan nodig zijn om het experiment te herhalen of verder onderzoek uit te voeren om tot een definitieve conclusie te komen.
+1. **Communicatie:** Het rapporteren van de resultaten, inclusief de methode, bevindingen en conclusies, aan de wetenschappelijke gemeenschap via publicaties, presentaties en discussies.
+
+De wetenschappelijke methode is een iteratief proces, waarbij nieuwe observaties en experimenten kunnen leiden tot herziening van hypothesen en nieuwe vragen, waardoor de wetenschappelijke kennis voortdurend groeit en evolueert. 
+
+
+## Geschiedenis
+
+<https://en.wikipedia.org/wiki/Timeline_of_the_history_of_the_scientific_method>
+
+<https://en.wikipedia.org/wiki/History_of_scientific_method>
+
+
+```{dot}
+digraph shells {
+    size="7,8";
+    node [fontsize=18, shape = plaintext, fontname = "Source Sans Pro"];
+
+    -1600 [ label = "1600 v.C."];
+    -40 [ label = "40 v.C."];
+    1750 [ label = "midden 18e eeuw"];
+    future [ label = "toekomst"];
+
+    -1600 -> -40;
+    -40 -> 850;
+    850 -> 1021;
+    1021 -> 1573;
+    1573 -> 1619;
+    1619 -> 1638;
+    1638 -> 1687;
+    1687 -> 1750;
+    1750 -> future;
+
+    node [fontsize=14, fontname = "Source Sans Pro"];
+    { rank=same;  -1600 "Vroege methodologie" [shape = box]; }
+    { rank=same;  850 "Opkomst van de inductieve experimentele methode" [shape = box]; }
+    { rank=same;  850 "Integratie van deductieve en inductieve methode" [shape = box]; }
+    { rank=same;  -40 "Aristotle"; }
+    { rank=same;  1021 "Ibn al-Haytham"; } // Arabische natuurkundige, Book of Optics
+    { rank=same;  1573 "Francis Bacon"; }
+    { rank=same;  1619 "René Descartes"; }
+    { rank=same;  1638 "Galileo Galilei"; }
+    { rank=same;  1687 "Isaac Newton"; }
+
+}
+```
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+</script>
+
+Drie wetenschappers hadden een grote invloed op de wetenschappelijke methode:
+
+* Francis Bacon (1561-1626), Engels filoof,
+* Rene Descartes (1596-1650), Frans wiskundige/geograaf/filosoof,
+* Isaac Newton (1643-1727), Engels astronoom en natuurkundige.
+
+
+## Actuele kwesties
+
+### Statistiek
+
+In de afgelopen eeuwen zijn enkele statistische methoden ontwikkeld om te redeneren bij onzekerheid om en daarbij fouten te minimaliseren of zelfs elimineren.
+De kracht van statistische methodes die leiden tot Bayesiaanse interferentie, met het vermogen om overtuigingen te veranderen in het licht van bewijs.
+
+Statistiek is de  tot Geloofsherziening (`belief revision`) en vernietigbare redenering (`defeasable reasoning`)
+
+### Zelfvervullende voorspelling
+
+Engels: `self-fulfilling prophecy`
+
+### Rommelwetenschap en pseudo wetenschap
+
+### Onwetendheid
+
+<https://mitpress.mit.edu/9780262538213/science-and-the-production-of-ignorance/>

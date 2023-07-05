@@ -1,0 +1,44 @@
+# Voorwoord {.unnumbered}
+
+De eerste editie van dit boek is gepubliceerd op ... 
+
+## Conventies gebruikt in dit boek
+
+In dit boek worden de volgende typografische conventies gebruikt:
+
+
+*Cursief*
+: Geeft nieuwe termen, URL's, e-mailadressen, bestandsnamen en bestandsextensies aan.
+
+
+`Constante breedte`
+: Gebruikt voor programmalijsten en binnen paragrafen om te verwijzen naar programma-elementen zoals namen van variabelen of functies, databases, gegevenstypes, omgevingsvariabelen, verklaringen en sleutelwoorden.
+
+
+**`Constante breedte vet`**
+: Toont commando's of andere tekst die de gebruiker letterlijk moet typen.
+
+
+*`<Constante breedte cursief>`*
+: Tekst die moet worden vervangen door waarden die de gebruiker opgeeft of door waarden die door de context worden bepaald.
+
+
+::: {.callout-tip}
+Dit element geeft een tip of suggestie aan.
+:::
+
+::: {.callout-note}
+Dit element duidt op een algemene opmerking.
+:::
+
+::: {.callout-caution}
+Dit element geeft een waarschuwing of voorzichtigheid aan.
+:::
+
+## Dankbetuigingen
+
+Dit werk is een resultaat van meerdere handen.
+
+<!--
+This work is the product of many years of fruitful discussions and collaborations with, and assistance from many people around the world. I'd like to thank a few of them.
+-->

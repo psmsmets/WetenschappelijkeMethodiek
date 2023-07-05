@@ -1,0 +1,44 @@
+# Open wetenschap 
+
+Wetenschap verwijst naar een systematische en methodische benadering van het begrijpen van de wereld om ons heen. Het is een proces van het stellen van vragen, het verzamelen van gegevens, het formuleren en testen van hypotheses, en het trekken van conclusies op basis van objectieve en herhaalbare bevindingen.
+
+Het doel van wetenschap is om kennis en inzicht te vergroten door middel van observatie, experimenten en logische redenering. Het is gebaseerd op het principe van empirisme, waarbij informatie wordt verzameld uit de zintuiglijke waarneming en objectieve metingen.
+
+Wetenschap omvat verschillende disciplines, zoals natuurwetenschappen (bijvoorbeeld biologie, scheikunde, natuurkunde), sociale wetenschappen (bijvoorbeeld psychologie, sociologie, economie) en formele wetenschappen (bijvoorbeeld wiskunde, informatica). Elke discipline heeft zijn eigen methoden, theorieën en principes om specifieke aspecten van de wereld te onderzoeken.
+
+Het belangrijkste kenmerk van wetenschap is dat het gebaseerd is op **objectiviteit** en **openheid**. Wetenschappelijke kennis wordt voortdurend getoetst, geëvalueerd en aangepast op basis van nieuwe bevindingen. Door middel van peer review en replicatie van onderzoek wordt gestreefd naar betrouwbare en verifieerbare resultaten.
+
+Over het algemeen streeft wetenschap naar het begrijpen en verklaren van natuurlijke fenomenen en het ontwikkelen van betrouwbare kennis die kan worden toegepast om problemen op te lossen, technologie te ontwikkelen en ons begrip van de wereld te vergroten.
+
+
+## FAIR-data principes 
+
+De FAIR-data principes zijn een set richtlijnen die zijn ontwikkeld om de toegankelijkheid en herbruikbaarheid van wetenschappelijke gegevens te verbeteren. "FAIR" staat voor Findable (vindbaar), Accessible (toegankelijk), Interoperable (interoperabel) en Reusable (herbruikbaar). Deze principes zijn bedoeld om de uitdagingen aan te pakken die ontstaan door de groeiende hoeveelheid digitale gegevens en om de efficiëntie en effectiviteit van wetenschappelijk onderzoek te vergroten.
+
+De vier principes van FAIR-data zijn:
+
+  1. **Findable (vindbaar):** Gegevens moeten gemakkelijk te vinden zijn, zowel voor mensen als voor computersystemen. Dit vereist het toekennen van unieke en persistente identificatoren aan datasets, het gebruik van gestandaardiseerde metadata en het opnemen van relevante informatie zoals de context, locatie en beschrijving van de gegevens.
+  1. **Accessible (toegankelijk):** Gegevens moeten openbaar beschikbaar zijn of op zijn minst toegankelijk zijn met duidelijke en goed gedefinieerde gebruiksvoorwaarden. Dit omvat het bieden van toegang tot de volledige dataset of ten minste tot de metadata en de mogelijkheid om de gegevens te downloaden of op te halen via geautomatiseerde interfaces.
+  1. **Interoperable (uitwisselbaar):** Gegevens moeten worden gestructureerd op een manier die het mogelijk maakt om ze te integreren, te combineren en te analyseren met andere datasets. Dit houdt in dat gegevens moeten worden gepresenteerd met behulp van gemeenschappelijke standaarden, formaten en vocabulaires, en dat ze machineleesbaar moeten zijn om automatische verwerking mogelijk te maken.
+  1. **Reusable (herbruikbaar):** Gegevens moeten worden gedocumenteerd op een manier die begrip en hergebruik bevordert. Dit omvat het verstrekken van gedetailleerde en nauwkeurige metadata, het beschrijven van de gebruikte methoden en het documenteren van de datakwaliteit en de beperkingen. Bovendien moeten de gebruiksvoorwaarden en licenties duidelijk worden gecommuniceerd, zodat anderen de gegevens kunnen hergebruiken met passende erkenning en attributie.
+
+Het naleven van de FAIR-data principes bevordert transparantie, samenwerking en innovatie in de wetenschap, en vergemakkelijkt de replicatie en validatie van onderzoeksresultaten. Het stelt wetenschappers, instellingen en datarepositoria in staat om waardevolle gegevens effectief te beheren, te delen en te hergebruiken voor bredere wetenschappelijke en maatschappelijke vooruitgang.
+
+
+## Wetenschappelijk en FAIR?
+
+De relatie tussen de wetenschappelijke methode en FAIR-data ligt in het streven naar betrouwbare en reproduceerbare wetenschappelijke resultaten, evenals het bevorderen van openheid, transparantie en samenwerking in het wetenschappelijk onderzoek.
+
+De wetenschappelijke methode biedt een gestructureerde benadering om hypotheses te testen en kennis te vergaren. Het omvat het ontwerpen en uitvoeren van experimenten, het verzamelen en analyseren van gegevens, en het trekken van conclusies op basis van objectieve bevindingen. De wetenschappelijke methode is gebaseerd op het streven naar betrouwbare en herhaalbare resultaten, waarbij transparantie en nauwkeurigheid van cruciaal belang zijn.
+
+Aan de andere kant richten de FAIR-data principes zich op het bevorderen van de toegankelijkheid en herbruikbaarheid van wetenschappelijke gegevens. Deze principes stellen richtlijnen vast voor het organiseren, documenteren en delen van onderzoeksgegevens op een gestructureerde en consistente manier. Door gegevens vindbaar, toegankelijk, interoperabel en herbruikbaar te maken, kunnen andere onderzoekers deze gegevens gebruiken om resultaten te reproduceren, verder onderzoek uit te voeren of nieuwe inzichten te genereren.
+
+Door de FAIR-data principes te volgen, kunnen wetenschappers hun gegevens beter beheren en documenteren, waardoor ze effectiever kunnen samenwerken en hun onderzoeksresultaten transparant kunnen delen. Dit versterkt de betrouwbaarheid en validiteit van wetenschappelijk onderzoek, en vergemakkelijkt de verificatie en replicatie van bevindingen door andere wetenschappers.
+
+Kortom, de wetenschappelijke methode en de FAIR-data principes delen het gemeenschappelijke doel van het bevorderen van betrouwbaarheid, transparantie en openheid in de wetenschap. Door de wetenschappelijke methode te combineren met het gebruik van FAIR-data, kunnen wetenschappers de kwaliteit en impact van hun onderzoek vergroten, terwijl ze tegelijkertijd een robuuste basis leggen voor verdere wetenschappelijke vooruitgang.
+
+
+## Wetenschap en transparant
+
+Open communiceren over methodieken.
+Niet alleen data vrij toegankelijk, eventueel ook methoden/code maar zeker ook artikels (pay-walls van wetenschappelijke tijdschriften!)
