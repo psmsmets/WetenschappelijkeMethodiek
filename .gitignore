@@ -138,8 +138,12 @@ dask-worker-space/
 /.quarto/
 /_*/
 
+# Tex
+*.aux
+
 # User related
 *.key
 *.swp
 *.DS_Store
 *.nc
+.DS_Store
