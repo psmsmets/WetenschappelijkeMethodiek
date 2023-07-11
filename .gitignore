@@ -136,7 +136,10 @@ dask-worker-space/
 
 # Quarto
 /.quarto/
-/_*/
+/__*/
+/_book/
+/_pdf/
+/_docx/
 
 # Tex
 *.aux

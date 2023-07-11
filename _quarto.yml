@@ -49,7 +49,7 @@ format:
   html:
     theme: 
         light: cosmo
-        dark: [cosmo, assets/theme-dark.scss]
+        dark: [cosmo, _assets/theme-dark.scss]
     smooth-scroll: true
     link-external-icon: true
     link-external-newwindow: true
