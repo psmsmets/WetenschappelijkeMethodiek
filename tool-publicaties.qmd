@@ -2,6 +2,8 @@
 
 Online editor: <https://www.overleaf.com>
 
+{{< latex >}}
+
 
 
 <https://www.overleaf.com/learn/latex/Tutorials>

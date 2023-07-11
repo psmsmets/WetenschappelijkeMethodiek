@@ -1,6 +1,20 @@
 # De wetenschappelijke methode 
 
-De wetenschappelijke methode is een systematische benadering die wordt gebruikt in de wetenschap om kennis te vergaren en hypothesen te testen. Het omvat een reeks kernprincipes die wetenschappers volgen om betrouwbare en objectieve resultaten te verkrijgen. 
+<https://scicomm.plos.org/2020/08/04/a-guide-to-using-the-scientific-method-in-everyday-life/>
+
+De wetenschappelijke methode is een systematische benadering die wordt gebruikt in de wetenschap om kennis te vergaren, hypothesen te testen en de natuurlijke wereld te begrijpen. 
+Het omvat een reeks kernprincipes die wetenschappers volgen om betrouwbare en objectieve resultaten te verkrijgen.
+Vertrekkend vanuit hypotheses trekken wetenschappers conclusies op basis van empirische gegevens. 
+Deze gegevens worden op grote schaal gevalideerd en houden rekening met de intrinsieke variabiliteit van de echte wereld. 
+Voor mensen die niet vertrouwd zijn met het jargon en de formaliteiten, kan wetenschap *esoterisch* lijken. 
+En dat is een groot probleem: wetenschap nodigt uit tot kritiek omdat ze niet gemakkelijk te begrijpen is. 
+Waarom is het dan belangrijk dat iedereen begrijpt hoe wetenschap wordt bedreven?
+
+> Omdat de wetenschappelijke methode in de eerste plaats een kwestie van logisch redeneren is 
+> en pas daarna een procedure die in een laboratorium moet worden toegepast.
+
+
+Zonder training in logisch redeneren zijn gemakkelijker het slachtoffer van vertekende perspectieven over zichzelf en de wereld. Een voorbeeld hiervan zijn de zogenaamde "cognitieve vertekeningen" - systematische fouten die mensen maken wanneer ze rationeel proberen te denken en die leiden tot verkeerde of onnauwkeurige conclusies. Mensen overschatten gemakkelijk de relevantie van hun eigen gedrag en keuzes. Ze kunnen het vermogen missen om de kwaliteit van hun prestaties en gedachten zelf in te schatten. Onbewust kunnen ze zelfs uiteindelijk alleen die argumenten selecteren die hun hypothese of overtuiging ondersteunen. Daarom moet het wetenschappelijke kader niet alleen worden opgevat als een mechanisme om de natuurlijke wereld te begrijpen, maar ook als een kader om logisch te redeneren en te discussiëren.
 
 ::: {.callout-note}
 Er bestaat geen universele overeenstemming over wat dé wetenschappelijke methode inhoudt. Toch zijn er bepaalde kernprincipes die vandaag de dag de basis vormen van wetenschappelijk onderzoek.
@@ -9,6 +23,9 @@ Er bestaat geen universele overeenstemming over wat dé wetenschappelijke method
 ## De 7 kernprincipes
 
 ```{dot}
+#| label: fig-methode-stappen
+#| fig-cap: "De 7 stappen van de wetenschappelijke methode"
+
 digraph "De 7 stappen van de wetenschappelijke methode" {
   layout = twopi;
   fontname = "Source Sans Pro";
@@ -57,15 +74,21 @@ De wetenschappelijke methode is een iteratief proces, waarbij nieuwe observaties
 
 ## Geschiedenis
 
+> Waarheid wordt gezocht omwille van zichzelf. En zij die omwille van zichzelf op zoek zijn naar iets, 
+> zijn niet geïnteresseerd in andere dingen. De waarheid vinden is moeilijk en de weg ernaartoe is ruw. 
+> -- [Ibn al-Haytham (Alhazen)](https://nl.wikipedia.org/wiki/Alhazen) 
+
 <https://en.wikipedia.org/wiki/Timeline_of_the_history_of_the_scientific_method>
 
 <https://en.wikipedia.org/wiki/History_of_scientific_method>
 
 
 ```{dot}
+#| label: fig-methode-tijdlijn
+#| fig-cap: "Tijdlijn"
+
 digraph shells {
-    size="7,8";
-    node [fontsize=18, shape = plaintext, fontname = "Source Sans Pro"];
+    node [fontsize=24, shape = plaintext, fontname = "Source Sans Pro"];
 
     -1600 [ label = "1600 v.C."];
     -40 [ label = "40 v.C."];
@@ -75,37 +98,69 @@ digraph shells {
     -1600 -> -40;
     -40 -> 850;
     850 -> 1021;
-    1021 -> 1573;
-    1573 -> 1619;
-    1619 -> 1638;
+    1021 -> 1027;
+    1027 -> 1265;
+    1265 -> 1572;
+    1572 -> 1605;
+    1605 -> 1637;
+    1637 -> 1638;
     1638 -> 1687;
     1687 -> 1750;
-    1750 -> future;
+    1750 -> 1786;
+    1786 -> 1831;
+    1831 -> 1878;
+    1878 -> future;
 
-    node [fontsize=14, fontname = "Source Sans Pro"];
+    node [fontsize=20, fontname = "Source Sans Pro", margin=.2];
     { rank=same;  -1600 "Vroege methodologie" [shape = box]; }
     { rank=same;  850 "Opkomst van de inductieve experimentele methode" [shape = box]; }
-    { rank=same;  850 "Integratie van deductieve en inductieve methode" [shape = box]; }
-    { rank=same;  -40 "Aristotle"; }
-    { rank=same;  1021 "Ibn al-Haytham"; } // Arabische natuurkundige, Book of Optics
-    { rank=same;  1573 "Francis Bacon"; }
-    { rank=same;  1619 "René Descartes"; }
+    { rank=same;  1750 "Integratie van deductieve en inductieve methode" [shape = box]; }
+    { rank=same;  -40 "Aristotle"; } // empiricism
+    { rank=same;  1021 "Ibn al-Haytham (Alhazen)"; } // Arabische natuurkundige, Book of Optics
+    { rank=same;  1027 "Ibn Sina (Avicenna)"; }
+    { rank=same;  1265 "Roger Bacon"; }
+    { rank=same;  1572 "Tycho Brahe"; }
+    { rank=same;  1605 "Francis Bacon"; }
+    { rank=same;  1637 "René Descartes"; }
     { rank=same;  1638 "Galileo Galilei"; }
     { rank=same;  1687 "Isaac Newton"; }
+    { rank=same;  1786 "Hans Christian Ørsted"; }
+    { rank=same;  1831 "John Herschel"; }
+    { rank=same;  1878 "Charles Sanders Peirce"; }
 
 }
 ```
 
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-</script>
+::: {#fig-timeline2 fig-cap="Tijdslijn v2." fig-align="center"}
+```{tikz}
+\usetikzlibrary{positioning,arrows.meta}
+\tikzdeclarecoordinatesystem{timeline}{% #1 is the date in years
+    \pgfmathsetmacro\myx{(#1-1975)/3}
+    \pgfpointxy{\myx}{0}
+}
+\begin{tikzpicture}[line cap=rect,event/.style={fill,font=\tiny,text=white,inner
+sep=0.4ex,text height=1ex,text depth=0.4ex,rounded corners},bullet/.style={circle,fill,node contents={},inner sep=1pt}]
+\draw (timeline cs:1975) -- (timeline cs:2020);
+\foreach \X in {1975,1980,...,2020}
+{\draw (timeline cs:\X) -- ++(0,0.2) node[above,font=\tiny]{\X};}
+\draw[blue!80] (timeline cs:1977) node[bullet] -- ++ (0,-0.8) node[below,event]{A New Hope};
+\draw[orange] (timeline cs:1980.4) node[bullet] -- ++ (0,-1.6) node[below,event]{The Empire Strikes Back};
+\draw[green!80!black] (timeline cs:1984) node[bullet] -- ++ (0,-0.8) node[below,event]{Return of the Jedi};
+\draw[purple!80] (timeline cs:2002.5) node[bullet] -- ++ (0,-0.8) node[below,event] (Clone) {Attack of the Clones};
+\node[red,left=0.3em of Clone,event] (Phantom) {The Phantom Menace};
+\draw[red] (timeline cs:1999) node[bullet] to[out=-90,in=90] (Phantom);
+\node[brown!80!black,right=0.3em of Clone,event] (Sith) {Revenge of the Sith};
+\draw[brown!80!black] (timeline cs:2005.5) node[bullet] to[out=-90,in=90] (Sith);
+\draw[pink!90!black] (timeline cs:2016) node[bullet] -- ++ (0.2,-0.8) node[below,event] {The Force Awakens};
+\end{tikzpicture}
+```
+:::
 
 Drie wetenschappers hadden een grote invloed op de wetenschappelijke methode:
 
 * Francis Bacon (1561-1626), Engels filoof,
 * Rene Descartes (1596-1650), Frans wiskundige/geograaf/filosoof,
 * Isaac Newton (1643-1727), Engels astronoom en natuurkundige.
-
 
 ## Actuele kwesties
 

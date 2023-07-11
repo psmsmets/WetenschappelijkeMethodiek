@@ -6,7 +6,6 @@
 
 ...
 
-
 onderzoekscompetenties
 
 verschillende stappen om tot een goed onderzoek te komen
@@ -64,9 +63,9 @@ Soft-skills:
 Learning-on-the-job bij projecten:
 
  - jaar 1: vooraf bepaald
- - jaar 2: eigen keuzes
+ - jaar 2: eigen keuze
 
-Het eerste jaar is een voorbereiding om in jaar twee te werken rond een geïntegreerde proef (GIP).
+Het eerste jaar is een stapsgewijze voorbereiding om in jaar twee te werken rond een geïntegreerde proef (GIP).
 
 
 ## Verwachtingen

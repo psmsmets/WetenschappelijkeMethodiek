@@ -28,6 +28,38 @@ Wetenschappelijk schrijven houdt vooral in dat niet jijzelf maar juist het onder
 
 Klaarmaken ter publicatie: <https://plos.org/resource/how-to-edit-your-work/>
 
+Na de titel is de samenvatting het meest gelezen deel van je artikel (zie @fig-rapporteren). De samenvatting is een belangrijk hulpmiddel voor lezers om je werk te vinden en te evalueren. Na publicatie wordt de samenvatting geïndexeerd in in bibliotheeksystemen of populaire databases, zoals bijvoorbeeld Google Scholar. Net als de titel beïnvloedt je samenvatting de zoekresultaten op trefwoorden. Lezers gebruiken het om te beslissen of ze de rest van je artikel willen lezen. Andere onderzoekers gebruiken het om je werk te evalueren voor opname in systematische reviews en meta-analyses. Het moet een beknopt, op zichzelf staand stuk zijn dat je onderzoek nauwkeurig weergeeft.
+
+
+::: {#fig-rapporteren fig-cap="Rapporteren en lezersbereik." fig-align="center"}
+```{tikz}
+\definecolor{MyTriangle}{RGB}{229,185,78}
+\definecolor{MyArrow}{RGB}{84,106,160}
+\usetikzlibrary{arrows.meta}
+\begin{tikzpicture}
+    \begin{scope}
+        \draw[very thick, MyTriangle!40] (0,0.03) -- (15,0.03);
+        \draw[very thick, MyTriangle!55] (0,3) -- (15,3);
+        \draw[very thick, MyTriangle!70] (0,6) -- (15,6);
+        \draw[very thick, MyTriangle!85] (0,9) -- (15,9);
+        \draw[very thick, MyTriangle] (0,11.95) -- (15,11.95);
+        \draw[very thick, MyTriangle] (15,0.02) -- (15,11.96);
+        \draw[very thick,white,fill=MyTriangle!55] (0,0) -- (-8,12) -- (8,12);
+        \filldraw[very thick,white,fill=MyTriangle!70] (0,0) -- (-6,9) -- (6,9);
+        \filldraw[very thick,white,fill=MyTriangle!85] (0,0) -- (-4,6) -- (4,6);
+        \filldraw[very thick,white,fill=MyTriangle] (0,0) -- (-2,3) -- (2,3);
+        \node [text width=2cm, align=center] at (0,2) {\bfseries\sffamily\scshape\LARGE Volledig \\ artikel};
+        \node at (0,4.5) {\bfseries\sffamily\scshape\LARGE Introductie};
+        \node at (0,7.5) {\bfseries\sffamily\scshape\LARGE Samenvatting};
+        \node at (0,10.5) {\bfseries\sffamily\scshape\LARGE Titel};
+        \node[text width=8cm] at (7,1.5) {\Large diepere betrokkenheid bij je werk};
+        \node[text width=8cm] at (9,4.5) {\Large geïnteresseerde lezers};
+        \node[text width=8cm] at (11,7.5) {\Large middelgrote groep lezers };
+        \node[text width=8cm] at (13,10.5) {\Large meeste lezers};
+    \end{scope}
+\end{tikzpicture}
+```
+:::
 
 ### Tips voor een wetenschappelijke schrijfstijl
 
@@ -50,7 +82,7 @@ Klaarmaken ter publicatie: <https://plos.org/resource/how-to-edit-your-work/>
 7.  Zorg voor verband tussen alinea’s.
 8.  Zorg door middel van stuctuuraanduiders voor samenhang binnen alinea’s en zinnen.
 9.  Zet in de alinea de belangrijkste informatie aan het begin.
-10. Vermijd jip-en-janneketaal, maar maak je zinnen zeker ook niet onnodig lang. Wissel korte en lange zinnen af.
+10. Vermijd *jip-en-janneketaal*, maar maak je zinnen zeker ook niet onnodig lang. Wissel korte en lange zinnen af.
 11. Gebruik opsommingen om de leesbaarheid en de structuur van de tekst te vergroten.
 12. Hanteer zo veel mogelijk de actieve vorm.
 13. Wees schaars met de hulpwerkwoorden worden, zullen, kunnen, mogen en moeten.
