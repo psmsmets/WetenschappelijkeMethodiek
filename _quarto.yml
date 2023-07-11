@@ -51,7 +51,7 @@ format:
         light: cosmo
         dark: [cosmo, _assets/theme-dark.scss]
     smooth-scroll: true
-    link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
     link-external-filter: '^(?:http:|https:)\/\/w-m\.pietersmets\.be'
   pdf:
@@ -59,7 +59,7 @@ format:
 #    filters:
 #      - first-line-indent
 
-code-tools: true
+code-tools: false
 
 comment-directive: 
     - "#>"
@@ -75,7 +75,7 @@ embed-resources: true
 
 filters:
   - hide-comment
-  - nutshell
+#  - nutshell  ## Fix! Geeft icoon in elke header!
   - quarto-tikz
 
 latex-auto-install: true
