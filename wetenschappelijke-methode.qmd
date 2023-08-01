@@ -1,6 +1,8 @@
 # De wetenschappelijke methode 
 
+<https://nl.wikipedia.org/wiki/Wetenschappelijke_methode#Demarcatiecriterium>
 <https://scicomm.plos.org/2020/08/04/a-guide-to-using-the-scientific-method-in-everyday-life/>
+<https://evolution.berkeley.edu/nature-of-science/science-is-a-process/>
 
 De wetenschappelijke methode is een systematische benadering die wordt gebruikt in de wetenschap om kennis te vergaren, hypothesen te testen en de natuurlijke wereld te begrijpen. 
 Het omvat een reeks kernprincipes die wetenschappers volgen om betrouwbare en objectieve resultaten te verkrijgen.
@@ -14,19 +16,20 @@ Waarom is het dan belangrijk dat iedereen begrijpt hoe wetenschap wordt bedreven
 > Omdat de wetenschappelijke methode in de eerste plaats een kwestie van logisch redeneren is 
 > en pas daarna een procedure die in een laboratorium moet worden toegepast.
 
-Zonder training in logisch redeneren zijn gemakkelijker het slachtoffer van vertekende perspectieven over zichzelf en de wereld. Een voorbeeld hiervan zijn de zogenaamde "cognitieve vertekeningen" - systematische fouten die mensen maken wanneer ze rationeel proberen te denken en die leiden tot verkeerde of onnauwkeurige conclusies. Mensen overschatten gemakkelijk de relevantie van hun eigen gedrag en keuzes. Ze kunnen het vermogen missen om de kwaliteit van hun prestaties en gedachten zelf in te schatten. Onbewust kunnen ze zelfs uiteindelijk alleen die argumenten selecteren die hun hypothese of overtuiging ondersteunen. Daarom moet het wetenschappelijke kader niet alleen worden opgevat als een mechanisme om de natuurlijke wereld te begrijpen, maar ook als een kader om logisch te redeneren en te discussiëren.
+Zonder training in logisch redeneren zijn gemakkelijker het slachtoffer van vertekende perspectieven over zichzelf en de wereld. Een voorbeeld hiervan zijn de zogenaamde "*cognitieve vertekeningen*" - systematische fouten die mensen maken wanneer ze rationeel proberen te denken en die leiden tot verkeerde of onnauwkeurige conclusies. Mensen *overschatten gemakkelijk de relevantie* van hun eigen gedrag en keuzes. Ze kunnen *het vermogen missen om de kwaliteit van hun prestaties en gedachten zelf in te schatten*. Onbewust kunnen ze zelfs uiteindelijk alleen die argumenten selecteren die hun hypothese of overtuiging ondersteunen. Daarom moet het wetenschappelijke kader niet alleen worden opgevat als een mechanisme om de natuurlijke wereld te begrijpen, maar ook als een kader om logisch te redeneren en te discussiëren.
+
+> Er bestaat niet zoiets als "DE wetenschappelijke methode".
 
 ::: {.callout-note}
-Er bestaat geen universele overeenstemming over wat dé wetenschappelijke methode inhoudt. Toch zijn er bepaalde kernprincipes die vandaag de dag de basis vormen van wetenschappelijk onderzoek.
+Er bestaat geen universele overeenstemming over wat dé wetenschappelijke methode inhoudt. 
+Toch zijn er bepaalde kernprincipes die vandaag de dag de basis vormen van wetenschappelijk onderzoek.
 :::
 
 ## De 7 kernprincipes
 
+::: {#fig-methode-elementen fig-cap="De 7 elementen van de wetenschappelijke methode." fig-align="center"}
 ```{dot}
-#| label: fig-methode-stappen
-#| fig-cap: "De 7 stappen van de wetenschappelijke methode"
-
-digraph "De 7 stappen van de wetenschappelijke methode" {
+digraph "De 7 elementen van de wetenschappelijke methode" {
   layout = twopi;
   fontname = "Source Sans Pro";
   fontsize = 16;
@@ -58,8 +61,9 @@ digraph "De 7 stappen van de wetenschappelijke methode" {
   1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 1;
 }
 ```
+:::
 
- Over het algemeen bestaat de wetenschappelijke methode uit de volgende stappen:
+ Over het algemeen bestaat de wetenschappelijke methode uit de volgende elementen:
 
 1. **Observatie:** Waarnemen van een fenomeen of verschijnsel en het stellen van een vraag over hoe of waarom dit gebeurt.
 1. **Hypothese:** Formuleren van een verklaring of een voorlopige antwoord op de vraag die gebaseerd is op bestaande kennis en logisch redeneren.
@@ -72,7 +76,7 @@ digraph "De 7 stappen van de wetenschappelijke methode" {
 De wetenschappelijke methode is een iteratief proces, waarbij nieuwe observaties en experimenten kunnen leiden tot herziening van hypothesen en nieuwe vragen, waardoor de wetenschappelijke kennis voortdurend groeit en evolueert. 
 
 
-## Geschiedenis
+## Een beknopte geschiedenis
 
 > Waarheid wordt gezocht omwille van zichzelf. En zij die omwille van zichzelf op zoek zijn naar iets, 
 > zijn niet geïnteresseerd in andere dingen. De waarheid vinden is moeilijk en de weg ernaartoe is ruw. 
@@ -180,3 +184,16 @@ Engels: `self-fulfilling prophecy`
 ### Onwetendheid
 
 <https://mitpress.mit.edu/9780262538213/science-and-the-production-of-ignorance/>
+
+## Toegepast op het dagelijks leven
+
+Dit is hoe je een dagelijks gesprek op een nauwkeurige, wetenschappelijke manier kunt benaderen:
+
+  * **Bespreek eerst de referentiewoordenschat en pas daarna de inhoud van de discussie.** Denk aan een onderzoeker die een experimenteel protocol opstelt dat gebruikt zal worden door duizenden andere wetenschappers in verschillende continenten. Als het protocol nauwkeurig is geschreven, zouden alle wetenschappers die het gebruiken vergelijkbare experimentele resultaten moeten krijgen. In de wetenschap betekent dit reproduceerbare kennis, in het dagelijks leven betekent dit vruchtbare gesprekken waarin individuen op één lijn zitten.
+
+  * **Gebruik "gecontroleerde" argumenten om je beweringen te ondersteunen.** Wanneer je vergelijkingen maakt tussen groepen, visualiseer dan twee lege scenario's. Als je details aan beide begint toe te voegen, heb je twee opties. Als het je bedoeling is om een specifiek detail te verbergen, dan is het beter om de twee scenario's op een compleet andere manier te ontwerpen-het is om de variabelen te vergroten. Maar als het je bedoeling is om de waarnemer te helpen een specifiek detail te isoleren, dan is het beter om identieke scenario's te ontwerpen, met uitzondering van het bedoelde detail. Dit is precies hoe wetenschappers adequate experimenten bedenken om nieuwe kennis te isoleren, en hoe individuen hun gedachten zouden moeten orkestreren om ze te testen en hun begrip voor anderen te vergemakkelijken.
+
+De wetenschappelijke methode zou individuen niet alleen een elitaire manier moeten bieden om de werkelijkheid te onderzoeken, maar ook een toegankelijk hulpmiddel om er op de juiste manier over te redeneren en te discussiëren.
+
+## Kort samengevat
+Ofwel: in een notendop --> op het einde van elk hoofdstuk!

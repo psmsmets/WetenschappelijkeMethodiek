@@ -1,4 +1,4 @@
-# Python voor data-analyse
+# Python voor data-analyse {#sec-tool-python}
 
 Python, R of Julia. Elk heeft zijn eigen voordeel.
 Volledig gratis, met een grote gebruikersgemeenschap (= documentatie).
@@ -12,3 +12,10 @@ Integratie met **Informaticawetenschappen** (leerplan!).
 
 
 Python tutorial gebaseerd op <https://wesmckinney.com/book/preface.html>
+
+
+Hands-On Programming with R <https://rstudio-education.github.io/hopr/>
+
+
+Jula language: a concise tutorial <https://syl1.gitbook.io/julia-language-a-concise-tutorial/>.
+Julia tutorials <https://julialang.org/learning/tutorials/>.

@@ -1,3 +1,10 @@
-# Hulpmiddelen
+# Deel 2 - Hulpmiddelen
 
-...
+Verschillende *tools* om je ondersteunen bij je onderzoek. 
+De voorkeur gaat naar *open source software (OSS)*.
+
+:::{.callout-tip title="Open source software"}
+Open source software (OSS) is computersoftware die wordt vrijgegeven onder een licentie waarin de houder van het auteursrecht gebruikers het recht geeft om de software en de broncode ervan te gebruiken, te bestuderen, te wijzigen en te verspreiden aan iedereen en voor elk doel.
+:::
+
+Daar tegenover staat *closed source software*. Gratis software bestaat in essentie niet. 

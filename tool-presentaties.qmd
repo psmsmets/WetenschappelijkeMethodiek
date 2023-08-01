@@ -1,4 +1,4 @@
-# Slides voor presentaties
+# Slides voor presentaties {#sec-tool-slides}
 
 Verschillende opties voor visuele ondersteuning
 

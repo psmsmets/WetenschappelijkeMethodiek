@@ -1,4 +1,4 @@
-# LaTeX voor publicaties
+# LaTeX voor publicaties {#sec-tool-latex}
 
 Online editor: <https://www.overleaf.com>
 

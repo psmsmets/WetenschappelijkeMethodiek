@@ -1,19 +1,5 @@
-# Bronnen {#sec-bronnen} 
+# Kritisch denken
 
 Helaas worden elke dag gebombardeerd met meer informatie dan onze hersenen kunnen verwerken. Daarbij regent het slechte gegevens, halve waarheden en zelfs regelrechte leugens. Bovendien wordt het steeds moeilijker om het kaf van het digitale koren te scheiden.
 
 Hoe herkennen we verkeerde informatie, pseudo-feiten en verdraaiingen van betrouwbare informatie? Door het controleren van de geloofwaardigheid en redeneren, waarbij de wetenschappelijke methode en kritisch denken centraal staan. Daniel J. Levitin (New York Times) schreef er de bestseller “Een veldgids voor leugens” over.
-
-## Over bronnen
-
-## Een zoekstrategie
-
-### Stap 1 - basiskennis
-
-### Stap 2 - verzamelen
-
-### Stap 3 - selecteren en ordenen
-
-@sec-tool-zotero
-
-## Bronvermelding

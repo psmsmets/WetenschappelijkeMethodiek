@@ -1,0 +1,3 @@
+# Statistiek
+
+Bayesiaanse statistiek

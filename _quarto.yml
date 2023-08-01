@@ -17,12 +17,15 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - wetenschappelijke-methode.qmd
-    - open-wetenschap.qmd
-    - bronnen.qmd
-    - onderzoeksvraag.qmd
-    - onderzoek.qmd
-    - rapporteren.qmd
+    - part: metawetenschap.qmd
+      chapters:
+        - wetenschappelijke-methode.qmd
+        - bronnen.qmd
+        - onderzoek.qmd
+        - statistiek.qmd
+        - rapporteren.qmd
+        - open-wetenschap.qmd
+        - kritisch-denken.qmd
     - part: tools.qmd
       chapters:
         - tool-literatuuronderzoek.qmd
@@ -56,6 +59,7 @@ format:
     link-external-filter: '^(?:http:|https:)\/\/w-m\.pietersmets\.be'
   pdf:
     documentclass: scrreprt
+    cite-method: natbib
 #    filters:
 #      - first-line-indent
 
@@ -68,14 +72,14 @@ comment-directive:
     - "%%>"
 
 execute: 
-  echo: false
-  eval: false
+  echo: false 
+  eval: true
 
 embed-resources: true
 
 filters:
   - hide-comment
-#  - nutshell  ## Fix! Geeft icoon in elke header!
   - quarto-tikz
+#  - nutshell  ## Fix! Geeft icoon in elke header!
 
 latex-auto-install: true

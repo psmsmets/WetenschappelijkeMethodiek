@@ -1,11 +1,18 @@
-# Mendeley voor referentiebeheer
+# Zotero voor referentiebeheer {#sec-tool-zotero}
 
-...
+Een veelgebruikte zowel on- en offline referentiebeheerder is <https://www.zotero.org> (open source) met <https://zbib.org>. 
+Offline heb je onbeperkte ruimte om documenten toe te voegen. 
+Wil je al je gevonden resultaten in de cloud dan ben je beperkte tot 300MB (of je betaalt voor meer ruimte). 
 
-Online referentie manager: <https://www.mendeley.com>
 
-Eventueel kan ook <https://www.scribbr.com>
 
+Een vaak gebruikt alternatief in de academische wereld is <https://www.mendeley.com> (Elsevier). 
+
+Je kan ook gebruik maken van de commerciële tool <https://www.scribbr.nl> (Learneo).
+
+
+
+<https://libguides.wustl.edu/choose>
 
 ## APA-stijl (7de editie) voor opmaak van de literatuurlijst
 

@@ -1,15 +1,106 @@
-# Onderzoeksmethoden
+# Onderzoek
 
+<https://en.wikipedia.org/wiki/Research>
+
+## Onderzoeksvraag
+
+Elk onderzoek start met een onderzoeksvraag.
+
+
+## Methoden
 
 Verschillende methoden
 
 
-## Literatuurstudie
+  * Literatuurstudie
 
-## Observatie
+  * Observatie
 
-## Interview
+  * Interview
 
-## Enquête
+  * Enquête
 
-## Experiment
+  * Experiment
+
+  * Simulatie
+
+  * ...
+
+
+Verkennend onderzoek, dat helpt bij het identificeren en definiëren van een probleem of vraag. Constructief onderzoek, waarbij theorieën worden getest en oplossingen voor een probleem of vraag worden voorgesteld. Empirisch onderzoek, waarbij de haalbaarheid van een oplossing wordt getest met behulp van empirisch bewijs.
+
+> If you know how it's going to turn out, it's not science, it's engineering.
+>
+> *~ Albert Einstein*
+
+### Kwalitatief onderzoek
+
+### Kwantitatief onderzoek
+
+
+## Stappen bij het uitvoeren van onderzoek
+
+Onderzoek wordt vaak uitgevoerd met behulp van de zandlopermodelstructuur van onderzoek. 
+Het zandlopermodel begint met een breed spectrum voor onderzoek, richt zich op de benodigde informatie via de methode van het project (zoals de hals van de zandloper) en breidt het onderzoek vervolgens uit in de vorm van discussie en resultaten.
+
+Nauw verwant aan het model van de wetenschappelijke-methode (@fig-methode-elementen). 
+
+De belangrijkste stappen in het uitvoeren van onderzoek zijn:
+
+  * Identificatie van het onderzoeksprobleem
+  * Literatuuronderzoek
+  * Specificeren van het doel van het onderzoek
+  * Bepalen van specifieke onderzoeksvragen
+  * Specificatie van een conceptueel kader, soms inclusief een reeks hypothesen[31]
+  * Keuze van een methodologie (voor gegevensverzameling)
+  * Verzamelen van gegevens
+  * Verifiëren van gegevens
+  * Analyseren en interpreteren van de gegevens
+  * Rapporteren en evalueren van onderzoek
+  * Communiceren van de onderzoeksresultaten en eventueel aanbevelingen
+
+
+```{dot}
+#| label: fig-onderzoek-cyclus
+#| fig-cap: "De cyclus van wetenschappelijk onderzoek"
+
+digraph "De cyclus van wetenschappelijk onderzoek" {
+  layout = twopi;
+  fontname = "Source Sans Pro";
+  fontsize = 16;
+  normalize = true;
+
+  graph [ranksep=3]
+  node [fontname = "Source Sans Pro", colorscheme=blues8, color = transparent, style = filled, shape = circle, width=1.8, height=1.8];
+
+  // Title node
+  title [label = "Onderzoekscyclus", shape = none, fontname = "Source Sans Pro", fontsize = 20];
+
+  // Connect title node to other nodes
+  title -> 2 [style = invis];
+  title -> 1 [style = invis];
+  title -> 8 [style = invis];
+  title -> 7 [style = invis];
+  title -> 6 [style = invis];
+  title -> 5 [style = invis];
+  title -> 4 [style = invis];
+  title -> 3 [style = invis];
+
+  1 [label = "Lezen", fillcolor = 1];
+  2 [label = "Idee", color = 2];
+  3 [label = "Ontwerpen", color = 3];
+  4 [label = "Financieren", color = 4];
+  5 [label = "Plannen", color = 5, fontcolor = white];
+  6 [label = "Registreren", fillcolor = 6, fontcolor = white];
+  7 [label = "Verwerken", fillcolor = 7, fontcolor = white];
+  8 [label = "Publiceren", fillcolor = 8, fontcolor = white];
+
+  1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 1;
+}
+```
+
+De stappen geven het algemene proces weer; ze moeten echter worden gezien als een voortdurend veranderend en iteratief proces in plaats van een vaste reeks stappen.
+
+[@Ritchie2020]
+
+[@Levitin2019]
