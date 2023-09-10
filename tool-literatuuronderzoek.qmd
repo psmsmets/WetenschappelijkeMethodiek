@@ -1,17 +1,133 @@
 # Zoekmachines voor literuuronderzoek {#sec-tool-zoekmachines} 
 
-Hoe zoeken?
 
+## Zoekmachines
+
+Effectief zoeken op internet vereist enkele belangrijke vaardigheden en strategieën. 
+Hier is een stapsgewijze uitleg over hoe je dit kunt doen:
+
+1.  **Bepaal je zoekopdracht:** Begin met het duidelijk formuleren van wat je precies zoekt. Bedenk welke trefwoorden of zoektermen relevant zijn voor je vraag of onderwerp.
+1.  **Gebruik relevante zoekwoorden:** Kies zoekwoorden die nauw verband houden met je onderwerp. Denk aan synoniemen en alternatieve termen die anderen mogelijk gebruiken.
+1.  **Gebruik aanhalingstekens:** Als je een exacte zin of woordgroep wilt vinden, plaats je deze tussen aanhalingstekens. Bijvoorbeeld, "klimaatveranderingseffecten".
+1.  **Gebruik operatoren:** Maak gebruik van logische operatoren om je zoekopdracht te verfijnen. Enkele nuttige operators zijn:
+
+    i)  **AND:** Geeft resultaten weer die alle opgegeven zoekwoorden bevatten. 
+        Bijvoorbeeld, "duurzame energie AND zonne-energie".
+
+    i)  **OR:** Geeft resultaten weer die een van de opgegeven zoekwoorden bevatten. 
+        Bijvoorbeeld, "fietsen OR wandelen".
+
+    i)  **NOT:** Uitsluitingsoperator. Geeft resultaten weer die het eerste zoekwoord bevatten maar niet het tweede. Bijvoorbeeld, "honden NOT katten".
+
+1.   **Filter de zoekresultaten:** Gebruik de filters en hulpmiddelen die de zoekmachine biedt om de resultaten te verfijnen op basis van type (bijv. afbeeldingen, video's, nieuws), datum, locatie, enzovoort.
+1.  **Controleer de bron:** Bekijk de bronnen zorgvuldig voordat je ze als betrouwbaar beschouwt. Controleer de auteur, publicatiedatum, bronorganisatie en eventuele vermelding van bronnen.
+Doe meerdere zoekopdrachten: Soms moet je meerdere zoekopdrachten uitvoeren om verschillende perspectieven en bronnen te vinden. Experimenteer met verschillende zoektermen en filters.
+1.  **Lees kritisch:** Als je informatie hebt gevonden, lees deze kritisch en vergelijk deze met andere bronnen om de nauwkeurigheid te verifiëren.
+1.  **Houd notities bij:** Maak aantekeningen van relevante informatie en de bronnen die je hebt geraadpleegd. Dit is handig als je later verwijzingen moet geven of meer wilt weten over het onderwerp.
+1.  **Wees geduldig:** Effectief zoeken kan soms tijd kosten. Neem de tijd om grondig en zorgvuldig te zoeken om de meest waardevolle informatie te vinden.
+Door deze stappen te volgen, kun je je zoekvaardigheden op internet verbeteren en betrouwbare, relevante informatie vinden voor je doeleinden.
+
+::: {.hidden}
+Bronnen:
+<https://duckduckgo.com/duckduckgo-help-pages/results/syntax/>
+<https://support.google.com/websearch/answer/2466433?hl=en>
+<https://zapier.com/blog/advanced-google-search-tricks/#translate-words>
+:::
+
+
+### Zoeksyntax
+
+Zoekmachines zoals [Bing](https://bing.com), [DuckDuckGo](https://duckduckgo.com) en [Google](https://google.be) hebben geavanceerde zoeksyntax die je kunt gebruiken om je zoekopdrachten te verfijnen.
+
+| Voorbeeld | Resultaat |
+|-----------|-----------|
+|`katten honden` | Resultaten over katten of honden |
+| `"katten en honden"` | Resultaten voor exacte term `"katten en honden"`. |
+| `~"katten en honden"` | Experimentele syntax: meer resultaten die semantisch lijken op `"katten en honden"`, zoals `"katten & honden"` en `"honden en katten"` naast `"katten en honden"`. |
+| `katten -honden` | Minder honden in resultaten |
+| `katten +honden` | Meer honden in resultaten |
+| `katten bestandstype:pdf` | PDF's over katten. Ondersteunde bestandstypen: pdf, doc(x), xls(x), ppt(x), html |
+| `honden site:example.com` | Pagina's over honden van example.com |
+| `katten -site:example.com` | Pagina's over katten, uitgezonderd example.com |
+| `intitle:honden` | Pagina titel bevat het woord `"honden"`. |
+| `inurl:katten` | Pagina-URL bevat het woord `"katten"`. |
+: Syntax voor geavanceerd zoeken. {#tbl-zoeksyntax tbl-colwidths="[40,60]" .hover}
+
+Als er een geavanceerde syntaxis is gebruikt in een query en er geen resultaten zijn gevonden, worden er gerelateerde resultaten getoond.
+
+### Berekeningen uitvoeren
+
+Zoek het niet te ver. 
+Je kan de zoekmachines ook inschakelen om snelle berekeningen uit te voeren.
+
+Voer een vergelijking in de zoekbalk, bv. [`288/4`](https://www.google.com/search?hl=nl&q=288%2F4), en de zoekmachine toont het antwoord bij de zoeksuggesties.
+Google heeft zelfs geavanceerde rekenmachines die grafieken kunnen maken van functies, bv. [`2x+cos(3x)+sin(x)*cos(7x)+sin(x)`](https://www.google.com/search?hl=nl&q=2x%2Bcos%283x%29%2Bsin%28x%29*cos%287x%29%2Bsin%28x%29), 
+of meetkundige problemen kunnen oplossen zoals de oppervlakte van een cirkel berekenen: [`area of circle with radius of 4`](https://www.google.com/search?hl=nl&q=area+of+circle+with+radius+of+4).
+De probleemstelling moet wel in het Engels opgegeven worden.
+
+### Eenheden omzetten
+
+Als je vergeten bent hoe je nu juist weer snelheid omzetten kan dit niet enkel opzoeken, maar ineens laten uitrekenen door de zoekmachine.
+Zoek naar de conversie met deze formule: `[waarde van eerste eenheid] to [tweede eenheid]`.
+
+Je kan bij Google ook de eenhedenconverter oproepen door te zoeken naar [`unit converter`](https://www.google.com/search?hl=nl&q=unit+converter).
+Vervolgens kun je met behulp van het keuzemenu volgende omzettingen maken: 
+
+### Valuta omrekenen
+
+Je kan de zoekmachine ook valuta laten omrekenen door op bovenstaande manier te zoeken, bv. [`100 EUR to USD`](https://www.google.com/search?hl=nl&q=100%20EUR%20to%20USD) (100 Euro naar Amerikaanse Dollar).
+Je kan zelf omzetten naar cryptovaluta zoals Bitcoin, Bitcoin Cash, Ethereum en Litecoin. 
+Roep bij Google de valuta omvormer op door te zoeken naar [`currency converter`](https://www.google.com/search?hl=nl&q=currency+converter).
+
+### De tijd voor waar ook ter wereld
+
+Als je de huidige tijd voor een andere stad wilt weten, zoek dan in Google naar `time in [stad]`. 
+En als je het tijdsverschil wilt weten tussen waar je woont en ergens anders, zoek dan naar de `time from [stad] to [stad]`. 
+Je bent wel beperkt tot de grotere steden. 
+
+### Zonsopgang
+
+Krijg de tijd waarop de zon in jouw omgeving opkomt of ondergaat door `sunrise` of `sunset` in te voeren in de zoekbalk. 
+Je kan ook een plaatsnaam aan je zoekopdracht toevoegen om de zonsopgangs- en zonsondergangstijden voor een andere stad te krijgen.
+
+
+### Een timer of stopwatch
+
+Moet je een timer instellen om een ei zacht te koken? 
+Zoek dan naar [`timer for 4 minutes 30 seconds`](https://www.google.com/search?hl=nl&q=timer+for+4+minutes+30+seconds).
+Je kan ook [`stopwatch`](https://www.google.com/search?hl=nl&q=stopwatch) invoeren om een chronometer te laten lopen.
+
+
+### Je IP adres
+
+Zoek naar [`what's my IP address`](https://www.google.com/search?hl=nl&q=what%27s%20my%20IP%20address) om je publiek *Internet Procotol* of kortweg IP-adres weer te geven.
+
+
+## Wetenschappelijke zoekmachines en databanken
+
+::: {.hidden}
 https://paperpile.com/g/academic-search-engines/
+:::
 
-* Google scholar: <https://scholar.google.com/>
+Naast de drie al-dan-niet gekende zoekmachines hierboven bestaan er ook meer gespecialiseerde zoekmachines en databanken voor wetenschappelijke literatuur. 
+Hieronder vind je een selectie van relevante multidisciplinaire wetenschappelijke databanken en zoekmachines die vrij toegankelijk zijn.
 
-* BASE: <https://www.base-search.net/>
+| Service | Omschrijving |
+|---------|--------------|
+| [arXiv](https://arxiv.org) | Een gratis distributieservice en een open-access archief voor wetenschappelijke artikelen op het gebied van natuurkunde, wiskunde, computerwetenschappen, kwantitatieve biologie, kwantitatieve financiën, statistiek, elektrotechniek en systeemwetenschappen, en economie. |
+| [BASE](https://www.base-search.net) | Een van 's werelds meest volumineuze zoekmachines, speciaal voor academische webbronnen. |
+| [Cadmus](https://cadmus.eui.eu) | Een databank met de onderzoekspublicaties van the European University Institute. |
+| [CiteSeerX](https://citeseerx.ist.psu.edu) | CiteSeerX is een openbare zoekmachine en digitale bibliotheek voor wetenschappelijke en academische papers, voornamelijk op het gebied van computer- en informatiewetenschappen. |
+| [CORE](https://core.ac.uk) | Core is een databank met 's werelds grootste verzameling van open access onderzoekspapers, door het verzamelen en indexeren van onderzoek uit repositories en tijdschriften. |
+| [DOAJ](http://www.doaj.org/) | Directory of Open Access Journals (DOAJ) is een bestand van de Universiteit van Lund (Zweden) en biedt toegang tot wetenschappelijke full text Open Access tijdschriften in diverse vakgebieden. Alle tijdschriften die in DOAJ zijn opgenomen, voldoen aan een aantal selectiecriteria in verband met de wetenschappelijke kwaliteit van hun inhoud. |
+| [Google books](https://books.google.be) | Zoek in 's werelds meest uitgebreide index van full-text boeken. |
+| [Google scholar](https://scholar.google.be/) | Google scholar is een zoekmachine die onderzoekers helpt bij het zoeken naar wetenschappelijke informatie. Vult Scirus aan. |
+| [OpenAIRE Nederland](https://netherlands.openaire.eu)[^1] | Al het Nederlandse onderzoek op één plek. Vervangt _Narcis_, de voormalige databank met de wetenschappelijke publicaties en onderzoeksresultaten van alle Nederlandse universiteiten. |
+| [PASCAL](https://www.inist.fr/?PASCAL-73&lang=en) | PASCAL is een wetenschappelijke bibliografische database die wordt onderhouden door INIST (CNRS). PASCAL omvat de belangrijkste wetenschappelijke literatuur op het gebied van wetenschap, technologie en geneeskunde met een speciale nadruk op Europese literatuur. |
+| [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) | PubMed Central (PMC) is een gratis digitaal archief dat full-text wetenschappelijke artikelen archiveert die zijn gepubliceerd in biomedische en biowetenschappelijke tijdschriften. |
+| [RefSeek](https://www.refseek.com) | RefSeek is een webzoekmachine voor studenten en onderzoekers met als doel academische informatie gemakkelijk toegankelijk te maken voor iedereen zonder de informatie-overload van een algemene zoekmachine. RefSeek vergroot de zichtbaarheid van academische informatie en interessante ideeën die vaak verloren gaan in een wirwar van gesponsorde links en commerciële resultaten. |
+| [Science.gov](http://science.gov) | Science.gov biedt gebruikers toegang tot federale wetenschappelijke informatie, inclusief onderzoeks- en ontwikkelingsresultaten. |
+| [Semantic Scholar](https://www.semanticscholar.org) | Semantic Scholar is een gratis, AI-ondersteunde onderzoekstool voor wetenschappelijke literatuur |
+: Zoekmachines en databanken voor wetenschap. {#tbl-zoekmachines tbl-colwidths="[25,75]" .striped .hover}
 
-* CORE: <https://core.ac.uk/>
-
-* Science.gov: <http://science.gov/>
-
-* Semantic Scholar: <https://www.semanticscholar.org/>
-
-* RefSeek: <https://www.refseek.com/>
+[^1]: OpenAIRE wordt uitgebreid naar bijna alle landen van de Europese Unie: <https://openaire.eu>.

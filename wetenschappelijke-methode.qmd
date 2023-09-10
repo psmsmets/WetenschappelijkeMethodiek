@@ -1,8 +1,10 @@
-# De wetenschappelijke methode 
+# De wetenschappelijke methode {#sec-wetenschappelijke-methode}
 
+<!--
 <https://nl.wikipedia.org/wiki/Wetenschappelijke_methode#Demarcatiecriterium>
 <https://scicomm.plos.org/2020/08/04/a-guide-to-using-the-scientific-method-in-everyday-life/>
 <https://evolution.berkeley.edu/nature-of-science/science-is-a-process/>
+-->
 
 De wetenschappelijke methode is een systematische benadering die wordt gebruikt in de wetenschap om kennis te vergaren, hypothesen te testen en de natuurlijke wereld te begrijpen. 
 Het omvat een reeks kernprincipes die wetenschappers volgen om betrouwbare en objectieve resultaten te verkrijgen.
@@ -73,19 +75,26 @@ digraph "De 7 elementen van de wetenschappelijke methode" {
 1. **Conclusie:** Op basis van de resultaten van het experiment, beoordelen of de hypothesen worden ondersteund of weerlegd. Het kan nodig zijn om het experiment te herhalen of verder onderzoek uit te voeren om tot een definitieve conclusie te komen.
 1. **Communicatie:** Het rapporteren van de resultaten, inclusief de methode, bevindingen en conclusies, aan de wetenschappelijke gemeenschap via publicaties, presentaties en discussies.
 
-De wetenschappelijke methode is een iteratief proces, waarbij nieuwe observaties en experimenten kunnen leiden tot herziening van hypothesen en nieuwe vragen, waardoor de wetenschappelijke kennis voortdurend groeit en evolueert. 
-
+De wetenschappelijke methode is een iteratief proces, waarbij nieuwe observaties en experimenten kunnen leiden tot herziening van hypothesen en nieuwe vragen, waardoor de wetenschappelijke kennis voortdurend groeit en evolueert.
 
 ## Een beknopte geschiedenis
 
+::: {.hidden}
 > Waarheid wordt gezocht omwille van zichzelf. En zij die omwille van zichzelf op zoek zijn naar iets, 
 > zijn niet geïnteresseerd in andere dingen. De waarheid vinden is moeilijk en de weg ernaartoe is ruw. 
-> -- [Ibn al-Haytham (Alhazen)](https://nl.wikipedia.org/wiki/Alhazen) 
+> -- [Ibn al-Haytham (Alhazen)](https://nl.wikipedia.org/wiki/Alhazen)
+:::
 
+Drie wetenschappers hadden een grote invloed op de wetenschappelijke methode:
+
+* Francis Bacon (1561-1626), Engels filoof,
+* Rene Descartes (1596-1650), Frans wiskundige/geograaf/filosoof,
+* Isaac Newton (1643-1727), Engels astronoom en natuurkundige. 
+
+::: {.hidden}
 <https://en.wikipedia.org/wiki/Timeline_of_the_history_of_the_scientific_method>
-
 <https://en.wikipedia.org/wiki/History_of_scientific_method>
-
+:::
 
 ```{dot}
 #| label: fig-methode-tijdlijn
@@ -159,12 +168,6 @@ sep=0.4ex,text height=1ex,text depth=0.4ex,rounded corners},bullet/.style={circl
 \end{tikzpicture}
 ```
 :::
-
-Drie wetenschappers hadden een grote invloed op de wetenschappelijke methode:
-
-* Francis Bacon (1561-1626), Engels filoof,
-* Rene Descartes (1596-1650), Frans wiskundige/geograaf/filosoof,
-* Isaac Newton (1643-1727), Engels astronoom en natuurkundige.
 
 ## Actuele kwesties
 

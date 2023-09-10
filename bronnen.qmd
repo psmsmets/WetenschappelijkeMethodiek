@@ -1,19 +1,181 @@
-# Bronnen {#sec-bronnen} 
+# Bronnen {#sec-bronnen}
 
-Helaas worden elke dag gebombardeerd met meer informatie dan onze hersenen kunnen verwerken. Daarbij regent het slechte gegevens, halve waarheden en zelfs regelrechte leugens. Bovendien wordt het steeds moeilijker om het kaf van het digitale koren te scheiden.
+Snel even iets opzoeken, is nog nooit zo gemakkelijk geweest. 
+Gewoon even *googelen* en je hebt wat je zoekt. Althans, dat zou je denken. 
+Helaas worden elke dag gebombardeerd met meer informatie dan onze hersenen kunnen verwerken. 
+Daarbij regent het slechte gegevens, halve waarheden en zelfs regelrechte leugens. 
+Bovendien wordt het steeds moeilijker om het kaf van het digitale koren te scheiden.
 
-Hoe herkennen we verkeerde informatie, pseudo-feiten en verdraaiingen van betrouwbare informatie? Door het controleren van de geloofwaardigheid en redeneren, waarbij de wetenschappelijke methode en kritisch denken centraal staan. Daniel J. Levitin (New York Times) schreef er de bestseller “Een veldgids voor leugens” over.
+> Information is not knowledge. The only source of knowledge is experience.
+> -- [John Locke](https://nl.wikipedia.org/wiki/John_Locke_(filosoof))
 
-## Over bronnen
+Als je echt een onderzoek moet voeren, is het internet alleen echter vaak ontoereikend omdat het gewoon te veel omvat. Daarom is het essentieel dat je weet dat er ook andere bronnen bestaan dan die op het World Wide Web en dat je beseft dat die andere bronnen je een heel eind op weg kunnen helpen, al was het maar omdat ze je zoektocht in de oneindigheid van het internet kunnen vergemakkelijken. Daarom een kort overzicht van verschillende soorten bronnen die je kan hanteren bij je onderzoeksopdracht. 
+
+## Soorten bronnen
+
+Uit de lessen geschiedenis weet je dat er een onderscheid bestaat tussen primaire en secundaire bronnen. Met **primaire bronnen** worden bronnen uit eerste hand bedoeld. Informatie wordt rechtstreeks overgeleverd zonder tussenpersonen, door getuigen dus.
+Naast de primaire bronnen zijn er ook **secundaire bronnen**, die ons via één of een aantal tussenstappen bereiken. De informatie komt niet uit eerste hand, maar werd gebundeld en verwerkt door iemand die geen getuige was van wat hij of zij verhaalt. 
+Het hoeft niet altijd op papier te staan.
+
+Met bronnen wordt veel meer bedoeld dan wat je op het internet of in een boek vindt. Ook een interview, een prent of landkaart of zelfs een staal van de ene of de andere substantie kan een bron van informatie zijn. Wat op papier staat, noemen we logischerwijs geschreven bronnen, maar daarnaast bestaan er ook gesproken, iconografische en materiële bronnen. 
+
+::: {}
+*   Geschreven bronnen
+    : Brengen de boodschap in de vorm van een tekst
+
+    +   Voorbeelden:
+        kalender, agenda, dagboek, brief, mail, (auto)biografie, encyclopedie, reisgids, verhaal, lied, gedicht, boekhouding, inventaris, boedelbeschrijving, krant, tijdschrift, website, wet, recept, gebruiksaanwijzing, verslag van een onderzoek, ...
+:::
+
+::: {}
+*   Gesproken bronnen
+    : Brengen de boodschap mondeling
+
+    +   Voorbeelden:
+        verhalen, interview van getuigen, versjes, liedjes die nooit opgetekend werden, de taal (woorden - etymologie), mondelinge overlevering, tradities, stoeten, processies, ... 
+:::
+
+::: {}
+*   Iconografische bronnen
+    : Geven informatie op basis van een beeld (al dan niet met een toelichting)
+
+    +   Voorbeelden:
+        tekening, schilderij, spotprent, foto, grafiek, tabel, film, reportage, schema, ...
+:::
+
+::: {}
+*   Materiële bronnen
+    : Geven informatie, maar zonder een echte boodschap
+
+    +   Voorbeelden:
+        architecturale bronnen, industriële bronnen, gebruiksvoorwerpen, kledij, het landschap, stalen, ...
+:::
+
+Alle bovenstaande bronnen kunnen primair of secundair zijn. Komen ze uit eerste hand spreken we van primaire bronnen, zijn er tussenpersonen bij betrokken gaat het om secundaire bronnen.
+
+
+::: {.callout-note}
+Het spreekt voor zich dat niet alle bronnen zich even goed lenen voor alle vakgebieden. Zo zullen talen en humane wetenschappen al vlugger en beroep doen op gesproken bronnen dan de wetenschappers die iets gemakkelijker aan de slag kunnen me materiële bronnen.
+:::
+
+## Gevaren en valkuilen
+
+
+Bronnen raadplegen is niet zonder gevaar. Informatie kan reeds achterhaald zijn of niet neutraal (dit wil niet zeggen dat ze niet bruikbaar is, maar je moet wel beseffen dat ze niet neutraal is), de groep informanten van een enquête is niet goed uitgekozen (niet representatief, te klein), het wetenschappelijk experiment werd niet nauwkeurig uitgevoerd of gerapporteerd. 
+
+::: {.callout-warning}
+Vertrouw niet blindelings een bron, hoe betrouwbaar deze ook maar oogt. 
+Schijn kan bedriegen.
+:::
+
+Een voorbeeld is [Diederik Stapel](https://nl.wikipedia.org/wiki/Diederik_Stapel), voormalige Tilburgse hoogleraar sociale psychologie die bekend werd als *wetenschapsfraudeur*.
+Hoe je hiervoor wapenen is het onderwerp van @sec-kritisch-denken.
+
 
 ## Een zoekstrategie
 
 ### Stap 1 - basiskennis
 
+Efficiënt opzoekwerk verrichten, kan enkel als je ‘kapstokken’ hebt om informatie aan vast te knopen. Als je helemaal niks afweet van een bepaald onderwerp is het onmogelijk om een goede zoekstrategie te ontwikkelen omdat je steeds met compleet nieuwe informatie geconfronteerd wordt en je geen idee hebt of wat er voor je neus ligt, steek houdt, nuttig is enz. Je begint je zoektocht dus het best met kleine, overzichtelijke informatiedelen waarvan je heel zeker bent dat ze betrouwbaar zijn. 
+
 ### Stap 2 - verzamelen
+
+Voor je je bronnen kan gaan analyseren en verwerken, moet je ze uiteraard eerst vinden. 
+Het internet kan daarbij een enorme hulp zijn. 
+Je vindt er uiteraard een hele boel informatie over het onderwerp dat jij zal behandelen, maar je kan er ook je bezoek aan bibliotheken, musea, lezingen, conferenties etc. efficiënt voorbereiden door de online catalogi door te nemen.
+
+Hou met jezelf of met je collega’s eerst een kleine brainstorm en bepaal waar je gaat zoeken, op basis van welke zoektermen of trefwoorden je gaat zoeken om de antwoorden op je deelvragen te vinden. 
+Ga niet zomaar wat freewheelen in de hoop zo op de juiste informatie te stoten. 
+De kans dat dat gebeurt is wel bijzonder klein.
+
+Als je informatie zoekt op het internet is het van belang dat je dat doet aan de hand van goede zoektermen en op betrouwbare websites (zie @sec-tool-zoekmachines). 
+Als je informatie vindt die jou op het eerste gezicht interessant lijkt, sla je ze best meteen op in je referentiebeheersysteem. 
+Weet dat *metadata* -- gegevens die de gegevenskarakteristieken beschrijven -- net zo belangrijk zijn als de data zelf. 
+Zorg dat alle gegevens of _velden_ van je bron direct compleet zijn. 
+Dat bespaart je een hoop werk achteraf als je je uiteindelijke bibliografie gaat (of eerder laat) maken. 
 
 ### Stap 3 - selecteren en ordenen
 
-@sec-tool-zotero
+#### Selectie
+
+Hopelijk heb je na je eerste zoektocht op het web en in bibliotheken of na het uitvoeren van experimenten of enquêtes heel wat informatie vergaard. 
+Wellicht heb je zelfs te veel informatie verzameld. 
+Om zinloos tijdverlies te vermijden, is het belangrijk dat je nu gaat snoeien in de overdaad aan bronnen die je intussen wellicht hebt. 
+Ga na aan de hand van een aantal criteria of de informatie die je hebt zinvol, volledig, betrouwbaar en relevant is en durf ook dingen te verwijderen. 
+Denk er dan wel aan dat je de bron ook uit je voorlopige bibliografie schrapt. 
+Soms kan het echter ook nuttig zijn om informatie die je niet weerhouden hebt niet definitief te verwijderen. 
+Hou ze bij in een aparte map (of label deze), want als later blijkt dat de informatie toch nuttig was, kan je ze daar gemakkelijk terugvinden. 
+
+Snoeien in de brede waaier aan informatie die je hebt doe je aan de hand van de volgende criteria: 
+
+*   Is de informatie up-to-date? Check de publicatiedatum. 
+*   Lees de samenvatting op de achterflap om zeker te zijn dat de inhoud echt relevant is voor jouw onderzoek. 
+*   Neem de inhoudsopgave door. Daarin wordt duidelijk aangegeven welke thema's concreet aan bod komen. 
+*   Bekijk figuren, tabellen, onderschriften en ondertitels. 
+*   Lees de inleiding en het slot _diagonaal_. 
+
+#### Ordening
+
+Zorg ook voor een goede ordening van je informatie zodat je ze later gemakkelijk terugvindt. 
+We maken hiervoor gebruik van een programma als hulpmiddel bij het ordenen (zie @sec-tool-zotero). 
+
+Verder is het een goed idee om ook eigen documenten en gecreëerde data te nummeren én bij te houden zodat je er tijdens de werkzaamheden gemakkelijk naar kan verwijzen (vb. `I1` voor het eerste interview dat je afnam, of `ex.4` voor de resultaten van het vierde experiment).
+
+Om strategisch je weg te vinden in de veelheid aan bronnen die je na de verzamelfase hebt vergaard, vat je best de inhoud van je bronnen kort even samen in een aantal kernwoorden. 
+De onderzoeksvraag en je deelvragen moeten hierbij de leidraad zijn. 
+Geef daarbij ook doordachte labels aan je bronnen om ze onder te toe te wijzen aan (verschillende onderdelen van) je werk.
+
+Verspeel je tijd echter niet door stukken tekst letterlijk te gaan overnemen (hetzij met pen en papier, hetzij door digitaal te knippen en te plakken). 
+Dit zal je uiteindelijke resultaat immers zeer negatief beïnvloeden. 
+Als je je bij het schrijven gaat baseren op letterlijke stukken tekst uit verschillende bronnen, zal jouw eigen stijl beïnvloed worden door de stijl van de tekst waarvan je de inhoud overneemt (zie @sec-rapporteren). 
+Op die manier krijg je een kakofonie van stijlen en dat leest allesbehalve aangenaam. 
+Als je in je bron echter een fragment vindt, dat je graag letterlijk wil gebruiken in de vorm van een citaat is het wel best om dat te markeren en er melding van te maken in deze fase van je onderzoek. 
+Bewaar uiteraard goed de bron. 
+
+Wijk bij het selecteren van informatie nooit af van je onderzoeksvraag. 
+Je onderzoeksvraag en de deelvragen moeten de leidraad van je onderzoek blijven. 
+Geef niet toe aan de verleiding, en zoals alle verleidingen gebeurt ook deze subtiel, om je te laten leiden door de bronnen. 
+Zonder dat je het weet, zou je onderzoek een wending kunnen nemen die niks te maken heeft met je onderzoeksvraag en de deelvragen, maar wel met de beschikbaarheid van bronnen. 
+Wees daar steeds op bedacht en hou steeds je onderzoeksvraag voor ogen. 
+Soms is informatie razend interessant en betrouwbaar, maar niet meteen relevant voor jouw onderzoek.  
+In zo’n geval moet je doen wat de Engelsen noemen: ["Kill your darlings"](https://nl.wikipedia.org/wiki/Kill_your_darlings_(motto)). 
+Gooi deze informatie niet overboord, maar voeg ze toe aan jouw persoonlijke bibliotheek en geef het een correct label. 
+Wie weet komt het nog wel eens van pas.
+
+Als je alle bovenstaande stappen hebt doorlopen, ben je in principe klaar met het verwerven van bronnen en wordt het stilaan tijd om ze te gaan verwerken. 
 
 ## Bronvermelding
+
+Met bronvermelding wordt hier het opstellen van een bibliografie bedoeld. 
+Als je bronnen parafraseert of als je citeert uit je bronnen volstaat een vermelding in je bibliografie niet, maar moet je ook in je corpus verwijzen naar de bron die je hebt geraadpleegd. 
+Hoe dat precies in zijn werk gaat, lees je in @sec-rapporteren.
+
+Een werk is maar zo betrouwbaar als de bronnen die ervoor werden geraadpleegd. 
+Als je een kwalitatief werk wil afleveren, zal je dus moeten aantonen dat je je gebaseerd hebt op een brede waaier van betrouwbare bronnen. 
+Bovendien wil je niet van plagiaat beschuldigd worden dus moet je elke bron die je hebt gebruikt op een overzichtelijke manier weergeven. 
+Het niet (correct) weergeven van je bronnen geeft je werk niet alleen weinig geloofwaardigheid, maar het wordt ook beschouwd als diefstal van de zuiverste soort. 
+Waag je er dus niet aan, want de gevolgen zijn allesbehalve wenselijk.
+
+Hoewel de bibliografie altijd achteraan een werk te vinden is, is het zeker niet het laatste wat je moet doen als je een onderzoek voert. 
+Het opstellen van je bibliografie is een gradueel proces dat start bij de eerste bron die je raadpleegt. 
+Vermeld steeds meteen de bron in je bibliografie. 
+Uiteraard zal die werkbibliografie aangroeien en weer inkrimpen tijdens de werkzaamheden, maar als je dat consequent doet, heb je aan het einde van de rit nauwelijks nog werk met het opstellen van de uiteindelijke bibliografie. 
+Wacht je tot het laatste moment, heb je onnoemelijk veel werk om alle bronnen opnieuw te gaan opzoeken en zal je ongetwijfeld dingen vergeten, waardoor je bibliografie onvolledig wordt en je je dus eigenlijk bezondigt aan een zekere vorm van plagiaat. 
+Denk ook niet dat je ermee weg zult geraken. 
+Er bestaan online programma’s die teksten kunnen scannen op plagiaat, maar voor een ervaren ‘lezer’ is het niet moeilijk om plagiaat te ontdekken door een plotse stijl- of lay-outbreuk.
+
+Er bestaan verschillende manieren om een bibliografie op te stellen. 
+Het is niet zo heel belangrijk welke je gebruikt als je maar consequent bent. 
+Ook hiervoor bestaan verschillende hulpmiddelen om je hierbij te helpen is `Zotero` (zie @sec-tool-zotero).
+
+Om door het bos de bomen nog te kunnen zien, hebben we voor jullie een vereenvoudigde versie gemaakt van wat aan de KUL gehanteerd wordt. 
+Je vindt het document onderaan deze pagina. 
+Als je later daadwerkelijk gaat verder studeren, zou het kunnen dat je gevraagd wordt om een ander principe te hanteren. 
+Dat hangt af van waar je gaat studeren en ook van welke richting je volgt. 
+Geen nood, je werkt je dan wel weer in in dat nieuwe systeem, voor nu is het vooral belangrijk dat je jezelf de reflex aanmeet om bronnen volgens een vastgelegd principe te vermelden. 
+
+::: Example
+#### Opmaak van de literatuurlijst volgens de APA-stijl (7de editie) {.unnumbered}
+| $\qquad$ Knuth, Donald E. 1984. *Literate Programming.* The Computer Journal 27 (2): 97–111.
+| $\qquad$ Wickham, Hadley. 2015. *R Packages.* 1st ed. O’Reilly Media, Inc.
+:::

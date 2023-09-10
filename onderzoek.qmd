@@ -1,6 +1,8 @@
-# Onderzoek
+# Onderzoek {#sec-onderzoek}
 
 <https://en.wikipedia.org/wiki/Research>
+
+4 fasen: <https://nl.wikipedia.org/wiki/Literatuuronderzoek>
 
 ## Onderzoeksvraag
 
@@ -29,9 +31,10 @@ Verschillende methoden
 
 Verkennend onderzoek, dat helpt bij het identificeren en definiëren van een probleem of vraag. Constructief onderzoek, waarbij theorieën worden getest en oplossingen voor een probleem of vraag worden voorgesteld. Empirisch onderzoek, waarbij de haalbaarheid van een oplossing wordt getest met behulp van empirisch bewijs.
 
-> If you know how it's going to turn out, it's not science, it's engineering.
->
-> *~ Albert Einstein*
+> If you know how it's going to turn out, it's not science, it's engineering
+> -- [Albert Einstein](https://nl.wikipedia.org/wiki/Albert_Einstein)[^1]
+
+[^1]: Volgens @Levitin2019. Het "oorsprongelijke" citaat van Albert Einstein (vertaald naar Engels) luidt: "*Scientists investigate that which already is; engineers create that which has never been.*".
 
 ### Kwalitatief onderzoek
 

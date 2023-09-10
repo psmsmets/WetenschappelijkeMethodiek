@@ -1,19 +1,184 @@
 # Zotero voor referentiebeheer {#sec-tool-zotero}
 
-Een veelgebruikte zowel on- en offline referentiebeheerder is <https://www.zotero.org> (open source) met <https://zbib.org>. 
-Offline heb je onbeperkte ruimte om documenten toe te voegen. 
-Wil je al je gevonden resultaten in de cloud dan ben je beperkte tot 300MB (of je betaalt voor meer ruimte). 
+Een veelgebruikte software referentiebeheerder is [Zotero](https://www.zotero.org) (vrije software van *Corporation for Digital Scholarship*).[^1]
+
+Offline heb je onbeperkte ruimte om referenties maar vooral documenten toe te voegen. 
+Wil je al je literatuur beschikbaar hebben in de cloud dan ben je beperkt tot 300MB (of je betaalt voor meer ruimte). 
+Werk je enkel offline?
+Zorg er dan zeker voor dat jouw computer met regelmaat geback-upt wordt om je waardevolle bibliotheek niet kwijt te spelen. 
+
+Wil je snel een bibliografie maken? Daarvoor bestaat er de online tool [ZoteroBib](https://zbib.org).
+
+[^1]: In combinatie met {{< latex >}} is de add-on [Better Bibtex for Zotero](https://github.com/retorquere/zotero-better-bibtex) een aanrader om automatisch *citekeys* aan te maken én je bibliotheek te exporteren naar {{< bibtex >}} bij aanpassingen.
+
+[^2]: De huidige desktop applicatie is *Mendeley Reference Manager*, welke minder functionaliteit heeft tegenover de niet langer ondersteunde *Mendeley Desktop* (welke veel gelijkenis heeft met *Zotero*). Het exporteren naar BibTex met de nieuwe applicatie gaat vaak niet zonder problemen.
 
 
+## De basis
 
-Een vaak gebruikt alternatief in de academische wereld is <https://www.mendeley.com> (Elsevier). 
+### Hoe installeer ik Zotero?
 
-Je kan ook gebruik maken van de commerciële tool <https://www.scribbr.nl> (Learneo).
+Zie de [installatie-instructies](https://www.zotero.org/support/installation).
+
+### Hoe open ik Zotero?
+
+Zotero kan net als elk ander programma geopend worden vanuit het dock of bestandsbeheer van je besturingssysteem.
+
+### Wat doet Zotero?
+
+Zotero is, op het meest basale niveau, een referentiemanager. Het is ontworpen om bibliografische referenties, zoals boeken en artikelen, op te slaan, te beheren en te citeren. In Zotero vormt elk van deze referenties een item. Meer in het algemeen is Zotero een krachtig hulpmiddel voor het verzamelen en organiseren van onderzoeksinformatie en -bronnen.
+
+### Wat voor soort items zijn er?
+
+Elk item bevat andere metadata, afhankelijk van het type item. Items kunnen van alles zijn, van boeken, artikelen en rapporten tot webpagina's, kunstwerken, films, brieven, manuscripten, geluidsopnames, rekeningen, rechtszaken of statuten, naast vele andere.
+
+### Wat kan ik doen met items?
+
+Items verschijnen in het middenvenster van Zotero. De metadata voor dat item wordt getoond in het rechterdeelvenster. Dit omvat titels, makers, uitgevers, datums, paginanummers en alle andere gegevens die nodig zijn om het item te citeren.
 
 
+## Organiseren
 
-<https://libguides.wustl.edu/choose>
+### Verzamelingen
 
-## APA-stijl (7de editie) voor opmaak van de literatuurlijst
+Het linkerdeelvenster bevat *Mijn bibliotheek*, die alle items in je bibliotheek bevat. Klik met de rechtermuisknop op *Mijn bibliotheek* of klik op de knop *Nieuwe collectie* boven het linkerdeelvenster om een nieuwe [collectie](https://www.zotero.org/support/collections_and_tags#collections) aan te maken, een map waarin items met betrekking tot een specifiek project of onderwerp kunnen worden geplaatst. Zie collecties als afspeellijsten in een muziekspeler: items in collecties zijn aliassen (of "links") naar een enkele kopie van het item in je bibliotheek. Hetzelfde item kan deel uitmaken van meerdere collecties tegelijk.
 
-<https://www.scribbr.nl/apa-stijl/literatuurlijst/>
+### Tags
+
+Aan items kunnen [tags](https://www.zotero.org/support/collections_and_tags#tags) worden toegekend. Tags worden benoemd door de gebruiker. Een item kan zoveel tags krijgen als nodig is. Tags worden toegevoegd of verwijderd met de tag selector onderaan het linkerdeelvenster of via de Tags tab van een item in het rechterdeelvenster. U kunt maximaal 6 tags een kleur geven. Gekleurde tags zijn direct zichtbaar in de itemlijst en kunnen snel worden toegevoegd of verwijderd met de cijfertoetsen op je toetsenbord.
+
+### Zoekopdrachten
+
+[Snelle zoekopdrachten](https://www.zotero.org/support/searching) tonen items waarvan de metadata, tags of volledige tekst overeenkomen met de zoektermen en worden uitgevoerd vanuit de Zotero werkbalk. Als je op het verrekijkerpictogram links van het zoekvak klikt, wordt het venster Geavanceerd zoeken geopend, waarmee je complexere of beperktere zoekopdrachten kunt uitvoeren.
+
+### Opgeslagen zoekopdrachten
+
+[Geavanceerde zoekopdrachten](https://www.zotero.org/support/searching) kunnen worden opgeslagen in het linkerdeelvenster. Ze zijn vergelijkbaar met verzamelingen, maar worden automatisch bijgewerkt met nieuwe overeenkomende items.
+
+::: {.callout-tip}
+Je kan best het automatisch aanmaken van labels uitschakelen.
+Ga naar `Voorkeuren > Algemeen > Diversen` en zet het vinkje uit bij `Items automatisch labelen met trefwoorden en onderwerpen`.
+:::
+
+## Verzamelen
+
+### Bijlagen
+
+Items kunnen aantekeningen, bestanden en links als bijlage hebben. 
+Deze [bijlagen](https://www.zotero.org/support/attaching_files) verschijnen in het middelste deelvenster onder hun bovenliggende item. 
+Bijlagen kunnen worden getoond of verborgen door te klikken op de pijl naast hun bovenliggende item.
+
+### Aantekeningen
+
+Opgemaakte-text [aantekeningen](https://www.zotero.org/support/notes) kunnen aan elk item worden gekoppeld via de *Aantekeningen* tab in het rechterdeelvenster. 
+Ze kunnen worden bewerkt in het rechterdeelvenster of in hun eigen venster. 
+Klik op de knop *Nieuwe zelfstandige aantekening* in de werkbalk om een aantekening te maken zonder deze aan een item te koppelen.
+
+### Bestanden
+
+Elk type bestand kan aan een item worden toegevoegd. Voeg bestanden toe met de knop *Bijlage toevoegen* (paperclip) in de Zotero werkbalk, door rechts te klikken op een bestaand item, of door slepen en neerzetten. 
+Bestanden hoeven niet te worden toegevoegd aan bestaande items. Ze kunnen gewoon worden toegevoegd aan je bibliotheek. 
+Bestanden kunnen ook automatisch gedownload worden wanneer je items importeert met de [Zotero Connector](https://www.zotero.org/support/quick_start_guide#capturing_items) in je browser.
+
+### Links & Snapshots
+
+Webpagina's kunnen aan elk item worden [gekoppeld](https://www.zotero.org/support/attaching_files) als een link of een snapshot. 
+Een link opent gewoon de website online. 
+Zotero kan ook een snapshot van een webpagina opslaan. 
+Een snapshot is een lokaal opgeslagen kopie van een webpagina in dezelfde staat als toen hij werd opgeslagen. 
+Snapshots zijn beschikbaar zonder internetverbinding.
+
+### Items toevoegen 
+
+Met de Zotero Connector voor Chrome, Firefox of Safari is het eenvoudig om [nieuwe items te maken](https://www.zotero.org/support/getting_stuff_into_your_library) van informatie die beschikbaar is op het internet. 
+Met een klik op een knop kan Zotero automatisch een item van het juiste type maken en de metadatavelden invullen, een full-text PDF downloaden als die beschikbaar is, en nuttige links (bijvoorbeeld naar de PubMed vermelding) of bestanden met aanvullende gegevens toevoegen.
+
+### Enkele of meerdere items 
+
+Als het [bewaaricoon](https://www.zotero.org/support/adding_items_to_zotero) een boek, artikel, afbeelding of ander enkel item is, dan wordt het item toegevoegd aan de huidige collectie in Zotero. 
+Als het bewaaricoon een map is, dan bevat de webpagina meerdere items. 
+Als je erop klikt, opent zich een dialoogvenster waarin je items kunt selecteren en opslaan in Zotero.
+
+### Vertalers
+
+Zotero gebruikt stukjes code die [vertalers](https://www.zotero.org/translators) worden genoemd om informatie op webpagina's te herkennen. 
+Er zijn generieke vertalers die met veel sites werken en vertalers die geschreven zijn voor individuele sites. 
+Als een site die je gebruikt geen vertaler heeft, voel je dan vrij om er een aan te vragen op de Zotero Forums.
+
+### Een webpagina opslaan
+
+Als de Zotero Connector de gegevens op de pagina niet herkent, kun je nog steeds op de knop *Opslaan* in de werkbalk van de browser klikken om de pagina op te slaan als een [webpagina](https://www.zotero.org/support/attaching_files#web_snapshots)-item met een snapshot als bijlage. 
+Hoewel dit de basismetadata (titel, URL, toegangsdatum) opslaat, kan het zijn dat je extra metadata van de pagina met de hand moet invullen.
+
+### Item toevoegen via identificatiecode
+
+Zotero kan [items automatisch toevoegen](https://www.zotero.org/support/adding_items_to_zotero#add_item_by_identifier) aan de hand van hun ISBN-nummer, Digital Object Identifier (DOI) of PubMed ID. 
+Dit doe je door op de *Item(s) toevoegen via identificatiecode* knop () in de Zotero toolbar te klikken, het ID nummer in te typen en op OK te klikken. 
+Je kunt zelfs een lijst van zulke identifiers in één keer plakken of invoeren (druk op `Shift+Enter` voor een groter vak).
+
+### Feeds
+
+Abonneer je op [RSS-feeds](https://www.zotero.org/support/feeds) van je favoriete tijdschriften of websites om op de hoogte te blijven van het nieuwste onderzoek. 
+Ga naar de webpagina van het artikel of sla items op in je bibliotheek met één klik op de knop.
+
+
+### Handmatig items toevoegen
+
+Items kunnen [handmatig worden toegevoegd](https://www.zotero.org/support/adding_items_to_zotero#manually_adding_items) door te klikken op de groene knop *New Item* () in de Zotero werkbalk en het juiste itemtype te selecteren. 
+Metadata kan dan handmatig worden toegevoegd in het rechterdeelvenster. 
+Hoewel je items over het algemeen niet handmatig moet toevoegen, kan het handig zijn om primaire documenten toe te voegen die niet online beschikbaar zijn.
+
+## Citeren
+
+### Artikelen citeren
+
+Zotero gebruikt *Citation Style Language (CSL)* om citaten in veel verschillende bibliografische stijlen correct op te maken. 
+Zotero ondersteunt alle belangrijke stijlen (Chicago, MLA, APA, Vancouver, etc.) en de specifieke stijlen voor meer dan 8000 tijdschriften en uitgevers.
+
+### Integratie met tekstverwerkers
+
+Met de Word-, LibreOffice- en Google Docs-plugins van Zotero kunnen gebruikers citaten rechtstreeks vanuit hun tekstverwerkingsprogramma invoegen. 
+Dit maakt het citeren van meerdere pagina's of bronnen of het anderszins aanpassen van citaties een fluitje van een cent. 
+Citaten in de tekst, voetnoten en eindnoten worden allemaal ondersteund. 
+Dankzij community-ontwikkelde plugins kan Zotero ook gebruikt worden met LaTeX, Scrivener en tal van andere schrijfprogramma's.
+
+### Automatische bibliografieën
+
+Met behulp van de plugins voor tekstverwerkers kun je automatisch een bibliografie genereren van de geciteerde items en met één druk op de knop wisselen tussen citatiestijlen voor het hele document.
+
+### Handmatige bibliografieën
+
+Zotero kan ook citaten en bibliografieën invoegen in elk tekstveld of programma. 
+Sleep gewoon items, gebruik *Quick Copy* om citaten naar het klembord te sturen of exporteer ze direct naar een bestand.
+
+
+## Samenwerken
+
+### Synchroniseren
+
+Gebruik Zotero op meerdere computers met [Zotero synchronisatie](https://www.zotero.org/support/sync). 
+Bibliotheekitems en aantekeningen worden gesynchroniseerd via de Zotero-servers (onbeperkte opslag), terwijl je voor het synchroniseren van bijlagen de Zotero-servers of je eigen WebDAV-service kunt gebruiken om bestanden zoals PDF's, afbeeldingen of audio/video te synchroniseren.
+
+### Zotero-servers
+
+Items die gesynchroniseerd zijn met de Zotero servers zijn online toegankelijk via je [zotero.org](https://www.zotero.org/) account. Deel je bibliotheek met anderen of maak een eigen C.V. van geselecteerde items.
+Maak kopieën van je onderzoek direct beschikbaar op [zotero.org](https://www.zotero.org/) voor lezers, het publiek en andere onderzoekers met behulp van [Mijn Publicaties](https://www.zotero.org/support/my_publications).
+
+### Groepen
+
+Zotero-gebruikers kunnen samenwerkings- of interessegroepen maken. 
+Gedeelde [groepsbibliotheken](https://www.zotero.org/support/groups) maken het mogelijk om samen onderzoeksbronnen en materialen te beheren, zowel online als via de Zotero client. 
+[Zotero.org](https://www.zotero.org/) kan de spil worden van al het onderzoek, de communicatie en de organisatie van je projectgroep.
+
+
+## Alternatieven
+
+Een vaak gebruikt alternatief in de academische wereld is (of eerder was[^2]) [Mendeley](https://www.mendeley.com) (bedrijfseigen software van *Elsevier*). 
+Mendeley is in de eerste plaats online, je start wel met 2GB. 
+Daarnaast kan een desktop applicatie installeren voor offline gebruik. 
+
+[EndNote](https://endnote.com/) (bedrijfseigen software van *Clarivate*).
+
+Je kan ook gebruik maken van de online tool [Scribbr](https://www.scribbr.nl/bronvermelding/generator/) (bedrijfseigen software van *Learneo*).
+
+Een uitgebreide lijst van referentiebeheersoftware kan je terugvinden op [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software).

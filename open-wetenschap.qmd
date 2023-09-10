@@ -1,4 +1,4 @@
-# Open wetenschap 
+# Open wetenschap {#sec-open-wetenschap} 
 
 Wetenschap verwijst naar een systematische en methodische benadering van het begrijpen van de wereld om ons heen. Het is een proces van het stellen van vragen, het verzamelen van gegevens, het formuleren en testen van hypotheses, en het trekken van conclusies op basis van objectieve en herhaalbare bevindingen.
 

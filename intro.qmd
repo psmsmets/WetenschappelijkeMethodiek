@@ -4,7 +4,10 @@
 
 `Wetenschappelijke Methodiek` is een vervolg op LAB$^2$, maar breekt met de eerdere invulling in de tweede graad. Verwacht je aan een abstracter niveau met veel aandacht voor `soft-skills`. 
 
-...
+> De wetenschappelijke methode gebruikt een stap-voor-stap logisch proces. 
+> Het maakt gissen overbodig en geeft je een methode om feiten en gegevens te verzamelen 
+> om je theorie of hypothese te bewijzen of te ontkrachten.
+> -- [Albert Einstein](https://nl.wikipedia.org/wiki/Albert_Einstein)
 
 onderzoekscompetenties
 
@@ -35,8 +38,8 @@ Kort gezegd: methoden zijn de specifieke tools en technieken die worden gebruikt
 ...
 
 
+::: {#fig-planning fig-cap="Planning jaar 1" fig-align="center"}
 ```{mermaid}
-%%| fig-cap: "Jaarplanning jaar 1"
 gantt
         introductie : i1, 2023-09-01, 2w
         vooronderzoek : i2, 2023-09-08, 3w
@@ -51,6 +54,7 @@ gantt
         Project 2 : crit, proj2, after v4, 6w
         Functionality added : milestone, 2024-06-01, 0d
 ```
+:::
 
 Soft-skills:
 
@@ -74,6 +78,8 @@ Het eerste jaar is een stapsgewijze voorbereiding om in jaar twee te werken rond
 
 
 ## Doelstellingen
+
+Het verwerven van onderzoekscompetenties door praktijkervaring.
 
 ::: {.callout-note title="Informaticawetenschappen"}
 Wetenschappelijke Methodiek integreert het leerplan van `Informaticawetenschappen` voor de 3de graad D-finaliteit (`D/2023/13.758/` versie 3 mei 2023).

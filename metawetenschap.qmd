@@ -1,7 +1,18 @@
 # Deel 1 - Metawetenschap {#sec-metawetenschap}
 
+***Meta-*** is een voorvoegsel dat "*meer omvattend*" of "*overstijgend*" betekent.[^1]
+In de epistemologie[^2], en vaak in gewoon gebruik, wordt het voorvoegsel meta- gebruikt om "*over (een eigen categorie)*" te betekenen.
+*Metadata* zijn bijvoorbeeld *gegevens over gegevens* (wie ze heeft geproduceerd, wanneer, in welk formaat de gegevens zijn, enzovoort).
+In @sec-open-wetenschap gaan concreet verder met metadata in de wetenschappen.
+*Meta-analyse* verwijst naar de *analyse van analyses* en *metawetenschap* naar de *wetenschap van wetenschappen*.
+
+[^1]: Afkomstig van het Griekse `μετά (metá)` wat "na" of "over" of "voorbij" betekent <https://www.merriam-webster.com/dictionary/meta>
+
+## Meta in wetenschap
+
+*Metawetenschap* (ook bekend als *meta-onderzoek*) is het gebruik van wetenschappelijke methodologie om de wetenschap zelf te bestuderen.
+Metawetenschap houdt zich bezig met alle onderzoeksgebieden.
+
+<https://en.wikipedia.org/wiki/Meta>
 <https://en.wikipedia.org/wiki/Metascience>
 <https://nl.wikipedia.org/wiki/Meta-analyse>
-
-Metawetenschap (ook bekend als meta-onderzoek) is het gebruik van wetenschappelijke methodologie om de wetenschap zelf te bestuderen.
-Metawetenschap houdt zich bezig met alle onderzoeksgebieden en is beschreven als "een vogelvlucht door de wetenschap".

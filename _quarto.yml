@@ -22,7 +22,7 @@ book:
         - wetenschappelijke-methode.qmd
         - bronnen.qmd
         - onderzoek.qmd
-        - statistiek.qmd
+#        - statistiek.qmd
         - rapporteren.qmd
         - open-wetenschap.qmd
         - kritisch-denken.qmd
@@ -33,10 +33,10 @@ book:
         - tool-data-analyse.qmd
         - tool-publicaties.qmd
         - tool-presentaties.qmd
-    - part: projects.qmd
-      chapters:
-        - project-log.qmd
-        - project-water.qmd
+#    - part: projects.qmd
+#      chapters:
+#        - project-log.qmd
+#        - project-water.qmd
     - references.qmd
   cover-image: cover.png
   search: true
@@ -50,14 +50,17 @@ bibliography: references.bib
 
 format:
   html:
+    number-depth: 3
     theme: 
         light: cosmo
         dark: [cosmo, _assets/theme-dark.scss]
     smooth-scroll: true
+    code-overflow: wrap
     link-external-icon: false
     link-external-newwindow: true
     link-external-filter: '^(?:http:|https:)\/\/w-m\.pietersmets\.be'
   pdf:
+    number-depth: 3
     documentclass: scrreprt
     cite-method: natbib
 #    filters:
@@ -78,8 +81,72 @@ execute:
 embed-resources: true
 
 filters:
+  - quarto
   - hide-comment
   - quarto-tikz
+  - custom-numbered-blocks # https://github.com/ute/custom-numbered-blocks
+  - nameref # https://github.com/shafayetShafee/nameref
 #  - nutshell  ## Fix! Geeft icoon in elke header!
 
 latex-auto-install: true
+
+# https://github.com/ute/custom-numbered-blocks
+custom-numbered-blocks:
+  groups:
+    math:
+      colors: [948bde, 584eab]
+      boxstyle: foldbox.simple
+      collapse: false
+      listin: [mathstuff]
+    examples:
+      colors: [cce7b1, 86b754]
+      boxstyle: foldbox.simple
+      collapse: false
+      listin: [examples]
+    exercises:
+      colors: [e7b1b4, 8c3236]
+      boxstyle: foldbox.simple
+      collapse: false
+      listin: [exercises]
+#    todos: default  
+  classes:
+    Theorem:
+      label: "Theorema"
+      group: math
+    Corollary:
+      label: "Uitspraak"
+      group: math
+    Conjecture:
+      label: "Stelling"
+      group: math
+      collapse: true   
+    Definition:
+      label: "Definitie"
+      group: math
+      colors: [d999d3, a01793]
+    Proof:
+      label: "Bewijs"
+      group: math
+      colors: [d999d3, a01793]
+    Exercise:
+      label: "Opdracht"
+      group: exercises
+    Example:
+      label: "Voorbeeld"
+      group: examples
+      collapse: true 
+    Feature: 
+      group: default
+      label: "Functie"
+#    TODO:
+#      label: "To do"
+#      colors: [e7b1b4, 8c3236]
+#      group: todos
+#      listin: [stilltodo]
+#    DONE:
+#      label: "Gedaan"
+#      colors: [cce7b1, 86b754]  
+#      group: todos
+
+nameref:
+  section-number: false

@@ -1,0 +1,18 @@
+\providecommand{\Pageref}[1]{\hfill p.\pageref{#1}}
+ [**Voorbeeld 2.1**](bronnen.qmd#opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie): 2.4.1 Opmaak van de literatuurlijst volgens de APA-stijl (7de editie)\Pageref{opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie}
+
+ [**Voorbeeld 2.1**](bronnen.qmd#opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie): 2.4.1 Opmaak van de literatuurlijst volgens de APA-stijl (7de editie)\Pageref{opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie}
+
+ [**Voorbeeld 2.1**](bronnen.qmd#opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie): Opmaak van de literatuurlijst volgens de APA-stijl (7de editie)\Pageref{opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie}
+
+ [**Voorbeeld 2.1**](bronnen.qmd#opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie): Opmaak van de literatuurlijst volgens de APA-stijl (7de editie)\Pageref{opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie}
+
+ [**Voorbeeld 2.1**](bronnen.qmd#opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie): Opmaak van de literatuurlijst volgens de APA-stijl (7de editie)\Pageref{opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie}
+
+ [**Voorbeeld 2.1**](bronnen.qmd#opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie): Opmaak van de literatuurlijst volgens de APA-stijl (7de editie)\Pageref{opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie}
+
+ [**Voorbeeld 2.1**](bronnen.qmd#opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie): Opmaak van de literatuurlijst volgens de APA-stijl (7de editie)\Pageref{opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie}
+
+ [**Voorbeeld 2.1**](bronnen.qmd#opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie): Opmaak van de literatuurlijst volgens de APA-stijl (7de editie)\Pageref{opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie}
+
+ [**Voorbeeld 2.1**](bronnen.qmd#opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie): Opmaak van de literatuurlijst volgens de APA-stijl (7de editie)\Pageref{opmaak-van-de-literatuurlijst-volgens-de-apa-stijl-7de-editie}
