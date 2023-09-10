@@ -138,6 +138,7 @@ dask-worker-space/
 /.quarto/
 /__*/
 /_book/
+/_output/
 /_pdf/
 /_docx/
 

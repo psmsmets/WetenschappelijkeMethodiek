@@ -1,9 +1,12 @@
 project:
   type: book
+  output-dir: _output
+  post-render: xcopy *_files _output
 
 book:
   title: "Wetenschappelijke Methodiek"
   subtitle: "Richtlijnen en Strategieën voor Goed Onderzoek"
+  site-url: https://w-m.pietersmets.be
   # subtitle: "Praktische Richtlijnen en Strategieën voor Goed Onderzoek"
   date: "1 juli 2023"
   author:
@@ -59,10 +62,12 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     link-external-filter: '^(?:http:|https:)\/\/w-m\.pietersmets\.be'
-  pdf:
-    number-depth: 3
-    documentclass: scrreprt
-    cite-method: natbib
+#  pdf:
+#    number-depth: 3
+#    documentclass: scrreprt
+#    cite-method: natbib
+#    margin-left: 30mm
+#    margin-right: 30mm
 #    filters:
 #      - first-line-indent
 
@@ -81,12 +86,10 @@ execute:
 embed-resources: true
 
 filters:
-  - quarto
   - hide-comment
   - quarto-tikz
   - custom-numbered-blocks # https://github.com/ute/custom-numbered-blocks
   - nameref # https://github.com/shafayetShafee/nameref
-#  - nutshell  ## Fix! Geeft icoon in elke header!
 
 latex-auto-install: true
 
