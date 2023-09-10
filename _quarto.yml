@@ -3,6 +3,10 @@ project:
   output-dir: _output
   post-render: xcopy *_files _output
 
+preview:
+   - port: 8888
+   - browser: false
+
 book:
   title: "Wetenschappelijke Methodiek"
   subtitle: "Richtlijnen en Strategieën voor Goed Onderzoek"
