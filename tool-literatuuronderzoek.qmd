@@ -9,17 +9,17 @@ Hier is een stapsgewijze uitleg over hoe je dit kunt doen:
 1.  **Bepaal je zoekopdracht:** Begin met het duidelijk formuleren van wat je precies zoekt. Bedenk welke trefwoorden of zoektermen relevant zijn voor je vraag of onderwerp.
 1.  **Gebruik relevante zoekwoorden:** Kies zoekwoorden die nauw verband houden met je onderwerp. Denk aan synoniemen en alternatieve termen die anderen mogelijk gebruiken.
 1.  **Gebruik aanhalingstekens:** Als je een exacte zin of woordgroep wilt vinden, plaats je deze tussen aanhalingstekens. Bijvoorbeeld, "klimaatveranderingseffecten".
-1.  **Gebruik operatoren:** Maak gebruik van logische operatoren om je zoekopdracht te verfijnen. Enkele nuttige operators zijn:
+1.  **Gebruik operatoren:** Maak gebruik van logische operatoren `AND`, `OR`, en `NOT` om je zoekopdracht te verfijnen:
 
     i)  **AND:** Geeft resultaten weer die alle opgegeven zoekwoorden bevatten. 
-        Bijvoorbeeld, "duurzame energie AND zonne-energie".
+        Bijvoorbeeld, `duurzame energie AND zonne-energie`.
 
     i)  **OR:** Geeft resultaten weer die een van de opgegeven zoekwoorden bevatten. 
-        Bijvoorbeeld, "fietsen OR wandelen".
+        Bijvoorbeeld, `fietsen OR wandelen`.
 
-    i)  **NOT:** Uitsluitingsoperator. Geeft resultaten weer die het eerste zoekwoord bevatten maar niet het tweede. Bijvoorbeeld, "honden NOT katten".
+    i)  **NOT:** Uitsluitingsoperator. Geeft resultaten weer die het eerste zoekwoord bevatten maar niet het tweede. Opgelet, de `NOT`-operator is vervangen bij Google door enkel het `-` teken. Bijvoorbeeld, `honden -katten`.
 
-1.   **Filter de zoekresultaten:** Gebruik de filters en hulpmiddelen die de zoekmachine biedt om de resultaten te verfijnen op basis van type (bijv. afbeeldingen, video's, nieuws), datum, locatie, enzovoort.
+1.   **Filter de zoekresultaten:** Gebruik de filters en hulpmiddelen die de zoekmachine biedt om de resultaten te verfijnen op basis van type (bv. afbeeldingen, video's, nieuws), datum, locatie, enzovoort.
 1.  **Controleer de bron:** Bekijk de bronnen zorgvuldig voordat je ze als betrouwbaar beschouwt. Controleer de auteur, publicatiedatum, bronorganisatie en eventuele vermelding van bronnen.
 Doe meerdere zoekopdrachten: Soms moet je meerdere zoekopdrachten uitvoeren om verschillende perspectieven en bronnen te vinden. Experimenteer met verschillende zoektermen en filters.
 1.  **Lees kritisch:** Als je informatie hebt gevonden, lees deze kritisch en vergelijk deze met andere bronnen om de nauwkeurigheid te verifiëren.
@@ -37,7 +37,7 @@ Bronnen:
 
 ### Zoeksyntax
 
-Zoekmachines zoals [Bing](https://bing.com), [DuckDuckGo](https://duckduckgo.com) en [Google](https://google.be) hebben geavanceerde zoeksyntax die je kunt gebruiken om je zoekopdrachten te verfijnen.
+Zoekmachines zoals [Bing](https://bing.com), [DuckDuckGo](https://duckduckgo.com) en [Google](https://google.be) hebben geavanceerde zoeksyntax die je kunt gebruiken om je zoekopdrachten nog te verfijnen.
 
 | Voorbeeld | Resultaat |
 |-----------|-----------|
@@ -109,7 +109,7 @@ Zoek naar [`what's my IP address`](https://www.google.com/search?hl=nl&q=what%27
 https://paperpile.com/g/academic-search-engines/
 :::
 
-Naast de drie al-dan-niet gekende zoekmachines hierboven bestaan er ook meer gespecialiseerde zoekmachines en databanken voor wetenschappelijke literatuur. 
+Naast de drie bovenstaande zoekmachines bestaan er ook meer gespecialiseerde zoekmachines en databanken voor wetenschappelijke literatuur. 
 Hieronder vind je een selectie van relevante multidisciplinaire wetenschappelijke databanken en zoekmachines die vrij toegankelijk zijn.
 
 | Service | Omschrijving |

@@ -22,10 +22,8 @@ Zonder training in logisch redeneren zijn gemakkelijker het slachtoffer van vert
 
 > Er bestaat niet zoiets als "DE wetenschappelijke methode".
 
-::: {.callout-note}
 Er bestaat geen universele overeenstemming over wat dé wetenschappelijke methode inhoudt. 
 Toch zijn er bepaalde kernprincipes die vandaag de dag de basis vormen van wetenschappelijk onderzoek.
-:::
 
 ## De 7 kernprincipes
 
@@ -96,10 +94,8 @@ Drie wetenschappers hadden een grote invloed op de wetenschappelijke methode:
 <https://en.wikipedia.org/wiki/History_of_scientific_method>
 :::
 
+::: {#fig-methode-timeline fig-cap="Tijdlijn van de grote invloeden op de wetenschappelijke methode." fig-align="center"}
 ```{dot}
-#| label: fig-methode-tijdlijn
-#| fig-cap: "Tijdlijn"
-
 digraph shells {
     node [fontsize=24, shape = plaintext, fontname = "Source Sans Pro"];
 
@@ -140,10 +136,11 @@ digraph shells {
     { rank=same;  1786 "Hans Christian Ørsted"; }
     { rank=same;  1831 "John Herschel"; }
     { rank=same;  1878 "Charles Sanders Peirce"; }
-
 }
 ```
+:::
 
+::: {.hidden}
 ::: {#fig-timeline2 fig-cap="Tijdslijn v2." fig-align="center"}
 ```{tikz}
 \usetikzlibrary{positioning,arrows.meta}
@@ -168,7 +165,10 @@ sep=0.4ex,text height=1ex,text depth=0.4ex,rounded corners},bullet/.style={circl
 \end{tikzpicture}
 ```
 :::
+:::
 
+
+::: {.hidden}
 ## Actuele kwesties
 
 ### Statistiek
@@ -188,6 +188,8 @@ Engels: `self-fulfilling prophecy`
 
 <https://mitpress.mit.edu/9780262538213/science-and-the-production-of-ignorance/>
 
+:::
+
 ## Toegepast op het dagelijks leven
 
 Dit is hoe je een dagelijks gesprek op een nauwkeurige, wetenschappelijke manier kunt benaderen:
@@ -198,5 +200,7 @@ Dit is hoe je een dagelijks gesprek op een nauwkeurige, wetenschappelijke manier
 
 De wetenschappelijke methode zou individuen niet alleen een elitaire manier moeten bieden om de werkelijkheid te onderzoeken, maar ook een toegankelijk hulpmiddel om er op de juiste manier over te redeneren en te discussiëren.
 
+::: {.hidden}
 ## Kort samengevat
 Ofwel: in een notendop --> op het einde van elk hoofdstuk!
+:::

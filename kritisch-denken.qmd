@@ -1,3 +1,9 @@
 # Kritisch denken {#sec-kritisch-denken}
 
+[Dit hoofdstud is nog in opbouw]
+
+::: {.hidden}
+
 Hoe herkennen we verkeerde informatie, pseudo-feiten en verdraaiingen van betrouwbare informatie? Door het controleren van de geloofwaardigheid en redeneren, waarbij de wetenschappelijke methode en kritisch denken centraal staan. Daniel J. Levitin (New York Times) schreef er de bestseller “Een veldgids voor leugens” over.
+
+:::

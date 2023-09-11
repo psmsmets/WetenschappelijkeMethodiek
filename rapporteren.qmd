@@ -1,5 +1,9 @@
 # Rapporteren {#sec-rapporteren}
 
+[Dit hoofdstud is nog in opbouw]
+
+::: {.hidden}
+
 Het hoofddoel van wetenschappelijk onderzoek is rapporteren van de bevindingen. Dit kan zowel schriftelijk als mondeling. 
 
 ## Schriftelijk rapporteren
@@ -9,6 +13,10 @@ Wetenschappelijk schrijven.
 Hoe een goede wetenschappelijke tekst schrijven?
 
 Voor een rapport, onderzoeksverslag, paper, artikel, essay, betoog en scriptie hanteer je een wetenschappelijke of academische schrijfstijl.
+
+::: {.hidden}
+https://nl.wikipedia.org/wiki/Wikipedia:Schrijfcursus
+:::
 
 ::: {.callout-note title="Wetenschappelijke schrijfstijl"}
 Wetenschappelijk schrijven zet in de eerste plaats het onderwerp centraal, niet de schrijver. 
@@ -114,3 +122,6 @@ Analytische storytelling combineert de analytische en rigoureuze aspecten van we
 1.  Verbind met de bredere betekenis: Breng de wetenschappelijke bevindingen in verband met bredere betekenis en relevantie, bijvoorbeeld in termen van maatschappelijke impact, toekomstig onderzoek of praktische toepassingen.
 
 Door analytische storytelling toe te passen, kunnen wetenschappers hun onderzoek op een boeiende en begrijpelijke manier presenteren aan verschillende doelgroepen, waaronder niet-wetenschappers. Dit draagt bij aan een betere verspreiding van wetenschappelijke kennis, vergroot het begrip en de waardering voor wetenschap, en bevordert de dialoog tussen wetenschappers en de samenleving.
+
+
+:::

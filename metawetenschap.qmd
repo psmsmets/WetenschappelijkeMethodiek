@@ -1,18 +1,28 @@
 # Deel 1 - Metawetenschap {#sec-metawetenschap}
 
-***Meta-*** is een voorvoegsel dat "*meer omvattend*" of "*overstijgend*" betekent.[^1]
-In de epistemologie[^2], en vaak in gewoon gebruik, wordt het voorvoegsel meta- gebruikt om "*over (een eigen categorie)*" te betekenen.
+*Meta* is een veelvoorkomend voorvoegsel in de wetenschap. 
+*Metawetenschap* (ook bekend als *meta-onderzoek*) is het gebruik van wetenschappelijke methodologie om de wetenschap zelf te bestuderen. 
+Metawetenschap houdt zich bezig met alle onderzoeksgebieden. 
+Het eerste deel van dit boek gaat dieper in op de peilers van de wetenschappelijke methodologie. 
+Niet om deze te bestuderen, maar in de eerste plaats om ze toe te passen. 
+
+De meest complete vorm van wetenschapelijk onderzoek is een *meta-analyse*, welke verwijst naar de analyse van analyses. 
+Bij een meta-analyse worden resultaten van eerder uitgevoerde onderzoeken samengevoegd om een preciezere uitspraak te doen over een bepaald fenomeen of theorie. 
+
+In de wetenschap betekenen gegevens, dus onderzoek, niets zonder de nodige beschrijving. 
 *Metadata* zijn bijvoorbeeld *gegevens over gegevens* (wie ze heeft geproduceerd, wanneer, in welk formaat de gegevens zijn, enzovoort).
 In @sec-open-wetenschap gaan concreet verder met metadata in de wetenschappen.
-*Meta-analyse* verwijst naar de *analyse van analyses* en *metawetenschap* naar de *wetenschap van wetenschappen*.
+
+::: {.callout-tip title="Etymologie van meta"}
+***Meta-*** is een voorvoegsel dat "*meer omvattend*" of "*overstijgend*" betekent.[^1]
+In de _epistemologie_[^2], en vaak in gewoon gebruik, wordt het voorvoegsel meta- gebruikt om "*over (een eigen categorie)*" te betekenen. 
+:::
 
 [^1]: Afkomstig van het Griekse `μετά (metá)` wat "na" of "over" of "voorbij" betekent <https://www.merriam-webster.com/dictionary/meta>
+[^2]: Epistemologie of [kennistheorie](https://nl.wikipedia.org/wiki/Kennistheorie)
 
-## Meta in wetenschap
-
-*Metawetenschap* (ook bekend als *meta-onderzoek*) is het gebruik van wetenschappelijke methodologie om de wetenschap zelf te bestuderen.
-Metawetenschap houdt zich bezig met alle onderzoeksgebieden.
-
+<!--
 <https://en.wikipedia.org/wiki/Meta>
 <https://en.wikipedia.org/wiki/Metascience>
 <https://nl.wikipedia.org/wiki/Meta-analyse>
+-->

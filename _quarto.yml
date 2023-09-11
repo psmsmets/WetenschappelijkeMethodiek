@@ -1,7 +1,6 @@
 project:
   type: book
   output-dir: _output
-  post-render: xcopy *_files _output
 
 preview:
    - port: 8888
@@ -12,14 +11,14 @@ book:
   subtitle: "Richtlijnen en Strategieën voor Goed Onderzoek"
   site-url: https://w-m.pietersmets.be
   # subtitle: "Praktische Richtlijnen en Strategieën voor Goed Onderzoek"
-  date: "1 juli 2023"
+  date: "11 september 2023"
   author:
     - name: Pieter Smets
       id: ps
       orcid: 0000-0003-0394-0973
       email: mail@pietersmets.be
   abstract: > 
-    ... 
+    [deze volgt nog] 
   license: "GNU GPLv3"
   chapters:
     - index.qmd
@@ -38,8 +37,8 @@ book:
         - tool-literatuuronderzoek.qmd
         - tool-bibliografie.qmd
         - tool-data-analyse.qmd
-        - tool-publicaties.qmd
-        - tool-presentaties.qmd
+##        - tool-publicaties.qmd
+##        - tool-presentaties.qmd
 #    - part: projects.qmd
 #      chapters:
 #        - project-log.qmd
@@ -87,7 +86,7 @@ execute:
   echo: false 
   eval: true
 
-embed-resources: true
+embed-resources: false # prevent huge html files!
 
 filters:
   - hide-comment

@@ -1,5 +1,9 @@
 # Open wetenschap {#sec-open-wetenschap} 
 
+[Dit hoofdstud is nog in opbouw]
+
+::: {.hidden}
+
 Wetenschap verwijst naar een systematische en methodische benadering van het begrijpen van de wereld om ons heen. Het is een proces van het stellen van vragen, het verzamelen van gegevens, het formuleren en testen van hypotheses, en het trekken van conclusies op basis van objectieve en herhaalbare bevindingen.
 
 Het doel van wetenschap is om kennis en inzicht te vergroten door middel van observatie, experimenten en logische redenering. Het is gebaseerd op het principe van empirisme, waarbij informatie wordt verzameld uit de zintuiglijke waarneming en objectieve metingen.
@@ -42,3 +46,5 @@ Kortom, de wetenschappelijke methode en de FAIR-data principes delen het gemeens
 
 Open communiceren over methodieken.
 Niet alleen data vrij toegankelijk, eventueel ook methoden/code maar zeker ook artikels (pay-walls van wetenschappelijke tijdschriften!)
+
+:::

@@ -23,32 +23,40 @@ Met bronnen wordt veel meer bedoeld dan wat je op het internet of in een boek vi
 *   Geschreven bronnen
     : Brengen de boodschap in de vorm van een tekst
 
-    +   Voorbeelden:
-        kalender, agenda, dagboek, brief, mail, (auto)biografie, encyclopedie, reisgids, verhaal, lied, gedicht, boekhouding, inventaris, boedelbeschrijving, krant, tijdschrift, website, wet, recept, gebruiksaanwijzing, verslag van een onderzoek, ...
+    ::: Example
+    #### Geschreven bronnen
+    kalender, agenda, dagboek, brief, mail, (auto)biografie, encyclopedie, reisgids, verhaal, lied, gedicht, boekhouding, inventaris, boedelbeschrijving, krant, tijdschrift, website, wet, recept, gebruiksaanwijzing, verslag van een onderzoek
+    :::
 :::
 
 ::: {}
 *   Gesproken bronnen
     : Brengen de boodschap mondeling
 
-    +   Voorbeelden:
-        verhalen, interview van getuigen, versjes, liedjes die nooit opgetekend werden, de taal (woorden - etymologie), mondelinge overlevering, tradities, stoeten, processies, ... 
+    ::: Example
+    #### Gesproken bronnen
+    verhalen, interview van getuigen, versjes, liedjes die nooit opgetekend werden, de taal (woorden - etymologie), mondelinge overlevering, tradities, stoeten, processies
+    :::
 :::
 
 ::: {}
 *   Iconografische bronnen
     : Geven informatie op basis van een beeld (al dan niet met een toelichting)
 
-    +   Voorbeelden:
-        tekening, schilderij, spotprent, foto, grafiek, tabel, film, reportage, schema, ...
+    ::: Example
+    #### Iconografische bronnen
+    tekening, schilderij, spotprent, foto, grafiek, tabel, film, reportage, schema
+    :::
 :::
 
 ::: {}
 *   Materiële bronnen
     : Geven informatie, maar zonder een echte boodschap
 
-    +   Voorbeelden:
-        architecturale bronnen, industriële bronnen, gebruiksvoorwerpen, kledij, het landschap, stalen, ...
+    ::: Example
+    #### Materiële bronnen
+    architecturale bronnen, industriële bronnen, gebruiksvoorwerpen, kledij, het landschap, stalen
+    :::
 :::
 
 Alle bovenstaande bronnen kunnen primair of secundair zijn. Komen ze uit eerste hand spreken we van primaire bronnen, zijn er tussenpersonen bij betrokken gaat het om secundaire bronnen.
@@ -68,8 +76,15 @@ Vertrouw niet blindelings een bron, hoe betrouwbaar deze ook maar oogt.
 Schijn kan bedriegen.
 :::
 
-Een voorbeeld is [Diederik Stapel](https://nl.wikipedia.org/wiki/Diederik_Stapel), voormalige Tilburgse hoogleraar sociale psychologie die bekend werd als *wetenschapsfraudeur*.
+::: Example
+#### Dierderik Stapel
+Een enorm slecht voorbeeld, maar een wijze les voor nu, is [Diederik Stapel](https://nl.wikipedia.org/wiki/Diederik_Stapel), voormalige Tilburgse hoogleraar sociale psychologie die bekend werd als *wetenschapsfraudeur*.
 Hoe je hiervoor wapenen is het onderwerp van @sec-kritisch-denken.
+
+In maar liefst 55 publicaties werd effectief fraude vastgesteld. 
+Aanwijzingen voor fraude werden vastgesteld bij nog een tiental artikelen. 
+Daarnaast zijn er nog afgeleide of andere publicaties, delen van boekpublicaties en proefschriften, die (vrijwel zeker of zeer waarschijnlijk) geheel of gedeeltelijk gebaseerd zijn op frauduleuze onderzoeksgegevens. [@commissielevelt2012].
+:::
 
 
 ## Een zoekstrategie
@@ -137,7 +152,7 @@ Je onderzoeksvraag en de deelvragen moeten de leidraad van je onderzoek blijven.
 Geef niet toe aan de verleiding, en zoals alle verleidingen gebeurt ook deze subtiel, om je te laten leiden door de bronnen. 
 Zonder dat je het weet, zou je onderzoek een wending kunnen nemen die niks te maken heeft met je onderzoeksvraag en de deelvragen, maar wel met de beschikbaarheid van bronnen. 
 Wees daar steeds op bedacht en hou steeds je onderzoeksvraag voor ogen. 
-Soms is informatie razend interessant en betrouwbaar, maar niet meteen relevant voor jouw onderzoek.  
+Soms is informatie razend interessant en betrouwbaar, maar niet meteen relevant voor jouw onderzoek. 
 In zo’n geval moet je doen wat de Engelsen noemen: ["Kill your darlings"](https://nl.wikipedia.org/wiki/Kill_your_darlings_(motto)). 
 Gooi deze informatie niet overboord, maar voeg ze toe aan jouw persoonlijke bibliotheek en geef het een correct label. 
 Wie weet komt het nog wel eens van pas.
@@ -165,14 +180,43 @@ Denk ook niet dat je ermee weg zult geraken.
 Er bestaan online programma’s die teksten kunnen scannen op plagiaat, maar voor een ervaren ‘lezer’ is het niet moeilijk om plagiaat te ontdekken door een plotse stijl- of lay-outbreuk.
 
 Er bestaan verschillende manieren om een bibliografie op te stellen. 
-Het is niet zo heel belangrijk welke je gebruikt als je maar consequent bent. 
-Ook hiervoor bestaan verschillende hulpmiddelen om je hierbij te helpen is `Zotero` (zie @sec-tool-zotero).
+Het is niet zo heel belangrijk welke je gebruikt als je maar consequent en grondig bent. 
+Ook hiervoor bestaan verschillende hulpmiddelen om je hierbij te helpen (zie oa. `Zotero` in @sec-tool-zotero).
 
+::: {.hidden}
 Om door het bos de bomen nog te kunnen zien, hebben we voor jullie een vereenvoudigde versie gemaakt van wat aan de KUL gehanteerd wordt. 
 Je vindt het document onderaan deze pagina. 
 Als je later daadwerkelijk gaat verder studeren, zou het kunnen dat je gevraagd wordt om een ander principe te hanteren. 
 Dat hangt af van waar je gaat studeren en ook van welke richting je volgt. 
 Geen nood, je werkt je dan wel weer in in dat nieuwe systeem, voor nu is het vooral belangrijk dat je jezelf de reflex aanmeet om bronnen volgens een vastgelegd principe te vermelden. 
+:::
+
+### Wanneer is een bronvermelding verplicht?
+
+Hiervoor geldt de regel dat je bij iedere impliciete of expliciete verwijzing naar de ideeën van anderen
+bronvermeldingen moet opgeven. Ieder citaat, ieder schema, iedere tabel, grafiek, afbeelding of kaart, overgenomen
+uit andermans werk, moet voorzien worden van een bronvermelding. Ook het impliciet overnemen van ideeën, zoals
+het herschrijven van paragrafen of het in eigen woorden samenbrengen van ideeën uit verschillende bronnen, vereist
+referenties. Gebeurt dat niet, dan is er sprake van **plagiaat**. En dat is een praktijk die in academische middens absoluut
+niet getolereerd wordt.
+
+### Criteria
+
+Iedere discipline, ieder tijdschrift, iedere auteur heeft wel zo zijn eigen voorkeur en gewoonten. 
+In elk geval moeten referenties aan de volgende criteria voldoen:
+
+*   Volledigheid
+    : De lezer moet exact dezelfde tekst terug kunnen vinden.
+*   Uniformiteit
+    : Het refereren moet op dezelfde manier gebeuren in de hele tekst.
+*   Eenvoud
+    : Overbodige informatie moet worden vermeden.
+*   Leesbaarheid
+    : Een referentie moet ondubbelzinnig weergeven welke bronnen de auteur geraadpleegd heeft en het weglaten ervan mag geen effect hebben op de leesbaarheid van de zin.
+
+### Refereren in APA-stijl
+
+In de academische wereld is de APA-stijl (7de editie 2020) de meest gangbare norm. 
 
 ::: Example
 #### Opmaak van de literatuurlijst volgens de APA-stijl (7de editie) {.unnumbered}

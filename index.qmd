@@ -1,6 +1,24 @@
 # Voorwoord {.unnumbered}
 
-De eerste editie van dit boek is gepubliceerd op ... 
+Dit is de eerste en lopende editie van het boek "Wetenschappelijke Methodiek". 
+Het is een project dat herhaaldelijk wordt bijgewerkt doorheen het schooljaar 2023-2024. 
+De eerste publicatiedatum is 1 juli 2023. 
+De publicatiedatum hierboven toont de datum van de laatste aanpassing. 
+Het hele traject daartussen is terug te beleven op [Github](https://github.com/psmsmets/WetenschappelijkeMethodiek).  
+Het boek is in de eerste plaats een resultaat van meerdere handen. 
+Een grote inspiratie en hulp is de bundel _Onderzoekscompetenties -- Het begin van een lange carrière._ (2014) van ASO Spijker, waaraan verschillende (oud-) collega's mee hebben geschreven. 
+Ik wil hen daarvoor uitdrukkelijk bedanken. 
+Dankjewel voor dit schitterende werk én dat ik de inhoud mag meenemen in dit verhaal.
+Sommige delen uit de bundel zal je hier direct herkennen, andere delen heb ik compleet naar mijn hand gezet.  
+Het verhaal van de wetenschappelijke methodiek is aangevuld met 12 jaar aan eigen onderzoekservaring en bevindingen, geuit in vele rapporten, papers, boeken, poster presentaties en lezingen. 
+Het belangrijkste aan onderzoek is kennis door ervaring. Dus door het zelf te doen. 
+Dit boek is er om je hierbij op weg te helpen en biedt je een praktische kijk op wetenschappelijk onderzoek. 
+Verwacht je echt niet alleen aan kennis en tips. 
+Wat kan je best doen en vooral, wat moet je zeker niet doen bij je onderzoek. 
+Er worden ook zoveel mogelijk digitale hulpmiddelen uit de kast gehaald om jullie hierbij te helpen. 
+Al is het hoofdoel eigenlijk heel eenvoudig: gewoon zelf aan wetenschappelijk onderzoek doen.
+
+::: {.hidden}
 
 ## Conventies gebruikt in dit boek
 
@@ -35,10 +53,9 @@ Dit element duidt op een algemene opmerking.
 Dit element geeft een waarschuwing of voorzichtigheid aan.
 :::
 
+
 ## Dankbetuigingen
 
 Dit werk is een resultaat van meerdere handen.
 
-<!--
-This work is the product of many years of fruitful discussions and collaborations with, and assistance from many people around the world. I'd like to thank a few of them.
--->
+:::

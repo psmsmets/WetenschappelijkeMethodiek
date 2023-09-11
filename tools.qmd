@@ -1,6 +1,6 @@
 # Deel 2 - Hulpmiddelen
 
-Verschillende *tools* of hulpmiddelen om je ondersteunen bij je onderzoek. 
+Dit deel biedt je verschillende *tools* of hulpmiddelen aan om je ondersteunen bij je onderzoek. 
 De voorkeur gaat telkens naar *vrije software* om zo min mogelijk afhankelijk te zijn. [^1]
 Er bestaan veel *gratis* tools, welke vaak *closed source software* zijn van bedrijven. 
 Gratis software bestaat in essentie niet. 

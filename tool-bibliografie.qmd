@@ -137,7 +137,7 @@ Zotero ondersteunt alle belangrijke stijlen (Chicago, MLA, APA, Vancouver, etc.)
 
 ### Integratie met tekstverwerkers
 
-Met de Word-, LibreOffice- en Google Docs-plugins van Zotero kunnen gebruikers citaten rechtstreeks vanuit hun tekstverwerkingsprogramma invoegen. 
+Met de [Word-, LibreOffice- en Google Docs-plugins](https://www.zotero.org/support/word_processor_integration) van Zotero kunnen gebruikers citaten rechtstreeks vanuit hun tekstverwerkingsprogramma invoegen. 
 Dit maakt het citeren van meerdere pagina's of bronnen of het anderszins aanpassen van citaties een fluitje van een cent. 
 Citaten in de tekst, voetnoten en eindnoten worden allemaal ondersteund. 
 Dankzij community-ontwikkelde plugins kan Zotero ook gebruikt worden met LaTeX, Scrivener en tal van andere schrijfprogramma's.
