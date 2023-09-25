@@ -2,7 +2,8 @@
 
 ## Géén LAB$^3$
 
-`Wetenschappelijke Methodiek` is een vervolg op LAB$^2$, maar breekt met de eerdere invulling in de tweede graad. Verwacht je aan een abstracter niveau met veel aandacht voor `soft-skills`. 
+`Wetenschappelijke Methodiek` is een vervolg op LAB$^2$, maar breekt met de eerdere invulling in de tweede graad. 
+Verwacht je aan een abstracter niveau met veel aandacht voor [softskills](https://nl.wikipedia.org/wiki/Softskills). 
 
 > De wetenschappelijke methode gebruikt een stap-voor-stap logisch proces. 
 > Het maakt gissen overbodig en geeft je een methode om feiten en gegevens te verzamelen 
@@ -41,7 +42,7 @@ Kort gezegd: methoden zijn de specifieke tools en technieken die worden gebruikt
 ::: {#fig-planning fig-cap="Planning jaar 1" fig-align="center"}
 ```{mermaid}
 gantt
-        introductie : i1, 2023-09-01, 2w
+        introductie : i1, 2023-09-01, 1w
         vooronderzoek : i2, 2023-09-08, 3w
         Python deel 1 : py1, after i2, 4w
         Herfstvakantie : done, v1, 2023-10-30, 1w

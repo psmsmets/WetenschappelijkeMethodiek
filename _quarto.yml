@@ -11,7 +11,7 @@ book:
   subtitle: "Richtlijnen en Strategieën voor Goed Onderzoek"
   site-url: https://w-m.pietersmets.be
   # subtitle: "Praktische Richtlijnen en Strategieën voor Goed Onderzoek"
-  date: "11 september 2023"
+  date: "25 september 2023"
   author:
     - name: Pieter Smets
       id: ps
@@ -37,10 +37,11 @@ book:
         - tool-literatuuronderzoek.qmd
         - tool-bibliografie.qmd
         - tool-data-analyse.qmd
-##        - tool-publicaties.qmd
-##        - tool-presentaties.qmd
-#    - part: projects.qmd
-#      chapters:
+        - tool-publicaties.qmd
+        - tool-presentaties.qmd
+    - part: projects.qmd
+      chapters:
+        - project-intro.qmd
 #        - project-log.qmd
 #        - project-water.qmd
     - references.qmd
@@ -112,7 +113,7 @@ custom-numbered-blocks:
     exercises:
       colors: [e7b1b4, 8c3236]
       boxstyle: foldbox.simple
-      collapse: false
+      collapse: true 
       listin: [exercises]
 #    todos: default  
   classes:
@@ -143,7 +144,8 @@ custom-numbered-blocks:
       collapse: true 
     Feature: 
       group: default
-      label: "Functie"
+      label: "Methode"
+      collapse: false
 #    TODO:
 #      label: "To do"
 #      colors: [e7b1b4, 8c3236]

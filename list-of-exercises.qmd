@@ -1,1 +1,8 @@
 \providecommand{\Pageref}[1]{\hfill p.\pageref{#1}}
+ [**Opdracht 1**](project-intro.qmd#wetenschappelijke-methodiek): Wetenschappelijke methodiek\Pageref{wetenschappelijke-methodiek}
+
+ [**Opdracht 2**](project-intro.qmd#metakennis): Metakennis\Pageref{metakennis}
+
+ [**Opdracht 3**](project-intro.qmd#zoekvaardigheid): Zoekvaardigheid\Pageref{zoekvaardigheid}
+
+ [**Opdracht 4**](project-intro.qmd#informatiebeheer): Informatiebeheer\Pageref{informatiebeheer}

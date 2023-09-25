@@ -76,8 +76,8 @@ Vertrouw niet blindelings een bron, hoe betrouwbaar deze ook maar oogt.
 Schijn kan bedriegen.
 :::
 
-::: Example
-#### Dierderik Stapel
+::: {.Example}
+#### Diederik Stapel
 Een enorm slecht voorbeeld, maar een wijze les voor nu, is [Diederik Stapel](https://nl.wikipedia.org/wiki/Diederik_Stapel), voormalige Tilburgse hoogleraar sociale psychologie die bekend werd als *wetenschapsfraudeur*.
 Hoe je hiervoor wapenen is het onderwerp van @sec-kritisch-denken.
 
@@ -123,16 +123,30 @@ Hou ze bij in een aparte map (of label deze), want als later blijkt dat de infor
 
 Snoeien in de brede waaier aan informatie die je hebt doe je aan de hand van de volgende criteria: 
 
-*   Is de informatie up-to-date? Check de publicatiedatum. 
-*   Lees de samenvatting op de achterflap om zeker te zijn dat de inhoud echt relevant is voor jouw onderzoek. 
+::: {.Feature #feature-bronnen-selecteren}
+#### selecteren
+*   Is de informatie up-to-date? Check de publicatiedatum.
+*   Kan je achterhalen wie de maker van de bron is? Controleer of het om een organisatie of één of meerdere personen gaat.
+*   Lees de samenvatting om zeker te zijn dat de inhoud echt relevant is voor jouw onderzoek. 
 *   Neem de inhoudsopgave door. Daarin wordt duidelijk aangegeven welke thema's concreet aan bod komen. 
 *   Bekijk figuren, tabellen, onderschriften en ondertitels. 
 *   Lees de inleiding en het slot _diagonaal_. 
+:::
+
+Wijk bij het selecteren van informatie nooit af van je onderzoeksvraag. 
+Je onderzoeksvraag en de deelvragen moeten de leidraad van je onderzoek blijven. 
+Geef niet toe aan de verleiding, en zoals alle verleidingen gebeurt ook deze subtiel, om je te laten leiden door de bronnen. 
+Zonder dat je het weet, zou je onderzoek een wending kunnen nemen die niks te maken heeft met je onderzoeksvraag en de deelvragen, maar wel met de beschikbaarheid van bronnen. 
+Wees daar steeds op bedacht en hou steeds je onderzoeksvraag voor ogen. 
+Soms is informatie razend interessant en betrouwbaar, maar niet meteen relevant voor jouw onderzoek. 
+In zo’n geval moet je doen wat de Engelsen noemen: ["Kill your darlings"](https://nl.wikipedia.org/wiki/Kill_your_darlings_(motto)). 
+Gooi deze informatie niet overboord, maar voeg ze toe aan jouw persoonlijke bibliotheek en geef het een correct label. 
+Wie weet komt het nog wel eens van pas.
 
 #### Ordening
 
 Zorg ook voor een goede ordening van je informatie zodat je ze later gemakkelijk terugvindt. 
-We maken hiervoor gebruik van een programma als hulpmiddel bij het ordenen (zie @sec-tool-zotero). 
+Maak hiervoor best gebruik van een referentiebeheerder (zie @sec-tool-zotero). 
 
 Verder is het een goed idee om ook eigen documenten en gecreëerde data te nummeren én bij te houden zodat je er tijdens de werkzaamheden gemakkelijk naar kan verwijzen (vb. `I1` voor het eerste interview dat je afnam, of `ex.4` voor de resultaten van het vierde experiment).
 
@@ -146,16 +160,6 @@ Als je je bij het schrijven gaat baseren op letterlijke stukken tekst uit versch
 Op die manier krijg je een kakofonie van stijlen en dat leest allesbehalve aangenaam. 
 Als je in je bron echter een fragment vindt, dat je graag letterlijk wil gebruiken in de vorm van een citaat is het wel best om dat te markeren en er melding van te maken in deze fase van je onderzoek. 
 Bewaar uiteraard goed de bron. 
-
-Wijk bij het selecteren van informatie nooit af van je onderzoeksvraag. 
-Je onderzoeksvraag en de deelvragen moeten de leidraad van je onderzoek blijven. 
-Geef niet toe aan de verleiding, en zoals alle verleidingen gebeurt ook deze subtiel, om je te laten leiden door de bronnen. 
-Zonder dat je het weet, zou je onderzoek een wending kunnen nemen die niks te maken heeft met je onderzoeksvraag en de deelvragen, maar wel met de beschikbaarheid van bronnen. 
-Wees daar steeds op bedacht en hou steeds je onderzoeksvraag voor ogen. 
-Soms is informatie razend interessant en betrouwbaar, maar niet meteen relevant voor jouw onderzoek. 
-In zo’n geval moet je doen wat de Engelsen noemen: ["Kill your darlings"](https://nl.wikipedia.org/wiki/Kill_your_darlings_(motto)). 
-Gooi deze informatie niet overboord, maar voeg ze toe aan jouw persoonlijke bibliotheek en geef het een correct label. 
-Wie weet komt het nog wel eens van pas.
 
 Als je alle bovenstaande stappen hebt doorlopen, ben je in principe klaar met het verwerven van bronnen en wordt het stilaan tijd om ze te gaan verwerken. 
 
@@ -194,10 +198,12 @@ Geen nood, je werkt je dan wel weer in in dat nieuwe systeem, voor nu is het voo
 ### Wanneer is een bronvermelding verplicht?
 
 Hiervoor geldt de regel dat je bij iedere impliciete of expliciete verwijzing naar de ideeën van anderen
-bronvermeldingen moet opgeven. Ieder citaat, ieder schema, iedere tabel, grafiek, afbeelding of kaart, overgenomen
-uit andermans werk, moet voorzien worden van een bronvermelding. Ook het impliciet overnemen van ideeën, zoals
-het herschrijven van paragrafen of het in eigen woorden samenbrengen van ideeën uit verschillende bronnen, vereist
-referenties. Gebeurt dat niet, dan is er sprake van **plagiaat**. En dat is een praktijk die in academische middens absoluut
+bronvermeldingen moet opgeven. 
+Ieder citaat, ieder schema, iedere tabel, grafiek, afbeelding of kaart, overgenomen
+uit andermans werk, moet voorzien worden van een bronvermelding. 
+Ook het impliciet overnemen van ideeën, zoals het herschrijven van paragrafen of het in eigen woorden samenbrengen van ideeën uit verschillende bronnen, vereist een verwijzing naar het oorspronkelijke werk. 
+Gebeurt dat niet, dan is er sprake van **plagiaat**. 
+En dat is een praktijk die in academische middens absoluut
 niet getolereerd wordt.
 
 ### Criteria
@@ -214,12 +220,69 @@ In elk geval moeten referenties aan de volgende criteria voldoen:
 *   Leesbaarheid
     : Een referentie moet ondubbelzinnig weergeven welke bronnen de auteur geraadpleegd heeft en het weglaten ervan mag geen effect hebben op de leesbaarheid van de zin.
 
-### Refereren in APA-stijl
+### Basisprincipes
 
-In de academische wereld is de APA-stijl (7de editie 2020) de meest gangbare norm. 
+Referen kan volgens twee belangrijke manieren: het *numeriek systeem* en het *naam-jaar-systeem*.
+Beide systemen kennen zeer veel verschillende variaties aan referentiestijlen (10 000+). 
+De gekozen (of opgelegde) referentiestijl bepaalt de vorm en de volgorde van de verschillende elementen van je bron. 
+In je werk beperk je je consequent tot een enkele referentiestijl. 
 
-::: Example
-#### Opmaak van de literatuurlijst volgens de APA-stijl (7de editie) {.unnumbered}
-| $\qquad$ Knuth, Donald E. 1984. *Literate Programming.* The Computer Journal 27 (2): 97–111.
-| $\qquad$ Wickham, Hadley. 2015. *R Packages.* 1st ed. O’Reilly Media, Inc.
+Een juiste bronvermelding verschilt per referentiestijl en per type bron, maar wat bij iedere stijl en type bron hetzelfde is, is dat je **tweemaal moet refereren** [@kuleuven2023]:
+
+1.  Een verkorte referentie
+    : in je tekst waar je de informatiebron citeert, parafraseert, samenvat, vertaalt...
+
+1.  Een volledige referentie
+    : in je literatuurlijst, bibliografie en/of voet(of eind)noten.
+
+Afhankelijk van het brontype wordt de referentie op een andere manier samengesteld. 
+Hiervoor bestaan, per referentiestijl, complete handleidingen.[^1] 
+Om door de bomen nog het bos te zien werk je best met een referentiebeheerder om je bronnen te beheren en om je referentielijst aan te (laten) maken (zie @sec-tool-zotero). 
+
+Veelgebruikte referentiestijlen in de wetenschap zijn de [APA-stijl](https://apastyle.apa.org), [IEEE-stijl](https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf) en [NLM/Vancouverstijl](http://www.nlm.nih.gov/citingmedicine). 
+Wij beperken ons tot de APA-stijl (zie Definitie \ref{definition-apa}), al is wisselen van referentiestijl, als je het goed aanpakt, een kwestie van een knop indrukken als je gebruikt maakt van een referentiebeheerder (zie Hoofdstukken [-@sec-tool-zotero] en [-@sec-tool-latex]). 
+
+[^1]: Handleidingen van de KU Leuven Bibliotheken 2Bergen voor de [APA-stijl](https://bib.kuleuven.be/training-en-tutorials/apa-2023), [IEEE-stijl](https://bib.kuleuven.be/training-en-tutorials/ieee-2023) en de [NLM/Vancouverstijl](https://bib.kuleuven.be/training-en-tutorials/vancouver-2023).
+
+::: {.Definition #definition-apa}
+#### APA-stijl (7de editie 2020)
+De referentiestijl van de *American Psychological Association* (APA) is een **naam-jaar-systeem**. 
+Een bronvermelding in de APA-stijl houdt in:
+
+*   Een verkorte referentie
+    : in de tekst (of het document) meteen na het idee dat je uit de bron hebt gehaald:
+    +   Naam (of namen) van de auteur(s) en publicatiejaar, tussen haakjes. Bij personen is dit enkel de familienaam. 
+    +   Wanneer de auteur al vernoemd wordt in de tekst, dan noteer je het publicatiejaar tussen haakjes.
+    +   Vanaf drie auteurs noteer je de familienaam van de eerste auteur, gevolgd door et al. 
+    +   Bij een citaat noteer je ook de pagina waaruit je de tekst hebt gehaald.
+
+*   Een volledige referentie
+    : in de bibliografie volgens de APA-stijl. De referenties staan daarbij in alfabetische volgorde per auteur.
+
+De APA-stijl is meer dan een referentiestijl (zie @sec-rapporteren). 
+De APA-stijl wordt gebruikt door schrijvers in vele disciplines over de hele wereld voor beknopte, krachtige en overtuigende wetenschappelijke communicatie.
 :::
+
+
+::: {.Example}
+#### Korte referentie in tekst
+Software engineering is een georganiseerde, analytische benadering van het ontwerpen, ontwikkelen, het gebruik en de onderhoud van software (Stephens, 2015).
+
+Stephens (2015) toont in zijn studie dat software engineering een georganiseerde, analytische benadering van het ontwerpen, ontwikkelen, het gebruik en de onderhoud van software is.
+:::
+
+::: {.Example}
+#### Volledige referentie in de bibliografie
+Stephens, R. (2015). Beginning Software Engineering. Wrox.
+:::
+
+Soms zijn niet alle gegevens van je referentie te vinden. 
+In dat geval dien je de afkortingen uit @tbl-bronnen-ontbrekend gebruiken. 
+Maak je gebruik van een referentiebeheerder dan wordt in de meeste gevallen de afkorting vanzelf ingevuld. 
+
+| Ontbrekende gegevens | Afkorting | Betekenis |
+| -------------------- | --------- | --------- |
+| naam van auteur of uitgeverij | s.n. | sine nomine |
+| datum/jaartal | s.d. | sine dato |
+| plaats van uitgave | s.l. | sine loco |
+: Te gebruiken afkortingen bij ontbrekende gegevens van een referentie. {#tbl-bronnen-ontbrekend"}

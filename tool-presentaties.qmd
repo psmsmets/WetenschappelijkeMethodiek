@@ -1,5 +1,9 @@
 # Slides voor presentaties {#sec-tool-slides}
 
+[Dit hoofdstuk is nog in opbouw]
+
+::: {.hidden}
+
 Verschillende opties voor visuele ondersteuning
 
 - PowerPoint (Microsoft) / Pages (Apple) / Impress (LibreOffice, gratis)
@@ -9,3 +13,5 @@ Verschillende opties voor visuele ondersteuning
 reveal.js is een open source HTML-presentatieraamwerk. Het is een tool waarmee iedereen met een webbrowser gratis volledig uitgeruste en prachtige presentaties kan maken.
 
 Online editor: <https://slides.com/>
+
+:::

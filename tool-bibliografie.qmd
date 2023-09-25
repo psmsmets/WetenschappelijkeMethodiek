@@ -173,12 +173,14 @@ Gedeelde [groepsbibliotheken](https://www.zotero.org/support/groups) maken het m
 
 ## Alternatieven
 
-Een vaak gebruikt alternatief in de academische wereld is (of eerder was[^2]) [Mendeley](https://www.mendeley.com) (bedrijfseigen software van *Elsevier*). 
-Mendeley is in de eerste plaats online, je start wel met 2GB. 
-Daarnaast kan een desktop applicatie installeren voor offline gebruik. 
+Een vaak gebruikt alternatief in de academische wereld is, of eerder was[^2], [Mendeley](https://www.mendeley.com) (bedrijfseigen software van *Elsevier*). 
+Mendeley is in de eerste plaats online, je start standaard wel met 2GB opslag. 
+Daarnaast kan je een desktop applicatie installeren voor offline gebruik. 
 
-[EndNote](https://endnote.com/) (bedrijfseigen software van *Clarivate*).
+In de bedrijfswereld is een vaak gebruikte referentiemanager [EndNote](https://endnote.com/) (bedrijfseigen software van *Clarivate*).
 
-Je kan ook gebruik maken van de online tool [Scribbr](https://www.scribbr.nl/bronvermelding/generator/) (bedrijfseigen software van *Learneo*).
+Je kan ook gebruik maken van de online tool [Scribbr](https://www.scribbr.nl/bronvermelding/generator/) (bedrijfseigen software van *Learneo*). 
+Deze tool heeft heel wat overeenkomsten met [ZoteroBib](https://zbib.org). 
+Een voordeel van Scribbr is dat de tool beschikbaar is in het Nederlands. 
 
-Een uitgebreide lijst van referentiebeheersoftware kan je terugvinden op [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software).
+Een uitgebreide lijst met nog meer referentiebeheersoftware kan je terugvinden op [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software).

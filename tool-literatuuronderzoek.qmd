@@ -6,10 +6,14 @@
 Effectief zoeken op internet vereist enkele belangrijke vaardigheden en strategieën. 
 Hier is een stapsgewijze uitleg over hoe je dit kunt doen:
 
-1.  **Bepaal je zoekopdracht:** Begin met het duidelijk formuleren van wat je precies zoekt. Bedenk welke trefwoorden of zoektermen relevant zijn voor je vraag of onderwerp.
-1.  **Gebruik relevante zoekwoorden:** Kies zoekwoorden die nauw verband houden met je onderwerp. Denk aan synoniemen en alternatieve termen die anderen mogelijk gebruiken.
-1.  **Gebruik aanhalingstekens:** Als je een exacte zin of woordgroep wilt vinden, plaats je deze tussen aanhalingstekens. Bijvoorbeeld, "klimaatveranderingseffecten".
-1.  **Gebruik operatoren:** Maak gebruik van logische operatoren `AND`, `OR`, en `NOT` om je zoekopdracht te verfijnen:
+1.  Bepaal je zoekopdracht
+    : Begin met het duidelijk formuleren van wat je precies zoekt. Bedenk welke trefwoorden of zoektermen relevant zijn voor je vraag of onderwerp.
+1.  Gebruik relevante zoekwoorden
+    : Kies zoekwoorden die nauw verband houden met je onderwerp. Denk aan synoniemen en alternatieve termen die anderen mogelijk gebruiken.
+1.  Gebruik aanhalingstekens
+    : Als je een exacte zin of woordgroep wilt vinden, plaats je deze tussen aanhalingstekens. Bijvoorbeeld, "klimaatveranderingseffecten".
+1.  Gebruik operatoren
+    : Maak gebruik van logische operatoren `AND`, `OR`, en `NOT` om je zoekopdracht te verfijnen:
 
     i)  **AND:** Geeft resultaten weer die alle opgegeven zoekwoorden bevatten. 
         Bijvoorbeeld, `duurzame energie AND zonne-energie`.
@@ -19,25 +23,30 @@ Hier is een stapsgewijze uitleg over hoe je dit kunt doen:
 
     i)  **NOT:** Uitsluitingsoperator. Geeft resultaten weer die het eerste zoekwoord bevatten maar niet het tweede. Opgelet, de `NOT`-operator is vervangen bij Google door enkel het `-` teken. Bijvoorbeeld, `honden -katten`.
 
-1.   **Filter de zoekresultaten:** Gebruik de filters en hulpmiddelen die de zoekmachine biedt om de resultaten te verfijnen op basis van type (bv. afbeeldingen, video's, nieuws), datum, locatie, enzovoort.
-1.  **Controleer de bron:** Bekijk de bronnen zorgvuldig voordat je ze als betrouwbaar beschouwt. Controleer de auteur, publicatiedatum, bronorganisatie en eventuele vermelding van bronnen.
-Doe meerdere zoekopdrachten: Soms moet je meerdere zoekopdrachten uitvoeren om verschillende perspectieven en bronnen te vinden. Experimenteer met verschillende zoektermen en filters.
-1.  **Lees kritisch:** Als je informatie hebt gevonden, lees deze kritisch en vergelijk deze met andere bronnen om de nauwkeurigheid te verifiëren.
-1.  **Houd notities bij:** Maak aantekeningen van relevante informatie en de bronnen die je hebt geraadpleegd. Dit is handig als je later verwijzingen moet geven of meer wilt weten over het onderwerp.
-1.  **Wees geduldig:** Effectief zoeken kan soms tijd kosten. Neem de tijd om grondig en zorgvuldig te zoeken om de meest waardevolle informatie te vinden.
+1.   Filter de zoekresultaten
+     : Gebruik de filters en hulpmiddelen die de zoekmachine biedt om de resultaten te verfijnen op basis van type (bv. afbeeldingen, video's, nieuws), datum, locatie, enzovoort.
+1.  Controleer de bron
+    : Bekijk de bronnen zorgvuldig voordat je ze als betrouwbaar beschouwt. Controleer de auteur, publicatiedatum, bronorganisatie en eventuele vermelding van bronnen.
+1.  Doe meerdere zoekopdrachten
+    : Soms moet je meerdere zoekopdrachten uitvoeren om verschillende perspectieven en bronnen te vinden. Experimenteer met verschillende zoektermen en filters. Beperk je ook niet tot eenzelfde zoekmachine. 
+1.  Lees kritisch
+    : Als je informatie hebt gevonden, lees deze kritisch en vergelijk deze met andere bronnen om de nauwkeurigheid te verifiëren.
+1.  Houd notities bij
+    : Maak aantekeningen van relevante informatie en de bronnen die je hebt geraadpleegd. Dit is handig als je later verwijzingen moet geven of meer wilt weten over het onderwerp.
+1.  Wees geduldig
+    : Effectief zoeken kan soms tijd kosten. Neem de tijd om grondig en zorgvuldig te zoeken om de meest waardevolle informatie te vinden.
+
 Door deze stappen te volgen, kun je je zoekvaardigheden op internet verbeteren en betrouwbare, relevante informatie vinden voor je doeleinden.
 
 ::: {.hidden}
 Bronnen:
-<https://duckduckgo.com/duckduckgo-help-pages/results/syntax/>
-<https://support.google.com/websearch/answer/2466433?hl=en>
 <https://zapier.com/blog/advanced-google-search-tricks/#translate-words>
 :::
 
 
-### Zoeksyntax
+### Zoeksyntaxis
 
-Zoekmachines zoals [Bing](https://bing.com), [DuckDuckGo](https://duckduckgo.com) en [Google](https://google.be) hebben geavanceerde zoeksyntax die je kunt gebruiken om je zoekopdrachten nog te verfijnen.
+Zoekmachines zoals [Bing](https://bing.com), [DuckDuckGo](https://duckduckgo.com) en [Google](https://google.be) hebben geavanceerde zoeksyntaxis die je kunt gebruiken om je zoekopdrachten nog te verfijnen [@duckduckgo2023; @google_search; @microsoft_search].
 
 | Voorbeeld | Resultaat |
 |-----------|-----------|
@@ -51,7 +60,7 @@ Zoekmachines zoals [Bing](https://bing.com), [DuckDuckGo](https://duckduckgo.com
 | `katten -site:example.com` | Pagina's over katten, uitgezonderd example.com |
 | `intitle:honden` | Pagina titel bevat het woord `"honden"`. |
 | `inurl:katten` | Pagina-URL bevat het woord `"katten"`. |
-: Syntax voor geavanceerd zoeken. {#tbl-zoeksyntax tbl-colwidths="[40,60]" .hover}
+: Syntaxis voor geavanceerd zoeken. Opgelet, niet alle functionaliteit werkt (even goed) bij elke zoekmachine. {#tbl-zoeksyntax tbl-colwidths="[40,60]" .hover}
 
 Als er een geavanceerde syntaxis is gebruikt in een query en er geen resultaten zijn gevonden, worden er gerelateerde resultaten getoond.
 

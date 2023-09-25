@@ -1,0 +1,102 @@
+# Project 1: introductie {.unnumbered}
+
+::: Exercise
+#### Wetenschappelijke methodiek
+Wooclap
+:::
+
+::: Exercise
+#### Metakennis
+Peilen naar metakennis over wetenschap.
+
+1.  braindump
+
+    iedereen schrijft gedurende 3 min op een blad wat bij zich opkomt bij “wetenschappelijk onderzoek”.
+
+1.  brainstorm in 3 groepen
+
+    Verloop van wetenschappelijk onderzoek.
+
+1.  samenleggen
+
+    Klassikaal bespreken van de fasen van wetenschappelijk onderzoek. 
+    Wat komt overeen met elkaar? Waar zitten de grote verschillen?
+
+1.  De wetenschappelijke methode volgens [Monty Python and the Holy Grail (1975) "We Found a Witch"](https://youtu.be/zdVOZ8Gbf-c?si=MhBYeUVtSpf-iayz) en de logische drogredenen [@hoey2013].
+
+    {{< video https://youtu.be/zdVOZ8Gbf-c?si=MhBYeUVtSpf-iayz >}}
+:::
+
+::: Exercise
+#### Zoekvaardigheid
+Opwarmer
+: Wat bedroeg de minimumtemperatuur afgelopen nacht in Hoogstraten?
+
+Zoekvaardigheid
+: Beantwoord volgende vragen door te zoeken op het internet.
+
+*   Welke landen vormen samen met België een stormgebied?
+*   Hoe heet ons stormgebied?
+*   Hoeveel gebieden zijn er in Europa?
+*   Wat wordt de naam van de 8e storm van het huidige stormseizoen in ons stormgebied?
+*   Uit welk land komt deze naam?
+*   Wat wordt de naam van de 15e storm van het huidige stormseizoen in het Nederlandse stormgebied?
+*   Vanwaar komt deze naam?
+:::
+
+::: Exercise
+#### Informatiebeheer
+Nu we effectief kunnen zoeken naar informatie gaan we concreet informatie zoeken, selecteren en ordenen. 
+De nadruk ligt in dit geval op het zorgvuldig ordenen en voorbereiden van je informatie. 
+Een zeer belangrijke stap die je nadien heel wat werk kan besparen. 
+We maken hiervoor gebruik van de referentiebeheerder `Zotero` (zie [@sec-tool-zotero]).
+
+Drie wetenschappers met een grote invloed op de wetenschappelijke methode zijn:
+
+*   Francis Bacon (1561-1626), Engels filoof,
+*   Rene Descartes (1596-1650), Frans wiskundige/geograaf/filosoof,
+*   Isaac Newton (1643-1727), Engels astronoom en natuurkundige.
+
+De opdracht luidt als volgt
+: Zoek zoveel mogelijk informatie (met referentie) over wat juist de invloed van de drie bovenstaande wetenschappers was op de wetenschappelijke methode. 
+Verzamel al deze informatie op een correcte manier in `Zotero`.
+
+Voorbereiding:
+
+1.  Maak in je `Zotero` bibliotheek een nieuwe verzameling met de naam `Wetenschappelijke Methodiek`.
+1.  Maak in deze verzameling een deelverzameling genaamd `Opdracht 4 - Naam Familienaam` (vul hier je eigen naam in).
+1.  Maak in bovenstaande deelverzameling nog 3 deelverzamelingen met de namen van de 3 wetenschappers.
+
+Verzamelen:
+
+1.  Verzamel minstens **10 bronnen**, direct gerelateerd aan de onderzoeksvraag (minstens 3 bronnen per wetenschapper).
+1.  Voeg voor elke bron een **item** toe in je bibliotheek.
+    Zorg dat het type zeker correct is.
+    Vul zoveel mogelijk gegevens aan over je bron.
+1.  Voorzie minstins **3 verschillende types** van bronnen in je verzameling.
+1.  Werk met **deelverzamelingen per wetenschapper** om je items te ordenen.
+1.  **Koppel een bijlage**, indien mogelijk, aan je item. 
+    Wees zo compleet mogelijk. 
+    Bij een webpagina voeg je een pdf-versie toe door deze te printen naar een pdf.
+    Maak gebruik van de [leesmodus](https://www.tomsguide.com/how-to/how-to-enable-reader-mode-in-chrome)
+    om randinformatie in te perken.
+1.  Voorzie **elk item** van minstens:
+    + [ ] **2 labels** welke de soort bron aangeven:
+        - `primair` of `secundair` en
+        - `geschreven` / `gesproken` / `iconografisch` / `materiëel`.
+    + [ ] **1 aantekening** waarbij je de bron evalueert.
+        Geef duidelijk aan of de bron volgens jou, al dan niet, geschikt is.
+        Maak hiervoor gebruik van de selectiecriteria in @sec-bronnen.
+1.  **Extra (optioneel):** markeer bij geschreven bronnen in de bijlage het antwoord op of de link met de onderzoeksvraag.
+
+
+Indienen:
+
+1.  Exporteer je Zotero deelverzameling van `Opdracht 4` via `rechter muisknop` + `Verzameling exporteren ...`.
+1.  Kies `Zotero RDF` als formaat. 
+1.  Vink de opties `Exporteer aantekeningen` en `Exporteer bestanden` aan (niet `Include Annotations`).
+1.  Geef het bestand jouw naam (`voornaam familienaam`).
+
+De deadline voor het indienen van de opdracht wordt nog afgesproken.
+
+:::

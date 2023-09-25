@@ -1,5 +1,9 @@
 # LaTeX voor publicaties {#sec-tool-latex}
 
+[Dit hoofdstuk is nog in opbouw]
+
+::: {.hidden}
+
 Online editor: <https://www.overleaf.com>
 
 {{< latex >}}
@@ -62,3 +66,5 @@ in science were made by accident.}
 
 ```{.latex}
 ```
+
+:::

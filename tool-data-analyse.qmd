@@ -1,5 +1,9 @@
 # Python voor data-analyse {#sec-tool-python}
 
+[Dit hoofdstuk is nog in opbouw]
+
+::: {.hidden}
+
 Python, R of Julia. Elk heeft zijn eigen voordeel.
 Elk zijn *high-level general-purpose* programmeertalen, volledig gratis (vrije software!), met een grote gebruikersgemeenschap (= documentatie).
 
@@ -26,5 +30,7 @@ Handleidingen voor praktisch programmeren:
   * [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
   * [Python for Data Analysis](https://wesmckinney.com/book/)
   * [R for Data Science](https://r4ds.hadley.nz)
+
+:::
 
 :::
