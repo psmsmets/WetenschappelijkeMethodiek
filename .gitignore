@@ -151,3 +151,4 @@ dask-worker-space/
 *.DS_Store
 *.nc
 .DS_Store
+/_resources/

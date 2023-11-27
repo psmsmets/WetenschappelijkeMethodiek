@@ -18,3 +18,7 @@ Deze vier vrijheden worden in de talloze vrijesoftwarelicenties in min of meer g
 :::
 
 [^1]: <https://nl.wikipedia.org/wiki/Portaal:Vrije_software>
+
+::: {.hidden}
+<https://github.com/numfocus/getting-started-with-open-source>
+:::

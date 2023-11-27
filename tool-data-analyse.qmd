@@ -1,9 +1,5 @@
 # Python voor data-analyse {#sec-tool-python}
 
-[Dit hoofdstuk is nog in opbouw]
-
-::: {.hidden}
-
 Python, R of Julia. Elk heeft zijn eigen voordeel.
 Elk zijn *high-level general-purpose* programmeertalen, volledig gratis (vrije software!), met een grote gebruikersgemeenschap (= documentatie).
 
@@ -33,4 +29,156 @@ Handleidingen voor praktisch programmeren:
 
 :::
 
-:::
+
+## Python interpreters
+
+https://replit.com/
+
+Jupyter notebooks
+
+IDE lokaal op je computer.
+
+hub.pietersmets.be
+
+## Python boeken
+
+http://www.spronck.net/pythonbook/dutchindex.xhtml
+
+
+Python3 boek van Pieter Spronck.
+
+Nederlands:
+De Programmeursleerling, Leren coderen met Python 3
+
+Engelstalig:
+The Coder’s Apprentice, Learning Programming with Python 3
+
+
+## Python oefeningen
+https://dodona.be/nl/courses/290/
+
+## Python overzicht
+
+### `input`/`print`
+
+Oefeningen die je aanleren om vlot te werken met de inbegrepen Python functies `input()` en `print()`.
+
+Deze functies maken invoer via het toetsenbord en uitvoer naar het scherm (afdrukken) mogelijk.
+
+Zonder invoer en uitvoer is interactie dmv een Python programma/script niet mogelijk.
+
+Je kan al deze oefeningen oplossen na het bekijken van de video’s 1 tem 10.
+
+(Aanvulling: voor het oplossen van de laatste oefening uit deze reeks moet je video 12 bekijken)
+
+### Werken met getallen
+
+Oefeningen die je allerlei berekeningen laten uitvoeren.
+
+Natuurlijk gaat dat over de som, het verschil, de vermenigvuldiging en de deling.
+
+Maar ook de machtsverheffing, de geheeltallige deling (floor division) en de restberekening (modulo) komen aan bod.
+
+Je kan al deze oefeningen oplossen na het bekijken van de video’s tem 18.
+
+### `if`/`else`
+
+Oefeningen die het `if`\`else`-statement inoefenen, alvorens (binnen dezelfde reeks) uit te breiden naar het `if`\`elif`\`else`-statement.
+
+Na de `if` of `elif` hoort steeds een bewering (Booleaanse expressie) te staan.
+
+Het bouwen van zinvolle Booleaanse expressies, is (in deze oefeningenreeks) net zo belangrijk als het onder de knie krijgen van de `if`/`elif`/`else`-syntax.
+
+Het opstellen van zinvolle Booleaanse expressies, vereist al snel het gebruik van relationele operatoren, Booleaanse operatoren, ingebouwde functies zoals `abs()`, `max()`, `min()`, `len()`, ...
+
+Geraak je er niet meteen uit, dan heb je misschien één van de nodige onderwerpen nog niet behandeld gezien in de video’s, kijk dan even verder.
+
+Na het maken van deze oeningen zullen de begrippen relationele operator, takenlijst, indentatie en booleaanse waarde geen geheimen meer hebben.
+
+Je kan al deze oefeningen oplossen na het bekijken van de video’s tem 27.
+
+### `while`-lus
+
+Oefeningen die je aanleren om vlot te werken met de eerste van 2 lussen; namelijk de `while`-lus.
+
+Zoals je in de videoreeks leert kan de `while`-lus altijd gebruikt worden. 
+Men hoeft op voorhand niet te weten hoe vaak een herhaling zal worden uitgevoerd.
+
+Zoals je zag in de videoreeks, sluit de `while`-lus heel goed aan bij het `if`-statement. 
+Beiden starten met een booleaanse expressie!
+
+Regelmatig moeten waarden op het scherm verschijnen, zonder dat die steeds op een nieuwe regel verschijnen. Daarvoor zal je de keyword argumenten sep en end, die horen bij de functie print() moeten gebruiken.
+
+Je kan al deze oefeningen oplossen na het bekijken van de video’s tem 29.
+
+### `for`-lus
+
+Oefeningen die je aanleren om vlot te werken met de eerste van 2 lussen; namelijk de `for`-lus.
+
+Zoals je in de videoreeks leert is de `for`-lus bruikbaar wanneer je op voorhand weet hoe vaak een herhaling zal worden uitgevoerd.
+
+Of wel omdat je het op voorhand vastlegt, ofwel om dat je beschikbare collectie gebruikt.
+
+Je kan al deze oefeningen oplossen na het bekijken van de video’s tem 32.
+
+### Werken met `strings`
+
+Oefeningen die je aanleren om vlot manipulaties te kunnen uitvoeren op waarden van het datatype string.
+
+Slicing, `len()`, ...
+
+Voorlopig zijn er geen video’s beschikbaar die de nodige kennis overbrengen, al zitten ze wel in de pijplijn.
+
+Deze oefeningen kunnen klassiek opgelost worden (zonder het gebruik van string-methodes), al is het vaak makkelijker om wel string-methodes te gebruiken. Leerkrachten kunnen zowel een model-oplossing met en zonder string-methodes terugvinden.
+
+Wil je verder doen met de oefeningen uit deze reeks, schakel dan over naar het boek “De programmeursleerling” van Prof. Spronck. Zijn boek (pdf) is gratis downloadbaar via zijn “[website](http://spronck.net/pythonbook/dutchindex.xhtml)”. Na het doornemen van hoofdstuk 10, ben je in staat om de oefeningen uit deze reeks te maken.
+
+### Werken met `lists`
+
+Oefeningen die je aanleren om vlot manipulaties te kunnen uitvoeren op waarden van het datatype list.
+
+Slicing, `len()`, ...
+
+List methodes zoals `append()`, `extend()`, `pop()`, ...
+
+Voorlopig zijn er geen video’s beschikbaar die de nodige kennis overbrengen.
+
+Wil je verder doen met de oefeningen uit deze reeks, schakel dan over naar het boek “De programmeursleerling” van Prof. Spronck. Zijn boek (pdf) is gratis downloadbaar via zijn “[website](http://spronck.net/pythonbook/dutchindex.xhtml)”. 
+Na het doornemen van hoofdstuk 12, ben je in staat om de oefeningen uit deze reeks te maken.
+
+### 2D lijsten
+
+We zien 2D lijsten als een uitbreiding op de gewone lijst.
+
+Een 2D lijst, is een lijst die bestaat uit lijsten.
+
+Een wiskundige matrix, kan makkelijk gemodelleerd worden adhv 2D lijsten.
+
+Voorlopig zijn er geen video’s beschikbaar die de nodige kennis overbrengen.
+
+Wil je verder doen met de oefeningen uit deze reeks, schakel dan over naar het boek “De programmeursleerling” van Prof. Spronck. Zijn boek (pdf) is gratis downloadbaar via zijn “[website](http://spronck.net/pythonbook/dutchindex.xhtml)”. 
+Na het doornemen van hoofdstuk 12, ben je in staat om de oefeningen uit deze reeks te maken.
+
+Dit hoofdstuk nam je reeds door voor de oefeningenreeks over lijsten, een 2D lijst is slechts een kleine uitbreiden van de lijst.
+
+### Sets
+
+Deze oefeningen leren je werken met het datatype set.
+
+Voorlopig zijn er geen video’s beschikbaar die de nodige kennis overbrengen.
+
+Wil je verder doen met de oefeningen uit deze reeks, schakel dan over naar het boek “De programmeursleerling” van Prof. Spronck. Zijn boek (pdf) is gratis downloadbaar via zijn “[website](http://spronck.net/pythonbook/dutchindex.xhtml)”. 
+Na het doornemen van hoofdstuk 14, ben je in staat om de oefeningen uit deze reeks te maken.
+
+### Dictionaries
+
+Je leert werken met waarden van het datatype dictionary (dict).
+
+Voorlopig zijn er geen video’s beschikbaar die de nodige kennis overbrengen.
+
+Wil je verder doen met de oefeningen uit deze reeks, schakel dan over naar het boek “De programmeursleerling” van Prof. Spronck. Zijn boek (pdf) is gratis downloadbaar via zijn “[website](http://spronck.net/pythonbook/dutchindex.xhtml)”. 
+Na het doornemen van hoofdstuk 13, ben je in staat om de oefeningen uit deze reeks te maken.
+
+### Verder oefenen
+
+...

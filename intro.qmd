@@ -4,32 +4,69 @@
 
 `Wetenschappelijke Methodiek` is een vervolg op LAB$^2$, maar breekt met de eerdere invulling in de tweede graad. 
 Verwacht je aan een abstracter niveau met veel aandacht voor [softskills](https://nl.wikipedia.org/wiki/Softskills). 
+We verheven ons hiervoor tot de *metawetenschap*. 
 
-> De wetenschappelijke methode gebruikt een stap-voor-stap logisch proces. 
-> Het maakt gissen overbodig en geeft je een methode om feiten en gegevens te verzamelen 
-> om je theorie of hypothese te bewijzen of te ontkrachten.
-> -- [Albert Einstein](https://nl.wikipedia.org/wiki/Albert_Einstein)
+LAB$^2$ is onderdeel van het vakdomein ***STEM***, of voluit *Science Technology and Mathematics*. 
+Waarom wordt er zo de nadruk gelegd op STEM? 
+Er is immers altijd een tekort aan ingenieurs. 
+STEM is een uit de Verenigde Staten overgewaaide term, vroeger gekend als ***Bèta-studies***. 
+De tegenpool van STEM of Bèta zijn de ***Alpha-studies***. 
+Neem het begrip tegenpool maar serieus, want vaak uit dit zich in afgescheiden domeinen. 
+Kijk maar naar ons onderwijssysteem.
 
-onderzoekscompetenties
+Het grootste verschil tussen Alpha en Bèta is hoe kwantificeerbaar sommige dingen zijn. 
+Bij Alfa-studies gaat het er vooral om dat je de leerstof begrijpt en hoe concepten zich tot elkaar verhouden, wat op zich al een wetenschap is. 
+Niet alles is of moet kwantificeerbaar zijn en antwoorden en opdrachten bevinden zich op een spectrum. 
+Voor Bèta-studenten zou dit betekenen dat je op spectaculaire wijze zou zakken voor je vakken. 
+Er is geen spectrum van begrip, er is alleen wiskunde. 
+En omdat wiskunde exact is en de uitkomsten meetbaar, drillen de studies je om die ene uitkomst te bereiken die acceptabel is. 
 
-verschillende stappen om tot een goed onderzoek te komen
+Tot nu. 
 
-- bronnenmateriaal vinden + toetsen op betrouwbaarheid + citeren
 
-- onderzoeksvraag
+## Onderzoek(er) of wetenschap(per)?
 
-- onderzoeksmethoden
+*Wetenschappelijke Methodiek* rijkt je de hulpmiddelen om zelf aan goed wetenschappelijk onderzoek te doen. 
+Je wordt tot op heden immers niet geboren als wetenschapper noch als onderzoeker, maar wel gevormd. 
+En die vorming is een proces, een feedbackloop of *cyclus*, van werken-beoordelen-verbeteren-verder werken [@oost2002_voorbereiden]. 
+Om jezelf te verbeteren als Bèta-wetenschapper verlangt dit het toetreden van het domein van de Alpha-wetenschap, met als summum de *metawetenschap*. 
 
-- communiceren = rapporteren + delen
+> Een wetenschapper is doorgaans een type onderzoeker, maar niet elke onderzoeker is per se een wetenschapper, 
+> vooral als het onderzoek zich niet strikt richt op het toepassen van wetenschappelijke methoden en principes.
+
+Een goede onderzoeker omvat drie peilers: *kennis*, *kunde*, en *houding*.
+
+> "*Ware kennis is weten dat je niets weet.*" 
+
+Het benadrukt het besef van onze beperkte kennis en het belang van nederigheid in het streven naar wijsheid. 
+Het impliceert dat het erkennen van de grenzen van onze *kennis* de eerste stap is naar het vergroten ervan. 
+
+
+> "*Wijsheid is weten wat te doen met wat je weet.*"
+
+Ware wijsheid bestaat niet alleen uit het vergaren van kennis, maar ook uit het begrip van hoe die kennis effectief toe te passen in verschillende situaties: *kunde*. 
+Het erkennen van de grenzen van onze kennis, zoals in het gezegde van Socrates, kan dus de weg vrijmaken voor het ontwikkelen van wijsheid door bewust en doelgericht gebruik van wat we weten.
+
+> "*De echte wetenschapper heeft geen vaststaande overtuigingen, maar alleen hypotheses omver te werpen.*"
+
+Wetenschappelijke vooruitgang berust op openheid, flexibiliteit en de bereidheid om bestaande ideeën en hypothesen in twijfel te trekken. 
+Echte wetenschappelijke vooruitgang vindt plaats wanneer onderzoekers bereid zijn om hun eigen overtuigingen te herzien in het licht van nieuw bewijs of nieuwe inzichten. 
+Het weerspiegelt een houding van voortdurende nieuwsgierigheid en de erkenning dat wetenschappelijke kennis voortdurend evolueert.
 
 
 ## Methode of methodiek?
 
 Het verschil tussen methoden en methodieken ligt in het niveau van abstractie en toepassing.
 
-**Methoden** verwijzen naar specifieke procedures, technieken of stappen die worden gebruikt om een bepaald doel te bereiken. Het zijn concrete en gedetailleerde benaderingen die worden toegepast binnen een bepaald vakgebied of domein. Een methode kan bijvoorbeeld een statistische analysemethode zijn, een laboratoriumtechniek of een interviewprotocol. Methoden zijn praktische instrumenten die worden gebruikt om specifieke taken uit te voeren.
+**Methoden** verwijzen naar specifieke procedures, technieken of stappen die worden gebruikt om een bepaald doel te bereiken. 
+Het zijn concrete en gedetailleerde benaderingen die worden toegepast binnen een bepaald vakgebied of domein. 
+Een methode kan bijvoorbeeld een statistische analysemethode zijn, een laboratoriumtechniek of een interviewprotocol. 
+Methoden zijn praktische instrumenten die worden gebruikt om specifieke taken uit te voeren.
 
-Aan de andere kant hebben **methodieken** betrekking op bredere raamwerken of systemen van methoden die worden toegepast in een bepaalde context. Een methodologie is een meer overkoepelende en conceptuele benadering die richtlijnen, principes en strategieën biedt voor het gebruik van verschillende methoden om een specifiek doel te bereiken. Het omvat vaak een reeks richtlijnen, procedures en regels die worden toegepast op een bepaald domein of onderzoeksgebied. Een methodologie kan bijvoorbeeld de wetenschappelijke methode zijn, een kwalitatieve onderzoeksbenadering zoals fenomenologie, of een projectmanagementmethodologie zoals Agile of Waterfall.
+Aan de andere kant hebben **methodieken** betrekking op bredere raamwerken of systemen van methoden die worden toegepast in een bepaalde context. 
+Een methodologie is een meer overkoepelende en conceptuele benadering die richtlijnen, principes en strategieën biedt voor het gebruik van verschillende methoden om een specifiek doel te bereiken. 
+Het omvat vaak een reeks richtlijnen, procedures en regels die worden toegepast op een bepaald domein of onderzoeksgebied. 
+Een methodologie kan bijvoorbeeld de wetenschappelijke methode zijn, een kwalitatieve onderzoeksbenadering zoals fenomenologie, of een projectmanagementmethodologie zoals Agile of Waterfall.
 
 Kort gezegd: methoden zijn de specifieke tools en technieken die worden gebruikt om taken uit te voeren, terwijl methodieken bredere raamwerken en systemen van methoden zijn die worden toegepast binnen een bepaalde context om een specifiek doel te bereiken. Methodieken bieden richtlijnen en strategieën voor het gebruik van methoden in een samenhangende en gestructureerde manier.
 
@@ -55,6 +92,21 @@ gantt
         Project 2 : crit, proj2, after v4, 6w
         Functionality added : milestone, 2024-06-01, 0d
 ```
+:::
+
+
+::: {.hidden}
+onderzoekscompetenties
+
+verschillende stappen om tot een goed onderzoek te komen
+
+- bronnenmateriaal vinden + toetsen op betrouwbaarheid + citeren
+
+- onderzoeksvraag
+
+- onderzoeksmethoden
+
+- communiceren = rapporteren + delen
 :::
 
 Soft-skills:

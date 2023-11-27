@@ -6,8 +6,15 @@
 <https://evolution.berkeley.edu/nature-of-science/science-is-a-process/>
 -->
 
+
 De wetenschappelijke methode is een systematische benadering die wordt gebruikt in de wetenschap om kennis te vergaren, hypothesen te testen en de natuurlijke wereld te begrijpen. 
-Het omvat een reeks kernprincipes die wetenschappers volgen om betrouwbare en objectieve resultaten te verkrijgen.
+Het omvat een reeks kernprincipes die wetenschappers volgen om betrouwbare en objectieve resultaten te verkrijgen. 
+
+> De wetenschappelijke methode gebruikt een stap-voor-stap logisch proces. 
+> Het maakt gissen overbodig en geeft je een methode om feiten en gegevens te verzamelen 
+> om je theorie of hypothese te bewijzen of te ontkrachten.
+> -- [Albert Einstein](https://nl.wikipedia.org/wiki/Albert_Einstein)
+
 Vertrekkend vanuit hypotheses trekken wetenschappers conclusies op basis van empirische gegevens. 
 Deze gegevens worden op grote schaal gevalideerd en houden rekening met de intrinsieke variabiliteit van de echte wereld. 
 Voor mensen die niet vertrouwd zijn met het jargon en de formaliteiten, kan wetenschap [esoterisch](https://nl.wikipedia.org/wiki/Esoterie) lijken. 
@@ -23,7 +30,8 @@ Zonder training in logisch redeneren zijn gemakkelijker het slachtoffer van vert
 > Er bestaat niet zoiets als "DE wetenschappelijke methode".
 
 Er bestaat geen universele overeenstemming over wat dé wetenschappelijke methode inhoudt. 
-Toch zijn er bepaalde kernprincipes die vandaag de dag de basis vormen van wetenschappelijk onderzoek.
+Toch zijn er bepaalde kernprincipes die vandaag de dag de basis vormen van wetenschappelijk onderzoek. 
+
 
 ## De 7 kernprincipes
 

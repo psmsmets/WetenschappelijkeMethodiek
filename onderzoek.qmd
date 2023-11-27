@@ -1,20 +1,28 @@
 # Onderzoek {#sec-onderzoek}
 
-[Dit hoofdstuk is nog in opbouw]
-
-::: {.hidden}
-<!--
 
 > If you know how it's going to turn out, it's not science, it's engineering
 > -- [Albert Einstein](https://nl.wikipedia.org/wiki/Albert_Einstein)[^1]
 
 [^1]: Volgens @Levitin2019. Het "oorsprongelijke" citaat van Albert Einstein (vertaald naar Engels) luidt: "*Scientists investigate that which already is; engineers create that which has never been.*".
 
+
+[Dit hoofdstuk is nog in opbouw]
+
+::: {.hidden}
+
+Onderzoek 
+
+
+<!--
+
+
 <https://en.wikipedia.org/wiki/Research>
 
 4 fasen: <https://nl.wikipedia.org/wiki/Literatuuronderzoek>
 
 -->
+
 
 ## Onderzoeksvraag
 
@@ -353,9 +361,5 @@ digraph "De cyclus van wetenschappelijk onderzoek" {
 ```
 
 De stappen geven het algemene proces weer; ze moeten echter worden gezien als een voortdurend veranderend en iteratief proces in plaats van een vaste reeks stappen.
-
-[@Ritchie2020]
-
-[@Levitin2019]
 
 :::
