@@ -1,6 +1,1 @@
 \providecommand{\Pageref}[1]{\hfill p.\pageref{#1}}
- [**Voorbeeld 2.1**](bronnen.qmd#diederik-stapel): Diederik Stapel\Pageref{diederik-stapel}
-
- [**Voorbeeld 2.2**](bronnen.qmd#korte-referentie-in-tekst): Korte referentie in tekst\Pageref{korte-referentie-in-tekst}
-
- [**Voorbeeld 2.3**](bronnen.qmd#volledige-referentie-in-de-bibliografie): Volledige referentie in de bibliografie\Pageref{volledige-referentie-in-de-bibliografie}

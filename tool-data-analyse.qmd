@@ -1,5 +1,9 @@
 # Python voor data-analyse {#sec-tool-python}
 
+[Dit hoofdstuk is nog in opbouw]
+
+::: {.hidden}
+
 Python, R of Julia. Elk heeft zijn eigen voordeel.
 Elk zijn *high-level general-purpose* programmeertalen, volledig gratis (vrije software!), met een grote gebruikersgemeenschap (= documentatie).
 
@@ -16,7 +20,8 @@ Integratie met **Informaticawetenschappen** (leerplan!).
 
 Python tutorial gebaseerd op <https://wesmckinney.com/book/preface.html>
 
-::: {.callout-note title="Alternatieve programmeertalen voor data-analyse"}
+
+#::: {.callout-note title="Alternatieve programmeertalen voor data-analyse"}
 Naast [Python](https://www.python.org) kan je gerust ook een andere programmeertaal gebruiken, zoals bijvoorbeeld [Julia](https://julialang.org) of [R](https://www.r-project.org). 
 
 Een bepalende factor is vaak je opleiding, vakgebied en werkomgeving maar ook de toepassing.
@@ -27,7 +32,7 @@ Handleidingen voor praktisch programmeren:
   * [Python for Data Analysis](https://wesmckinney.com/book/)
   * [R for Data Science](https://r4ds.hadley.nz)
 
-:::
+#::: {.hidden}
 
 
 ## Python interpreters
@@ -182,3 +187,5 @@ Na het doornemen van hoofdstuk 13, ben je in staat om de oefeningen uit deze ree
 ### Verder oefenen
 
 ...
+
+:::

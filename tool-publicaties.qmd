@@ -1,17 +1,25 @@
 # LaTeX voor publicaties {#sec-tool-latex}
 
-[Dit hoofdstuk is nog in opbouw]
+{{< latex >}} (uitgesproken als "LAY-tek" of "LAH-tek") is een programma voor het vormgeven van professioneel ogende documenten. 
+De werkwijze van {{< latex >}} is echter heel anders dan die van veel andere programma's voor het maken van documenten die je misschien hebt gebruikt, zoals Microsoft Word of LibreOffice Writer: deze "WYSIWYG"-programma's bieden gebruikers een interactieve pagina waarin ze hun tekst typen en bewerken en verschillende vormen van opmaak toepassen. 
+
+{{< latex >}} werkt heel anders: in plaats daarvan is je document een gewoon tekstbestand doorspekt met LaTeX-commando's die worden gebruikt om de gewenste (getypte) resultaten uit te drukken. 
+Om een zichtbaar, getypt document te produceren, wordt je LaTeX-bestand verwerkt door een stuk software dat een TeX-engine wordt genoemd. 
+Deze gebruikt de opdrachten die in je tekstbestand zijn ingebed om het zetproces te sturen en te controleren, waarbij de LaTeX-opdrachten en de tekst van het document worden omgezet in een professioneel getypt PDF-bestand. 
+Dit betekent dat je je alleen hoeft te concentreren op de inhoud van je document en dat de computer, via LaTeX-commando's en de TeX engine, zorgt voor het visuele uiterlijk (opmaak).
+
+
+
+Wij maken gebruik van de online plaform [Overleaf](https://www.overleaf.com), wat meer is dan enkel een online Tex-engine.
+
+Overleaf is een cloud-gebaseerde {{< latex >}} editor die gebruikt wordt voor het schrijven, bewerken en publiceren van wetenschappelijke documenten. 
+Het werkt samen met een groot aantal wetenschappelijke uitgevers om officiële LaTeX-sjablonen voor tijdschriften en directe koppelingen naar indiening te bieden.
+
+ *  [Leer LaTeX in 30 minuten](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+ *  [Handleidingen](https://www.overleaf.com/learn/latex/Tutorials)
+
 
 ::: {.hidden}
-
-Online editor: <https://www.overleaf.com>
-
-{{< latex >}}
-
-
-
-<https://www.overleaf.com/learn/latex/Tutorials>
-<https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes>
 
 ```{.latex}
 \documentclass{article}

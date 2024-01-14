@@ -98,5 +98,247 @@ Indienen:
 1.  Geef het bestand jouw naam (`voornaam familienaam`).
 
 De deadline voor het indienen van de opdracht wordt nog afgesproken.
+:::
+
+
+::: Exercise
+#### Tekstopmaak met LaTeX in Overleaf
+In de academische wereld wordt vooral gebruik gemaakt van {{< latex >}} voor het schrijven, bewerken en publiceren van wetenschappelijke documenten.
+
+##### Voorbereiden
+ 
+(@) Ga naar [Overleaf](https://www.overleaf.com)
+(@) Registreer je met je Spijker-gmail of login.
+
+Als introductie doorlopen we handleiding [Leer LaTeX in 30 minuten](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes). 
+Voor een Nederlandse vertaling kan je gebruik maken van [Deepl](https://www.deepl.com/translator) of [Google Translate](https://www-overleaf-com.translate.goog/learn/latex/Learn_LaTeX_in_30_minutes?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=nl&_x_tr_pto=wapp).
+
+(@) Start een nieuw "Blank" project in Overleaf.
+    Geef het de naam "Wetenschappelijke Methodiek - Opdracht 5".
+(@) Pas de instellingen zodat de {{< latex >}} code automatisch gecompileerd wordt (`Auto Compile = on`).
+
+##### Preamble
+
+(@) Bestudeer de "preamble" (het "technische voorwoord" van je {{< latex >}} document):
+    -   Wat is de `\documentclass` (het type document)?
+    -   Verander de `\documentclass` een voor een naar `letter|book|report`.
+        Wat merk je op?
+    -   Zet de `documentclass` terug naar de beginwaarde.
+    -   Alle instellingen (en uitbreidingen) van het document staan na `\documentclass` en voor `\begin{document}`.
+(@) Geef het document een aangepaste titel.
+(@) Toon de volledige datum van vandaag (dag maand jaar).
+(@) Laat {{< latex >}} nu zelf de datum van vandaag invullen met het commando `\today`.
+    Wat merk je aan het formaat van de datum?
+
+**Nederlandse omgeving:**
+
+(@) Maak gebruik van het pakket `babel` om de taal van de {{< latex >}} omgeving in te stellen. 
+    Voeg `\usepackage[dutch]{babel}` net onder het pakket `\usepackage{graphicx}`.
+
+##### Introductie
+
+Werk nu in het tekstgedeelte, tussen de tags `\begin{document}` en `\end{document}`.
+De inhoud mag je zelf even kiezen, of voor een keer ergens vandaan halen of laten genereren.
+Houd in dat geval de bron wel bij (plaats de afkomst dan als `commentaar` vlak boven of onder de tekst).
+
+**Tekst:**
+
+(@) Voeg eerst een regel commentaar toe (bv. `% Hier volgt de introductie ...`). Wat merk je bij het compileren?
+(@) Voeg een paragraaf toe aan de introductie (minstenst 3 zinnen). Maak daarbij gebruik van de specifieke opmaak:
+    -   onderlijnen
+    -   vet
+    -   cursief
+(@) Voeg een nieuwe paragraaf toe. Je start dus op een **nieuwe regel**.
+    -   Op welke manieren kan je een nieuwe regel en paragraaf starten?
+    -   Wat merk je aan de uitlijning van de eerste zin?
+(@) Voeg nog een paragraaf toe (start dus weer op een nieuwe regel), maar start deze met `\noindent`. Wat merk je op?
+(@) Voeg nu de instelling `\setlength{\parindent}{0pt}` in de preamble. Wat merk je nu op?
+(@) Deactiveer de vorige instelling door de regel uit te commentariëren `%\setlength{\parindent}{0pt}`.
+    Zet in commentaar (erachter of ervoor) wat deze instelling juist doet.
+
+**Afbeelding met onderschrift, labels en verwijzingen:**
+
+(@) Voeg een afbeelding toe.
+    -   De uitlijning is gecentreerd.  
+    -   De breedte van de afbeelding is 3/4 van regelbreedte.
+    -   Geef een bijhorend onderschrift (`\caption{...}`) en label (`\label{fig:intro}`).
+        Start de naam van je label effectief met `fig:`. Zo weet je direct dat het om een figuur gaat. 
+(@) Start een nieuwe paragraaf onder het figuur (dus na `\end{figure}`).
+    Maak in die paragraaf een verwijzing naar je figuur: `figuur~\ref{fig:intro}`.
+    Gebruik de tilde om te forceren dat het woord `figuur` en de bijhorende referentie steeds bij elkaar blijven op een tekstregel.
+
+Je kan gerust [meer lezen](https://en.wikibooks.org/wiki/LaTeX/Labels_and_Cross-referencing) over labels en refereren in {{< latex >}}.
+
+
+##### Je favoriete recept
+
+We gaan verder met opsommingen en lijsten, in een nieuwe sectie.
+
+(@) Start een nieuwe sectie genaamd **Mijn favoriete recept: ...**. 
+    Vervang `\ldots` gerust door de naam van je recept. 
+    Geef de sectie ook meteen een gepast label.
+
+    ```latex
+    \section{Mijn favoriete recept: \ldots}
+    \label{sec:recept}
+    ```
+
+(@) We starten het recept met een korte toelichting. Wat is het? Waarom heb je dit gekozen. Een paragraaf moet volstaan.
+(@) Voeg een afbeelding toe (volledige lijnbreedte met `\label{fig:recept}`) voorzien van een gepast onderschrift.
+
+**Ingrediënten:**
+
+(@) Start met een subsectie.
+
+    ```latex
+    \subsection{De ingrediënten}
+    \label{subsec:recept:wat}
+    ```
+
+(@) Start een ongenummerde lijst om de ingrediënten op te sommen.
+
+    ```latex
+    \begin{itemize}
+        \item 1 vers ei
+        \item 100~g bloem
+        \item 250~ml melk
+        \item 15~g boter
+        \item een snuifje zout
+    \end{itemize}
+    ```
+
+Pas uiteraard de ingrediënten en hoeveelheden aan naar jouw recept.
+
+**Werkwijze:**
+
+(@) Start een nieuwe subsectie.
+
+    ```latex
+    \subsection{Werkwijze}
+    \label{subsec:recept:hoe}
+    ```
+
+(@) Start een genummerde lijst om de stappen in juiste volgorde op te sommen.
+
+    ```latex
+    \begin{itemize}
+        \item Maak het deeg:
+        \begin{itemize}
+            \item Smelt de boter in de magnetron.
+            \item Breek het ei en doe het in een blender. Zorg dat er geen schaal bij zit.
+            \item Voeg eerst de melk en vervolgens de bloem, het zout toe en de gesmolten boter toe.
+            \item Mix kort op hoge snelheid tot je een glad geheel krijgt.
+        \end{itemize}
+        \item Bakken:
+        \begin{itemize}
+            \item Plaats een bord in de oven op 80~$^\circ$C.
+            \item Verwarm de pan op een middelhoog vuur.
+            \item Giet het deeg in de pan. \label{itm:recept:herhaling}
+            \item Laat bakken toe de randjes lichtbruin worden.
+            \item Draai de pannenkoek om.
+            \item Laat bakken tot de pannenkoek goudbruin is.
+            \item Plaats de pannenkoek in de oven. Ga terug naar stap \ref{itm:recept:herhaling} totdat het deeg op is.
+            \item Laat het smaken!
+        \end{itemize}
+    \end{itemize}
+    ```
+
+Pas uiteraard de stappen en tekst aan naar jouw recept.
+
+##### Vergelijkingen
+
+Wiskundige vergelijkingen is een van de troeven van {{< latex >}}. Twee veelgebruikte pakketten die net wat extra functionaliteit bieden zijn `amsmath` en `amssymb` van de *American Mathematical Society*.
+De handleiding bij uitstek is de [Short Math Guide for {{< latex >}}](http://www.ams.org/tex/short-math-guide.html).
+
+(@) Voeg een sectie toe waarin we de verschillende wiskunde-modi gaan uitproberen. Geef deze sectie ook het gepaste label.
+
+    ```latex
+    \section{Geïntegreerde wiskundige formules en weergegeven vergelijkingen}
+    \label{sec:math}
+    ```
+
+**Geïntegreerde wiskundige formules:**
+
+(@) Voeg een paragraaf toe met minstens drie formules in de tekst. 
+    Maak gebruik van de drie verschillende manieren om een formule met de inline-mode te definiëren. 
+    Formules in de tekst zijn steeds ongenummerd. 
+    Bovendien beperkt de lijnhoogte de grootte van de formule (toch als je geen afbreuk wilt doen aan de layout). 
+    Deze modus is hoofdzakelijk voor het introduceren van variabelen, constanten of beperkte "formules".
+
+**Weergegeven vergelijkingen:**
+
+Het alternatief is de display-mode, waarbij de vergelijking, zowel genummerd als ongenummerd, gescheiden is van de tekst. Zoals aangegeven is dit de norm voor vergelijkingen. Je bent daarbij quasi onbeperkt wat betreft de grootte (zeker als je het gebruik van meerdere regels en pagina's toelaat).
+
+(@) Voeg de AMS pakketten toe aan de preamble:
+
+    ```latex
+    \usepackage{amssymb,amsmath}
+    ```
+
+(@) Voorzie een tekst met minstens drie vergelijingen in display-mode.
+    Maak gebruik van de drie verschillende manieren om een vergelijking te definiëren en dit zowel genummerd als ongenummerd.
+
+(@) Label de genummerde vergelijking en voeg een referentie toe in een bindzin.
+
+    ```latex
+    \begin{equation}
+    E_0 = m c^2
+    \label{eq:rustenergie}
+    \end{equation}
+    Vergelijking \eqref{eq:rustenergie} is de correcte notatie van de alomgekende vergelijking van Albert Einstein.
+    ```
+
+##### Referenties
+
+Voeg in je inleiding referenties toe naar de verschillende secties met behulp van `\ref{sec:...}`.
+Verwijs daarbij naar het recept en het onderdeel met de vergelijkingen.
+
+##### Kolommen
+
+We gaan gebruik maken van het pakket `multicol` om de layout aan te passen naar twee kolommen, zoals bij een artikel in een krant of tijdschrift.
+
+(@) Voeg het benodigde pakket toe aan de preamble (voorzien van toelichting wat dit net doet):
+
+    ```latex
+    \usepackage{multicol} % Nodig voor layout met kolommen
+    ```
+
+(@) Start de twee kolommen na de `maketitle`:
+
+    ```latex
+    \maketitle
+
+    % layout in twee kolommen
+    \begin{multicols}[2]
+    
+    % hiertussen staat alles wat je had.
+
+    \end{multicols}
+
+    \end{document}
+    ```
+
+##### Samenvatting
+
+(@) Voeg tot slot een samenvatting toe aan je document. Doe dit net onder je titel en voor de twee kolommen.
+    Op die manier staat de abstractcentraal over de gehele tekstbreedte van je document.
+
+    ```latex
+    \maketitle
+
+    % samenvatting
+    \begin{abstract}
+    [Hier komt de samenvatting.]
+    \end{abstract}
+
+    % layout in twee kolommen
+    \begin{multicols}[2]
+    ...
+    ```
+
+##### Indienen
+
+Upload zowel je bronbestand `.tex` als de compilatie `.pdf` bij SmartSchool in de uploadzone.
 
 :::
+
