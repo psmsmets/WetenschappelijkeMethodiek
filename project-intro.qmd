@@ -248,7 +248,7 @@ Pas uiteraard de stappen en tekst aan naar jouw recept.
 ##### Vergelijkingen
 
 Wiskundige vergelijkingen is een van de troeven van {{< latex >}}. Twee veelgebruikte pakketten die net wat extra functionaliteit bieden zijn `amsmath` en `amssymb` van de *American Mathematical Society*.
-De handleiding bij uitstek is de [Short Math Guide for {{< latex >}}](http://www.ams.org/tex/short-math-guide.html).
+De handleiding bij uitstek is de [Short Math Guide for {{< latex >}}](https://tug.ctan.org/info/short-math-guide/short-math-guide.pdf).
 
 (@) Voeg een sectie toe waarin we de verschillende wiskunde-modi gaan uitproberen. Geef deze sectie ook het gepaste label.
 
