@@ -27,6 +27,7 @@ Peilen naar metakennis over wetenschap.
     {{< video https://youtu.be/zdVOZ8Gbf-c?si=MhBYeUVtSpf-iayz >}}
 :::
 
+
 ::: Exercise
 #### Zoekvaardigheid
 Opwarmer
@@ -44,6 +45,7 @@ Zoekvaardigheid
 *   Vanwaar komt deze naam?
 :::
 
+
 ::: Exercise
 #### Informatiebeheer
 Nu we effectief kunnen zoeken naar informatie gaan we concreet informatie zoeken, selecteren en ordenen. 
@@ -51,43 +53,40 @@ De nadruk ligt in dit geval op het zorgvuldig ordenen en voorbereiden van je inf
 Een zeer belangrijke stap die je nadien heel wat werk kan besparen. 
 We maken hiervoor gebruik van de referentiebeheerder `Zotero` (zie [@sec-tool-zotero]).
 
-Drie wetenschappers met een grote invloed op de wetenschappelijke methode zijn:
+Verschillende wetenschappers hadden een grote invloed op de wetenschappelijke methode. De drie voornaamste van de hedendaagse methode zijn:
 
 *   Francis Bacon (1561-1626), Engels filoof,
 *   Rene Descartes (1596-1650), Frans wiskundige/geograaf/filosoof,
 *   Isaac Newton (1643-1727), Engels astronoom en natuurkundige.
 
-De opdracht luidt als volgt
-: Zoek zoveel mogelijk informatie (met referentie) over wat juist de invloed van de drie bovenstaande wetenschappers was op de wetenschappelijke methode. 
-Verzamel al deze informatie op een correcte manier in `Zotero`.
+De opdracht luidt als volgt:
+: Zoek zoveel mogelijk **wetenschappers** die de wetenschappelijke methode beïnvloed hebben. Geef voor elke wetenschapper het de **bijdrage** en het **jaar** aan. Verzamel al deze informatie op een correcte manier in `Zotero`.
 
 Voorbereiding:
 
 1.  Maak in je `Zotero` bibliotheek een nieuwe verzameling met de naam `Wetenschappelijke Methodiek`.
 1.  Maak in deze verzameling een deelverzameling genaamd `Opdracht 4 - Naam Familienaam` (vul hier je eigen naam in).
-1.  Maak in bovenstaande deelverzameling nog 3 deelverzamelingen met de namen van de 3 wetenschappers.
 
 Verzamelen:
 
-1.  Verzamel minstens **10 bronnen**, direct gerelateerd aan de onderzoeksvraag (minstens 3 bronnen per wetenschapper).
+1.  Verzamel minstens **10 wetenschappers**, met hun bijdrage en het jaar aan de wetenschappelijke methode.
+1.  Verzamel minstens **15 verschillende bronnen**.
 1.  Voeg voor elke bron een **item** toe in je bibliotheek.
     Zorg dat het type zeker correct is.
     Vul zoveel mogelijk gegevens aan over je bron.
-1.  Voorzie minstins **3 verschillende types** van bronnen in je verzameling.
-1.  Werk met **deelverzamelingen per wetenschapper** om je items te ordenen.
+1.  Voorzie minstins **3 verschillende types** van bronnen in je verzameling (bv. webpagina, boek, ...).
 1.  **Koppel een bijlage**, indien mogelijk, aan je item. 
     Wees zo compleet mogelijk. 
-    Bij een webpagina voeg je een pdf-versie toe door deze te printen naar een pdf.
-    Maak gebruik van de [leesmodus](https://www.tomsguide.com/how-to/how-to-enable-reader-mode-in-chrome)
-    om randinformatie in te perken.
+    Sleep een url in Zotero voor het toevoegen van een webpagina.
 1.  Voorzie **elk item** van minstens:
-    + [ ] **2 labels** welke de soort bron aangeven:
+    + [ ] **2 tags** welke de soort bron aangeven:
         - `primair` of `secundair` en
         - `geschreven` / `gesproken` / `iconografisch` / `materiëel`.
+    + [ ] **1 tag** ter indicatie van de periode (eeuw), bv. `1800`.
     + [ ] **1 aantekening** waarbij je de bron evalueert.
         Geef duidelijk aan of de bron volgens jou, al dan niet, geschikt is.
         Maak hiervoor gebruik van de selectiecriteria in @sec-bronnen.
-1.  **Extra (optioneel):** markeer bij geschreven bronnen in de bijlage het antwoord op of de link met de onderzoeksvraag.
+    + [ ] **Markeer de bijdrage van de wetenschapper** bij een geschreven bron en indien de bijlage beschikbaar is en **label** dit met de naam van de wetenschapper.
 
 
 Indienen:
@@ -100,12 +99,15 @@ Indienen:
 De deadline voor het indienen van de opdracht wordt nog afgesproken.
 :::
 
+::: {.hidden}
 
 ::: Exercise
 #### Tekstopmaak met LaTeX in Overleaf
 In de academische wereld wordt vooral gebruik gemaakt van {{< latex >}} voor het schrijven, bewerken en publiceren van wetenschappelijke documenten.
 
 ##### Voorbereiden
+
+::: {}
  
 (@) Ga naar [Overleaf](https://www.overleaf.com)
 (@) Registreer je met je Spijker-gmail of login.
@@ -295,7 +297,7 @@ Verwijs daarbij naar het recept en het onderdeel met de vergelijkingen.
 
 ##### Kolommen
 
-We gaan gebruik maken van het pakket `multicol` om de layout aan te passen naar twee kolommen, zoals bij een artikel in een krant of tijdschrift.
+We gaan gebruik maken van het pakket `multicol` om de layout van het recept aan te passen naar twee kolommen. 
 
 (@) Voeg het benodigde pakket toe aan de preamble (voorzien van toelichting wat dit net doet):
 
@@ -303,20 +305,20 @@ We gaan gebruik maken van het pakket `multicol` om de layout aan te passen naar 
     \usepackage{multicol} % Nodig voor layout met kolommen
     ```
 
-(@) Start de twee kolommen na de `maketitle`:
+(@) Start de twee kolommen na de titel van het recept ``:
 
     ```latex
-    \maketitle
-
-    % layout in twee kolommen
-    \begin{multicols}[2]
+    \begin{multicols}{2} % begin layout in twee kolommen
     
     % hiertussen staat alles wat je had.
 
-    \end{multicols}
-
-    \end{document}
+    \end{multicols} % einde van de twee kolommen
     ```
+
+**Opgelet:** in de de `multicol` omgeving kan je geen standaard figuren of tabellen gebruiken. 
+Hiervoor is speciale code (of dus een pakket) vereist. 
+Zorg er dus voor dat er geen figuur in je kolommen staan.
+
 
 ##### Samenvatting
 
@@ -342,3 +344,90 @@ Upload zowel je bronbestand `.tex` als de compilatie `.pdf` bij SmartSchool in d
 
 :::
 
+:::
+
+::: Exercise
+#### Onderzoeksbrief
+
+Schrijf een onderzoeksbrief (research letter) over een van volgende toepassingen (of aanverwanten) aan elektromagnetische toepassingen, volgens de wetenschappelijke norm.
+
+### Onderwerpen
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+  - HDD (hard disk drive),
+  - LHC (Large Hadron Collidor),
+  - MRI (magnetic resonance imaging),
+  - NFC (Near-Field Communication),
+  - RFID (radiofrequency identification),
+  - WPT (Wireless Power Transfer) of WET (Wireless Energy Transmission),
+  - Draadloos opladen,
+
+:::
+
+::: {.column width="50%"}
+
+  - Transformator,
+  - Alternator,
+  - Condensator,
+  - Diode,
+  - Gitaarelement.
+  - Luidspreker,
+  - Metaaldetector,
+
+:::
+
+::::
+
+### Template
+
+De tekstverwerker is {{< latex >}}. 
+Je maakt je document online met [Overleaf](https://www.overleaf.com). 
+
+Voor de layout maken we gebruik van de *APA7 stijl*. 
+Er is een [template](https://github.com/psmsmets/WetenschappelijkeMethodiek-LaTeX-template) om jullie alvast op weg te zetten. 
+[Download](https://github.com/psmsmets/WetenschappelijkeMethodiek-LaTeX-template/archive/refs/heads/main.zip) de apa7 template voor Wetenschappelijke Methodiek.
+
+Start een `nieuw project` in Overleaf en upload het `.zip` bestand. 
+De template bevat alle vaste onderdelen en voorbeelden voor het gebruik van tabellen, figuren en citeren/refereren.
+
+
+### Criteria
+
+De vorm van de onderzoeksbrief is vastgelegd en heeft een *duidelijke structuur* bestaande uit een *inleiding*, *midden* (theorie, werking, toepassing, ...) en *slot* (conclusie).
+
+Er zijn **3 verplichte elementen** voor de inhoud:
+
+1.  geschiedenis/ontdekking/oorsprong,
+1.  duidelijke link naar grootheden en formules van het thema elektromagnetisme van fysica,
+1.  (praktische) toepassing of gebruik.
+
+Daarnaast dien je minstens **3 kernwoorden** op te geven.
+
+Zorg voor een **duidelijke bronvermelding**, zoals het hoort, georganiseerd door Zotero! 
+Elke referentie die je gebruikt moet in Zotero staan. 
+
+  - Werk in een nieuwe map in je bibliotheek (wetenschappelijk methodiek > je onderwerp ). Je mag daarin gerust deelmappen maken.
+  - Voeg bronnen toe als bestand (website printen naar pdf en bijvoegen)
+  - Gebruik
+      * labels (bv. introductie, werking, toepassing, ...), zowel voor concrete referenties als specifieke elementen in de tekst
+      * notities
+      * Laat gerust niet gebruikte bronnen staan in de bibliotheek
+
+Heb je hulpmiddelen gebruikt?
+Geef dit dan duidelijk aan op het einde bij de bedankingen (`wat + waar`).
+
+De lengte van de onderzoeksbrief bedraagt 8PU (Publicate-eenheden):
+$$ 8\,\text{PU} = \dfrac{\#\text{woorden}}{400} + \#\text{figuren} + \#\text{tabellen}.$$
+De samenvatting, referenties en bedankingen tellen niet mee voor het aantal woorden. 
+Te veel eenheden kost je ook punten!
+    
+### Indienen: maandag 20 mei 2024
+
+Upload je documenten op Smartschool tegen maandag 20 mei 2024: PDF + `.zip` met {{< latex >}} bronbestanden Zotero bibliotheek (met aantekeningen).
+
+:::
+
+:::

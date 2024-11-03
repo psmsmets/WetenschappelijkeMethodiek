@@ -6,8 +6,9 @@
 <https://evolution.berkeley.edu/nature-of-science/science-is-a-process/>
 -->
 
+## Een methode
 
-De wetenschappelijke methode is een systematische benadering die wordt gebruikt in de wetenschap om kennis te vergaren, hypothesen te testen en de natuurlijke wereld te begrijpen. 
+*De wetenschappelijke methode* is een systematische benadering die wordt gebruikt in de wetenschap om kennis te vergaren, hypothesen te testen en de natuurlijke wereld te begrijpen. 
 Het omvat een reeks kernprincipes die wetenschappers volgen om betrouwbare en objectieve resultaten te verkrijgen. 
 
 > De wetenschappelijke methode gebruikt een stap-voor-stap logisch proces. 
@@ -30,8 +31,11 @@ Zonder training in logisch redeneren zijn gemakkelijker het slachtoffer van vert
 > Er bestaat niet zoiets als "DE wetenschappelijke methode".
 
 Er bestaat geen universele overeenstemming over wat dé wetenschappelijke methode inhoudt. 
-Toch zijn er bepaalde kernprincipes die vandaag de dag de basis vormen van wetenschappelijk onderzoek. 
+Toch zijn er bepaalde kernprincipes die vandaag de dag de basis vormen van wetenschappelijk onderzoek.
 
+## Misvattingen
+
+Veel voorkomende misvattingen over de wetenschappelijke methode zijn onder andere dat wetenschap absolute waarheden levert, dat er één vaste werkwijze bestaat, of dat wetenschap enkel feiten presenteert zonder interpretatie. In werkelijkheid is de wetenschappelijke methode een proces van voortdurende toetsing en herziening, waarbij nieuwe inzichten oude theorieën verfijnen of vervangen. Het doel is om modellen en verklaringen te ontwikkelen die de werkelijkheid steeds beter benaderen, in plaats van één keer "de waarheid" vast te stellen.
 
 ## De 7 kernprincipes
 
@@ -41,10 +45,10 @@ digraph "De 7 elementen van de wetenschappelijke methode" {
   layout = twopi;
   fontname = "Source Sans Pro";
   fontsize = 16;
-  normalize = true;
+  normalize = false;
 
   graph [ranksep=3]
-  node [fontname = "Source Sans Pro", colorscheme=blues7, color = transparent, style = filled, shape = circle, width=1.8, height=1.8];
+  node [fontname = "Source Sans Pro", colorscheme=blues7, color=transparent, style=filled, shape=circle, width=1.8, height=1.8];
 
   // Title node
   title [label = "Wetenschappelijke Methode", shape = none, fontname = "Source Sans Pro", fontsize = 20];
@@ -71,38 +75,135 @@ digraph "De 7 elementen van de wetenschappelijke methode" {
 ```
 :::
 
- Over het algemeen bestaat de wetenschappelijke methode uit de volgende elementen:
 
-1. **Observatie:** Waarnemen van een fenomeen of verschijnsel en het stellen van een vraag over hoe of waarom dit gebeurt.
-1. **Hypothese:** Formuleren van een verklaring of een voorlopige antwoord op de vraag die gebaseerd is op bestaande kennis en logisch redeneren.
-1. **Voorspelling:** Afleiden van specifieke voorspellingen uit de hypothese die getest kunnen worden.
-1. **Experiment:** Ontwerpen en uitvoeren van gecontroleerde experimenten om de voorspellingen te testen. Het experiment moet zorgvuldig worden opgezet, met controlevariabelen en experimentele groepen, om nauwkeurige en reproduceerbare resultaten te verkrijgen.
-1. **Data-analyse:** Verzamelen en analyseren van de gegevens die tijdens het experiment zijn verzameld, vaak met behulp van statistische methoden.
-1. **Conclusie:** Op basis van de resultaten van het experiment, beoordelen of de hypothesen worden ondersteund of weerlegd. Het kan nodig zijn om het experiment te herhalen of verder onderzoek uit te voeren om tot een definitieve conclusie te komen.
-1. **Communicatie:** Het rapporteren van de resultaten, inclusief de methode, bevindingen en conclusies, aan de wetenschappelijke gemeenschap via publicaties, presentaties en discussies.
+De wetenschappelijke methode bestaat doorgaans uit de volgende zeven stappen:
 
-De wetenschappelijke methode is een iteratief proces, waarbij nieuwe observaties en experimenten kunnen leiden tot herziening van hypothesen en nieuwe vragen, waardoor de wetenschappelijke kennis voortdurend groeit en evolueert.
+ 1. Observatie
+    : Het waarnemen van een verschijnsel en het stellen van een vraag over hoe of waarom dit plaatsvindt. Observaties vormen de basis voor verdere studie en roepen nieuwsgierigheid op.
+
+ 1. Hypothese
+    : Het formuleren van een verklaring of een voorlopig antwoord op de vraag, gebaseerd op bestaande kennis en logisch redeneren. Een hypothese moet testbaar zijn en dient als uitgangspunt voor verdere experimenten.
+
+ 1. Voorspelling
+    : Het afleiden van specifieke, testbare voorspellingen uit de hypothese. Deze voorspellingen beschrijven wat er zou moeten gebeuren als de hypothese juist is.
+
+ 1. Experiment
+    : Het ontwerpen en uitvoeren van gecontroleerde experimenten om de voorspellingen te testen. Hierbij worden controlevariabelen en experimentele groepen gebruikt om nauwkeurige, reproduceerbare resultaten te verkrijgen.
+
+ 1. Data-analyse
+    : Het verzamelen en analyseren van de tijdens het experiment verkregen gegevens, vaak met behulp van statistische methoden, om patronen te identificeren en de hypothese te evalueren.
+
+ 1. Conclusie
+    : Het beoordelen van de resultaten om te bepalen of de hypothese wordt ondersteund of weerlegd. Indien nodig kan het experiment worden herhaald of aangepast voor verdere verfijning.
+
+ 1. Communicatie
+    : Het delen van de bevindingen, inclusief methoden, resultaten en conclusies, met de wetenschappelijke gemeenschap via publicaties, presentaties en discussies. Dit bevordert kennisdeling en stelt anderen in staat het onderzoek te repliceren of voort te zetten.
+
+De wetenschappelijke methode is een iteratief proces waarin nieuwe observaties en experimenten kunnen leiden tot herziening van hypothesen en het stellen van nieuwe vragen. Hierdoor groeit en evolueert de wetenschappelijke kennis voortdurend.
+
+
+## De cyclus van wetenschappelijk denken
+
+Een alternatieve benadering is de cyclus van wetenschappelijk denken. Deze cyclus beschrijft het proces waarbij de wetenschap voortdurend modellen toetst en aanpast, wat leidt tot een steeds betere benadering van de werkelijkheid.
+
+
+{{< video https://www.youtube.com/watch?v=j12BBcKSgEQ >}}
+
+Een alternatieve opvatting van de wetenschappelijke methode is de cyclus van wetenschappelijk denken. Deze cyclus beschrijft het proces waarin de wetenschap voortdurend modellen toetst en bijstelt om de werkelijkheid steeds beter te begrijpen:
+
+ *  Waarneming
+    : Het proces begint met waarnemingen – directe ervaringen of meetbare gegevens die nieuwsgierigheid opwekken of vragen oproepen. Dit kunnen onverwachte gebeurtenissen zijn of patronen die de onderzoeker wil doorgronden.
+
+ *  *Vragen*
+    : Op basis van deze waarnemingen stelt de onderzoeker vragen, zoals: Waarom gebeurt dit? Wat zijn de oorzaken? Deze vragen vormen de basis voor verder onderzoek en worden zo geformuleerd dat ze empirisch getoetst kunnen worden.
+
+ *  Verklaring
+    : De wetenschapper formuleert vervolgens een hypothese of model als voorlopige verklaring voor de waargenomen patronen. Deze hypothese is een testbare uitspraak die, als ze klopt, bepaalde voorspellingen mogelijk maakt.
+
+ *  *Antwoorden (?)*
+    : De wetenschapper zoekt naar mogelijke antwoorden door verschillende hypothesen af te wegen en te beoordelen op hun consistentie met de waarnemingen. Dit ‘antwoord’ is niet definitief, maar een voorlopige richting die helpt de hypothese te verfijnen en de volgende stappen in het onderzoek te bepalen.
+
+ *  Voorspelling
+    : Vanuit de hypothese maakt de onderzoeker specifieke en meetbare voorspellingen. Deze voorspellingen beschrijven wat er zou moeten gebeuren als de hypothese juist is en vormen het uitgangspunt voor experimenten of verdere observaties.
+
+ *  *Testen/Verifiëren*
+    : Experimenten of observaties worden uitgevoerd om de voorspellingen te toetsen. Dit is het kritische moment waarop de hypothese wordt bevestigd, aangepast of verworpen, afhankelijk van de uitkomsten van de testen.
+
+ *  Waarneming (Feedback)
+    : Op basis van de verificatie ontstaan nieuwe waarnemingen die leiden tot verdere vragen of aanpassingen van de oorspronkelijke hypothese. Het proces begint opnieuw, maar met een verfijnder begrip en nieuwe kennis.
+
+::: {#fig-methode-denkcyclus fig-cap="De cyclus van wetenschappelijk denken." fig-align="center"}
+```{dot}
+digraph "De wetenschappelijke denkcirkel" {
+  layout = "twopi";
+  fontname = "Source Sans Pro";
+  normalize = false;
+  fontsize = 16;
+  splines = true;
+
+  graph [ranksep=3];
+  node [fontname="Source Sans Pro", colorscheme=blues6, color=transparent, shape=circle, width=1.6, height=1.6, penwidth=2];
+
+  // Title node
+  title [label="Wetenschappelijk Denken", shape=none, fontname="Source Sans Pro", fontsize=20];
+
+  // Connect title node to other nodes (invisible edges)
+  title -> 2 [style = invis];
+  title -> 1 [style = invis];
+  title -> 6 [style = invis];
+  title -> 5 [style = invis];
+  title -> 4 [style = invis];
+  title -> 3 [style = invis];
+ // title -> 2 [style = invis];
+
+  // Nodes for the cycle
+  1 [label=<<B>Waarneming</B>>, width=2, height=2, color=1, style=filled];
+  2 [label=<<I>Vragen</I>>, color=2];
+  3 [label=<<B>Verklaring</B>>, width=2, height=2, color=3, style=filled];
+  4 [label=<<I>Antwoorden (?)</I>>, color=4];
+  5 [label=<<B>Voorspelling</B>>, width=2, height=2, color=5, style=filled];
+  6 [label=<<I>Testen/Verifiëren</I>>, color=6];
+
+  // Circular path with smoother edges
+  1 -> 2 [dir=none];
+  2 -> 3;
+  3 -> 4 [dir=none];
+  4 -> 5;
+  5 -> 6 [dir=none];
+  6 -> 1;
+}
+```
+:::
+
+In deze cyclus wordt duidelijk dat de wetenschappelijke methode geen lineair proces is, maar juist een herhalende cyclus van toetsing, aanpassing en verbetering. De wetenschappelijke denkcirkel illustreert dat wetenschappers voortdurend hypotheses bijstellen om de complexiteit van de werkelijkheid steeds beter te begrijpen.
+
+Wetenschap is daarmee een iteratief proces. Dit staat in contrast met de lineaire aanpak die vaak wordt gehanteerd in bijvoorbeeld experimenten en proeven die leerlingen op school uitvoeren. In die context wordt de wetenschappelijke methode vaak weergegeven als een reeks stappen die strikt één keer wordt doorlopen, terwijl het in de praktijk een dynamisch en voortdurend ontwikkelend proces is.
+
 
 ## Een beknopte geschiedenis
+
+Drie wetenschappers leverden belangrijke bijdragen aan de ontwikkeling van de wetenschappelijke methode:
+
+ *  Francis Bacon (1561-1626) -- *Engels filosoof*
+    : Bacon wordt gezien als een van de grondleggers van de empirische methode. Hij benadrukte het belang van systematische observatie, experimentatie en inductie (het formuleren van algemene principes op basis van specifieke waarnemingen). Bacon bekritiseerde de focus op abstracte, filosofische speculaties en stelde in plaats daarvan voor om kennis te baseren op observeerbare en meetbare feiten. Zijn werk heeft de basis gelegd voor de moderne wetenschappelijke methode waarin experimenten en waarnemingen centraal staan.
+
+ *  René Descartes (1596-1650) -- *Frans wiskundige, geograaf en filosoof*
+    : Descartes introduceerde het concept van methodische twijfel, waarbij hij alles in twijfel trok wat niet absoluut zeker was, met als doel ware kennis te vinden. Hij benadrukte het belang van een rationele, systematische benadering en legde de nadruk op deductieve logica. Zijn idee van een gestructureerde, stapsgewijze benadering van kennis heeft de ontwikkeling van de wetenschappelijke methode sterk beïnvloed, vooral binnen de wiskunde en filosofie.
+
+ *  Isaac Newton (1643-1727) -- *Engels astronoom en natuurkundige*
+    : Newton combineerde de empirische benadering van Bacon en de logische, deductieve benadering van Descartes. Hij ontwikkelde de natuurkundige wetten en bewees met zijn werk, zoals de zwaartekracht en bewegingswetten, dat de natuur door universele wetten geregeerd wordt die met wiskundige precisie beschreven kunnen worden. Newtons methodologie van hypothese, experiment, en wiskundige onderbouwing werd een model voor latere wetenschappelijke disciplines.
+
+Samen hebben Bacon, Descartes en Newton het fundament gelegd voor de moderne wetenschappelijke methode, waarbij observatie, experiment en logische deductie worden gecombineerd om kennis op te bouwen.
 
 ::: {.hidden}
 > Waarheid wordt gezocht omwille van zichzelf. En zij die omwille van zichzelf op zoek zijn naar iets, 
 > zijn niet geïnteresseerd in andere dingen. De waarheid vinden is moeilijk en de weg ernaartoe is ruw. 
 > -- [Ibn al-Haytham (Alhazen)](https://nl.wikipedia.org/wiki/Alhazen)
-:::
-
-Drie wetenschappers hadden een grote invloed op de wetenschappelijke methode:
-
-* Francis Bacon (1561-1626), Engels filoof,
-* Rene Descartes (1596-1650), Frans wiskundige/geograaf/filosoof,
-* Isaac Newton (1643-1727), Engels astronoom en natuurkundige. 
-
-::: {.hidden}
 <https://en.wikipedia.org/wiki/Timeline_of_the_history_of_the_scientific_method>
 <https://en.wikipedia.org/wiki/History_of_scientific_method>
 :::
 
-::: {#fig-methode-timeline fig-cap="Tijdlijn van de grote invloeden op de wetenschappelijke methode." fig-align="center"}
+::: {#fig-methode-timeline fig-cap="Tijdlijn van de grote invloeden op de \"klassieke\" wetenschappelijke methode." fig-align="center"}
 ```{dot}
 digraph shells {
     node [fontsize=24, shape = plaintext, fontname = "Source Sans Pro"];
@@ -110,7 +211,7 @@ digraph shells {
     -1600 [ label = "1600 v.C."];
     -40 [ label = "40 v.C."];
     1750 [ label = "midden 18e eeuw"];
-    future [ label = "toekomst"];
+    future [ label = "Moderne methoden"];
 
     -1600 -> -40;
     -40 -> 850;
@@ -148,67 +249,105 @@ digraph shells {
 ```
 :::
 
-::: {.hidden}
-::: {#fig-timeline2 fig-cap="Tijdslijn v2." fig-align="center"}
-```{tikz}
-\usetikzlibrary{positioning,arrows.meta}
-\tikzdeclarecoordinatesystem{timeline}{% #1 is the date in years
-    \pgfmathsetmacro\myx{(#1-1975)/3}
-    \pgfpointxy{\myx}{0}
-}
-\begin{tikzpicture}[line cap=rect,event/.style={fill,font=\tiny,text=white,inner
-sep=0.4ex,text height=1ex,text depth=0.4ex,rounded corners},bullet/.style={circle,fill,node contents={},inner sep=1pt}]
-\draw (timeline cs:1975) -- (timeline cs:2020);
-\foreach \X in {1975,1980,...,2020}
-{\draw (timeline cs:\X) -- ++(0,0.2) node[above,font=\tiny]{\X};}
-\draw[blue!80] (timeline cs:1977) node[bullet] -- ++ (0,-0.8) node[below,event]{A New Hope};
-\draw[orange] (timeline cs:1980.4) node[bullet] -- ++ (0,-1.6) node[below,event]{The Empire Strikes Back};
-\draw[green!80!black] (timeline cs:1984) node[bullet] -- ++ (0,-0.8) node[below,event]{Return of the Jedi};
-\draw[purple!80] (timeline cs:2002.5) node[bullet] -- ++ (0,-0.8) node[below,event] (Clone) {Attack of the Clones};
-\node[red,left=0.3em of Clone,event] (Phantom) {The Phantom Menace};
-\draw[red] (timeline cs:1999) node[bullet] to[out=-90,in=90] (Phantom);
-\node[brown!80!black,right=0.3em of Clone,event] (Sith) {Revenge of the Sith};
-\draw[brown!80!black] (timeline cs:2005.5) node[bullet] to[out=-90,in=90] (Sith);
-\draw[pink!90!black] (timeline cs:2016) node[bullet] -- ++ (0.2,-0.8) node[below,event] {The Force Awakens};
-\end{tikzpicture}
-```
+### Vroege Methodologie
+
+In de vroege methodologie ontstonden de eerste stappen naar een gestructureerde aanpak in wetenschappelijk onderzoek, maar nog zonder een heldere, systematische methode. Aristoteles, een belangrijke figuur in het oude Griekenland, ontwikkelde ideeën over de natuur die zich richtten op observatie en categorisering, maar hij vertrouwde vooral op logische redenering zonder systematische experimentatie. Later, in de middeleeuwen, zetten wetenschappers zoals Ibn al-Haytham (Alhazen) en Roger Bacon stappen richting een meer *experimentele benadering*. Al-Haytham stond bekend om zijn werk in de optica en zijn systematische observaties en experimenten, wat een voorloper was van de moderne wetenschappelijke methode. De ideeën van Roger Bacon benadrukten eveneens empirische observatie en het belang van een *methodologische aanpak*.
+
+::: {.Feature collapse=true}
+#### Methodologische aanpak
+**Methodologisch** verwijst naar de systematische benadering, regels en procedures die worden gebruikt bij het doen van onderzoek. Methodologie betreft de studie en keuze van methoden die in een vakgebied of onderzoek worden toegepast. Een methodologische aanpak zorgt voor consistentie en nauwkeurigheid en helpt om onderzoeksresultaten betrouwbaar en valide te maken. In de wetenschap verwijst dit naar het volgen van een duidelijk proces of protocol om conclusies op een gefundeerde manier te bereiken.
 :::
+
+### Opkomst van de Inductieve Experimentele Methode
+
+In de 16e en 17e eeuw kwam de inductieve experimentele methode op, vooral door de invloed van Francis Bacon. Bacon introduceerde een op observatie gebaseerde methode en pleitte voor empirisch onderzoek: kennis moest worden verzameld door nauwgezette observatie en experimenten, en niet uitsluitend door redenering. Hij stelde dat de wetenschap zich moest richten op het ontdekken van natuurwetten door gedetailleerde, gecontroleerde experimenten en inductie, waarbij men algemene principes afleidt uit specifieke observaties. Bacons visie legde de basis voor een gestructureerde methode waarin gegevensverzameling en herhaalde experimenten centraal stonden, wat de grondslag werd voor latere *empirische wetenschap*.
+
+::: {.Feature collapse=true}
+#### Empirische wetenschap
+**Empirisch** verwijst naar kennis of conclusies die gebaseerd zijn op directe observatie of ervaring, in plaats van op theoretische speculatie. In de wetenschap houdt een empirische aanpak in dat men gegevens verzamelt door middel van waarneming of experimenten om feiten vast te stellen en hypotheses te toetsen. Het empirische karakter van een onderzoek benadrukt het belang van meetbare en observeerbare bewijsstukken.
+:::
+
+### Integratie van Deductieve en Inductieve Methode
+
+In de late 17e eeuw bracht Isaac Newton de deductieve en inductieve benaderingen samen in een methodologie die wetenschap naar een hoger niveau tilde. Newtons werk, zoals zijn wetten van beweging en zwaartekracht, combineerde gedetailleerde observaties (inductie) met wiskundige redenering (deductie) om universele natuurwetten te formuleren. Zijn aanpak liet zien hoe observaties konden leiden tot hypothesen die verder wiskundig en logisch getest konden worden, wat resulteerde in brede, voorspellende natuurwetten. Newtons methode werd een model voor wetenschappelijk onderzoek waarin experiment, observatie, en deductieve logica werden geïntegreerd in een gestructureerd proces.
+
+::: {.Feature collapse=true}
+#### Inductie en Deductie
+**Inductie** is een methode waarbij men vanuit specifieke waarnemingen of experimenten tot algemene conclusies komt. Dit is een *bottom-up* benadering: door regelmatigheden in afzonderlijke gevallen te observeren, probeert men een algemene wet of hypothese te formuleren. Bij inductie is de conclusie waarschijnlijk waar, maar niet gegarandeerd, omdat het gebaseerd is op beperkte observaties.
+
+*Voorbeeld:* "Deze zwaan is wit, die zwaan is wit; daarom zijn alle zwanen waarschijnlijk wit."
+
+**Deductie** is een redeneringsmethode waarbij men vertrekt vanuit algemene uitspraken of wetten om specifieke conclusies te trekken. Het is een *top-down* benadering: als de algemene wet of hypothese juist is, moeten ook de specifieke afleidingen daarvan correct zijn. Deductieve redenering leidt tot conclusies die noodzakelijkerwijs waar zijn, mits de uitgangspunten juist zijn.
+
+*Voorbeeld:* "Alle mensen zijn sterfelijk. Socrates is een mens. Dus, Socrates is sterfelijk."
 :::
 
 
-::: {.hidden}
 ## Actuele kwesties
 
 ### Statistiek
 
-In de afgelopen eeuwen zijn enkele statistische methoden ontwikkeld om te redeneren bij onzekerheid om en daarbij fouten te minimaliseren of zelfs elimineren.
-De kracht van statistische methodes die leiden tot Bayesiaanse interferentie, met het vermogen om overtuigingen te veranderen in het licht van bewijs.
+In de afgelopen eeuwen zijn statistische methoden ontwikkeld om met onzekerheid om te gaan en fouten te minimaliseren of zelfs te elimineren. Een krachtig voorbeeld hiervan is *Bayesiaanse inferentie*, waarbij statistiek wordt gebruikt om overtuigingen bij te stellen op basis van nieuw bewijs. Deze methoden stellen wetenschappers in staat om hypothesen continu aan te passen en verfijnen, zelfs onder onzekere omstandigheden.
 
-Statistiek is de  tot Geloofsherziening (`belief revision`) en vernietigbare redenering (`defeasable reasoning`)
+Daarnaast speelt statistiek een belangrijke rol in geloofsherziening (Engels: *belief revision*) en vernietigbare redenering (Engels: *defeasible reasoning*). Hierbij kunnen overtuigingen worden aangepast of verworpen wanneer er nieuwe informatie beschikbaar komt, waardoor kennis dynamisch blijft en meebeweegt met nieuwe inzichten.
+
+::: {.Feature collapse=true}
+#### Bayesiaanse inferentie
+**Bayesiaanse inferentie** is een statistische methode die gebruikt wordt om de waarschijnlijkheid van een hypothese bij te werken op basis van nieuw verkregen bewijs. Het is gebaseerd op Bayes' theorema, dat stelt dat de kans op een gebeurtenis kan worden aangepast door bestaande kennis of eerdere observaties.
+
+In het kort combineert Bayesiaanse inferentie een prior (de oorspronkelijke overtuiging of schatting van waarschijnlijkheid) met nieuwe data om een posterior (geüpdatete waarschijnlijkheid) te berekenen. Deze aanpak wordt veel toegepast in situaties waarin men te maken heeft met onzekerheid en stapsgewijs tot betere beslissingen wil komen naarmate er meer informatie beschikbaar komt.
+:::
 
 ### Zelfvervullende voorspelling
 
-Engels: `self-fulfilling prophecy`
+Een *zelfvervullende voorspelling* (Engels: *self-fulfilling prophecy*) is een verwachting die zodanig invloed uitoefent op gedrag dat de verwachting uiteindelijk uitkomt. In de sociale wetenschappen, zoals psychologie en sociologie, verwijst dit naar situaties waarin iemands verwachtingen over een ander leiden tot gedragingen die deze verwachtingen bevestigen. Een voorbeeld hiervan is wanneer iemand verwacht dat een collega onvriendelijk zal reageren, waardoor die persoon afstandelijker gaat doen, wat de collega vervolgens daadwerkelijk onvriendelijker kan maken. Zo wordt de oorspronkelijke verwachting werkelijkheid door het gedrag dat de verwachting zelf oproept.
 
-### Rommelwetenschap en pseudo wetenschap
+
+### Rommelwetenschap en pseudowetenschap
+
+*Rommelwetenschap* en *pseudowetenschap* verwijzen naar beweringen of praktijken die lijken op wetenschap maar de wetenschappelijke methode niet volgen. Dit soort praktijken kan misleidend zijn en het vertrouwen in echte wetenschap schaden. Ze zijn vaak niet gebaseerd op bewijs en maken geen gebruik van gecontroleerde, herhaalbare methoden om hun conclusies te onderbouwen. Voorbeelden zijn behandelingen of theorieën die overtuigend klinken, maar waarbij ontbreekt aan degelijk onderzoek of aan toetsbare resultaten.
+
 
 ### Onwetendheid
 
-<https://mitpress.mit.edu/9780262538213/science-and-the-production-of-ignorance/>
+In de wetenschap is het essentieel om niet alleen te begrijpen wat we weten, maar ook wat we nog níet weten. *Onwetendheid* speelt een cruciale rol in wetenschappelijk onderzoek, omdat het vaak dient als drijfveer voor nieuwe vragen en onderzoeksrichtingen. Door bewust te erkennen waar hiaten in kennis bestaan, kunnen wetenschappers prioriteiten stellen en onderzoek sturen naar gebieden met het grootste potentieel voor nieuwe ontdekkingen.
 
-:::
+Daarnaast kan onwetendheid ook strategisch worden ingezet in beleidsvorming en communicatie. Soms wordt informatie bewust weggelaten of vaag gehouden om bepaalde percepties te beïnvloeden of om onzekerheid te vergroten rond gevoelige onderwerpen. Dit proces wordt ook wel "agnotologie" genoemd, de studie van de productie van onwetendheid. Dit kan bijvoorbeeld voorkomen in de context van milieubeleid of de gezondheidsindustrie, waar belangen conflicteren en het sturen van publieke perceptie een belangrijke rol kan spelen.
+
+(<https://mitpress.mit.edu/9780262538213/science-and-the-production-of-ignorance/>)
+
+
+## Andere benaderingen
+
+Naast de cyclus van wetenschappelijk denken zijn er enkele andere benaderingen die de wetenschappelijke methode op een alternatieve manier beschrijven:
+
+ *  Hypothetisch-deductieve methode
+    : In deze opvatting begint wetenschap met het formuleren van hypothesen die vervolgens door middel van experimenten of observaties worden getest. De resultaten worden gebruikt om de hypothese te bevestigen, te verwerpen, of aan te passen. Dit proces benadrukt de rol van deductie, waarbij specifieke voorspellingen worden afgeleid uit algemene hypothesen om deze te toetsen.
+
+ *  Falsificationisme (van [Karl Popper](https://nl.wikipedia.org/wiki/Karl_Popper))
+    : Deze benadering stelt dat wetenschappelijke theorieën nooit definitief bewezen kunnen worden, maar wel weerlegd (gefalsifieerd). Volgens Popper is een theorie pas wetenschappelijk als ze testbare voorspellingen maakt die kunnen worden weerlegd. De methode moedigt onderzoekers aan om actief op zoek te gaan naar tegenbewijs in plaats van naar bevestiging, zodat theorieën steeds sterker worden door te overleven.
+
+ *  Paradigmawisselingen (van [Thomas Kuhn](https://nl.wikipedia.org/wiki/Thomas_Kuhn))
+    : Kuhn stelde dat wetenschap zich niet lineair ontwikkelt maar door "wetenschappelijke revoluties," waarin gevestigde paradigma’s (theoretische kaders) periodiek worden vervangen door nieuwe paradigma’s. Dit model suggereert dat wetenschap vooruitgaat via een reeks van stabiele periodes (normale wetenschap) en revolutionaire periodes (paradigmawisselingen) waarin fundamentele aannames worden herzien.
+
+ *  Bayesiaanse benadering
+    : Deze methode benadrukt het belang van Bayesiaanse inferentie, waarbij wetenschappers hun overtuigingen aanpassen op basis van nieuw bewijs. Hierbij wordt niet alleen het testen van hypothesen belangrijk geacht, maar ook de waarschijnlijkheid van deze hypothesen gegeven het nieuwe bewijs. Deze benadering wordt veel toegepast in situaties waarin onzekerheid en statistische waarschijnlijkheid een grote rol spelen.
+
+ *  Abductieve methode
+    : Abductie is het proces van het vinden van de meest waarschijnlijke verklaring voor een waargenomen fenomeen. Het begint met een observatie en stelt de beste mogelijke verklaring voor, ook als er niet direct sluitend bewijs is. Abductie speelt vaak een rol in wetenschappelijke ontdekkingen, omdat het helpt om nieuwe hypotheses voor te stellen die later getest kunnen worden.
+
+Elke van deze benaderingen biedt een andere kijk op hoe wetenschap werkt en welke stappen of processen belangrijk zijn voor wetenschappelijke vooruitgang.
+
 
 ## Toegepast op het dagelijks leven
 
-Dit is hoe je een dagelijks gesprek op een nauwkeurige, wetenschappelijke manier kunt benaderen:
+{{< video https://www.youtube.com/watch?v=zdVOZ8Gbf-c >}}
 
-  * **Bespreek eerst de referentiewoordenschat en pas daarna de inhoud van de discussie.** Denk aan een onderzoeker die een experimenteel protocol opstelt dat gebruikt zal worden door duizenden andere wetenschappers in verschillende continenten. Als het protocol nauwkeurig is geschreven, zouden alle wetenschappers die het gebruiken vergelijkbare experimentele resultaten moeten krijgen. In de wetenschap betekent dit reproduceerbare kennis, in het dagelijks leven betekent dit vruchtbare gesprekken waarin individuen op één lijn zitten.
+De wetenschappelijke methode kan een dagelijkse conversatie nauwkeuriger maken:
 
-  * **Gebruik "gecontroleerde" argumenten om je beweringen te ondersteunen.** Wanneer je vergelijkingen maakt tussen groepen, visualiseer dan twee lege scenario's. Als je details aan beide begint toe te voegen, heb je twee opties. Als het je bedoeling is om een specifiek detail te verbergen, dan is het beter om de twee scenario's op een compleet andere manier te ontwerpen-het is om de variabelen te vergroten. Maar als het je bedoeling is om de waarnemer te helpen een specifiek detail te isoleren, dan is het beter om identieke scenario's te ontwerpen, met uitzondering van het bedoelde detail. Dit is precies hoe wetenschappers adequate experimenten bedenken om nieuwe kennis te isoleren, en hoe individuen hun gedachten zouden moeten orkestreren om ze te testen en hun begrip voor anderen te vergemakkelijken.
+ *  Start met het afstemmen van de woordenschat voordat je de inhoud bespreekt.
+    : Vergelijk dit met een wetenschapper die een experimenteel protocol opstelt dat door anderen wereldwijd wordt gebruikt. Een nauwkeurig protocol leidt tot reproduceerbare resultaten in de wetenschap; in gesprekken zorgt het voor duidelijkheid en gedeeld begrip.
+ *  Onderbouw je uitspraken met "gecontroleerde" argumenten.
+    : Visualiseer twee lege scenario’s en voeg aan elk details toe. Wil je een specifiek aspect verbergen, ontwerp de scenario’s dan verschillend; wil je juist een detail isoleren, houd de scenario’s identiek op dat ene detail na. Dit is hoe wetenschappers experimenten ontwerpen en hoe je gedachten kunt structureren voor duidelijkheid en begrip bij anderen.
 
-De wetenschappelijke methode zou individuen niet alleen een elitaire manier moeten bieden om de werkelijkheid te onderzoeken, maar ook een toegankelijk hulpmiddel om er op de juiste manier over te redeneren en te discussiëren.
-
-::: {.hidden}
-## Kort samengevat
-Ofwel: in een notendop --> op het einde van elk hoofdstuk!
-:::
+De wetenschappelijke methode biedt niet alleen een elitaire aanpak om de werkelijkheid te onderzoeken, maar ook een toegankelijke manier om helder en constructief te redeneren en te communiceren.

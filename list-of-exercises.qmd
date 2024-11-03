@@ -6,5 +6,3 @@
  [**Opdracht 3**](project-intro.qmd#zoekvaardigheid): Zoekvaardigheid\Pageref{zoekvaardigheid}
 
  [**Opdracht 4**](project-intro.qmd#informatiebeheer): Informatiebeheer\Pageref{informatiebeheer}
-
- [**Opdracht 5**](project-intro.qmd#tekstopmaak-met-latex-in-overleaf): Tekstopmaak met LaTeX in Overleaf\Pageref{tekstopmaak-met-latex-in-overleaf}

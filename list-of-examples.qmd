@@ -4,3 +4,7 @@
  [**Voorbeeld 2.2**](bronnen.qmd#korte-referentie-in-tekst): Korte referentie in tekst\Pageref{korte-referentie-in-tekst}
 
  [**Voorbeeld 2.3**](bronnen.qmd#volledige-referentie-in-de-bibliografie): Volledige referentie in de bibliografie\Pageref{volledige-referentie-in-de-bibliografie}
+
+ [**Voorbeeld 9.1**](tool-data-analyse.qmd#Example-9.1)\Pageref{Example-9.1}
+
+ [**Voorbeeld 9.2**](tool-data-analyse.qmd#Example-9.2)\Pageref{Example-9.2}

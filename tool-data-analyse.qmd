@@ -1,39 +1,20 @@
 # Python voor data-analyse {#sec-tool-python}
 
-[Dit hoofdstuk is nog in opbouw]
+[Python](https://www.python.org) is een veelgebruikte, *high-level general-purpose*, geïnterpreteerde en dynamische programmeertaal. 
+ Python is zeer populair in verschillende vakgebieden, gaande van data-analyse tot webontwikkeling. 
+
+Python ondersteunt meerdere programmeerparadigma's, waaronder objectgeoriënteerd, imperatief, functioneel en procedureel programmeren. Het beschikt over een dynamisch typesysteem en automatische geheugenbeheer en heeft een grote, uitgebreide standaardbibliotheek.
+
+Python blinkt uit in **eenvoud** en **leesbaarheid**. De Python syntax maakt het mogelijk om concepten in minder regels code uit te drukken dan talen zoals C, Fortran, Java of Rust.
+
+Python maakt gebruik van *just-in-time (JIT)* compilatie[^1], wat het geschikt maakt voor snelle ontwikkeling, terwijl talen zoals C, Fortran of Rust doorgaans *ahead-of-time (AOT)* compilatie gebruiken voor hogere prestaties in kritieke berekeningen. Deze talen worden gebruikt voor toepassingen waar prestaties en nauwkeurigheid van cruciaal belang zijn.
+
+Vergelijkbare open-source alternatieven voor data-analyse zijn [R](https://www.r-project.org) en [Julia](https://julialang.org). Een bepalende factor in de keuze van de programmeertaal is vaak je opleiding, vakgebied en werkomgeving, maar ook de toepassing.
+
+[^1]: Compileren is het vertalen van high-level code naar concrete low-level instructies die uitvoerbaar zijn voor een computer.
 
 ::: {.hidden}
-
-Python, R of Julia. Elk heeft zijn eigen voordeel.
-Elk zijn *high-level general-purpose* programmeertalen, volledig gratis (vrije software!), met een grote gebruikersgemeenschap (= documentatie).
-
-Just-in-time (JIT)
-
-Geen *low-level* programmeertalen zoals C, Fortran, Java of Rust (voor performanten/kritieke berekeningen).
-Ahead-of-time (AOT)
-
-
-Integratie met **Informaticawetenschappen** (leerplan!).
-
-<https://dodona.ugent.be/nl/courses/>
-
-
-Python tutorial gebaseerd op <https://wesmckinney.com/book/preface.html>
-
-
-#::: {.callout-note title="Alternatieve programmeertalen voor data-analyse"}
-Naast [Python](https://www.python.org) kan je gerust ook een andere programmeertaal gebruiken, zoals bijvoorbeeld [Julia](https://julialang.org) of [R](https://www.r-project.org). 
-
-Een bepalende factor is vaak je opleiding, vakgebied en werkomgeving maar ook de toepassing.
-
-Handleidingen voor praktisch programmeren:
-
-  * [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
-  * [Python for Data Analysis](https://wesmckinney.com/book/)
-  * [R for Data Science](https://r4ds.hadley.nz)
-
-#::: {.hidden}
-
+*Dit hoofdstuk integreert het leerplan **Informaticawetenschappen**.*
 
 ## Python interpreters
 
@@ -44,25 +25,128 @@ Jupyter notebooks
 IDE lokaal op je computer.
 
 hub.pietersmets.be
-
-## Python boeken
-
-http://www.spronck.net/pythonbook/dutchindex.xhtml
+:::
 
 
-Python3 boek van Pieter Spronck.
+## Python
 
-Nederlands:
-De Programmeursleerling, Leren coderen met Python 3
+### Hello world
+Een "Hello, World!"-programma is vaak het allereerste programma dat je schrijft wanneer je een nieuwe programmeertaal leert. Het is een simpel maar iconisch stukje code dat niets anders doet dan de tekst "Hello, World!" op het scherm toveren. Het is als een vriendelijke begroeting van de programmeertaal zelf, waarmee je jouw avontuur in programmeren begint.
 
-Engelstalig:
-The Coder’s Apprentice, Learning Programming with Python 3
+::: {.Example collapse='false'}
+Het begin van elke nieuwe programmeertaal in de Python 3 syntaxis:
+```{python}
+#| echo: true
+#| eval: false
+
+print("Hello, World!")
+```
+:::
+
+::: {.callout-note title="Oorsprong van \"Hello, World!\""}
+De oorsprong van "Hello, World!" gaat terug naar de begintijd van de programmeertaal C. Het werd voor het eerst gebruikt door de ontwikkelaars van C om hun taal te demonstreren. In 1974 dook het op in een intern memorandum van Bell Labs, geschreven door Brian Kernighan, en sindsdien is het een klassiek voorbeeld geworden voor beginners in vrijwel elke programmeertaal.
+:::
 
 
-## Python oefeningen
-https://dodona.be/nl/courses/290/
+### Ingebouwde Gegevenstypen (Data Types)
+<!-- https://www.w3schools.com/python/python_datatypes.asp -->
+In programmeren is gegevenstype (data type) een belangrijk concept.
 
-## Python overzicht
+Variabelen kunnen gegevens van verschillende typen opslaan, en verschillende typen kunnen verschillende dingen doen.
+
+Python heeft de volgende gegevenstypen standaard ingebouwd, ingedeeld in de volgende categorieën:
+
+| Gegevenstype | Code |
+|--------------|------|
+|Tekst Type | `str` |
+|Numerieke Typen | `int`, `float`, `complex` |
+|Sequentie Typen | `list`, `tuple`, `range` |
+|Mapping Type |	`dict` |
+|Verzamelingen Typen | `set`, `frozenset` |
+|Booleaans Type | `bool` |
+|Binaire Typen | `bytes`, `bytearray`, `memoryview` |
+|Geen Type | `NoneType` |
+: Ingebouwde gegevenstypen in Python 3. {#tbl-gegevenstypen tbl-colwidths="[40,60]" .hover}
+
+::: {.Example collapse='false'}
+Print het gegevenstype van de variabele x:
+```{python}
+#| echo: true
+#| eval: false
+
+x = 5
+print(type(x))
+```
+:::
+
+#### Instellen van het Gegevenstype
+In Python wordt het gegevenstype ingesteld wanneer je een waarde toewijst aan een variabele:
+
+| Voorbeeld | Gegevenstype |
+|-----------|--------------|
+| `x = "Hello, World!"` | `str` |
+| `x = 20` | `int` |
+| `x = 20.5` | `float` |
+| `x = 1j` | `complex` |
+| `x = ["apple", "banana", "cherry"]` | `list` |
+| `x = ("apple", "banana", "cherry")` | `tuple` |
+| `x = range(6)` | `range` |
+| `x = {"name" : "John", "age" : 36}` | `dict` |
+| `x = {"apple", "banana", "cherry"}` | `set` |
+| `x = frozenset({"apple", "banana", "cherry"})` | `frozenset` |
+| `x = True` | `bool` |
+| `x = b"Hello"` | `bytes` |
+| `x = bytearray(5)` | `bytearray` |
+| `x = memoryview(bytes(5))` | `memoryview` |
+| `x = None` | `NoneType` |
+: Impliciet toewijzen van gegevenstypen in Python 3. {#tbl-gegevenstypen-impliciet tbl-colwidths="[60,40]" .hover}
+
+#### Specifiek Gegevenstype Instellen
+Als je een specifiek gegevenstype wilt aangeven, kun je de volgende constructor-functies gebruiken:
+
+| Voorbeeld | Gegevenstype |
+|-----------|--------------|
+| `x = str("Hello, World!")` | `str` |
+| `x = int(20)` | `int` |
+| `x = float(20.5)` | `float` |
+| `x = complex(1j)` | `complex` |
+| `x = list(("apple", "banana", "cherry"))` | `list` |
+| `x = tuple(("apple", "banana", "cherry"))` | `tuple` |
+| `x = range(6)` | `range` |
+| `x = dict(name="John", age=36)` | `dict` |
+| `x = set(("apple", "banana", "cherry"))` | `set` |
+| `x = frozenset(("apple", "banana", "cherry"))` | `frozenset` |
+| `x = bool(5)` | `bool` |
+| `x = bytes(5)` | `bytes` |
+| `x = bytearray(5)` | `bytearray` |
+| `x = memoryview(bytes(5))` | `memoryview` |
+: Expliciet toewijzen van gegevenstypen in Python 3. {#tbl-gegevenstypen-expliciet tbl-colwidths="[60,40]" .hover}
+
+
+### Python Operatoren
+<!-- https://www.w3schools.com/python/python_operators.asp -->
+Operatoren worden gebruikt om bewerkingen uit te voeren op variabelen en waarden.
+
+In het onderstaande voorbeeld gebruiken we de + operator om twee waarden bij elkaar op te tellen:
+
+```{python}
+#| echo: true
+#| eval: false
+
+print(10 + 5)
+```
+
+Python verdeelt de operatoren in de volgende groepen:
+
+* Rekenkundige operatoren
+* Toewijzingsoperatoren
+* Vergelijkingsoperatoren
+* Logische operatoren
+* Identiteitsoperatoren
+* Lidmaatschapsoperatoren
+* Bitwise-operatoren
+
+
 
 ### `input`/`print`
 
@@ -77,6 +161,7 @@ Je kan al deze oefeningen oplossen na het bekijken van de video’s 1 tem 10.
 (Aanvulling: voor het oplossen van de laatste oefening uit deze reeks moet je video 12 bekijken)
 
 ### Werken met getallen
+<!-- https://www.w3schools.com/python/python_operators.asp -->
 
 Oefeningen die je allerlei berekeningen laten uitvoeren.
 
@@ -188,4 +273,27 @@ Na het doornemen van hoofdstuk 13, ben je in staat om de oefeningen uit deze ree
 
 ...
 
-:::
+<!-- https://www.w3resource.com/python-exercises/ -->
+
+
+## Meer lezen
+
+http://www.spronck.net/pythonbook/dutchindex.xhtml
+
+
+Python3 boek van Pieter Spronck.
+
+Nederlands:
+De Programmeursleerling, Leren coderen met Python 3
+
+Engelstalig:
+The Coder’s Apprentice, Learning Programming with Python 3
+
+## Alternatieve programmeertalen voor data-analyse
+Naast [Python](https://www.python.org) kan je gerust ook een andere programmeertaal gebruiken, zoals bijvoorbeeld [Julia](https://julialang.org) of [R](https://www.r-project.org). Een bepalende factor is vaak je opleiding, vakgebied en werkomgeving maar ook de toepassing.
+
+Handleidingen voor praktisch programmeren:
+
+* [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
+* [Python for Data Analysis](https://wesmckinney.com/book/)
+* [R for Data Science](https://r4ds.hadley.nz)

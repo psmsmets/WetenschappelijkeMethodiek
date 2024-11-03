@@ -140,7 +140,13 @@ Zotero ondersteunt alle belangrijke stijlen (Chicago, MLA, APA, Vancouver, etc.)
 Met de [Word-, LibreOffice- en Google Docs-plugins](https://www.zotero.org/support/word_processor_integration) van Zotero kunnen gebruikers citaten rechtstreeks vanuit hun tekstverwerkingsprogramma invoegen. 
 Dit maakt het citeren van meerdere pagina's of bronnen of het anderszins aanpassen van citaties een fluitje van een cent. 
 Citaten in de tekst, voetnoten en eindnoten worden allemaal ondersteund. 
-Dankzij community-ontwikkelde plugins kan Zotero ook gebruikt worden met LaTeX, Scrivener en tal van andere schrijfprogramma's.
+Opgelet, dit kan ook wel eens misgaan, met een *broken document* als resultaat. 
+Niet pannikeren. Bekijk in zulk geval eerst  [probleemoplosser](https://www.zotero.org/support/word_processor_plugin_troubleshooting)-pagina en zoek daarbij naar het gelijkaardige probleem en de oplossing. 
+Niet geholpen? 
+Ga dan door het stappenplan en [debug je kapotte document](https://www.zotero.org/support/kb/debugging_broken_documents).
+
+Dankzij community-ontwikkelde plugins kan Zotero ook gebruikt worden met {{< latex >}}, Scrivener en tal van andere schrijfprogramma's. 
+*Broken document* voorkomen? Ga dan naar @sec-tool-latex voor een serieus typesettingprogramma.
 
 ### Automatische bibliografieën
 
