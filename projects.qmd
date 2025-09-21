@@ -1,5 +1,24 @@
-# Deel 3 - Projecten 
+# Deel 3 – Projecten
 
-Het hoofdoel van deze cursus is zelf aan wetenschappelijk onderzoek doen. 
-Aan de hand van een aantal projecten wordt je uitgedaagd om kennis van de metawetenschap in de praktijk te brengen met zoveel mogelijk aangereikte hulpmiddelen. 
-De projecten evolueren van een stapsgewijze voorbereiding naar zelfstandig wetenschappelijk onderzoek. 
+In dit onderdeel breng je alles samen: de inzichten uit de metawetenschappen en de vaardigheden die je opdeed met de tools.
+Via een reeks praktijkgerichte opdrachten werk je stap voor stap toe naar zelfstandig wetenschappelijk onderzoek.
+
+In het vijfde jaar ligt de focus op het oefenen van onderzoeksvaardigheden binnen afgebakende projecten. Je past geleidelijk de wetenschappelijke methode toe, leert helder rapporteren en werkt aan een onderzoeksbrief over een thema binnen elektromagnetisme.
+
+In het zesde jaar voer je een volledig zelfstandig onderzoek uit, vanaf het eerste idee tot de eindpresentatie. Je schrijft een onderzoeksvoorstel, houdt een logboek bij en presenteert je resultaten via een wetenschappelijke poster.
+
+De projecten zijn dus geen losse opdrachten, maar vormen samen het kloppend hart van deze cursus: denken, onderzoeken en communiceren als een jonge wetenschapper.
+
+## Overzicht projecten
+
+| Jaar | Project                       | Inhoud                                                                 |
+|------|-------------------------------|------------------------------------------------------------------------|
+| 5de  | Bronnenonderzoek              | Zoeken, beoordelen en vergelijken van wetenschappelijke en populaire bronnen |
+| 5de  | Zotero-opdracht               | Opbouw van een persoonlijke bibliotheek + correcte verwijzingen       |
+| 5de  | Onderzoeksbrief               | Kort, helder wetenschappelijk artikel over een thema binnen elektromagnetisme |
+| 5de  | Slides & presentatie          | Visualiseren en mondeling toelichten van onderzoeksresultaten         |
+| 5de  | Portfolio                     | Verzameling van reflecties, tussenproducten en feedback                |
+| 6de  | Onderwerpverkenning           | Thema kiezen en afbakenen binnen een wetenschapsdomein naar keuze     |
+| 6de  | Onderzoeksvoorstel            | Uitgewerkte onderzoeksvraag, methodologie en literatuurkader          |
+| 6de  | Logboekonderzoek              | Uitvoering van het onderzoek in fasen met regelmatige logboekupdates  |
+| 6de  | Posterpresentatie             | Visuele en mondelinge voorstelling van de onderzoeksresultaten        |

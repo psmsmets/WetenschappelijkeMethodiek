@@ -1,11 +1,12 @@
-# Project 1: introductie {.unnumbered}
+# Jaar 1: Portfolio {.unnumbered}
 
-::: Exercise
-#### Wetenschappelijke methodiek
-Wooclap
+## Module 0: Introductie
+
+::: {.callout-note title="Doel"}
+Reflecteren over de fasen van wetenschappelijk onderzoek.
 :::
 
-::: Exercise
+::: Opdracht
 #### Metakennis
 Peilen naar metakennis over wetenschap.
 
@@ -28,26 +29,77 @@ Peilen naar metakennis over wetenschap.
 :::
 
 
-::: Exercise
-#### Zoekvaardigheid
-Opwarmer
-: Wat bedroeg de minimumtemperatuur afgelopen nacht in Hoogstraten?
+## Module 1: Zoekvaardigheid
 
-Zoekvaardigheid
-: Beantwoord volgende vragen door te zoeken op het internet.
+::: {.callout-note title="Doel"}
+* Leren hoe je betrouwbare informatie vindt en evalueert.
+* Geavanceerde zoekoperatoren toepassen en Google Advanced Search gebruiken.
+:::
 
-*   Welke landen vormen samen met België een stormgebied?
-*   Hoe heet ons stormgebied?
-*   Hoeveel gebieden zijn er in Europa?
-*   Wat wordt de naam van de 8e storm van het huidige stormseizoen in ons stormgebied?
-*   Uit welk land komt deze naam?
-*   Wat wordt de naam van de 15e storm van het huidige stormseizoen in het Nederlandse stormgebied?
-*   Vanwaar komt deze naam?
+::: {.callout-caution}
+Maak in deze module enkel gebruik van zoekmachines op het internet.
+Het gebruik van AI is bij deze opdrachten niet toegelaten.
+:::
+
+::: Opdracht
+##### Opwarmer
+_Wat was de minimumtemperatuur afgelopen nacht in Hoogstraten?_
 :::
 
 
+::: Opdracht
+##### Google
+Beantwoord volgende vragen door te zoeken op het internet.
+
+*   _Welke landen vormen samen met België een stormgebied?_
+*   _Hoe heet ons stormgebied?_
+*   _Hoeveel gebieden zijn er in Europa?_
+*   _Wat wordt de naam van de 8e storm van het huidige stormseizoen in ons stormgebied?_
+*   _Uit welk land komt deze naam?_
+*   _Wat wordt de naam van de 15e storm van het huidige stormseizoen in het Nederlandse stormgebied?_
+*   _Vanwaar komt deze naam?_
+:::
+
+::: Opdracht
+##### Breinbreker
+_Waarom zijn HLN en LLN nodig?_
+:::
+
+
+
+::: Opdracht
+##### Effectief zoeken met zoekmachines
+
+
+##### Stap 1: Zoeksyntaxis en Google Advanced Search (25 min)
+
+Opdrachten
+: Gebruik zoeksyntaxis om antwoorden te vinden op de volgende vragen:
+
+*   _Welke Belgische universiteiten publiceerden in 2024 of 2025 over de impact van hittegolven op stedelijke infrastructuur?_ Gebruik `site:.be` en `filetype:pdf`.
+*   _Vind een recent (2024-2025) rapport van de Europese Commissie over hernieuwbare energie in de Benelux._
+    Gebruik `intitle:` en `site:europa.eu`."
+*   _Zoek naar een presentatie (PowerPoint) over de economische gevolgen van overstromingen in Vlaanderen._
+    Gebruik `filetype:pptx` en `economische impact`.
+
+Gebruik Google Advanced Search om
+: Resultaten te filteren op taal (Nederlands/Engels), regio (België/Nederland) en datum (2024-2025).
+Een zoekopdracht uit te voeren met minstens 3 filters (bv. exacte zin, bestandstype, site).
+
+
+Reflectievraag
+: "Welke zoeksyntaxis vond je het meest nuttig? Waarom? Welke uitdagingen ondervond je?"
+
+:::
+
+
+
+## Module 2: Informatiebeheer
+
 ::: Exercise
+
 #### Informatiebeheer
+
 Nu we effectief kunnen zoeken naar informatie gaan we concreet informatie zoeken, selecteren en ordenen. 
 De nadruk ligt in dit geval op het zorgvuldig ordenen en voorbereiden van je informatie. 
 Een zeer belangrijke stap die je nadien heel wat werk kan besparen. 
@@ -99,15 +151,14 @@ Indienen:
 De deadline voor het indienen van de opdracht wordt nog afgesproken.
 :::
 
-::: {.hidden}
 
 ::: Exercise
+
 #### Tekstopmaak met LaTeX in Overleaf
+
 In de academische wereld wordt vooral gebruik gemaakt van {{< latex >}} voor het schrijven, bewerken en publiceren van wetenschappelijke documenten.
 
 ##### Voorbereiden
-
-::: {}
  
 (@) Ga naar [Overleaf](https://www.overleaf.com)
 (@) Registreer je met je Spijker-gmail of login.
@@ -344,90 +395,97 @@ Upload zowel je bronbestand `.tex` als de compilatie `.pdf` bij SmartSchool in d
 
 :::
 
-:::
 
 ::: Exercise
-#### Onderzoeksbrief
+#### Onderzoeksbrief: Wetenschappelijke Research Letter
 
-Schrijf een onderzoeksbrief (research letter) over een van volgende toepassingen (of aanverwanten) aan elektromagnetische toepassingen, volgens de wetenschappelijke norm.
+Een onderzoeksbrief is een beknopte wetenschappelijke publicatie (1–2 pagina's) waarin een kernbevinding of inzicht helder en kort wordt gepresenteerd. Hierbij gelden de volgende omvangsbeperkingen:
 
-### Onderwerpen
+* Maximaal 600 woorden (exclusief referenties).
+* Maximaal 2 figuren.
+* Maximaal 1 tabel.
+
+Voldoe aan deze quota om het karakter van een research letter te behouden.
+
+Schrijf een **onderzoeksbrief** over een elektromagnetische toepassing of aanverwant onderwerp, volgens de wetenschappelijke norm (APA7-stijl).
+
+### Doel
+
+* Oefenen in het schrijven van een beknopte, gestructureerde research letter.
+* Toepassen van kennis over elektromagnetisme en bijbehorende formules.
+* Je leert kritisch literatuur te verkennen en kernideeën bondig samen te vatten.
+
+### Onderwerpen (kies één)
 
 :::: {.columns}
-
 ::: {.column width="50%"}
-
-  - HDD (hard disk drive),
-  - LHC (Large Hadron Collidor),
-  - MRI (magnetic resonance imaging),
-  - NFC (Near-Field Communication),
-  - RFID (radiofrequency identification),
-  - WPT (Wireless Power Transfer) of WET (Wireless Energy Transmission),
-  - Draadloos opladen,
-
+- **Condensator**
+- **Diode**
+- **Transformator**
+- **Alternator**
+- **Solenoïde** (elektromagnetische magneetspoel)
+- **Tesla­spoel** (hoogspanningstransformator voor resonantie-experimenten)
+- **Gitaarelement**
+- **Luidspreker**
+- **Antenne** (bv. dipool-, patch- of holografische antennes)
+- **Metaaldetector**
 :::
-
 ::: {.column width="50%"}
-
-  - Transformator,
-  - Alternator,
-  - Condensator,
-  - Diode,
-  - Gitaarelement.
-  - Luidspreker,
-  - Metaaldetector,
-
+- **HDD** (hard disk drive)
+- **LHC** (Large Hadron Collider)
+- **MRI** (magnetic resonance imaging)
+- **NFC** (Near-Field Communication)
+- **RFID** (radiofrequency identification)
+- **WPT / WET** (Wireless Power Transfer / Wireless Energy Transmission)
+- **Draadloos opladen**
+- **Inductiekookplaat** (elektromagnetische inductie in de keuken)
+- **Elektromagnetische rem** (eddy-current remmen, toegepast in treinen of attracties)
+- **Magnetische levitatie** (Maglev-trein)
 :::
-
 ::::
 
-### Template
+### Template & Tools
 
-De tekstverwerker is {{< latex >}}. 
-Je maakt je document online met [Overleaf](https://www.overleaf.com). 
+* Schrijfprogramma (aanbevolen): Microsoft Word
+   - Gebruik de [APA7 Word-template](https://national.libguides.com/ld.php?content_id=55991559).
+   - Volg de APA7-richtlijnen: dubbelregelafstand, 2,54 cm marges, koppen in vet/cursief, in-text citaties (Auteur, Jaar), alfabetische literatuurlijst.
+* Bonus-optie: LaTeX
+   - Voor gevorderden: {{< latex >}} in [Overleaf](https://www.overleaf.com) met de [APA7 Overleaf-template](https://github.com/psmsmets/WetenschappelijkeMethodiek-LaTeX-template).
+* Zotero voor bronbeheer:
+* Gebruik je bestaande Zotero-bibliotheek en organiseer je referenties in de map `Wetenschappelijk Methodiek > <JouwOnderwerp>`.
 
-Voor de layout maken we gebruik van de *APA7 stijl*. 
-Er is een [template](https://github.com/psmsmets/WetenschappelijkeMethodiek-LaTeX-template) om jullie alvast op weg te zetten. 
-[Download](https://github.com/psmsmets/WetenschappelijkeMethodiek-LaTeX-template/archive/refs/heads/main.zip) de apa7 template voor Wetenschappelijke Methodiek.
+### Structuur & Inhoud
 
-Start een `nieuw project` in Overleaf en upload het `.zip` bestand. 
-De template bevat alle vaste onderdelen en voorbeelden voor het gebruik van tabellen, figuren en citeren/refereren.
+1. Inleiding (ca. 100 woorden / 1 alinea): context, doelstelling en onderzoeksvraag.
+2. Midden (3–4 alinea’s totaal):
+   - Theorie & Werkingsprincipe (ca. 150–200 woorden): relevante grootheden en formules.
+   - Geschiedenis & Ontdekking (ca. 100 woorden): oorsprong en mijlpalen.
+   - Praktische Toepassing (ca. 150 woorden): voorbeelden van gebruik.
+3. Conclusie (ca. 100 woorden): belangrijkste bevindingen en eventuele aanbevelingen.
 
 
-### Criteria
+Verplichte inhoud:
 
-De vorm van de onderzoeksbrief is vastgelegd en heeft een *duidelijke structuur* bestaande uit een *inleiding*, *midden* (theorie, werking, toepassing, ...) en *slot* (conclusie).
+* Geschiedenis/ontdekking/oorsprong
+* Link met elektromagnetische grootheden en formules
+* Toepassing of gebruik
 
-Er zijn **3 verplichte elementen** voor de inhoud:
+**Kernwoorden:** geef minimaal drie trefwoorden (bv. `inductie`, `veldsterkte`, `efficiëntie`).
 
-1.  geschiedenis/ontdekking/oorsprong,
-1.  duidelijke link naar grootheden en formules van het thema elektromagnetisme van fysica,
-1.  (praktische) toepassing of gebruik.
+### Bronvermelding
 
-Daarnaast dien je minstens **3 kernwoorden** op te geven.
+* Alle referenties moeten in Zotero staan.
+* Gebruik APA7-stijl voor citaties en literatuurlijst.
 
-Zorg voor een **duidelijke bronvermelding**, zoals het hoort, georganiseerd door Zotero! 
-Elke referentie die je gebruikt moet in Zotero staan. 
+### Deadline & Inleveren
 
-  - Werk in een nieuwe map in je bibliotheek (wetenschappelijk methodiek > je onderwerp ). Je mag daarin gerust deelmappen maken.
-  - Voeg bronnen toe als bestand (website printen naar pdf en bijvoegen)
-  - Gebruik
-      * labels (bv. introductie, werking, toepassing, ...), zowel voor concrete referenties als specifieke elementen in de tekst
-      * notities
-      * Laat gerust niet gebruikte bronnen staan in de bibliotheek
-
-Heb je hulpmiddelen gebruikt?
-Geef dit dan duidelijk aan op het einde bij de bedankingen (`wat + waar`).
-
-De lengte van de onderzoeksbrief bedraagt 8PU (Publicate-eenheden):
-$$ 8\,\text{PU} = \dfrac{\#\text{woorden}}{400} + \#\text{figuren} + \#\text{tabellen}.$$
-De samenvatting, referenties en bedankingen tellen niet mee voor het aantal woorden. 
-Te veel eenheden kost je ook punten!
-    
-### Indienen: maandag 20 mei 2024
-
-Upload je documenten op Smartschool tegen maandag 20 mei 2024: PDF + `.zip` met {{< latex >}} bronbestanden Zotero bibliotheek (met aantekeningen).
-
-:::
+* Inleveren: woensdag 28 mei 2025, vóór 23:59.
+* Bestanden:
+   - PDF van de onderzoeksbrief
+   - .zip met bronbestanden (Word-document en Zotero-export)
+* Feedback & Peer Review:
+   - Binnen één week na inleveren krijg je docentfeedback.
+   - Daarna voer je in groepjes een peer review uit (commentaar op elkaars werk).
+* Upload via Smartschool (module Wetenschappelijke Methodiek).
 
 :::

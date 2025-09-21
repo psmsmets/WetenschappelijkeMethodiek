@@ -46,7 +46,7 @@ Bronnen:
 
 ### Zoeksyntaxis
 
-Zoekmachines zoals [Bing](https://bing.com), [DuckDuckGo](https://duckduckgo.com) en [Google](https://google.be) hebben geavanceerde zoeksyntaxis die je kunt gebruiken om je zoekopdrachten nog te verfijnen [@duckduckgo2023; @google_search; @microsoft_search].
+Zoekmachines zoals [Bing](https://bing.com), [DuckDuckGo](https://duckduckgo.com) en [Google](https://google.be) hebben geavanceerde zoeksyntaxis die je kunt gebruiken om je zoekopdrachten nog te verfijnen [@duckduckgo_syntax; @google_search; @microsoft_search].
 
 | Voorbeeld | Resultaat |
 |-----------|-----------|
@@ -137,6 +137,18 @@ Hieronder vind je een selectie van relevante multidisciplinaire wetenschappelijk
 | [RefSeek](https://www.refseek.com) | RefSeek is een webzoekmachine voor studenten en onderzoekers met als doel academische informatie gemakkelijk toegankelijk te maken voor iedereen zonder de informatie-overload van een algemene zoekmachine. RefSeek vergroot de zichtbaarheid van academische informatie en interessante ideeën die vaak verloren gaan in een wirwar van gesponsorde links en commerciële resultaten. |
 | [Science.gov](http://science.gov) | Science.gov biedt gebruikers toegang tot federale wetenschappelijke informatie, inclusief onderzoeks- en ontwikkelingsresultaten. |
 | [Semantic Scholar](https://www.semanticscholar.org) | Semantic Scholar is een gratis, AI-ondersteunde onderzoekstool voor wetenschappelijke literatuur |
-: Zoekmachines en databanken voor wetenschap. {#tbl-zoekmachines tbl-colwidths="[25,75]" .striped .hover}
+: Zoekmachines en databanken voor wetenschap. {#tbl-zoekmachines-databanken tbl-colwidths="[25,75]" .striped .hover}
 
 [^1]: OpenAIRE wordt uitgebreid naar bijna alle landen van de Europese Unie: <https://openaire.eu>.
+
+
+## Wanneer gebruik je wat?
+
+| Zoekmachine | Sterktes | Zwaktes | Beste voor |
+| ----------- | -------- | ------- | ---------- |
+| **Google** | Snelle | relevante resultaten | Privacy-issues | gefilterde bubble | Algemeen zoeken, nieuws |
+| **DuckDuckGo** | Privacy-vriendelijk, geen tracking | Minder gepersonaliseerd | Anoniem zoeken, objectieve info |
+| **Bing** |Goede integratie met Microsoft | Minder populair, minder resultaten | Bedrijfsgerelateerd zoeken |
+| **Google Scholar** | Wetenschappelijke artikelen | Complexe taal, niet alle artikelen gratis | Onderzoek, studies |
+| **arXiv** | Open-access wetenschappelijke preprints | Niet peer-reviewed | Onderzoek, studies |
+: Vergelijking Zoekmachines. {#tbl-vergelijking-zoekmachines tbl-colwidths="[25,25,25,25]" .striped .hover}

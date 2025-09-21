@@ -1,0 +1,264 @@
+# Jaar 1: Portfolio {.unnumbered}
+
+#### Welkom bij je portfolio voor Wetenschappelijke Methodiek.
+
+Dit portfolio is meer dan een verzameling opdrachten, het is je persoonlijke leer- en groeitraject als jonge wetenschapper. Hierin documenteer je niet alleen resultaten, maar ook je proces: hoe je denkt, onderzoekt, bijstuurt en reflecteert.
+
+#### Waarom dit portfolio?
+
+In _Wetenschappelijke Methodiek_ leer je de bouwstenen van degelijk onderzoek: van bronnen zoeken tot presenteren.
+Dit portfolio helpt je om:
+
+*   Stapsgewijs de onderzoekscompetenties eigen te maken (zie [Doelen](intro.html#doelen)).
+*   Actief te leren door te doen: elke module voegt een nieuw hoofdstuk toe aan je portfolio.
+*   Feedback te integreren en je werkwijze te versterken – want wetenschap is een cyclisch proces.
+
+#### Hoe werkt het?
+
+1.  Structuur
+    : Het portfolio volgt de fasen uit het [jaarplan](intro.html#planning). Elke module (bv. zoekstrategieën, bronnenkritiek) wordt een hoofdstuk, onderverdeeld in opdrachten.
+
+2.  Inhoud per opdracht
+    : Je antwoorden/resultaten (bv. een literatuurzoekopdracht).
+    Je reflectie: Wat ging goed? Wat zou je volgende keer anders doen?
+    Feedback van docenten of medestudenten (en hoe je die verwerkt).
+
+3.  Groei
+    : Je portfolio evolueert van een verzameling losse opdrachten (jaar 1) naar een geïntegreerd onderzoeksproject (jaar 2).
+
+::: {.callout-note title="Portfolio structuur" collapse="true"}
+Structuur van het portfolio
+
+1. **Titelblad**
+    - Naam, vak, jaar
+
+2. **Inleiding** (max. ½ pagina)
+    - Korte beschrijving van het vak
+    - Persoonlijke focuspunten (bv. "Ik wil leren hoe ik bronnen kritisch beoordeel")
+
+3. **Modulen** (per onderwerp)
+    - **Opdrachten**: Antwoorden/resultaten in duidelijke subkopjes
+    - **Reflectie**: 3-5 zinnen per opdracht (zie _reflectievragen_ per opdracht)
+    - **Feedback**: Opmerkingen van de leerkracht + je acties
+
+4. **Slotreflectie** (max. 1 pagina)
+    - Wat heb je geleerd?
+    - Welke vaardigheid neem je mee naar jaar 2?
+:::
+
+::: {.callout-note title="Portfolio documentinstellingen" collapse="true"}
+Documentinstellingen voor je portfolio
+
+- **Bestandsnaam**: Gebruik een duidelijke naam, bijvoorbeeld:
+    ``Portfolio_WetenschappelijkeMethodiek_[JouwNaam]_[Jaar]``
+- **Lettertype**: Kies een leesbaar lettertype (bv. Arial 11pt of Calibri 12pt).
+- **Marges**: Standaard (2,5 cm) voor ruimte voor opmerkingen.
+:::
+
+#### Tips voor succes
+
+*   Wees nieuwsgierig
+    : Stel vragen bij je eigen werk. Waarom koos ik deze bron? Is mijn argumentatie logisch?
+*   Houd het overzichtelijk
+    : Gebruik duidelijke koppen, datumstempels en een inhoudsopgave.
+*   Durf fouten te maken
+    : Reflectie over misstappen is net zo waardevol als succes.
+
+::: {.callout-tip title="Portfolio tips" collapse="true"}
+Praktische tips voor onderhoud
+
+- **Consistente opmaak**: Gebruik **stijlen** (bv. *Kop 1* voor modulen, *Kop 2* voor opdrachten) voor een uniforme lay-out.
+- **Versiebeheer**:
+    -   **Google Docs**: Deel het document met docenten (instel: *"Kan opmerking maken"*) en gebruik de **versiegeschiedenis** (Bestand > Versiegeschiedenis).
+    -   **Word**: Sla op in OneDrive/SharePoint met datum in bestandsnaam (bv. ``Portfolio_v2_2025-09-21``).
+- **Back-up**: Maak maandelijks een PDF-export.
+:::
+
+
+## Module 0: Introductie
+
+::: {.callout-note title="Doel"}
+Reflecteren over de fasen van wetenschappelijk onderzoek.
+:::
+
+
+::: Opdracht
+### Metakennis
+Peilen naar metakennis over wetenschap.
+
+1.  braindump
+
+    Iedereen schrijft gedurende 3 min op een blad wat bij zich opkomt bij “wetenschappelijk onderzoek”.
+
+1.  brainstorm in 3 groepen
+
+    Bespreek samen het verloop van een wetenschappelijk onderzoek.
+
+1.  samenleggen
+
+    Klassikaal bespreken van de fasen van wetenschappelijk onderzoek. 
+    Wat komt overeen met elkaar? Waar zitten de grote verschillen?
+
+1.  De wetenschappelijke methode volgens [Monty Python and the Holy Grail (1975) "We Found a Witch"](https://youtu.be/zdVOZ8Gbf-c?si=MhBYeUVtSpf-iayz) en de logische drogredenen [@hoey2013].
+
+    {{< video https://youtu.be/zdVOZ8Gbf-c?si=MhBYeUVtSpf-iayz >}}
+
+---
+
+Reflectievraag
+: _Welke onderzoeksvaardigheid wil je dit jaar het meest verbeteren? Hoe ga je ervoor zorgen dat je portfolio niet alleen een verplichting wordt, maar een nuttig hulpmiddel?_
+:::
+
+
+## Module 1: Zoekstrategieën en databanken
+
+::: {.callout-note title="Doel"}
+* Leren hoe je betrouwbare informatie vindt en evalueert.
+* Geavanceerde zoekoperatoren toepassen en Google Advanced Search gebruiken.
+* Wetenschappelijke databanken verkennen en leren hoe deze gebruikt kunnen worden voor diepgaand onderzoek.
+:::
+
+::: {.callout-caution}
+Maak in deze module enkel gebruik van zoekmachines op het internet.\
+Het gebruik van __AI is NIET toegelaten__ bij alle opdrachten van deze module!
+:::
+
+::: Opdracht
+### I'm Feeling Lucky
+
+Opwarmer
+: _Wat was de minimumtemperatuur afgelopen nacht in Hoogstraten?_
+
+
+Google
+: Beantwoord volgende vragen door te zoeken op het internet.
+
+*   _Welke landen vormen samen met België een stormgebied?_
+*   _Hoe heet ons stormgebied?_
+*   _Hoeveel gebieden zijn er in Europa?_
+*   _Wat wordt de naam van de 8e storm van het huidige stormseizoen in ons stormgebied?_
+*   _Uit welk land komt deze naam?_
+*   _Wat wordt de naam van de 15e storm van het huidige stormseizoen in het Nederlandse stormgebied?_
+*   _Vanwaar komt deze naam?_
+
+
+Breinbreker
+: _Waarom zijn HLN en LLN nodig?_
+
+---
+
+Reflectievraag
+:   Tijdens deze opdracht heb je informatie opgezocht over stormgebieden en weersverschijnselen. _Welke zoekstrategieën heb je toegepast om betrouwbare en actuele antwoorden te vinden?_ \
+    Beschrijf één moment waarop je twijfelde over de geldigheid van een bron. _Hoe heb je die twijfel opgelost? Wat neem je mee voor toekomstige zoekopdrachten?_
+:::
+
+
+::: Opdracht
+### Zoeksyntaxis en Google Advanced Search
+
+Doel
+: Effectief zoeken door het toepassen van geavanceerde zoekoperatoren en het gebruik van Google Advanced Search.
+
+---
+
+__Opdracht__
+
+1.  Gebruik de correcte zoeksyntaxis om antwoorden te vinden op de volgende vragen:
+
+    *   _Welke Belgische universiteiten publiceerden in 2024 of 2025 over de impact van hittegolven op stedelijke infrastructuur?_\
+        Gebruik `site:.be` en `filetype:pdf`.
+
+    *   _Vind een recent (2024-2025) rapport van de Europese Commissie over hernieuwbare energie in de Benelux._\
+        Gebruik `intitle:` en `site:europa.eu`.
+
+    *   _Zoek naar een presentatie (PowerPoint) over de economische gevolgen van overstromingen in Vlaanderen._\
+        Gebruik `filetype:pptx` en `economische impact`.
+
+2.  Gebruik Google Advanced Search om:
+
+    *   Resultaten te filteren op:
+
+        - taal (Nederlands/Engels),
+        - regio (België/Nederland),
+        - datum (2024-2025).
+
+    *   Een zoekopdracht uit te voeren met minstens 3 filters (bv. exacte zin, bestandstype, site).
+
+---
+
+Reflectievraag
+: _Welke zoeksyntaxis vond je het meest nuttig? Waarom? Welke uitdagingen ondervond je?_
+:::
+
+
+::: Opdracht
+### Zoekmachines Vergelijken
+
+Doel
+: Effectief zoeken door het toepassen van geavanceerde zoekoperatoren en het gebruik van Google Advanced Search.
+
+---
+
+__Opdracht__
+
+1.  Voer dezelfde zoekopdracht uit in 3 zoekmachines:
+
+    _Welke innovatieve technologieën worden in 2025 gebruikt om overstromingen in Nederland en België te voorspellen?_
+
+    Noteer voor elke zoekmachine:
+
+    *   De top 3 resultaten (titel + URL).
+    *   Of de resultaten relevant, actueel en betrouwbaar zijn (gebruik de CRAAP-test: Currency, Relevance, Authority, Accuracy, Purpose).
+    * Of er commerciële bias is (bv. gesponsorde links).
+
+2.  Gebruik een wetenschappelijke zoekmachine (Google Scholar of arXiv) om een wetenschappelijk artikel te vinden over "klimaatadaptatie in stedelijke gebieden" (2020-2025).
+
+    Vergelijk dit artikel met de resultaten uit Google/DuckDuckGo: "Wat zijn de verschillen in diepgang en betrouwbaarheid?"
+
+---
+
+Reflectievraag
+: _Welke zoekmachine gaf de beste resultaten voor deze opdracht? Waarom denk je dat dat zo is?_
+:::
+
+
+::: Opdracht
+### Databanken en Onderzoeksgerelateerd Zoeken
+
+Doel
+: Wetenschappelijke databanken verkennen en leren hoe deze gebruikt kunnen worden voor diepgaand onderzoek.
+
+---
+
+Gebruik Google Scholar om:
+
+Een geciteerd artikel (minstens 50 citaties) te vinden over "de impact van extreme weersomstandigheden op landbouw in West-Europa".
+Sorteer de resultaten op "meest recent" en "meest relevant". Wat zijn de verschillen?
+
+
+
+Gebruik arXiv of CORE om:
+
+Een preprint te vinden over "machine learning-toepassingen voor weersvoorspellingen" (2023-2025).
+Controleer of het artikel later is gepubliceerd in een tijdschrift (zoek de titel op Google Scholar).
+
+
+
+Gebruik BASE of DOAJ om:
+
+Een open-access artikel te vinden over "duurzame energieoplossingen in België" (2020-2025).
+Beoordeel de betrouwbaarheid van de bron (wie is de auteur? Welk tijdschrift?).
+
+---
+
+Reflectievraag
+: _Welke databank vond je het meest nuttig voor wetenschappelijk onderzoek? Waarom?_
+
+:::
+
+
+## Module 2: AI & zoekethiek
+
+## Module 3: Informatiebeheer
+
+## Module 4: Bronnenkritiek

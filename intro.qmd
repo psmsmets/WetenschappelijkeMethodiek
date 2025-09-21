@@ -1,4 +1,4 @@
-# Introductie {.unnumbered}
+# Introductie {#sec-introductie .unnumbered}
 
 ## Géén LAB$^3$
 
@@ -71,76 +71,112 @@ Een methodologie kan bijvoorbeeld de wetenschappelijke methode zijn, een kwalita
 Kort gezegd: methoden zijn de specifieke tools en technieken die worden gebruikt om taken uit te voeren, terwijl methodieken bredere raamwerken en systemen van methoden zijn die worden toegepast binnen een bepaalde context om een specifiek doel te bereiken. Methodieken bieden richtlijnen en strategieën voor het gebruik van methoden in een samenhangende en gestructureerde manier.
 
 
-## Planning
+## Planning {#planning}
 
-...
+Het eerste jaar is een stapsgewijze voorbereiding met vooraf bepaalde onderwerpen en thema's. 
+In jaar twee werken we rond en aan een persoonlijk onderzoek.
 
 
 ::: {#fig-planning fig-cap="Planning jaar 1" fig-align="center"}
 ```{mermaid}
 gantt
-        introductie : i1, 2023-09-01, 1w
-        vooronderzoek : i2, 2023-09-08, 3w
-        Python deel 1 : py1, after i2, 4w
-        Herfstvakantie : done, v1, 2023-10-30, 1w
-        Project 1 : crit, proj1, after v1, 4w
-        Functionality added : milestone, 2023-12-05, 0d
-        Kerstvakantie : done, v2, 2023-12-25, 2w
-        vooronderzoek : i3, after v2, 3w
-        Krokusvakantie : done, v3, 2024-02-12, 1w
-        Paasvakantie : done, v4, 2024-04-01, 2w
-        Project 2 : crit, proj2, after v4, 6w
-        Functionality added : milestone, 2024-06-01, 0d
+    title Wetenschappelijke Methodiek - Jaar 1
+    dateFormat  YYYY-MM-DD
+    excludes    weekends
+
+    Portfolio trimester 1            :2025-09-01, 2025-12-08
+
+    Introductie en visie             :i1, 2025-09-01, 10d
+    Zoekstrategieën & databanken     :a1, after i1, 10d
+    AI & zoekethiek                  :a2, after a1, 10d
+    Zotero (referentiebeheer)        :a3, after a2, 10d
+    Herfstvakantie                   :done, break1, 2025-10-27, 5d
+
+    Bronnenkritiek                   :a4, after break1, 25d
+#   = Betrouwbaarheid en validiteit van bronnen
+
+#   Speed reading?
+
+    Portfolio                        :milestone, 2025-12-08, 0d
+
+    Kerstvakantie                    :done, break2, 2025-12-22, 10d
+    Krokusvakantie                   :done, break3, 2026-02-16, 5d
+    Paasvakantie                     :done, break4, 2026-04-06, 10d
+
+#    Metawetenschap: Onderzoeksmethoden :i3, after break2, 2w
+#
+#    Rapporten & kritisch denken      :proj1, after i3, 3w
+#    Open wetenschap                  :i4, after proj1, 2w
+#    LaTeX voor onderzoeksbrief       :h3, after i4, 4w
+#    Kerstvakantie                    :v2, 2025-12-22, 2w
+#    Slides & presenteren             :h4, after v2, 2w
+#    Eindproject: onderzoeksbrief     :proj2, after h4, 5w
+#    Paasvakantie                     :v3, 2026-04-06, 2w
+#    Portfolio                        :milestone, 2026-06-01, 0d
 ```
 :::
 
 
-::: {.hidden}
-onderzoekscompetenties
+::: {#fig-planning-jaar2 fig-cap="Planning jaar 2" fig-align="center"}
+```{mermaid}
+gantt
+    title Wetenschappelijke Methodiek - Jaar 2
+    dateFormat   YYYY-MM-DD
+    excludes     weekends
 
-verschillende stappen om tot een goed onderzoek te komen
+    Verkennen onderwerpen            :a1, 2025-09-01, 20d
+    Onderzoeksvoorstel schrijven     :a2, after a1, 20d
+    Herfstvakantie                   :done, break1, 2025-10-27, 5d
+    Onderzoeksvoorstel schrijven     :a3, after break1, 25d
+    Onderzoeksvoorstel               :milestone, after a3, 0d
 
-- bronnenmateriaal vinden + toetsen op betrouwbaarheid + citeren
+    Kerstvakantie                    :done, break2, 2025-12-22, 10d
+    Elevator pitch & storytelling    :b1, after break2, 10d
+    Cyclus 1 - Onderzoek en logboek  :c1, after b1, 20d
 
-- onderzoeksvraag
+    Krokusvakantie                   :done, break3, 2026-02-16, 5d
+    Cyclus 2 - Onderzoek en logboek  :c2, after break3, 20d
+    Kritisch denken                  :after c2, 10d
 
-- onderzoeksmethoden
+    Paasvakantie                     :done, break4, 2026-04-06, 10d
+    Cyclus 3 - Onderzoek en afronding:c3, after break4, 20d
 
-- communiceren = rapporteren + delen
+    Poster voorbereiden              :d1, 2026-05-18, 10d
+    Posterpresentaties               :milestone, 2026-06-01, 0d
+```
 :::
 
-Soft-skills:
+## Doelen {#doelen}
 
- - wetenschappelijk lezen
- - wetenschappelijk analyseren
- - wetenschappelijk schrijven
- - wetenschappelijk presenteren
- - programmeren
+### Onderzoekscompetenties
 
-Learning-on-the-job bij projecten:
+In *Wetenschappelijke Methodiek* leer je verschillende stappen doorlopen om tot degelijk onderzoek te komen:
 
- - jaar 1: vooraf bepaald
- - jaar 2: eigen keuze
+- Bronnenmateriaal vinden, beoordelen op betrouwbaarheid en correct citeren
+- Een onderzoeksvraag formuleren en afbakenen
+- Onderzoeksmethoden begrijpen en toepassen
+- Wetenschappelijke communicatie: rapporteren, visualiseren en presenteren
+- Werken in cycli: feedback integreren en bijsturen
 
-Het eerste jaar is een stapsgewijze voorbereiding om in jaar twee te werken rond een geïntegreerde proef (GIP).
+### Soft-skills
 
+Naast kennis en kunde, werk je aan volgende *vaardigheden*:
 
-## Verwachtingen
+- Wetenschappelijk lezen (kritisch en doelgericht)
+- Wetenschappelijk analyseren (argumenten, methodes en conclusies doorgronden)
+- Wetenschappelijk schrijven (objectief, gestructureerd, correct geciteerd)
+- Wetenschappelijk presenteren (helder, visueel ondersteund, doelgroepgericht)
 
-...
+### Learning-on-the-job
 
+Je leert door te doen. Dit gebeurt in twee fasen:
 
-## Doelstellingen
+- **Jaar 1**: via een *portfolio* waarin je opdrachten, reflecties en bronnen verzamelt.
+  - Elke fase van de leerlijn leidt tot een tastbaar document in je portfolio.
+  - Je krijgt regelmatig feedback op inhoud en werkwijze.
+- **Jaar 2**: je past alles toe in een eigen *onderzoeksproject*:
+  - Je schrijft een onderzoeksvoorstel.
+  - Je voert je onderzoek zelfstandig uit en houdt een logboek bij.
+  - Je communiceert je bevindingen via een posterpresentatie.
 
-Het verwerven van onderzoekscompetenties door praktijkervaring.
-
-::: {.callout-note title="Informaticawetenschappen"}
-Wetenschappelijke Methodiek integreert het leerplan van `Informaticawetenschappen` voor de 3de graad D-finaliteit (`D/2023/13.758/` versie 3 mei 2023).
-:::
-
-Het leerplan omvat twee grote onderdelen:
-
-  * efficiënt programma’s ontwikkelen;
-  * algoritmiek.
-
-Deze twee onderdelen worden opgesplitst bij het vak Wetenschappelijke Methodiek over het eerste en tweede jaar.
+Het doel: je leren denken en handelen als een jonge wetenschapper in een context die uitnodigt tot nieuwsgierigheid, grondigheid en zelfreflectie.

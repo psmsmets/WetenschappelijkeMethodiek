@@ -1,0 +1,10 @@
+\providecommand{\Pageref}[1]{\hfill p.\pageref{#1}}
+ [**Opdracht 1**](project5.qmd#metakennis): Metakennis\Pageref{metakennis}
+
+ [**Opdracht 2**](project5.qmd#im-feeling-lucky): I’m Feeling Lucky\Pageref{im-feeling-lucky}
+
+ [**Opdracht 3**](project5.qmd#zoeksyntaxis-en-google-advanced-search): Zoeksyntaxis en Google Advanced Search\Pageref{zoeksyntaxis-en-google-advanced-search}
+
+ [**Opdracht 4**](project5.qmd#zoekmachines-vergelijken): Zoekmachines Vergelijken\Pageref{zoekmachines-vergelijken}
+
+ [**Opdracht 5**](project5.qmd#databanken-en-onderzoeksgerelateerd-zoeken): Databanken en Onderzoeksgerelateerd Zoeken\Pageref{databanken-en-onderzoeksgerelateerd-zoeken}

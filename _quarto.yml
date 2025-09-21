@@ -10,14 +10,17 @@ book:
   title: "Wetenschappelijke Methodiek"
   subtitle: "Richtlijnen en Strategieën voor Goed Onderzoek"
   site-url: https://w-m.pietersmets.be
-  date: "3 november 2024"
+  date: "21 september 2025"
   author:
     - name: Pieter Smets
       id: ps
       orcid: 0000-0003-0394-0973
       email: mail@pietersmets.be
   abstract: > 
-    [deze volgt nog] 
+    *Wetenschappelijke Methodiek* is een vak voor de derde graad (doorstroomfinaliteit) dat leerlingen opleidt tot kritische en wetenschappelijk georiënteerde denkers. Het vak combineert inzicht in de wetenschappelijke methode met praktische vaardigheden zoals informatie zoeken, bronnen beheren, correct verwijzen, en helder rapporteren. De klemtoon ligt zowel op *kennis* en *kunde* als op *houding*: nieuwsgierigheid, precisie en zelfreflectie staan centraal.
+    In het **vijfde jaar** ligt de nadruk op verkennen en trainen. Leerlingen maken kennis met de fundamenten van metawetenschap, zoals de wetenschappelijke methode, de betrouwbaarheid van bronnen, en de principes van open wetenschap. Daarnaast leren ze doelgericht zoeken naar wetenschappelijke literatuur, beheren ze hun bronnen via Zotero, en oefenen ze academisch schrijven in LaTeX. Het eerste jaar wordt afgesloten met een onderzoeksbrief over een onderwerp binnen elektromagnetisme. Gedurende het hele proces houden leerlingen een portfolio bij waarin ze hun werk, reflecties en groei documenteren.
+    In het **zesde jaar** passen leerlingen de verworven vaardigheden zelfstandig toe in een onderzoek naar keuze. Ze starten met het verkennen van mogelijke onderzoeksonderwerpen en schrijven een uitgewerkt onderzoeksvoorstel. Vervolgens voeren ze hun onderzoek uit, waarbij ze systematisch logboek houden van hun voortgang. Het jaar wordt afgesloten met een wetenschappelijke posterpresentatie waarin ze hun bevindingen visueel en mondeling presenteren.
+    De volledige leerlijn is cyclisch opgebouwd en stimuleert leerlingen om via feedback, reflectie en herwerking steeds diepgaander te leren. Het einddoel is dat ze niet enkel weten *hoe* wetenschap werkt, maar ook zelf in staat zijn om onderbouwd, helder en kritisch een onderzoeksvraag te benaderen en uit te werken.
   license: "GNU GPLv3"
   chapters:
     - index.qmd
@@ -40,9 +43,8 @@ book:
         - tool-presentaties.qmd
     - part: projects.qmd
       chapters:
-        - project-intro.qmd
-#        - project-log.qmd
-#        - project-water.qmd
+        - project5.qmd
+        - project6.qmd
     - references.qmd
   cover-image: cover.png
   search: true
@@ -109,11 +111,11 @@ custom-numbered-blocks:
       boxstyle: foldbox.simple
       collapse: false
       listin: [examples]
-    exercises:
+    opdrachten:
       colors: [e7b1b4, 8c3236]
       boxstyle: foldbox.simple
       collapse: true 
-      listin: [exercises]
+      listin: [portfolio]
 #    todos: default  
   classes:
     Theorem:
@@ -136,7 +138,7 @@ custom-numbered-blocks:
       colors: [d999d3, a01793]
     Exercise:
       label: "Opdracht"
-      group: exercises
+      group: opdrachten 
     Example:
       label: "Voorbeeld"
       group: examples
@@ -145,6 +147,13 @@ custom-numbered-blocks:
       group: default
       label: "Methode"
       collapse: false
+    Opdracht:
+      label: "Opdracht"
+      group: opdrachten
+    Reflectie:
+      group: default
+      label: "Reflectie"
+      numbered: false
 #    TODO:
 #      label: "To do"
 #      colors: [e7b1b4, 8c3236]

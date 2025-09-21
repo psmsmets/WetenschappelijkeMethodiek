@@ -75,7 +75,6 @@ digraph "De 7 elementen van de wetenschappelijke methode" {
 ```
 :::
 
-
 De wetenschappelijke methode bestaat doorgaans uit de volgende zeven stappen:
 
  1. Observatie
@@ -91,6 +90,7 @@ De wetenschappelijke methode bestaat doorgaans uit de volgende zeven stappen:
     : Het ontwerpen en uitvoeren van gecontroleerde experimenten om de voorspellingen te testen. Hierbij worden controlevariabelen en experimentele groepen gebruikt om nauwkeurige, reproduceerbare resultaten te verkrijgen.
 
  1. Data-analyse
+
     : Het verzamelen en analyseren van de tijdens het experiment verkregen gegevens, vaak met behulp van statistische methoden, om patronen te identificeren en de hypothese te evalueren.
 
  1. Conclusie
@@ -104,12 +104,9 @@ De wetenschappelijke methode is een iteratief proces waarin nieuwe observaties e
 
 ## De cyclus van wetenschappelijk denken
 
-Een alternatieve benadering is de cyclus van wetenschappelijk denken. Deze cyclus beschrijft het proces waarbij de wetenschap voortdurend modellen toetst en aanpast, wat leidt tot een steeds betere benadering van de werkelijkheid.
-
-
 {{< video https://www.youtube.com/watch?v=j12BBcKSgEQ >}}
 
-Een alternatieve opvatting van de wetenschappelijke methode is de cyclus van wetenschappelijk denken. Deze cyclus beschrijft het proces waarin de wetenschap voortdurend modellen toetst en bijstelt om de werkelijkheid steeds beter te begrijpen:
+Een alternatieve benadering is de cyclus van wetenschappelijk denken. Deze cyclus beschrijft het proces waarbij de wetenschap voortdurend modellen toetst en aanpast, wat leidt tot een steeds betere benadering van de werkelijkheid:
 
  *  Waarneming
     : Het proces begint met waarnemingen – directe ervaringen of meetbare gegevens die nieuwsgierigheid opwekken of vragen oproepen. Dit kunnen onverwachte gebeurtenissen zijn of patronen die de onderzoeker wil doorgronden.
