@@ -74,6 +74,7 @@ Bronnen raadplegen is niet zonder gevaar. Informatie kan reeds achterhaald zijn 
 ::: {.callout-warning}
 Vertrouw niet blindelings een bron, hoe betrouwbaar deze ook maar oogt. 
 Schijn kan bedriegen.
+Daarom gebruiken we de _CRAAP_-test (Engels, _crap_).
 :::
 
 ::: {.Example}
@@ -85,6 +86,32 @@ In maar liefst 55 publicaties werd effectief fraude vastgesteld.
 Aanwijzingen voor fraude werden vastgesteld bij nog een tiental artikelen. 
 Daarnaast zijn er nog afgeleide of andere publicaties, delen van boekpublicaties en proefschriften, die (vrijwel zeker of zeer waarschijnlijk) geheel of gedeeltelijk gebaseerd zijn op frauduleuze onderzoeksgegevens. [@commissielevelt2012].
 :::
+
+## _CRAAP_-test
+
+De _CRAAP_-test (Engels, _crap_) is een eenvoudige methode om bronnen kritisch te beoordelen op vijf kernpunten: actualiteit, relevantie, autoriteit, accuraatheid en doel. Door deze vragen stap voor stap te stellen, krijg je snel zicht op de kwaliteit en bruikbaarheid van de informatie.
+
+_CRAAP_ staat voor:
+
+*   __C – Currency__ (Actualiteit)
+    *   Wanneer is de informatie gepubliceerd of voor het laatst bijgewerkt?
+    *   Is de inhoud nog actueel en relevant voor je onderwerp?
+*   __R – Relevance__ (Relevantie)
+    *   Sluit de bron goed aan bij je onderzoeksvraag of onderwerp?
+    *   Is de informatie op het juiste niveau (niet te eenvoudig of te ingewikkeld)?
+    *   Wie is het beoogde publiek?
+*   __A – Authority__ (Autoriteit)
+    *   Wie is de auteur of organisatie?
+    *   Wat zijn hun kwalificaties of expertise?
+    *   Is er een betrouwbare uitgever of instelling aan verbonden?
+*   __A – Accuracy__ (Nauwkeurigheid / Correctheid)
+    *   Is de informatie correct, verifieerbaar en onderbouwd met bewijzen?
+    *   Zijn er verwijzingen naar andere betrouwbare bronnen?
+    *   Bevat de bron veel fouten of subjectieve uitspraken?
+*   __P – Purpose__ (Doel / Intentie)
+    *   Waarom bestaat de bron? Om te informeren, overtuigen, verkopen of amuseren?
+    *   Is er sprake van vooroordelen of belangen?
+    *   Wordt de informatie neutraal of gekleurd gepresenteerd?
 
 
 ## Een zoekstrategie
@@ -116,7 +143,7 @@ Dat bespaart je een hoop werk achteraf als je je uiteindelijke bibliografie gaat
 Hopelijk heb je na je eerste zoektocht op het web en in bibliotheken of na het uitvoeren van experimenten of enquêtes heel wat informatie vergaard. 
 Wellicht heb je zelfs te veel informatie verzameld. 
 Om zinloos tijdverlies te vermijden, is het belangrijk dat je nu gaat snoeien in de overdaad aan bronnen die je intussen wellicht hebt. 
-Ga na aan de hand van een aantal criteria of de informatie die je hebt zinvol, volledig, betrouwbaar en relevant is en durf ook dingen te verwijderen. 
+Ga na aan de hand van de _CRAAP_-test of de informatie die je hebt zinvol, volledig, betrouwbaar en relevant is en durf ook dingen te verwijderen. 
 Denk er dan wel aan dat je de bron ook uit je voorlopige bibliografie schrapt. 
 Soms kan het echter ook nuttig zijn om informatie die je niet weerhouden hebt niet definitief te verwijderen. 
 Hou ze bij in een aparte map (of label deze), want als later blijkt dat de informatie toch nuttig was, kan je ze daar gemakkelijk terugvinden. 
@@ -124,7 +151,7 @@ Hou ze bij in een aparte map (of label deze), want als later blijkt dat de infor
 Snoeien in de brede waaier aan informatie die je hebt doe je aan de hand van de volgende criteria: 
 
 ::: {.Feature #feature-bronnen-selecteren}
-#### selecteren
+#### selecteren (_CRAAP_-test)
 *   Is de informatie up-to-date? Check de publicatiedatum.
 *   Kan je achterhalen wie de maker van de bron is? Controleer of het om een organisatie of één of meerdere personen gaat.
 *   Lees de samenvatting om zeker te zijn dat de inhoud echt relevant is voor jouw onderzoek. 
