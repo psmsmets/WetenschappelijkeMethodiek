@@ -87,7 +87,7 @@ Aanwijzingen voor fraude werden vastgesteld bij nog een tiental artikelen.
 Daarnaast zijn er nog afgeleide of andere publicaties, delen van boekpublicaties en proefschriften, die (vrijwel zeker of zeer waarschijnlijk) geheel of gedeeltelijk gebaseerd zijn op frauduleuze onderzoeksgegevens. [@commissielevelt2012].
 :::
 
-## _CRAAP_-test
+## _CRAAP_-test {#craap-test}
 
 De _CRAAP_-test (Engels, _crap_) is een eenvoudige methode om bronnen kritisch te beoordelen op vijf kernpunten: actualiteit, relevantie, autoriteit, accuraatheid en doel. Door deze vragen stap voor stap te stellen, krijg je snel zicht op de kwaliteit en bruikbaarheid van de informatie.
 

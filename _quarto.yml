@@ -10,7 +10,7 @@ book:
   title: "Wetenschappelijke Methodiek"
   subtitle: "Richtlijnen en Strategieën voor Goed Onderzoek"
   site-url: https://w-m.pietersmets.be
-  date: "22 september 2025"
+  date: "24 september 2025"
   author:
     - name: Pieter Smets
       id: ps
@@ -36,8 +36,9 @@ book:
         - kritisch-denken.qmd
     - part: tools.qmd
       chapters:
-        - tool-literatuuronderzoek.qmd
-        - tool-bibliografie.qmd
+        - tool-zoekmachines-en-databanken.qmd
+        - tool-ai.qmd
+        - tool-referentiebeheer.qmd
         - tool-data-analyse.qmd
         - tool-publicaties.qmd
         - tool-presentaties.qmd

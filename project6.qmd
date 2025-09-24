@@ -1,3 +1,35 @@
 # Jaar 2: Eigen onderzoek {.unnumbered}
 
-...
+## Planning
+
+In jaar twee werken we rond en aan een persoonlijk onderzoek.
+
+::: {#fig-planning-jaar2 fig-cap="Planning jaar 2" fig-align="center"}
+```{mermaid}
+gantt
+    title Wetenschappelijke Methodiek - Jaar 2
+    dateFormat   YYYY-MM-DD
+    excludes     weekends
+
+    Verkennen onderwerpen            :a1, 2025-09-01, 20d
+    Onderzoeksvoorstel schrijven     :a2, after a1, 20d
+    Herfstvakantie                   :done, break1, 2025-10-27, 5d
+    Onderzoeksvoorstel schrijven     :a3, after break1, 25d
+    Onderzoeksvoorstel               :milestone, after a3, 0d
+
+    Kerstvakantie                    :done, break2, 2025-12-22, 10d
+    Elevator pitch & storytelling    :b1, after break2, 10d
+    Cyclus 1 - Onderzoek en logboek  :c1, after b1, 20d
+
+    Krokusvakantie                   :done, break3, 2026-02-16, 5d
+    Cyclus 2 - Onderzoek en logboek  :c2, after break3, 20d
+    Kritisch denken                  :after c2, 10d
+
+    Paasvakantie                     :done, break4, 2026-04-06, 10d
+    Cyclus 3 - Onderzoek en afronding:c3, after break4, 20d
+
+    Poster voorbereiden              :d1, 2026-05-18, 10d
+    Posterpresentaties               :milestone, 2026-06-01, 0d
+```
+:::
+

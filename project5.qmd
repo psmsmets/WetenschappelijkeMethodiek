@@ -1,5 +1,7 @@
 # Jaar 1: Portfolio {.unnumbered}
 
+## Portfolio
+
 #### Welkom bij je portfolio voor Wetenschappelijke Methodiek.
 
 Dit portfolio is meer dan een verzameling opdrachten, het is je persoonlijke leer- en groeitraject als jonge wetenschapper. Hierin documenteer je niet alleen resultaten, maar ook je proces: hoe je denkt, onderzoekt, bijstuurt en reflecteert.
@@ -72,6 +74,49 @@ Praktische tips voor onderhoud
     -   **Google Docs**: Deel het document met docenten (instel: *"Kan opmerking maken"*) en gebruik de **versiegeschiedenis** (Bestand > Versiegeschiedenis).
     -   **Word**: Sla op in OneDrive/SharePoint met datum in bestandsnaam (bv. ``Portfolio_v2_2025-09-21``).
 - **Back-up**: Maak maandelijks een PDF-export.
+:::
+
+## Planning
+
+Het eerste jaar is een stapsgewijze voorbereiding met vooraf bepaalde onderwerpen en thema's.
+
+::: {#fig-planning fig-cap="Planning jaar 1" fig-align="center"}
+```{mermaid}
+gantt
+    title Wetenschappelijke Methodiek - Jaar 1
+    dateFormat  YYYY-MM-DD
+    excludes    weekends
+
+    Portfolio trimester 1            :2025-09-01, 2025-12-08
+
+    Introductie en visie             :i1, 2025-09-01, 10d
+    Zoekstrategieën & databanken     :a1, after i1, 10d
+    AI & zoekethiek                  :a2, after a1, 10d
+    Zotero (referentiebeheer)        :a3, after a2, 10d
+    Herfstvakantie                   :done, break1, 2025-10-27, 5d
+
+    Bronnenkritiek                   :a4, after break1, 25d
+#   = Betrouwbaarheid en validiteit van bronnen
+
+#   Speed reading?
+
+    Portfolio                        :milestone, 2025-12-08, 0d
+
+    Kerstvakantie                    :done, break2, 2025-12-22, 10d
+    Krokusvakantie                   :done, break3, 2026-02-16, 5d
+    Paasvakantie                     :done, break4, 2026-04-06, 10d
+
+#    Metawetenschap: Onderzoeksmethoden :i3, after break2, 2w
+#
+#    Rapporten & kritisch denken      :proj1, after i3, 3w
+#    Open wetenschap                  :i4, after proj1, 2w
+#    LaTeX voor onderzoeksbrief       :h3, after i4, 4w
+#    Kerstvakantie                    :v2, 2025-12-22, 2w
+#    Slides & presenteren             :h4, after v2, 2w
+#    Eindproject: onderzoeksbrief     :proj2, after h4, 5w
+#    Paasvakantie                     :v3, 2026-04-06, 2w
+#    Portfolio                        :milestone, 2026-06-01, 0d
+```
 :::
 
 
@@ -165,13 +210,13 @@ __Opdracht__
 
 1.  Gebruik de correcte zoeksyntaxis om antwoorden te vinden op de volgende vragen:
 
-    *   _Welke Belgische universiteiten publiceerden in 2024 of 2025 over de impact van hittegolven op stedelijke infrastructuur?_\
+    *   "Welke Belgische universiteiten publiceerden in 2024 of 2025 over de impact van hittegolven op stedelijke infrastructuur?"\
         Gebruik `site:.be` en `filetype:pdf`.
 
-    *   _Vind een recent (2024-2025) rapport van de Europese Commissie over hernieuwbare energie in de Benelux._\
+    *   "Vind een recent (2024-2025) rapport van de Europese Commissie over hernieuwbare energie in de Benelux."\
         Gebruik `intitle:` en `site:europa.eu`.
 
-    *   _Zoek naar een presentatie (PowerPoint) over de economische gevolgen van overstromingen in Vlaanderen._\
+    *   "Zoek naar een presentatie (PowerPoint) over de economische gevolgen van overstromingen in Vlaanderen."\
         Gebruik `filetype:pptx` en `economische impact`.
 
 2.  Gebruik Google Advanced Search om:
@@ -203,17 +248,18 @@ __Opdracht__
 
 1.  Voer dezelfde zoekopdracht uit in 3 zoekmachines:
 
-    _Welke innovatieve technologieën worden in 2025 gebruikt om overstromingen in Nederland en België te voorspellen?_
+    "Welke innovatieve technologieën worden in 2025 gebruikt om overstromingen in Nederland en België te voorspellen?"
 
     Noteer voor elke zoekmachine:
 
-    *   De top 3 resultaten (titel + URL).
-    *   Of de resultaten relevant, actueel en betrouwbaar zijn (gebruik de CRAAP-test: Currency, Relevance, Authority, Accuracy, Purpose).
-    * Of er commerciële bias is (bv. gesponsorde links).
+    *   De top 3 resultaten (titel + URL). Je kan ook een printscreen nemen van de resultaten per zoekmachine.
+    *   Of er commerciële bias is (bv. gesponsorde links).
+    *   Of de resultaten relevant, actueel en betrouwbaar zijn (gebruik hiervoor de [CRAAP-test](bronnen.html#craap-test)).
 
-2.  Gebruik een wetenschappelijke zoekmachine (Google Scholar of arXiv) om een wetenschappelijk artikel te vinden over "klimaatadaptatie in stedelijke gebieden" (2020-2025).
+2.  Gebruik een wetenschappelijke zoekmachine (_Google Scholar_ of _arXiv_) om een wetenschappelijk artikel te vinden over _klimaatadaptatie in stedelijke gebieden_ (2020-2025).
 
-    Vergelijk dit artikel met de resultaten uit Google/DuckDuckGo: "Wat zijn de verschillen in diepgang en betrouwbaarheid?"
+    Vergelijk dit artikel met de resultaten uit bv. Google of DuckDuckGo: 
+    "Wat zijn de verschillen in diepgang en betrouwbaarheid?"
 
 ---
 

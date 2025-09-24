@@ -1,0 +1,294 @@
+# Generatieve AI en LLM {#sec-ai}
+
+Generatieve AI is een verzamelnaam voor systemen die zelf nieuwe inhoud kunnen creëren, zoals tekst, beeld, muziek of video. De bekendste voorbeelden zijn taalmodellen zoals ChatGPT, die teksten genereren op basis van eerdere patronen in de data waarop ze getraind zijn. 
+
+Een *Large Language Model (LLM)* vormt de kern van veel van deze systemen. Zo’n model is eigenlijk een *voorspellingsmachine*: het probeert telkens het meest waarschijnlijke volgende woord te kiezen, gegeven de woorden die al zijn geschreven. Die voorspelling gebeurt via een neuraal netwerk dat miljoenen tot miljarden parameters bevat. Hoewel dit enorm krachtig is, blijft het principe verrassend eenvoudig: het is grotendeels het oplossen van eerstegraadsvergelijkingen, statistiek en kansrekening.
+
+
+## Beknopte werking
+
+### Tokens – de bouwstenen
+
+Een tekst wordt voor het model opgedeeld in *tokens*. Dat zijn kleine stukjes tekst: soms een volledig woord, soms slechts een deel ervan (bijvoorbeeld “auto”, “-mobiliteit”). Het model werkt dus niet met “woorden” zoals mensen dat doen, maar met reeksen tokens. Door telkens het volgende token te voorspellen, ontstaat een volledige zin of paragraaf.
+
+::: {.callout-tip}
+## OpenAI Tokenizer
+
+Gebruik de [OpenAI Tokenizer](https://platform.openai.com/tokenizer) tool om te begrijpen hoe een stuk tekst door een taalmodel kan worden getokeniseerd en om het totale aantal tokens in dat stuk tekst te achterhalen.
+:::
+
+### Lagen in een neuraal netwerk
+
+Een LLM bestaat uit vele lagen (layers):
+
+- **Inputlaag**: zet de tokens om in getallen (vectoren) die het model kan verwerken.  
+- **Verborgen lagen**: duizenden tot miljoenen rekencellen (“neuronen”) die verbanden zoeken tussen woorden. Elke laag leert andere patronen, van simpele verbanden (meervouden, grammatica) tot complexe relaties (stijl, betekenis).  
+- **Outputlaag**: rekent voor alle mogelijke volgende tokens een kans uit, en kiest aan de hand van parameters welk token het meest geschikt is.  
+
+::: {#fig-ai-lagen fig-cap="Lagen of layers van een AI-model" fig-align="center"}
+```{dot}
+digraph ANN {
+    rankdir=LR;
+    splines=line;
+    node [shape=circle, fixedsize=true, width=0.6, fontsize=10];
+
+    subgraph cluster_input {
+        label="Input Layer";
+        color=lightgrey;
+        I1 [label="x₁"];
+        I2 [label="x₂"];
+        I3 [label="x₃"];
+        I4 [label="x₄"];
+    }
+
+    subgraph cluster_hidden1 {
+        label="Hidden Layer 1";
+        color=lightblue;
+        H1_1 [label="h₁₁"];
+        H1_2 [label="h₁₂"];
+        H1_3 [label="h₁₃"];
+        H1_4 [label="h₁₄"];
+    }
+
+    subgraph cluster_hidden2 {
+        label="Hidden Layer 2";
+        color=lightblue;
+        H2_1 [label="h₂₃"];
+        H2_2 [label="h₂₁"];
+        H2_3 [label="h₂₂"];
+    }
+
+    subgraph cluster_output {
+        label="Output Layer";
+        color=lightgreen;
+        O1 [label="y₃"];
+        O2 [label="y₁"];
+        O3 [label="y₂"];
+    }
+
+    # Connections Input -> Hidden1
+    I1 -> {H1_1 H1_2 H1_3 H1_4};
+    I2 -> {H1_1 H1_2 H1_3 H1_4};
+    I3 -> {H1_1 H1_2 H1_3 H1_4};
+    I4 -> {H1_1 H1_2 H1_3 H1_4};
+
+    # Connections Hidden1 -> Hidden2
+    H1_1 -> {H2_1 H2_2 H2_3};
+    H1_2 -> {H2_1 H2_2 H2_3};
+    H1_3 -> {H2_1 H2_2 H2_3};
+    H1_4 -> {H2_1 H2_2 H2_3};
+
+    # Connections Hidden2 -> Output
+    H2_1 -> {O1 O2 O3};
+    H2_2 -> {O1 O2 O3};
+    H2_3 -> {O1 O2 O3};
+}
+```
+:::
+
+Hoe meer lagen en parameters een model heeft, hoe verfijnder de patronen die het kan herkennen en gebruiken.
+
+
+::: {.callout-note title="LLM parameters"}
+De belangrijkste parameters van een LLM vallen in drie groepen:
+
+- **Architectuur**: zoals modelgrootte (aantal parameters) en contextvenster (maximale tekstlengte, van ca. 2.000 tokens in oudere modellen tot 128.000+ in moderne).  
+- **Generatie**: o.a. [temperatuur](https://www.vellum.ai/llm-parameters/temperature), die de creativiteit bepaalt. Lage waarden (~0,2) geven consistente, feitelijke antwoorden; hogere (~0,8) zorgen voor meer creativiteit.  
+- **Sampling**: instellingen zoals [top-k](https://www.vellum.ai/llm-parameters/top-k) en [top-p](https://www.vellum.ai/llm-parameters/top-p) sturen de woordkeuze. Bij top-k=50 kiest het model uit de 50 waarschijnlijkste woorden; bij top-p=0,9 alleen uit de woorden die samen 90% van de kansmassa vormen.  
+:::
+
+### Het wiskundige model
+
+Een LLM werkt met vectoren en matrices: rijen en kolommen met getallen. 
+Elke token wordt vertaald naar een getal, meer specifiek een vector. 
+Het model gebruikt vervolgens wiskundige bewerkingen (optellen, vermenigvuldigen, transformaties) om de verbanden te berekenen. Dit heet [lineaire algebra](https://nl.wikipedia.org/wiki/Lineaire_algebra).
+
+De achterliggende vergelijking van een neurale netwerk stelt doorgaans de output van een neuron voor als een gewogen som van de inputs plus een [bias](https://nl.wikipedia.org/wiki/Bias_(fout)), vaak geschreven als
+
+$$
+y = f\left(\sum w_i x_i + b\right)
+$$
+
+waarbij $w_i$ de gewichten zijn, $x_i$ de inputs, $b$ de bias, en $f$ een activatiefunctie.
+
+Deze vergelijking is fundamenteel voor het begrijpen van hoe neurale netwerken informatie verwerken en leren uit data. Het netwerk voert enorme rekenstappen uit om te zoeken naar patronen. Het resultaat is een kansverdeling: welk token is het meest waarschijnlijk als volgende?
+
+## Prompt en prompt engineering
+
+### Prompt
+
+Een *prompt* is de invoer die je aan een AI-model geeft: de vraag, opdracht of instructie waarmee je het model aan het werk zet. Hoe duidelijker en specifieker de prompt, hoe beter het antwoord. Je kan het vergelijken met een zoekopdracht: een vage vraag als *`Vertel iets over dieren`* levert algemene antwoorden op, terwijl *`Leg in 100 woorden uit waarom bijen belangrijk zijn voor de natuur`* een veel gerichter resultaat geeft.
+
+### Prompt Engineering
+
+*Prompt engineering* betekent het bewust en systematisch formuleren van prompts om betere resultaten te krijgen. Daarbij gebruik je technieken zoals:
+
+- **Context geven**: achtergrondinformatie of details toevoegen.
+- **Formaat sturen**: aangeven of je een lijst, tabel, codefragment of verhaaltje wil.
+- **Voorbeelden geven**: tonen hoe een goed antwoord eruitziet (*few-shot prompting*).
+- **Randvoorwaarden stellen**: bijvoorbeeld de lengte, stijl of doelgroep bepalen.
+
+Door slim te variëren met je prompts kun je de AI sturen: van feitelijke en bondige antwoorden tot creatieve en verhalende teksten. Prompt engineering is dus het vakmanschap van vragen leren stellen die de AI het beste laten presteren. 
+
+::: {.callout-note title="Voorbeelden"}
+
+ -  Basis prompt:
+
+    ```texinfo
+    Schrijf een verhaaltje over een hond.
+    ```
+
+ -  Geoptimaliseerde prompt:
+
+    ```texinfo
+    Schrijf een kort verhaaltje (max. 150 woorden) over een hond die verdwaalt in een stad en door een kat naar huis wordt gebracht. Gebruik eenvoudige taal.
+    ```
+
+ -  Prompt met voorbeelden (*few-shot*):
+
+    ```texinfo
+    Voorbeeld 1:
+    Vraag: Wat is de hoofdstad van Frankrijk?
+    Antwoord: Parijs
+
+    Voorbeeld 2:
+    Vraag: Wat is de hoofdstad van Spanje?
+    Antwoord: Madrid
+
+    Nu jij:
+    Vraag: Wat is de hoofdstad van Italië?
+    Antwoord:
+    ```
+:::
+
+### Stappenplan: Beter werken met prompts
+
+1. **Bepaal je doel**  
+   Denk na wat je precies van de AI wil: een uitleg, een lijstje, een verhaal, een tabel ... 
+
+2. **Formuleer duidelijk en specifiek**  
+   Vermijd vage opdrachten. Voeg trefwoorden of beperkingen toe (lengte, doelgroep, stijl).  
+    -  Vage prompt:
+
+       ```texinfo
+       Vertel iets over sterren.
+       ```
+
+    -  Specifieke prompt:
+
+       ```texinfo
+       Leg in max. 100 woorden uit hoe sterren ontstaan, op een manier die een 15-jarige begrijpt.
+       ```
+
+3. **Geef context**  
+   Lever extra achtergrondinfo of een situatie mee, zodat het model weet waar het zich op moet richten.
+
+    -  Voorbeeld:
+
+       ```texinfo
+       Je bent een leraar biologie. Leg in eenvoudige taal uit hoe fotosynthese werkt.
+       ```
+
+4. **Stuur het formaat**  
+   Vraag expliciet om een lijst, stappenplan, tabel of korte paragraaf.
+
+    -  Voorbeeld:
+
+       ```texinfo
+       Geef drie voordelen van zonne-energie in tabelvorm.
+       ```
+
+5. **Gebruik voorbeelden (optioneel)**  
+   Toon hoe een goed antwoord eruitziet, zodat de AI het patroon volgt (*few-shot prompting*).  
+
+6. **Experimenteer en verbeter**  
+   Pas je prompt aan als het antwoord niet helemaal goed is. Soms is één woord toevoegen of herformuleren al genoeg.
+   Heb je uiteindelijk een goed resultaat, vraag dan welke prompt je direct tot dit resultaat brengt.
+
+## Evolutie van LLMs
+
+De ontwikkeling van Large Language Models (LLMs) staat niet los van oudere theorieën uit de wiskunde en computerwetenschappen. De concepten en formules gaan vaak terug tot de jaren 1950, maar de praktische doorbraak kwam er pas dankzij de enorme vooruitgang in rekenkracht (CPU’s en vooral GPU’s), grote datasets en cloudinfrastructuur.
+
+De theorie van LLMs an AI is oud: [perceptrons](https://nl.wikipedia.org/wiki/Perceptron), [kansrekening](https://nl.wikipedia.org/wiki/Kansrekening) en [vectorruimte](https://nl.wikipedia.org/wiki/Vectorruimte)-modellen bestaan al decennia.
+De toepassing is nieuw: pas met GPU’s, big data en cloudinfrastructuur konden deze wiskundige concepten op schaal toegepast worden.
+De kern blijft hetzelfde: het model voorspelt tokens op basis van kansverdelingen.
+Dit maakt duidelijk dat LLM’s geen magische doorbraak zijn, maar het resultaat van oude ideeën die door moderne hardware eindelijk praktisch toepasbaar werden.
+
+## Hallucineren of confabuleren?
+
+Omdat een LLM alleen leert wat waarschijnlijk klinkt en geen ingebouwd systeem heeft om waarheid van onwaarheid te onderscheiden, kan het *hallucineren*: overtuigende maar onjuiste of verzonnen informatie geven. 
+Onderzoekers stellen voor dit eigenlijk eerder *confabulatie* te noemen: er is geen sprake van opzet, en het model is zich niet bewust van het feit dat de output niet klopt. Het model “moet” steeds een volgend token kiezen, ook als er geen duidelijke of betrouwbare optie bestaat.
+
+In september 2025 bevestigde OpenAI dit in hun rapport *Why Language Models Hallucinate* (Kalai, Nachum, Vempala & Zhang, 2025). Hun kernbevindingen:
+
+- **Hallucinaties zijn inherent en wiskundig** aan de huidige aanpak van *next token prediction*. Zelfs met perfecte trainingsdata zijn fouten onvermijdelijk.  
+- **Evaluatie en training belonen gokken**: modellen worden beloond voor het geven van antwoorden, niet voor het toegeven van onzekerheid.  
+- **Singleton facts zijn kwetsbaar**: feiten die maar één keer in de training voorkomen, worden vaak fout gereproduceerd.  
+- **Finetuning helpt maar lost het probleem niet volledig op**: omdat benchmarks en scoringssystemen vooral zekerheid belonen.  
+
+De onderzoekers benadrukken dat betere evaluaties nodig zijn: modellen zouden beloond moeten worden voor het correct aangeven van onzekerheid of “ik weet het niet”, in plaats van voor foutieve maar overtuigende antwoorden.
+
+## AI als hulpmiddel bij onderzoek
+
+Naast de theoretische en technische achtergrond is het belangrijk te benadrukken dat AI in onderzoek een ondersteunende rol kan spelen. 
+
+### Ondersteuning
+
+AI-modellen zoals LLMs zijn geen vervanging voor kritisch denken of wetenschappelijke methodiek, maar kunnen wel tijd besparen en nieuwe invalshoeken aanreiken. Enkele voorbeelden:
+
+- Zoeksyntaxis en databanken
+  : AI kan helpen om zoekopdrachten te verfijnen, synoniemen of relevante trefwoorden aan te reiken, en complexe zoeksyntaxis voor academische databanken (bv. Web of Science, PubMed) correct op te stellen.
+- Herformuleren van teksten
+  : studenten kunnen AI gebruiken om een eerste ruwe tekst in een betere academische stijl te herschrijven, of om lange passages samen te vatten.
+- Brainstorm en ideeëngeneratie
+  : AI kan mogelijke invalshoeken of vragen voorstellen die anders misschien over het hoofd gezien worden.
+- Taalondersteuning
+  : AI kan bijdragen aan vertalingen, spellingcontrole en het vereenvoudigen van vakjargon om het toegankelijker te maken.
+
+### Kritische kanttekening
+
+Het gebruik van AI in onderzoek vraagt altijd om menselijke controle:
+
+- AI-output moet worden nagekeken op juistheid en betrouwbaarheid.  
+- De gebruiker blijft verantwoordelijk voor bronvermelding en ethisch gebruik.  
+- Ongecontroleerd vertrouwen op AI kan leiden tot fouten of plagiaat.  
+
+In de context van wetenschappelijke methodiek kan AI dus vooral dienen als ondersteunende tool: het versnelt bepaalde taken en kan creatief inspireren, maar de kwaliteit van onderzoek staat of valt met de kritische blik van de onderzoeker zelf.
+
+### Verantwoord gebruik
+
+Het inzetten van AI bij onderzoek kan zeer nuttig zijn, maar vraagt om bewuste keuzes. Enkele richtlijnen:
+
+1. Zie AI als hulpmiddel, niet als vervanger
+   : Gebruik AI om ideeën te verkennen, teksten te herformuleren of zoekopdrachten te verbeteren, maar behoud altijd je eigen kritische blik.
+
+2. Controleer altijd de inhoud
+   : AI kan foutieve of verzonnen informatie (“confabulatie”) geven. Controleer dus steeds bij betrouwbare bronnen of de output klopt.
+
+3. Wees transparant
+   : Als AI een rol heeft gespeeld in je werk (bv. bij het formuleren van zoektermen of het samenvatten van literatuur), vermeld dit kort. Dit verhoogt de betrouwbaarheid en voorkomt misverstanden.
+
+4. Gebruik AI om je eigen vaardigheden te versterken
+   : Laat AI suggesties doen voor formuleringen, maar probeer altijd zelf de kern te verwoorden. Zo ontwikkel je je academische schrijf- en denkvaardigheden.
+
+5. Beperk copy-paste gedrag
+   : AI-output mag nooit één-op-één overgenomen worden zonder na te denken. Gebruik AI-resultaten als inspiratie of startpunt, niet als eindproduct.
+
+6. Let op ethiek en plagiaat
+   : Het is niet toegestaan om AI-gegenereerde teksten zonder bronvermelding als eigen werk te presenteren. Combineer AI-output altijd met eigen inzichten en correcte citaties.
+
+7. Hou rekening met duurzaamheid
+   : AI-verzoeken kosten veel rekenkracht en dus energie. Denk na over de noodzaak van elke query en gebruik AI bewust
+
+AI kan een krachtige assistent zijn in het onderzoeksproces, zolang je kritisch blijft, correct omgaat met bronvermelding, en beseft dat jijzelf de onderzoeker bent – niet de tool.
+
+## De essentie
+
+- **Generatieve AI**: technologie die nieuwe inhoud maakt.  
+- **LLM**: een taalmodel dat tokens voorspelt op basis van kansberekening.  
+- **Tokens**: bouwstenen van tekst (delen van woorden of woorden zelf).  
+- **Lagen**: verwerken stap voor stap patronen, van eenvoudig tot complex.  
+- **Wiskundig model**: draait volledig op vectoren, matrices en kansverdelingen.  
+- **Hallucineren/confabuleren**: foutieve maar overtuigende antwoorden, omdat het model geen "waarheidsfilter" heeft.
+
+Het resultaat is een krachtige technologie die vloeiende en creatieve teksten kan produceren, maar die tegelijk kritisch gebruik en controle vereist. Voor onderwijs betekent dit: altijd nagaan of de output klopt, bronnen checken, en leren om de sterktes en beperkingen van AI in te schatten.

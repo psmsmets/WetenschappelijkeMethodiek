@@ -1,4 +1,35 @@
-# Zoekmachines voor literuuronderzoek {#sec-tool-zoekmachines} 
+# Zoekmachines en databanken {#sec-tool-zoekmachines} 
+
+Een goed literatuuronderzoek begint met weten waar en hoe je moet zoeken. 
+Zoekmachines en databanken zijn hierbij onmisbare hulpmiddelen. 
+Ze verschillen echter sterk in doel en inhoud.
+Met een gewone zoekmachine zoals Google vind je snel informatie, maar de betrouwbaarheid en wetenschappelijke waarde zijn wisselend.
+Daarom zijn er ook gespecialiseerde databanken die zich richten op wetenschappelijke publicaties, zoals *PubMed*, *arXiv* of *Google Scholar*.
+
+Het is belangrijk om te beseffen dat geen enkele zoekmachine volledig is. 
+Een doordachte aanpak combineert verschillende bronnen:
+
+- gebruik algemene zoekmachines om een breed beeld te krijgen,
+- raadpleeg wetenschappelijke databanken om betrouwbare en diepgaande literatuur te vinden.
+
+Zo leer je niet enkel informatie op te sporen, maar ook kritisch te beoordelen welke bronnen geschikt zijn voor je onderzoeksvraag.
+
+Het doel is steeds: snel relevante en betrouwbare literatuur selecteren die je onderzoek ondersteunt.
+
+
+## Zoekmachines vs. AI-systemen
+
+Een belangrijk onderscheid is dat zoekmachines en databanken werken met bestaande bronnen:
+ze doorzoeken en indexeren teksten, en tonen jou links naar documenten die al gepubliceerd zijn.
+
+AI-systemen zoals ChatGPT doen iets anders:
+ze genereren nieuwe tekst op basis van patronen die geleerd zijn uit trainingsdata.
+Daarbij wordt geen database doorzocht, maar wordt een waarschijnlijk antwoord samengesteld woord voor woord.
+
+- **Zoekmachine/databank:** verwijst je door naar originele bronnen.  
+- **AI:** produceert direct een antwoord, maar geeft niet automatisch de bron weer en kan soms onnauwkeurigheden bevatten.  
+
+Voor wetenschappelijk werk blijft het dus cruciaal om zelf de originele literatuur op te zoeken en te raadplegen, ook al kan AI handig zijn om zoektermen te bedenken of een overzicht te maken.
 
 
 ## Zoekmachines
