@@ -8,3 +8,5 @@
  [**Opdracht 4**](project5.qmd#zoekmachines-vergelijken): Zoekmachines Vergelijken\Pageref{zoekmachines-vergelijken}
 
  [**Opdracht 5**](project5.qmd#databanken-en-onderzoeksgerelateerd-zoeken): Databanken en Onderzoeksgerelateerd Zoeken\Pageref{databanken-en-onderzoeksgerelateerd-zoeken}
+
+ [**Opdracht 1**](project6.qmd#verkennen-onderwerpen): Verkennen onderwerpen\Pageref{verkennen-onderwerpen}

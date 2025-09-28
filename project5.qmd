@@ -158,9 +158,10 @@ Reflectievraag
 ## Module 1: Zoekstrategieën en databanken
 
 ::: {.callout-note title="Doel"}
-* Leren hoe je betrouwbare informatie vindt en evalueert.
-* Geavanceerde zoekoperatoren toepassen en Google Advanced Search gebruiken.
-* Wetenschappelijke databanken verkennen en leren hoe deze gebruikt kunnen worden voor diepgaand onderzoek.
+- Betrouwbare informatiebronnen herkennen en evalueren.
+- Doelgericht zoeken met zoekoperatoren en Google Advanced Search.
+- Zoekmachines en wetenschappelijke databanken doelgericht inzetten.
+- Een gerichte zoekstrategie opstellen en toepassen.
 :::
 
 ::: {.callout-caution}
@@ -178,13 +179,13 @@ Opwarmer
 Google
 : Beantwoord volgende vragen door te zoeken op het internet.
 
-*   _Welke landen vormen samen met België een stormgebied?_
-*   _Hoe heet ons stormgebied?_
-*   _Hoeveel gebieden zijn er in Europa?_
-*   _Wat wordt de naam van de 8e storm van het huidige stormseizoen in ons stormgebied?_
-*   _Uit welk land komt deze naam?_
-*   _Wat wordt de naam van de 15e storm van het huidige stormseizoen in het Nederlandse stormgebied?_
-*   _Vanwaar komt deze naam?_
+- _Welke landen vormen samen met België een stormgebied?_
+- _Hoe heet ons stormgebied?_
+- _Hoeveel gebieden zijn er in Europa?_
+- _Wat wordt de naam van de 8e storm van het huidige stormseizoen in ons stormgebied?_
+- _Uit welk land komt deze naam?_
+- _Wat wordt de naam van de 15e storm van het huidige stormseizoen in het Nederlandse stormgebied?_
+- _Vanwaar komt deze naam?_
 
 
 Breinbreker
@@ -201,33 +202,26 @@ Reflectievraag
 ::: Opdracht
 ### Zoeksyntaxis en Google Advanced Search
 
-Doel
-: Effectief zoeken door het toepassen van geavanceerde zoekoperatoren en het gebruik van Google Advanced Search.
-
----
-
-__Opdracht__
-
 1.  Gebruik de correcte zoeksyntaxis om antwoorden te vinden op de volgende vragen:
 
-    *   "Welke Belgische universiteiten publiceerden in 2024 of 2025 over de impact van hittegolven op stedelijke infrastructuur?"\
+    -   "Welke Belgische universiteiten publiceerden in 2024 of 2025 over de impact van hittegolven op stedelijke infrastructuur?"\
         Gebruik `site:.be` en `filetype:pdf`.
 
-    *   "Vind een recent (2024-2025) rapport van de Europese Commissie over hernieuwbare energie in de Benelux."\
+    -   "Vind een recent (2024-2025) rapport van de Europese Commissie over hernieuwbare energie in de Benelux."\
         Gebruik `intitle:` en `site:europa.eu`.
 
-    *   "Zoek naar een presentatie (PowerPoint) over de economische gevolgen van overstromingen in Vlaanderen."\
+    -   "Zoek naar een presentatie (PowerPoint) over de economische gevolgen van overstromingen in Vlaanderen."\
         Gebruik `filetype:pptx` en `economische impact`.
 
 2.  Gebruik Google Advanced Search om:
 
-    *   Resultaten te filteren op:
+    -   Resultaten te filteren op:
 
         - taal (Nederlands/Engels),
         - regio (België/Nederland),
         - datum (2024-2025).
 
-    *   Een zoekopdracht uit te voeren met minstens 3 filters (bv. exacte zin, bestandstype, site).
+    -   Een zoekopdracht uit te voeren met minstens 3 filters (bv. exacte zin, bestandstype, site).
 
 ---
 
@@ -239,22 +233,15 @@ Reflectievraag
 ::: Opdracht
 ### Zoekmachines Vergelijken
 
-Doel
-: Effectief zoeken door het toepassen van geavanceerde zoekoperatoren en het gebruik van Google Advanced Search.
-
----
-
-__Opdracht__
-
 1.  Voer dezelfde zoekopdracht uit in 3 zoekmachines:
 
     "Welke innovatieve technologieën worden in 2025 gebruikt om overstromingen in Nederland en België te voorspellen?"
 
     Noteer voor elke zoekmachine:
 
-    *   De top 3 resultaten (titel + URL). Je kan ook een printscreen nemen van de resultaten per zoekmachine.
-    *   Of er commerciële bias is (bv. gesponsorde links).
-    *   Of de resultaten relevant, actueel en betrouwbaar zijn (gebruik hiervoor de [CRAAP-test](bronnen.html#craap-test)).
+    -   De top 3 resultaten (titel + URL). Je kan ook een printscreen nemen van de resultaten per zoekmachine.
+    -   Of er commerciële bias is (bv. gesponsorde links).
+    -   Of de resultaten relevant, actueel en betrouwbaar zijn (gebruik hiervoor de [CRAAP-test](bronnen.html#craap-test)).
 
 2.  Gebruik een wetenschappelijke zoekmachine (_Google Scholar_ of _arXiv_) om een wetenschappelijk artikel te vinden over _klimaatadaptatie in stedelijke gebieden_ (2020-2025).
 
@@ -271,29 +258,20 @@ Reflectievraag
 ::: Opdracht
 ### Databanken en Onderzoeksgerelateerd Zoeken
 
-Doel
-: Wetenschappelijke databanken verkennen en leren hoe deze gebruikt kunnen worden voor diepgaand onderzoek.
+1.  Gebruik Google Scholar om:
 
----
+    Een geciteerd artikel (minstens 50 citaties) te vinden over "de impact van extreme weersomstandigheden op landbouw in West-Europa".
+    Sorteer de resultaten op "meest recent" en "meest relevant". Wat zijn de verschillen?
 
-Gebruik Google Scholar om:
+2.  Gebruik arXiv of CORE om:
 
-Een geciteerd artikel (minstens 50 citaties) te vinden over "de impact van extreme weersomstandigheden op landbouw in West-Europa".
-Sorteer de resultaten op "meest recent" en "meest relevant". Wat zijn de verschillen?
+    Een preprint te vinden over "machine learning-toepassingen voor weersvoorspellingen" (2023-2025).
+    Controleer of het artikel later is gepubliceerd in een tijdschrift (zoek de titel op Google Scholar).
 
+3.  Gebruik BASE of DOAJ om:
 
-
-Gebruik arXiv of CORE om:
-
-Een preprint te vinden over "machine learning-toepassingen voor weersvoorspellingen" (2023-2025).
-Controleer of het artikel later is gepubliceerd in een tijdschrift (zoek de titel op Google Scholar).
-
-
-
-Gebruik BASE of DOAJ om:
-
-Een open-access artikel te vinden over "duurzame energieoplossingen in België" (2020-2025).
-Beoordeel de betrouwbaarheid van de bron (wie is de auteur? Welk tijdschrift?).
+    Een open-access artikel te vinden over "duurzame energieoplossingen in België" (2020-2025).
+    Beoordeel de betrouwbaarheid van de bron (wie is de auteur? Welk tijdschrift?).
 
 ---
 

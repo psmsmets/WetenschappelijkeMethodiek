@@ -1,5 +1,47 @@
 # Jaar 2: Eigen onderzoek {.unnumbered}
 
+## Eigen onderzoek
+
+In het zesde jaar breng je alles wat je geleerd hebt in de praktijk: je voert een zelfstandig wetenschappelijk onderzoek uit over een onderwerp naar keuze binnen een wetenschappelijk domein. Je maakt hierbij gebruik van de vaardigheden, inzichten en tools die je in het vijfde jaar verworven hebt.
+
+Het proces bestaat uit drie grote fasen:
+
+### Onderzoeksvoorstel schrijven
+
+Het schooljaar start met de verkenning van mogelijke onderwerpen. Je kiest een thema dat je interesseert en formuleert een duidelijke, afgebakende onderzoeksvraag. Op basis daarvan werk je een schriftelijk onderzoeksvoorstel uit, waarin je de achtergrond, onderzoeksmethode en bronnen toelicht. Je gebruikt hierbij correcte verwijzingen (via Zotero) en stemt je structuur af op de academische conventies.
+
+Tijdens deze fase leer je:
+
+- Onderwerpen verkennen en afbakenen
+- Relevante literatuur verzamelen en verwerken
+- Een onderzoeksvraag scherp formuleren
+- Een werkplan en methodologie uitschrijven
+
+Het goedgekeurde voorstel vormt het fundament voor de rest van het schooljaar.
+
+### Uitvoering van het onderzoek
+
+Na de kerstvakantie start de eigenlijke uitvoering. In drie onderzoekscycli van telkens vier weken werk je stapsgewijs aan je onderzoek. Je houdt een **logboek** bij waarin je je vooruitgang, keuzes, twijfels en eventuele problemen documenteert.
+
+Tussendoor werk je ook aan je communicatievaardigheden: je oefent een *elevator pitch* en leert via *storytelling* je onderzoek helder en overtuigend over te brengen.
+
+Tijdens deze fase leer je:
+
+- Onderzoek plannen en bijsturen
+- Data verzamelen en analyseren (kwalitatief of kwantitatief)
+- Reflecteren op je onderzoeksproces
+- Kritisch denken toepassen op je eigen werk
+
+### Posterpresentatie
+
+In de laatste fase bereid je een wetenschappelijke **poster** voor waarin je jouw onderzoek samenvat. Deze wordt gepresenteerd tijdens een posterbeurs in juni. De presentatie wordt beoordeeld op helderheid, inhoudelijke kwaliteit en visuele vormgeving. Je sluit hiermee het onderzoeksjaar af zoals een echte onderzoeker: door te delen wat je geleerd hebt.
+
+Tijdens deze fase leer je:
+
+- Een poster visueel en inhoudelijk opbouwen
+- Resultaten samenvatten en interpreteren
+- Je werk overtuigend presenteren aan een publiek
+
 ## Planning
 
 In jaar twee werken we rond en aan een persoonlijk onderzoek.
@@ -33,3 +75,67 @@ gantt
 ```
 :::
 
+
+## Module 0: Verkennen onderwerpen
+
+::: Opdracht
+### Verkennen onderwerpen
+
+1. Brainstormfase
+   : Schrijf spontaan minstens **tien mogelijke onderzoeksthema’s** op die je persoonlijk interesseren. Dit mogen brede begrippen zijn (bv. duurzaamheid, slaap, artificiële intelligentie, stralingsblootstelling, sportwetenschap, ...).
+
+2. Selecteer
+   : Selecteer minstens **drie mogelijke onderzoeksthema's** uit de brainstormfase.
+
+3. Oriëntatie en beargumentering
+   : Voor elk thema:
+   - Zoek minstens **twee betrouwbare bronnen** (wetenschappelijke artikels, rapporten, publicaties).
+   - Noteer wat je boeiend vindt aan het thema.
+   - Denk na over mogelijke onderzoeksvragen.
+   - Geef aan hoe concreet of vaag het thema nog is.
+
+4. Afweging
+   : Vul onderstaande tabel in:
+
+   | Thema | Persoonlijke interesse | Beschikbare bronnen | Praktische haalbaarheid | Idee voor onderzoeksvraag | Score (1–5) |
+   |-------|------------------------|----------------------|--------------------------|----------------------------|-------------|
+   |       |                        |                      |                          |                            |             |
+
+5. Voorlopige keuze
+   : Kies op basis van je afweging een voorlopig onderwerp en omschrijf dit in **maximaal 100 woorden**. Vermeld ook welke richting je denkt uit te gaan qua onderzoeksvraag of invalshoek.
+
+Tips
+: 
+- Kies een onderwerp waar je écht nieuwsgierig naar bent.
+- Houd rekening met de beschikbaarheid van data, materialen en expertise.
+- Durf breed te denken in het begin – afbakenen komt later.
+
+:::
+
+::: {.callout-tip title="AI-hulp voor het zoeken van je onderzoeksvoorstel" collapse="true"}
+
+Prompt om je op weg te helpen bij het zoeken van een onderwerp voor je onderzoeksvoorstel:
+
+```texinfo
+Je helpt mij bij het bedenken van een thema voor een onderzoeksproject.  
+Stel mij altijd eerst vragen om mijn **input** te krijgen. Bijvoorbeeld:  
+- Welke vakken of vakdomeinen vind ik interessant?  
+- Zijn er onderwerpen of thema’s waar ik al eens iets over gelezen of gehoord heb?  
+- Ken ik voorbeelden van onderzoekers, onderzoeken of maatschappelijke vraagstukken die mij boeien?  
+- Welke studies, hobby’s of actualiteit prikkelen mijn nieuwsgierigheid?  
+
+Als ik geen antwoord weet, stel mij **concrete en eenvoudige vragen** die me helpen om toch richting te geven, zoals:
+- "Heb je iets met natuur, techniek, gezondheid, mens en maatschappij of kunst?"
+- "Wat zou jij graag willen verbeteren of begrijpen in de wereld om je heen?"
+
+Op basis van mijn input mag je suggesties doen, maar:  
+- Geef alleen **thema’s en mogelijke invalshoeken**, nooit een volledig uitgewerkt onderzoeksproject.  
+- Houd rekening met de randvoorwaarden: het moet **haalbaar, uitvoerbaar, kosteloos en binnen de beschikbare tijd** passen.  
+- Formuleer steeds **reflectievragen terug** om mij te laten kiezen en nadenken, zoals:  
+  - "Welke van deze thema’s spreekt jou het meest aan?"
+  - "Welke praktische beperkingen zie je al?"
+  - "Hoe zou je dit thema kleiner of concreter kunnen maken?"
+```
+:::
+
+## Module 1: Onderzoeksvoorstel schrijven

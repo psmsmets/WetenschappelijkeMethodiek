@@ -1,8 +1,12 @@
-# Generatieve AI en LLM {#sec-ai}
+# Generatieve AI en LLMs {#sec-ai}
 
-Generatieve AI is een verzamelnaam voor systemen die zelf nieuwe inhoud kunnen creëren, zoals tekst, beeld, muziek of video. De bekendste voorbeelden zijn taalmodellen zoals ChatGPT, die teksten genereren op basis van eerdere patronen in de data waarop ze getraind zijn. 
+Gen-AI of voluit *Generatieve Artificiële Intelligentie* is een verzamelnaam voor systemen die zelf nieuwe inhoud kunnen creëren, zoals tekst, beeld, muziek of video. De bekendste voorbeelden zijn taalmodellen, bv. ChatGPT, die teksten genereren op basis van eerdere patronen in de data waarop ze getraind zijn. 
 
-Een *Large Language Model* (LLM) vormt de kern van veel van deze systemen. Zo’n model is eigenlijk een *voorspellingsmachine*: het probeert telkens het meest waarschijnlijke volgende woord te kiezen, gegeven de woorden die al zijn geschreven. Die voorspelling gebeurt via een neuraal netwerk dat miljoenen tot miljarden parameters bevat. Hoewel dit enorm krachtig is, blijft het principe verrassend eenvoudig: het is grotendeels het oplossen van eerstegraadsvergelijkingen, statistiek en kansrekening.
+Een *Large Language Model* (LLM) vormt de kern van veel van deze systemen. Zo’n model is eigenlijk een *voorspellingsmachine*: het probeert telkens het meest waarschijnlijke volgende woord te kiezen, gegeven de woorden die al zijn geschreven. Die voorspelling gebeurt via een neuraal netwerk dat miljoenen tot miljarden parameters bevat. Hoewel dit enorm krachtig is, blijft het principe verrassend eenvoudig: het is grotendeels het oplossen van zeer veel eerstegraadsvergelijkingen, statistiek en kansrekening.
+
+In feite is er van intelligentie geen sprake, een taalmodel kan namelijk niet denken of redeneren. Een taalmodel is eerder een extreem goede patroonherkenner.
+
+Het resultaat is een krachtige technologie die vloeiende en creatieve teksten kan produceren, maar die tegelijk kritisch gebruik en controle vereist. Voor onderwijs betekent dit: altijd nagaan of de output klopt, bronnen checken, en leren om de sterktes en beperkingen van AI in te schatten.
 
 ::: {.callout-note title="Welke AI model?"}
 De bekendste AI-modellen zijn onder meer [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Copilot](https://copilot.microsoft.com), [Gemini](https://gemini.google.com) en [Perplexity](https://perplexity.ai).
@@ -14,7 +18,12 @@ Het meest ideale model voor onderwijs (veilig, transparant en zonder vendor lock
 
 ### Tokens – de bouwstenen
 
-Een tekst wordt voor het model opgedeeld in *tokens*. Dat zijn kleine stukjes tekst: soms een volledig woord, soms slechts een deel ervan (bijvoorbeeld `auto`, `-mobiliteit`). Het model werkt dus niet met "woorden" zoals mensen dat doen, maar met reeksen tokens. Door telkens het volgende token te voorspellen, ontstaat een volledige zin of paragraaf.
+Een tekst wordt voor het model opgedeeld in *tokens*. Dat zijn kleine stukjes tekst, soms een volledig woord en soms slechts een deel ervan. Elke token heeft bovendien een eigen numerieke ID.
+
+Zo wordt bijvoorbeeld het woord *automobiliteit* bij GPT-4o opgesplitst in de tokens `auto`, `mobil`, `iteit` met IDs `[24028, 10427, 13244]`. 
+Het model werkt dus niet met "woorden" zoals mensen dat doen, maar met reeksen tokens. 
+De token IDs vormen het vocabulair van het LLM. 
+Door telkens het volgende token te voorspellen, ontstaat een volledige zin of paragraaf.
 
 ::: {.callout-tip}
 ## OpenAI Tokenizer
@@ -24,11 +33,13 @@ Gebruik de [OpenAI Tokenizer](https://platform.openai.com/tokenizer) tool om te 
 
 ### Lagen in een neuraal netwerk
 
-Een LLM bestaat uit vele lagen (layers):
+Een LLM bestaat uit vele lagen (layers) die de verbanden omvatten tussen de tokens:
 
 - **Inputlaag**: zet de tokens om in getallen (vectoren) die het model kan verwerken.  
 - **Verborgen lagen**: duizenden tot miljoenen rekencellen (“neuronen”) die verbanden zoeken tussen woorden. Elke laag leert andere patronen, van simpele verbanden (meervouden, grammatica) tot complexe relaties (stijl, betekenis).  
-- **Outputlaag**: rekent voor alle mogelijke volgende tokens een kans uit, en kiest aan de hand van parameters welk token het meest geschikt is.  
+- **Outputlaag**: rekent voor alle mogelijke volgende tokens een kans uit, en kiest aan de hand van parameters welk token het meest geschikt is. 
+
+Hoe meer lagen en parameters een model heeft, hoe verfijnder de patronen die het kan herkennen en gebruiken. 
 
 ::: {#fig-ai-lagen fig-cap="Lagen of layers van een AI-model" fig-align="center"}
 ```{dot}
@@ -90,9 +101,6 @@ digraph ANN {
 }
 ```
 :::
-
-Hoe meer lagen en parameters een model heeft, hoe verfijnder de patronen die het kan herkennen en gebruiken.
-
 
 ::: {.callout-note title="LLM parameters"}
 De belangrijkste parameters van een LLM vallen in drie groepen:
@@ -213,10 +221,21 @@ Door slim te variëren met je prompts kun je de AI sturen: van feitelijke en bon
 ## Evolutie van LLMs
 
 De ontwikkeling van LLMs staat niet los van oudere theorieën uit de wiskunde en computerwetenschappen. De concepten en formules gaan terug tot de jaren 1950. De hedendaagse toepassing is wel nieuw.
+
+Op 30 november 2022 lanceerde OpenAI [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT).
 De praktische doorbraak van Generatieve AI kwam er pas dankzij de enorme vooruitgang in rekenkracht ([CPUs](https://nl.wikipedia.org/wiki/Processor_(computer)) en vooral [GPUs](https://nl.wikipedia.org/wiki/Graphics_processing_unit)), grote datasets en cloudinfrastructuur.
 Door moderne hardware konden de wiskundige concepten op grote schaal toegepast worden.
 
-Op 30 november 2022 Het jaar 2022 wordt wereldwijd beschouwd als het begin van een nieuw tijdperk waarin het niet langer zeker is of tekst en beeld door mensen of door AI zijn gemaakt [@Bellens2025b].
+Het jaar 2022 wordt hierdoor wereldwijd beschouwd als het begin van een nieuw tijdperk waarin het niet langer zeker is of tekst en beeld door mensen of door AI zijn gemaakt [@Bellens2025b].
+
+## Gevaren en beperkingen
+
+AI tools bieden enorm veel voordelen en kansen, maar er schuilt ook een gevaar in. 
+We zien nu al hoe AI een afnemend effect heeft op het denkvermogen van gebruikers en voornamelijk jongeren. Wie AI mag gebruiken om teksten te schrijven, hoeft zelf nauwelijks nog kritisch of creatief na te denken. Een opdracht wordt gewoon ingevoerd in ChatGPT en daar rolt een essay, gedicht of onderzoeksverslag uit — netjes opgebouwd, met cijfers en bronnen (al zijn die vaak foutief of onbetrouwbaar). Toch missen zulke teksten vaak een menselijke logica en samenhang. Het zijn vooral losse woorden die volgens de instructies in de juiste volgorde zijn gezet, zonder echte natuurlijke flow.
+
+::: {.callout-warning title="Onverantwoord gebruik maakt dommer"}
+Onderzoekers zijn bezorgd voor de cognitieve impact op de gebruikers [@vanleemputten2025]. Een onderzoek van MIT toont hoe ons brein minder verbindingen maakt wanneer we steunen op AI-tools zoals ChatGPT [@kosmyna2025]. De meeste testpersonen kunnen zelfs niet navertellen wat ze kort voorheen hadden geschreven. Onverantwoord AI gebruiken maakt de gebruikers dus dommer.
+::: 
 
 ## Hallucineren of confabuleren?
 
@@ -286,21 +305,6 @@ Het inzetten van AI bij onderzoek kan zeer nuttig zijn, maar vraagt om bewuste k
 
 AI kan een krachtige assistent zijn in het onderzoeksproces, zolang je kritisch blijft, correct omgaat met bronvermelding, en beseft dat jijzelf de onderzoeker bent – niet de tool.
 
-::: {.callout-warning title="Onverantwoord gebruik maakt dommer"}
-Onderzoekers zijn bezorgd voor de cognitieve impact op de gebruikers [@vanleemputten2025]. Een onderzoek van MIT toont hoe ons brein minder verbindingen maakt wanneer we steunen op AI-tools zoals ChatGPT [@kosmyna2025]. De meeste testpersonen kunnen zelfs niet navertellen wat ze kort voorheen hadden geschreven. Onverantwoord AI gebruiken maakt de leerlingen dus dommer.
-:::
-
 ::: {.callout-warning title="Duurzaamheid"}
 Een enkel ChatGPT-verzoek verbruikt tien keer meer elektriciteit dan een Google- zoekopdracht [@UNWE2025]. AI-toepassingen draaien voornamelijk in energie-intensieve datacenters waarvan het elektriciteitsverbruik naar schatting is gestegen tot ongeveer 415 TWh in 2024 (~1,5 % van het mondiale elektriciteitsverbruik), en dit zal naar verwachting verdubbelen tot circa 945 TWh in 2030 (~3 %) [@IAE2025]. De snelle groei wordt gedreven door zogenaamde “accelerated servers” voor AI, waarvan het elektriciteitsverbruik jaarlijks met ongeveer 30 % toeneemt, tegen zo'n 9 % voor reguliere servers
 :::
-
-## De essentie
-
-- **Generatieve AI**: technologie die nieuwe inhoud maakt.  
-- **LLM**: een taalmodel dat tokens voorspelt op basis van kansberekening.  
-- **Tokens**: bouwstenen van tekst (delen van woorden of woorden zelf).  
-- **Lagen**: verwerken stap voor stap patronen, van eenvoudig tot complex.  
-- **Wiskundig model**: draait volledig op vectoren, matrices en kansverdelingen.  
-- **Hallucineren/confabuleren**: foutieve maar overtuigende antwoorden, omdat het model geen "waarheidsfilter" heeft.
-
-Het resultaat is een krachtige technologie die vloeiende en creatieve teksten kan produceren, maar die tegelijk kritisch gebruik en controle vereist. Voor onderwijs betekent dit: altijd nagaan of de output klopt, bronnen checken, en leren om de sterktes en beperkingen van AI in te schatten.
