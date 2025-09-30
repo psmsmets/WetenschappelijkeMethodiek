@@ -34,6 +34,51 @@ Voor wetenschappelijk werk blijft het dus cruciaal om zelf de originele literatu
 
 ## Zoekmachines
 
+Zoekmachines zijn onmisbaar geworden in ons dagelijks leven, zowel voor studie als voor persoonlijk gebruik. Ze helpen ons om in seconden relevante informatie te vinden in een overvloed aan online data. Maar hoe weten ze precies welke resultaten ze moeten tonen? En hoe blijven ze up-to-date met het steeds veranderende internet? 
+
+### Hoe werken zoekmachines?
+
+Onderstaand schema legt de drie kernstappen uit die elke zoekmachine doorloopt: *crawlen*, *indexeren* en *ranken*. Begrijpen hoe dit proces werkt, is essentieel om effectiever te kunnen zoeken en kritisch te blijven ten opzichte van de resultaten die je krijgt.
+
+1. **Crawlen (verzamelen)**
+   - Webcrawlers (spiders) scannen continu het internet via links.
+   - Ze analyseren tekst, afbeeldingen, video’s en metadata (titels, beschrijvingen).
+
+2. **Indexeren (organiseren)**
+   - Verzamelde data wordt opgeslagen in een database (de *index*).
+   - Pagina’s worden georganiseerd op trefwoorden, structuur en relevantie.
+
+3. **Ranken (sorteren)**
+   - Bij een zoekopdracht selecteert de zoekmachine de meest relevante resultaten.
+   - Algoritmes bepalen de volgorde op basis van:
+     - Relevantie (aansluiting op de zoekterm).
+     - Autoriteit (betrouwbaarheid, bv. via backlinks).
+     - Gebruikerservaring (snelheid, mobielvriendelijkheid).
+
+### Financiering en SEO
+
+De meeste zoekmachines (zoals Google en Bing) zijn gratis voor gebruikers, maar worden gefinancierd via *advertenties*. Bedrijven betalen om bovenaan in de resultaten te verschijnen (bv. "Gesponsorde links"), naast de organische zoekresultaten.
+
+Daarnaast speelt *SEO (Search Engine Optimization)* een cruciale rol. Website-eigenaars passen hun content en techniek aan om hoger in de zoekresultaten (*ranking*) te verschijnen. Dit omvat:
+
+- **Technische optimalisatie:** snelheid, mobiele compatibiliteit.
+- **Contentkwaliteit:** relevante, goed gestructureerde informatie.
+- **Backlinks:** links van andere betrouwbare sites.
+
+### Verschillende zoekmachines
+
+Er bestaan meer zoekmachines dan alleen Google. Elk heeft eigen kenmerken, zoals privacyfocus (DuckDuckGo) of duurzaamheid (Ecosia). Enkele bekende opties:
+
+|  Zoekmachine      | Link                          |
+|-------------------|-------------------------------|
+| Bing              | [bing.com](https://www.bing.com) |
+| DuckDuckGo        | [duckduckgo.com](https://duckduckgo.com) |
+| Google            | [google.com](https://www.google.com) |
+| Ecosia            | [ecosia.org](https://www.ecosia.org) |
+| Yahoo             | [yahoo.com](https://www.yahoo.com) |
+
+## Zoekstrategie
+
 Effectief zoeken op internet vereist enkele belangrijke vaardigheden en strategieën. 
 Hier is een stapsgewijze uitleg over hoe je dit kunt doen:
 
