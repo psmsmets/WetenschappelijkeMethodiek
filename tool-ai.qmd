@@ -218,6 +218,175 @@ Door slim te variëren met je prompts kun je de AI sturen: van feitelijke en bon
    Pas je prompt aan als het antwoord niet helemaal goed is. Soms is één woord toevoegen of herformuleren al genoeg.
    Heb je uiteindelijk een goed resultaat, vraag dan welke prompt je direct tot dit resultaat brengt.
 
+
+## Praktische tips
+
+Hoe haal je het beste uit AI-modellen? Deze tips helpen je om snel, nauwkeurig en reproduceerbaar resultaten te krijgen – essentieel voor wetenschappelijk werk.
+
+### Gebruik Markdown voor structuur en duidelijkheid
+AI-modellen begrijpen opmaak vaak als instructie. Je invoerveld bevat geen tekstverwerker. Toch kan je programmatisch opmaak meegeven. Gebruik [Markdown](https://nl.wikipedia.org/wiki/Markdown) om je prompt visueel en functioneel te sturen:
+
+ -  Vet of cursief voor nadruk:
+
+    ```texinfo
+    Geef een **beknopte** samenvatting (*max. 3 zinnen*) van de theorie van evolutionaire psychologie.
+    ```
+
+ -  Lijsten voor stapsgewijze output:
+
+    ```texinfo
+    Leg de wetenschappelijke methode uit in 5 stappen. Gebruik een genummerde lijst.
+    ```
+
+ -  Codeblokken voor technische precisie (bv. formules, code):
+
+    ```texinfo
+    Schrijf een Python-functie die de standaarddeviatie berekent. Gebruik dit formaat:
+    """python
+    import math
+    def standaarddeviatie(data):
+        # jouw code hier
+    """
+    ```
+
+### Ken de beperkingen en sterktes van het model
+Niet elk model is geschikt voor elke taak. Overweeg:
+
+ -  Kenniscut-off
+    : Modellen zoals *ChatGTP* of *Le Chat* hebben een vaste kennisdatum (bv. november 2024). Vraag niet naar actuele gebeurtenissen na die datum.
+
+    ```texinfo
+    Geef een overzicht van AI-ontwikkelingen **voor november 2024**, gericht op medische toepassingen.
+    ```
+
+ -  Specialisatie
+    : Sommige modellen zijn beter in creativiteit (bv. verhalen schrijven), andere in feiten (bv. wetenschappelijke uitleg). Test welk model past bij je doel. Een indicatie van de modellen en hun sterktes.
+
+    ::: {.callout-note title="AI modellen en relatieve sterktes" collapse="true"}
+    | Model | Creativiteit (verhalen, ideeën) | Feiten & kennis | Structuur & logica | Code & data | Dialoog & ondersteuning |
+    | :--- | :---: | :---: | :---: | :---: | :--- |
+    | **Claude 3 Opus (Anthropic)** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ (Zeer menselijk, hoge veiligheid) |
+    | **GPT-4o (OpenAI)** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ (Snel, uitstekende multimodaliteit) |
+    | **Gemini 1.5 Pro (Google)** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ (Uitzonderlijk lange context van 1M+ tokens) |
+    | **Llama 3.1 70B (Meta)** | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ (Krachtig, open-source leider, meertalig) |
+    | **Mistral Large (Mistral AI)** | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+    | **Gemini 1.5 Flash (Google)** | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ (Snel, lichtgewicht, kostenefficiënt) |
+    | **Mistral Codestral (Mistral AI)** | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ (Gespecialiseerd voor code generatie) | ⭐⭐ |
+    | **Perplexity R1 (Perplexity)** | ⭐⭐ | ⭐⭐⭐⭐⭐ (Realtime zoeken en bronvermelding) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ |
+    : AI modellen en relatieve sterktes (meer sterren = sterker). {#tbl-ai-modellen-sterktes"}
+
+    ⭐ = relatieve sterkte (meer sterren = sterker). 
+
+    Voor **GPT-5 (OpenAI)** ontbreken momenteel publieke testresultaten. Dit model is daarom **niet opgenomen in de tabel**.  
+    De tabel hierboven is samengesteld op basis van (zelf-)evaluatie en ervaring met de verschillende modellen. Gebruik de resultaten dus met de nodige relativering.
+    :::
+
+ -  Ethische grenzen
+    : Vraag geen medisch advies, persoonlijke gegevensverwerking of illegale content. Gebruik bijvoorbeeld:
+
+    ```texinfo
+    Leg **algemeen** uit hoe een klinische studie werkt, zonder specifieke patiëntgegevens.
+    ```
+
+### Geef output door aan andere modellen (of tools)
+AI-modellen kunnen elkaar aanvullen. Voorbeelden:
+
+ -  Vertalen + samenvatten:
+
+    ```texinfo
+    Vertaal deze Engelse abstract naar het Nederlands, en vat hem vervolgens samen in 100 woorden.
+    ```
+
+ -  Code genereren + uitleggen:
+
+    ```texinfo
+    Schrijf een R-script voor lineaire regressie, en leg elke stap uit alsof ik een beginner ben.
+    ```
+
+ -  Combineer met tools: Gebruik AI-output als input voor Zotero (bv. voor het genereren van trefwoorden) of Excel (bv. voor datatabellen).
+
+
+### Voor gevorderden
+Technische tips voor gevorderden om de model paramters te beïnvloeden.
+
+ -  Temperature & randomness
+    : Laat de AI creatiever (hogere temperature, bv. 0.8) of feitelijker (lagere temperature, bv. 0.2) antwoorden. Voor wetenschappelijke teksten is 0.2–0.5 vaak ideaal.
+
+    ```default
+    Schrijf een hypothetisch onderzoeksvraag over klimaatverandering. Gebruik een creativiteitsniveau van 0.3.
+    ```
+
+ -  System prompts (voor ontwikkelaars)
+    : Geef het model een rol of context vooraf:
+
+    ```default
+    Je bent een **<followup encodedFollowup="%7B%22id%22%3A%22f99430f5-dcec-4a50-975c-3e9714a4edab%22%2C%22snippet%22%3A%22wetenschappelijk%20redacteur%22%2C%22question%22%3A%22Welke%20AI-modellen%20zijn%20het%20meest%20geschikt%20voor%20het%20redigeren%20van%20wetenschappelijke%20teksten%3F%22%7D" />**. Corigeer deze alinea op helderheid en nauwkeurigheid, met bronvermeldingen in <followup encodedFollowup="%7B%22id%22%3A%22ca665769-f6fe-4109-9d5b-ff37f77cf927%22%2C%22snippet%22%3A%22APA-stijl%22%2C%22question%22%3A%22Hoe%20genereer%20ik%20correcte%20APA-vermeldingen%20met%20behulp%20van%20AI%3F%22%7D" />.
+    ```
+    
+ -  Tokenlimieten
+    : Lange prompts of antwoorden kunnen worden afgekapt. Splits complexe vragen op:
+
+    ```default
+    Vraag 1: Wat zijn de hoofdcomponenten van een onderzoeksvoorstel?
+    Vraag 2: Geef een voorbeeld van een **methodologie-sectie** voor kwalitatief onderzoek.
+    ```
+
+### Ethisch en verantwoord prompten
+
+ -  Voorkom bias
+    : Vermijd stereotyperende taal. Gebruik bijvoorbeeld:
+
+    ```default
+    Beschrijf een **diverse** groep wetenschappers (geslacht, etniciteit, leeftijd) die samenwerken aan een project.
+    ```
+
+ -  Privacy
+    : Vraag nooit om persoonsgegevens te verwerken. Anonimiseer voorbeelden:
+
+    ```default
+    Genereer een fictief **interviewtranscript** over studiestress, zonder echte namen of locaties.
+    ```
+
+ -  Transparantie
+    : Geef aan als je AI-output gebruikt in wetenschappelijk werk. Voorbeeld:
+
+    ```default
+    Deze literatuuranalyse is **deels gegenereerd met AI** en handmatig geverifieerd op nauwkeurigheid.
+    ```
+
+
+### Prompt-iteratie
+Een goede prompt maak je zelden in één keer. Experimenteer met deze stappen:
+
+ -  Eerste poging:
+
+    ```default
+    Vertel over de impact van sociale media.
+    ```
+
+ -  Verbeterd met context en formaat:
+
+    ```default
+     Maak een **tabel** met 3 positieve en 3 negatieve effecten van sociale media op de **geestelijke gezondheid van adolescenten** (15–18 jaar). Gebruik **wetenschappelijke bronnen** als referentie.
+    ```
+
+ -  Optimaliseer verder:
+
+    ```default
+    Voeg aan de tabel een **korte literatuurverwijzing** toe (APA-stijl) voor elk effect, gebaseerd op studies na 2020.
+    ```
+
+### Checklist voor een sterke prompt
+
+| Vraag | Voorbeeld |
+|-------|-----------|
+| Doel? | "Ik wil een stappenplan voor een systematische review." |
+| Specifiek? | "Max. 7 stappen, gericht op medische literatuur." |
+| Context? | "Voor een scriptie over diabetes type 2." |
+| Formaat? | "Genummerde lijst met korte uitleg per stap." |
+| Randvoorwaarden? | "Gebruik APA-stijl voor bronvermeldingen." |
+: Checklist voor een sterke prompt. {#tbl-ai-prompt-checklist"}
+
 ## Evolutie van LLMs
 
 De ontwikkeling van LLMs staat niet los van oudere theorieën uit de wiskunde en computerwetenschappen. De concepten en formules gaan terug tot de jaren 1950. De hedendaagse toepassing is wel nieuw.
@@ -306,5 +475,8 @@ Het inzetten van AI bij onderzoek kan zeer nuttig zijn, maar vraagt om bewuste k
 AI kan een krachtige assistent zijn in het onderzoeksproces, zolang je kritisch blijft, correct omgaat met bronvermelding, en beseft dat jijzelf de onderzoeker bent – niet de tool.
 
 ::: {.callout-warning title="Duurzaamheid"}
-Een enkel ChatGPT-verzoek verbruikt tien keer meer elektriciteit dan een Google- zoekopdracht [@UNWE2025]. AI-toepassingen draaien voornamelijk in energie-intensieve datacenters waarvan het elektriciteitsverbruik naar schatting is gestegen tot ongeveer 415 TWh in 2024 (~1,5 % van het mondiale elektriciteitsverbruik), en dit zal naar verwachting verdubbelen tot circa 945 TWh in 2030 (~3 %) [@IAE2025]. De snelle groei wordt gedreven door zogenaamde “accelerated servers” voor AI, waarvan het elektriciteitsverbruik jaarlijks met ongeveer 30 % toeneemt, tegen zo'n 9 % voor reguliere servers
+Een enkel ChatGPT-verzoek verbruikt tien keer meer elektriciteit dan een Google- zoekopdracht [@UNWE2025]. AI-toepassingen draaien voornamelijk in energie-intensieve datacenters waarvan het elektriciteitsverbruik naar schatting is gestegen tot ongeveer 415 TWh in 2024 (~1,5 % van het mondiale elektriciteitsverbruik), en dit zal naar verwachting verdubbelen tot circa 945 TWh in 2030 (~3 %) [@IAE2025]. Veruit de meeste energie kruipt in het trainen van het model. 
+Tegelijk verbruikt een sessie van 10 tot 50 ChatGPT-vragen ongeveer een halve liter water [@li2025], voornamelijk voor de koeling van servers. Het mondiale waterverbruik door datacenters kan in 2030 oplopen tot miljarden kubieke meters, wat neerkomt op het waterverbruik van hele landen. 
+
+Deze snelle groei wordt gedreven door zogenaamde “accelerated servers” voor AI, waarvan het elektriciteitsverbruik jaarlijks met ongeveer 30 % toeneemt, tegen zo'n 9 % voor reguliere servers. De productie van chips voor AI draagt daarnaast ook aan het waterverbruik bij.
 :::

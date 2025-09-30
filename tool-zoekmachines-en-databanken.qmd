@@ -76,6 +76,7 @@ Er bestaan meer zoekmachines dan alleen Google. Elk heeft eigen kenmerken, zoals
 | Google            | [google.com](https://www.google.com) |
 | Ecosia            | [ecosia.org](https://www.ecosia.org) |
 | Yahoo             | [yahoo.com](https://www.yahoo.com) |
+: Verschillende zoekmachines. {#tbl-zoekmachines"}
 
 ## Zoekstrategie
 
