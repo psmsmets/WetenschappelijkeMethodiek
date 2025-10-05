@@ -283,6 +283,145 @@ Reflectievraag
 
 ## Module 2: AI & zoekethiek
 
+::: {.callout-note title="Doel"}
+- Begrijpen wat generatieve AI en Large Language Models (LLMs) zijn en hoe ze werken.  
+- Leren hoe je duidelijke en effectieve prompts opstelt.  
+- AI-output kritisch beoordelen op juistheid, bronvermelding en bias.  
+- AI verantwoord gebruiken als hulpmiddel bij onderzoek en schrijven.  
+:::
+
+::: {.callout-caution}
+Maak in deze module enkel gebruik van de toegestane AI-tools: [ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com/), [Le Chat](https://chat.mistral.ai/), [Perplexity](https://www.perplexity.ai/).
+:::
+
+::: Opdracht
+### Eerste kennismaking met Generatieve AI en LLMs
+
+1.  Wat is AI volgens jou?
+    : Schrijf in enkele zinnen wat jij denkt dat *artificiële intelligentie* betekent.  
+
+    Daarna gebruik je een AI-tool (bv. ChatGPT of Le Chat) en vraag je:
+
+    ```default   
+    Wat is artificiële intelligentie in eenvoudige woorden?
+    ```
+
+    Vergelijk jouw uitleg met die van het AI-model. Wat valt op?
+
+2.  Ontdek hoe een LLM werkt
+    : Gebruik de uitleg uit de cursus en geef in eigen woorden weer:
+    - Wat doet een *Large Language Model* precies?  
+    - Waarom zeggen we dat het *geen echt denkvermogen* heeft?  
+    - Wat bedoelt men met *hallucineren* bij AI?  
+
+3.  Probeer een eenvoudige prompt
+    : Geef een korte opdracht aan een AI-tool, bijvoorbeeld:
+    ```default
+    Leg in 5 zinnen uit waarom bijen belangrijk zijn voor de natuur.
+    ```
+    Was het antwoord duidelijk en correct?
+    Hoe zou je de vraag kunnen verbeteren om een beter antwoord te krijgen?
+
+4.  Controleer de betrouwbaarheid
+    : Vraag aan het AI-model:
+    ```default
+    Noem één onderzoek uit 2023 over klimaatverandering in België.
+    ```
+    Controleer daarna of het onderzoek echt bestaat (zoek op Google Scholar). 
+    Noteer wat je vond — of niet vond.
+
+---
+
+**Reflectievraag**  
+: _Wat vind jij het grootste verschil tussen hoe een mens en een AI een antwoord formuleert?_
+
+:::
+
+::: Opdracht
+### Generatieve AI en LLMs – Toepassing en Kritische Reflectie
+
+1.  Gebruik een toegestaan AI-model naar keuze om
+    : Een beknopte uitleg (max. 150 woorden) te genereren over *"de invloed van artificiële intelligentie op wetenschappelijk onderzoek"*.
+    - Vraag daarna expliciet naar **de gebruikte bronnen** of **de kennisdatum** van het model.
+    - Noteer het antwoord en controleer of de bronnen of datums kloppen.
+
+2.  Vergelijk twee modellen
+    : Voer exact dezelfde prompt uit in **twee verschillende AI-systemen** (bv. ChatGPT, Le Chat, Perplexity).  
+    - Vergelijk de antwoorden op **stijl**, **inhoudelijke nauwkeurigheid** en **bronvermelding**.  
+    - Welke verschillen vallen je op? Welke vind je betrouwbaarder en waarom?
+
+3.  Experimenteer met prompt engineering
+    : Gebruik een van de volgende startprompts, en verbeter hem stap voor stap volgens het *stappenplan* in de cursus:
+    - *"Leg uit wat een groot taalmodel is."*  
+    - *"Schrijf een tekst over de risico’s van AI in het onderwijs."*  
+    - *"Vat samen hoe neurale netwerken werken in eenvoudige taal."*  
+    Toon telkens je oorspronkelijke prompt en de verbeterde versie, en geef aan wat het effect was op de kwaliteit van het antwoord.
+
+4.  Controleer op hallucinaties
+    : Vraag het AI-model om een **bronvermelding** bij een concreet feit (bv. "Wie introduceerde het transformer-model in 2017?").
+    - Controleer of de bron echt bestaat (gebruik Google Scholar of Wikipedia).  
+    - Als de bron fout of verzonnen blijkt, beschrijf kort hoe je dit ontdekt hebt.
+
+---
+
+**Reflectievraag**  
+: _In welke situaties kan AI jou volgens jou ondersteunen bij wetenschappelijk werk, en wanneer wordt het eerder riskant of misleidend? Leg uit met een voorbeeld._
+
+:::
+
+::: {.callout-note title="Doel – Verdieping"}
+- Verschillende AI-modellen vergelijken op stijl, nauwkeurigheid en betrouwbaarheid.  
+- Inzicht krijgen in de werking van prompts en de invloed van formulering op de output.  
+- Hallucinaties en foutieve informatie leren herkennen en verifiëren met externe bronnen.  
+- Reflecteren over ethisch, transparant en duurzaam gebruik van AI in onderzoek.  
+:::
+
+::: Opdracht
+### Generatieve AI en LLMs – Verdieping en Kritisch Gebruik
+
+1.  Vergelijk twee AI-modellen
+    : Gebruik dezelfde prompt in **twee verschillende AI-tools**.  
+    ```default
+    Leg in 100 woorden uit hoe klimaatverandering het leven in steden beïnvloedt.
+    ```
+    - Welke verschillen merk je in stijl, taalgebruik en inhoud?  
+    - Welke output vind jij het meest betrouwbaar en waarom?  
+
+2.  Verbeter je prompt stap voor stap
+    : Gebruik één AI-tool en geef eerst een eenvoudige vraag
+    ```default
+    Wat zijn de voordelen van zonne-energie?
+    ```
+    Verbeter daarna je prompt volgens het *stappenplan uit de cursus* (meer context, beperkingen, gewenste vorm).  
+    - Toon je eerste en je verbeterde prompt.  
+    - Beschrijf wat er veranderde aan het antwoord.  
+
+3.  Controleer op hallucinaties
+    : Vraag de AI om een bronvermelding bij een concreet feit:
+    ```default
+    Noem één wetenschappelijk onderzoek uit 2022 over microplastics in drinkwater.
+    ```
+    Controleer vervolgens of die bron echt bestaat (via Google Scholar of DOAJ).
+    - Wat ontdekte je? Was de bron correct of verzonnen?  
+
+4.  Ethisch gebruik en transparantie
+    : Vraag het model :
+    ```default
+    Mag ik AI gebruiken bij het schrijven van mijn onderzoeksvoorstel?  
+    ```
+    Vergelijk dit antwoord met wat jij hierover vindt.
+    - Wanneer vind jij AI wél verantwoord in onderzoek?  
+    - En wanneer niet meer?
+
+---
+
+**Reflectievraag**  
+: _Welke strategie helpt jou het meest om AI-output kritisch te beoordelen? Geef een concreet voorbeeld._
+
+:::
+
+
+
 ## Module 3: Informatiebeheer
 
 ## Module 4: Bronnenkritiek

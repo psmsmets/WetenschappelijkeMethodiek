@@ -9,14 +9,10 @@
 
  [**Opdracht 5**](project5.qmd#databanken-en-onderzoeksgerelateerd-zoeken): Databanken en Onderzoeksgerelateerd Zoeken\Pageref{databanken-en-onderzoeksgerelateerd-zoeken}
 
+ [**Opdracht 6**](project5.qmd#eerste-kennismaking-met-generatieve-ai-en-llms): Eerste kennismaking met Generatieve AI en LLMs\Pageref{eerste-kennismaking-met-generatieve-ai-en-llms}
+
+ [**Opdracht 7**](project5.qmd#generatieve-ai-en-llms-toepassing-en-kritische-reflectie): Generatieve AI en LLMs – Toepassing en Kritische Reflectie\Pageref{generatieve-ai-en-llms-toepassing-en-kritische-reflectie}
+
+ [**Opdracht 8**](project5.qmd#generatieve-ai-en-llms-verdieping-en-kritisch-gebruik): Generatieve AI en LLMs – Verdieping en Kritisch Gebruik\Pageref{generatieve-ai-en-llms-verdieping-en-kritisch-gebruik}
+
  [**Opdracht 1**](project6.qmd#verkennen-onderwerpen): Verkennen onderwerpen\Pageref{verkennen-onderwerpen}
-
- [**Opdracht 1**](project5.qmd#metakennis): Metakennis\Pageref{metakennis}
-
- [**Opdracht 2**](project5.qmd#im-feeling-lucky): I’m Feeling Lucky\Pageref{im-feeling-lucky}
-
- [**Opdracht 3**](project5.qmd#zoeksyntaxis-en-google-advanced-search): Zoeksyntaxis en Google Advanced Search\Pageref{zoeksyntaxis-en-google-advanced-search}
-
- [**Opdracht 4**](project5.qmd#zoekmachines-vergelijken): Zoekmachines Vergelijken\Pageref{zoekmachines-vergelijken}
-
- [**Opdracht 5**](project5.qmd#databanken-en-onderzoeksgerelateerd-zoeken): Databanken en Onderzoeksgerelateerd Zoeken\Pageref{databanken-en-onderzoeksgerelateerd-zoeken}

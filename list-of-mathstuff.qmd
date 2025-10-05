@@ -1,6 +1,2 @@
 \providecommand{\Pageref}[1]{\hfill p.\pageref{#1}}
  [**Definitie 2.1**](bronnen.qmd#definition-apa): APA-stijl (7de editie 2020)\Pageref{definition-apa}
-
- [**Definitie 2.1**](bronnen.qmd#definition-apa): APA-stijl (7de editie 2020)\Pageref{definition-apa}
-
- [**Definitie 2.1**](bronnen.qmd#definition-apa): APA-stijl (7de editie 2020)\Pageref{definition-apa}

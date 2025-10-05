@@ -470,7 +470,7 @@ Het inzetten van AI bij onderzoek kan zeer nuttig zijn, maar vraagt om bewuste k
    : Het is niet toegestaan om AI-gegenereerde teksten zonder bronvermelding als eigen werk te presenteren. Combineer AI-output altijd met eigen inzichten en correcte citaties.
 
 7. Hou rekening met duurzaamheid
-   : AI-verzoeken kosten veel rekenkracht en dus energie. Denk na over de noodzaak van elke query en gebruik AI bewust
+   : AI-verzoeken kosten veel rekenkracht en dus energie, maar ook water. Denk na over de noodzaak van elke query en gebruik AI bewust.
 
 AI kan een krachtige assistent zijn in het onderzoeksproces, zolang je kritisch blijft, correct omgaat met bronvermelding, en beseft dat jijzelf de onderzoeker bent – niet de tool.
 
@@ -479,4 +479,28 @@ Een enkel ChatGPT-verzoek verbruikt tien keer meer elektriciteit dan een Google-
 Tegelijk verbruikt een sessie van 10 tot 50 ChatGPT-vragen ongeveer een halve liter water [@li2025], voornamelijk voor de koeling van servers. Het mondiale waterverbruik door datacenters kan in 2030 oplopen tot miljarden kubieke meters, wat neerkomt op het waterverbruik van hele landen. 
 
 Deze snelle groei wordt gedreven door zogenaamde “accelerated servers” voor AI, waarvan het elektriciteitsverbruik jaarlijks met ongeveer 30 % toeneemt, tegen zo'n 9 % voor reguliere servers. De productie van chips voor AI draagt daarnaast ook aan het waterverbruik bij.
+:::
+
+
+::: {.callout-note title="Voorkom dat je gesprekken worden gebruikt voor training"}
+
+#### ChatGPT
+1. Ga naar [https://chat.openai.com](https://chat.openai.com)
+2. Klik linksonderaan op je account en vervolgens op **"Instellingen"**.
+3. Ga naar **"Data controls"**.
+4. Schakel de schakelaar uit bij:
+   *"Verbeter het model voor iedereen"*
+
+#### Gemini
+1. Ga naar [https://myactivity.google.com/product/gemini](https://myactivity.google.com/product/gemini)
+2. Klik op **"Gemini-appsactiviteit"**.
+3. Schakel de schakelaar uit bij:
+   *"Je Gemini-appsactiviteit opslaan in je Google-account."*
+
+#### Le Chat
+1. Ga naar [https://chat.mistral.ai](https://chat.mistral.ai)
+2. Klik linksbovenaan op je account en vervolgens op **"Instellingen"**.
+3. Scroll naar beneden en klik links onderaan bij *Le Chat* op **"Voorkeuren"**.
+4. Schakel de schakelaar uit bij:
+   *"Sta toe dat uw interacties worden gebruikt om onze modellen te trainen."*
 :::
