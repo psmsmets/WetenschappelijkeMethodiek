@@ -5,6 +5,12 @@
 
  [**Voorbeeld 2.3**](bronnen.qmd#volledige-referentie-in-de-bibliografie): Volledige referentie in de bibliografie\Pageref{volledige-referentie-in-de-bibliografie}
 
+ [**Voorbeeld 4.1**](rapporteren.qmd#Example-4.1)\Pageref{Example-4.1}
+
+ [**Voorbeeld 4.2**](rapporteren.qmd#Example-4.2)\Pageref{Example-4.2}
+
+ [**Voorbeeld 4.3**](rapporteren.qmd#Example-4.3)\Pageref{Example-4.3}
+
  [**Voorbeeld 10.1**](tool-data-analyse.qmd#Example-10.1)\Pageref{Example-10.1}
 
  [**Voorbeeld 10.2**](tool-data-analyse.qmd#Example-10.2)\Pageref{Example-10.2}

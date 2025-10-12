@@ -1,45 +1,82 @@
 # Rapporteren {#sec-rapporteren}
 
-[Dit hoofdstuk is nog in opbouw]
 
-::: {.hidden}
-
-Het hoofddoel van wetenschappelijk onderzoek is rapporteren van de bevindingen. Dit kan zowel schriftelijk als mondeling. 
+Het hoofddoel van wetenschappelijk onderzoek is het rapporteren van de bevindingen. Onderzoekers delen hun resultaten om kennis te verspreiden, zodat anderen kunnen leren, controleren en voortbouwen op eerder werk. Rapporteren kan zowel **schriftelijk** als **mondeling** gebeuren.
 
 ## Schriftelijk rapporteren
 
-Wetenschappelijk schrijven.
+<!-- Socials? -->
 
-Hoe een goede wetenschappelijke tekst schrijven?
-
-Voor een rapport, onderzoeksverslag, paper, artikel, essay, betoog en scriptie hanteer je een wetenschappelijke of academische schrijfstijl.
-
-::: {.hidden}
-https://nl.wikipedia.org/wiki/Wikipedia:Schrijfcursus
-:::
+Een schriftelijke rapportering zoals een rapport, onderzoeksverslag, paper, artikel, essay, betoog, scriptie of onderzoeksbrief wordt geschreven in een *wetenschappelijke* of *academische stijl*: helder, gestructureerd en objectief. Het doel is niet om te overtuigen met meningen, maar om feiten en redeneringen zo precies mogelijk weer te geven.
+Ook bij presentaties, posters, onderzoeksvoorstellen en samenvattingen blijft diezelfde stijl belangrijk: helder, precies, onderbouwd en zonder persoonlijke mening.
 
 ::: {.callout-note title="Wetenschappelijke schrijfstijl"}
-Wetenschappelijk schrijven zet in de eerste plaats het onderwerp centraal, niet de schrijver. 
-Jouw mening is dus niet van belang. 
-Wetenschappelijk schrijven houdt vooral in dat niet jijzelf maar juist het onderwerp centraal staat. Het gaat er niet om wat jij vindt, maar wel wat bijvoorbeeld het onderzoek oplevert.
+Wetenschappelijk schrijven zet het onderwerp centraal, niet de schrijver. 
+Jouw mening is dus niet van belang. Het gaat niet om wat jij vindt, maar om wat het onderzoek aantoont. 
+Gebruik daarom neutrale taal, onderbouw uitspraken met bronnen, en vermijd subjectieve formuleringen zoals *ik denk dat* of *naar mijn mening*.
 :::
 
-### Vaste structuur
+### Typische kenmerken van wetenschappelijk schrijven
 
-* Titel: <https://plos.org/resource/how-to-write-a-great-title/>
-* Abstract/samenvatting: <https://plos.org/resource/how-to-write-a-great-abstract/>
-* Inleiding
-* Methode(n): <https://plos.org/resource/how-to-write-your-methods/>
-* Resultaten
-* Discussie (en conclusie): <https://plos.org/resource/how-to-write-conclusions/>
+Het kernidee van wetenschappelijk schrijven is dat een slimme, maar niet-ingewijde lezer je tekst moet kunnen volgen. Maak elke stap controleerbaar, helder en voorspelbaar in opbouw.
 
+- Objectiviteit
+  : Schrijf zonder emotionele of persoonlijke kleur. Richt je op *wat* er is gemeten of gevonden, niet op *wat je ervan vindt*.
 
-Klaarmaken ter publicatie: <https://plos.org/resource/how-to-edit-your-work/>
+  ::: Example
+  **Niet:** *"Ik vind de resultaten verrassend en best indrukwekkend."*  
+  **Wel:** *"De resultaten tonen een stijging van 18% (95%-BI: 12–24%)."*
+  :::
 
-Na de titel is de samenvatting het meest gelezen deel van je artikel (zie @fig-rapporteren). De samenvatting is een belangrijk hulpmiddel voor lezers om je werk te vinden en te evalueren. Na publicatie wordt de samenvatting geïndexeerd in in bibliotheeksystemen of populaire databases, zoals bijvoorbeeld Google Scholar. Net als de titel beïnvloedt je samenvatting de zoekresultaten op trefwoorden. Lezers gebruiken het om te beslissen of ze de rest van je artikel willen lezen. Andere onderzoekers gebruiken het om je werk te evalueren voor opname in systematische reviews en meta-analyses. Het moet een beknopt, op zichzelf staand stuk zijn dat je onderzoek nauwkeurig weergeeft.
+- Precisie
+  : Gebruik termen correct en leg sleutelbegrippen kort uit bij eerste gebruik. Vermijd vage woorden zoals *een beetje*, *regelmatig*, *vaak*.  
 
+  ::: Example
+  **Niet:** *"De temperatuur was vaak hoger."*  
+  **Wel:** *"De temperatuur overschreed in 7 van de 10 metingen de 25 °C."*
+  :::
 
-::: {#fig-rapporteren fig-cap="Rapporteren en lezersbereik." fig-align="center"}
+- **Bronvermelding**  
+  Onderbouw uitspraken met controleerbare bronnen (bv. APA7-stijl). Verwijs bij feiten, theorieën en cijfers naar literatuur.  
+
+  ::: Example
+  **Niet:** *"Bekend is dat cafeïne slaap verstoort."*  
+  **Wel:** *"Cafeïne kan inslaaptijd verlengen en slaapkwaliteit verlagen (Smith, 2022)."*
+  :::
+
+- **Consistentie**  
+  Hanteer overal dezelfde termen, notatie en tijdsvorm. Bij wetenschappelijk schrijven zorgt herhaling voor duidelijkheid. Blijf niet eindeloos variëren met synoniemen en varianten van eenzelfde begrip.
+
+  ::: Example
+  Als je *nitraatconcentratie* gebruikt, wissel dan niet later naar *NO₃⁻-gehalte* zonder dit vooraf te definiëren.
+  :::
+  **Tip:** Maak een mini-woordenlijst met jouw gekozen termen en afkortingen.
+
+- **Logische opbouw**  
+  Leid de lezer stap voor stap door je redenering: van vraag → methode → resultaat → betekenis.
+  Pas dit niet alleen toe op het geheel, maar hanteer ook bij alinea's met een vaste structuur:
+
+    1. kernzin met de hoofdgedachte,  
+    2. toelichting/bewijs (data, citaat, figuur),  
+    3. mini-conclusie of brug naar de volgende alinea.
+
+  ::: {.callout-tip title="Kleine checklist per alinea"}
+  Hanteer volgende checklist om te controleren of een alinea wetenschappelijk en logisch onderbouwd is:
+
+    - Staat de **kernzin** vooraan en is die één duidelijke boodschap?  
+    - Is elk **feit controleerbaar** (data, bron, figuur)?  
+    - Sluit de **slotzin** aan op de volgende stap in je verhaal?
+
+  :::
+
+### De titel en de samenvatting
+
+Er wordt enorm veel geschreven, maar lang niet alles wordt gelezen. De **titel** en de **samenvatting** zijn daarom de twee belangrijkste onderdelen van elk wetenschappelijk werk (zie @fig-rapporteren). Ze vormen je uithangbord: het is wat lezers als eerste zien, en vaak ook het enige wat ze lezen. 
+
+Na publicatie worden de titel en samenvatting opgenomen in bibliotheeksystemen en databanken zoals *Google Scholar*. Veel lezers — ook onderzoekers — baseren hun oordeel enkel op titel en samenvatting om te beslissen of ze het volledige artikel willen lezen.  
+Een goed gekozen titel trekt de lezer aan, een goed geschreven samenvatting houdt hem vast. Samen bepalen ze of jouw onderzoek gezien, begrepen en geciteerd wordt.
+
+::: {#fig-rapporteren fig-cap="Rapporteren en het (beperkte) lezersbereik." fig-align="center"}
 ```{tikz}
 \definecolor{MyTriangle}{RGB}{229,185,78}
 \definecolor{MyArrow}{RGB}{84,106,160}
@@ -69,59 +106,251 @@ Na de titel is de samenvatting het meest gelezen deel van je artikel (zie @fig-r
 ```
 :::
 
-### Tips voor een wetenschappelijke schrijfstijl
+#### Titel
+De **titel** bepaalt of iemand je werk überhaupt aanklikt. Een goede titel is kort, informatief en prikkelt de nieuwsgierigheid zonder overdreven te zijn. Vermijd vage of te algemene titels zoals *"Onderzoek naar planten"* of *"Analyse van data"*. Kies in plaats daarvan voor iets dat de inhoud concreet samenvat:  
+*"Invloed van lichtintensiteit op de fotosynthesesnelheid bij tuinbonen (Vicia faba)"*.  
+Zo weet de lezer meteen wat, bij wie en onder welke omstandigheden je onderzocht hebt.  
 
-<https://www.taaluilen.nl/20-tips-voor-een-wetenschappelijke-schrijfstijl/>(5 januari 2016 | Taaluilen, geraadpleegd 1/7/2023)
+Zie [How to write a great title](https://plos.org/resource/how-to-write-a-great-title/).  
 
-1. Schrijf zo veel mogelijk in de tegenwoordige tijd. Dat geldt zeker voor Inleiding en Discussie. Methode (en materialen) en Resultaten kunnen in de voltooid tegenwoordige of in de verleden tijd. Er zijn geen vaste regels voor, maar wees consequent in je taalgebruik. (IMRD-methode)
+#### Samenvatting of Abstract
+Na de titel is de **samenvatting** (abstract) het meest gelezen deel van je werk. 
+Een sterke samenvatting is een beknopt, zelfstandig leesbaar geheel dat de essentie van het onderzoek weergeeft: 
+*wat je onderzocht hebt, hoe, met welke resultaten en wat die betekenen.* 
+Gebruik geen afkortingen of symbolen die je niet toelicht, en vermijd referenties naar tabellen of figuren — de samenvatting moet op zichzelf begrijpelijk zijn.
 
-2.  Gebruik de ik-vorm niet of bijna niet. Het gaat niet om jou, maar om het resultaat.
+Zie [How to write a great abstract](https://plos.org/resource/how-to-write-a-great-abstract/).  
 
-3.  Kenmerken van een leesbare academische stijl zijn:
+<!-- Klaarmaken ter publicatie: [How to edit your work](https://plos.org/resource/how-to-edit-your-work/) -->
 
-    * Objectief
-    * Zorgvuldig
-    * Onpersoonlijk
-    * Zakelijk
+### De IMRD-methode
 
-4.  Zorg voor een heldere structuur. Daarvoor heb je hoofdstukken, paragrafen, alinea’s en zinnen tot je beschikking.
-5.  Titels van hoofdstukken en paragrafen hebben dezelfde stijl, dezelfde opbouw en dezelfde logische hiërarchie. Titels en ondertitels eindigen niet met een punt.
-6.  Alineakoppen hebben dezelfde stijl, dezelfde opbouw en eindigen niet met een punt.
-7.  Zorg voor verband tussen alinea’s.
-8.  Zorg door middel van stuctuuraanduiders voor samenhang binnen alinea’s en zinnen.
-9.  Zet in de alinea de belangrijkste informatie aan het begin.
-10. Vermijd *jip-en-janneketaal*, maar maak je zinnen zeker ook niet onnodig lang. Wissel korte en lange zinnen af.
-11. Gebruik opsommingen om de leesbaarheid en de structuur van de tekst te vergroten.
-12. Hanteer zo veel mogelijk de actieve vorm.
-13. Wees schaars met de hulpwerkwoorden worden, zullen, kunnen, mogen en moeten.
-14. Vermijd ouderwetse woorden en uitdrukkingen.
-15. Toets je tekst aan de zes eisen van zakelijke communicatie: duidelijk, efficiënt, aantrekkelijk, gepast, correct, overtuigend.
-16. Ontwerp eerst de structuur voor je aan het schrijfproces begint.
-17. Je hoeft niet ‘gewichtig’ te schrijven om je tekst wetenschappelijk te maken. Het gaat om de inhoud, jouw standpunten en jouw bevindingen. Door helder en overtuigend te presenteren valt er bij de lezer een wereld te winnen.
-18. Varieer in zinsbouw. Laat niet elke zin op dezelfde manier beginnen.
-19. Wees voorzichtig met het gebruik van vaktermen.
-20. Citeren doe je bij voorkeur met enkele aanhalingstekens met vermelding van naam en jaartal en pagina van bijvoorbeeld het boek of tijdschrift waar de geciteerde tekst terug te vinden is.
+De *IMRD*-methode is de standaardstructuur voor wetenschappelijke rapporten en artikelen.
+De afkorting staat voor **Inleiding – Methode – Resultaten – Discussie**.
+Deze indeling helpt je om logisch te redeneren en je onderzoek helder te presenteren.
+
+#### Inleiding
+De **Inleiding** schetst de context van je onderzoek.
+Je legt uit *waarom* het onderwerp belangrijk is, *wat* er al over bekend is, en *welke vraag* jij onderzoekt.
+Een goede inleiding eindigt met een duidelijke [onderzoeksvraag](onderzoek.html#onderzoeksvraag) of [hypothese](onderzoek.html#hypothese).
+
+::: Example 
+"Hoewel de invloed van temperatuur op gistgroei bekend is, is er minder onderzoek gedaan naar de rol van pH. Dit onderzoek bestudeert hoe de pH-waarde de groeisnelheid van bakkersgist beïnvloedt."
+:::
+
+#### Methode
+In het onderdeel **Methode** beschrijf je *hoe* je het onderzoek hebt uitgevoerd. 
+Je vermeldt welke materialen, proefopstellingen, meetinstrumenten en analysemethoden gebruikt zijn. 
+Het doel is dat een andere onderzoeker jouw experiment kan *herhalen* op basis van deze beschrijving.
+
+::: {.callout-important}
+Wees concreet en nauwkeurig, maar vermijd overbodige details.
+:::
+
+Zie [How to write your methods](https://plos.org/resource/how-to-write-your-methods/).
+
+#### Resultaten
+De **Resultaten** presenteren de bevindingen van je onderzoek, zonder interpretatie.
+Gebruik tabellen, grafieken of figuren om trends en verbanden duidelijk te tonen.
+Vat kort samen wat de gegevens laten zien, maar bewaar de verklaring voor de *Discussie*.
+
+::: Example
+"De gist groeide het snelst bij een pH van 5,0. Bij pH-waarden boven 7,0 werd geen groei waargenomen."
+:::
+
+#### Discussie
+In de **Discussie** interpreteer je de resultaten: *wat betekenen ze* en *hoe verhouden ze zich tot eerdere studies*? 
+Je trekt conclusies, bespreekt mogelijke foutenbronnen of beperkingen, en doet suggesties voor vervolgonderzoek. 
+Vaak wordt de conclusie in dit deel geïntegreerd of apart als slothoofdstuk toegevoegd.
+
+::: Example
+"De resultaten bevestigen dat gistgroei sterk afhankelijk is van pH. Dit ondersteunt eerdere bevindingen van Janssens (2018), maar suggereert dat de optimale waarde lager ligt dan tot nu toe werd aangenomen."
+:::
+
+Zie [How to write conclusions](https://plos.org/resource/how-to-write-conclusions/).
+
+#### Waarom IMRD werkt
+De IMRD-structuur weerspiegelt de logica van wetenschappelijk denken:
+
+1. **Wat weten we al?** → Inleiding  
+2. **Wat hebben we gedaan?** → Methode  
+3. **Wat vonden we?** → Resultaten  
+4. **Wat betekent dat?** → Discussie  
+
+Deze opbouw is internationaal herkenbaar en maakt het voor lezers makkelijker om snel te vinden wat ze zoeken.
+
+### Twintig tips voor een wetenschappelijke schrijfstijl
+
+Een wetenschappelijke tekst moet helder, precies en geloofwaardig zijn. Dat vraagt om bewuste keuzes in toon, structuur en taalgebruik. Onderstaande twintig richtlijnen helpen om je schrijfstijl professioneel en academisch te maken [@Taaluilen2016].
+
+1. **Gebruik de tegenwoordige tijd** waar mogelijk, vooral in de *Inleiding* en *Discussie*.  
+   Voor *Methode* en *Resultaten* mag je ook de voltooid tegenwoordige of verleden tijd gebruiken. Er bestaan geen strikte regels, maar wees **consequent**. (IMRD-structuur: *Inleiding–Methode–Resultaten–Discussie*).
+
+2. **Vermijd de ik-vorm.**  
+   De aandacht hoort uit te gaan naar het onderzoek, niet naar de onderzoeker. Schrijf dus: *"Er werd gemeten…"* in plaats van *"Ik heb gemeten…"*.
+
+3. **Kenmerken van een leesbare academische stijl:**
+   * Objectief — gebaseerd op feiten, niet op meningen.  
+   * Zorgvuldig — met aandacht voor formulering en nuance.  
+   * Onpersoonlijk — zonder ik-vorm of emotionele taal.  
+   * Zakelijk — to the point, zonder overbodige woorden.
+
+4. **Zorg voor een duidelijke structuur.**  
+   Deel je tekst logisch op in hoofdstukken, paragrafen en alinea’s.
+
+5. **Gebruik consistente titels en koppen.**  
+   Titels van hoofdstukken en paragrafen hebben dezelfde stijl en hiërarchie, en eindigen niet met een punt.
+
+6. **Alineakoppen volgen dezelfde regels.**  
+   Ze hebben een uniforme vormgeving en eindigen evenmin met een punt.
+
+7. **Bouw bruggen tussen alinea’s.**  
+   Zorg voor logische overgangen zodat de tekst vloeiend leest.
+
+8. **Gebruik structuurwoorden** (*signaalwoorden*) zoals *ten eerste*, *bovendien*, *daarentegen* en *dus* om samenhang te creëren binnen zinnen en alinea’s.
+
+9. **Plaats de belangrijkste informatie vooraan in de alinea.**  
+   Dat helpt de lezer om snel de kern te begrijpen.
+
+10. **Vermijd ‘jip-en-janneketaal’**, maar maak zinnen niet nodeloos ingewikkeld.  
+    Wissel korte en langere zinnen af voor een prettig leesritme.
+
+11. **Gebruik opsommingen** om de leesbaarheid te vergroten en structuur te benadrukken.
+
+12. **Kies voor de actieve vorm.**  
+    *"De leerlingen voerden het experiment uit"* leest vlotter dan *"Het experiment werd door de leerlingen uitgevoerd."*
+
+13. **Gebruik hulpwerkwoorden spaarzaam.**  
+    Woorden als *worden*, *zullen*, *kunnen*, *mogen* en *moeten* maken zinnen snel omslachtig.
+
+14. **Laat ouderwetse woorden achterwege.**  
+    Woorden als *aldus*, *voormeld* of *derhalve* kunnen de tekst afstandelijk maken.
+
+15. **Toets je tekst aan de zes eisen van zakelijke communicatie:**  
+    Duidelijk, efficiënt, aantrekkelijk, gepast, correct en overtuigend.
+
+16. **Ontwerp eerst de structuur vóór je begint te schrijven.**  
+    Een goed raamwerk maakt het schrijfproces sneller en overzichtelijker.
+
+17. **Probeer niet gewichtig te schrijven.**  
+    Wetenschappelijkheid zit in de inhoud, niet in moeilijke woorden. Helderheid overtuigt meer dan jargon.
+
+18. **Varieer in zinsbouw.**  
+    Vermijd dat elke zin met hetzelfde woord of zinsdeel begint.
+
+19. **Gebruik vaktermen met mate.**  
+    Leg ze kort uit bij eerste gebruik, zodat ook niet-specialisten je tekst kunnen volgen.
+
+20. **Citeer zorgvuldig.**  
+    Gebruik enkele aanhalingstekens en vermeld altijd auteur, jaartal en paginanummer van de bron (APA7-stijl).  
+    Bijvoorbeeld: ‘Wetenschap begint met verwondering’ (Aristoteles, 350 v.Chr., p. 12).
+
+Een wetenschappelijke schrijfstijl betekent niet droog of afstandelijk schrijven. Een goed academisch stuk is helder, precies en logisch opgebouwd — en daardoor juist prettig leesbaar.
+
+### Veelvoorkomende valkuilen
+
+Zelfs ervaren schrijvers trappen weleens in klassieke valkuilen. Hieronder vind je enkele van de meest voorkomende problemen bij wetenschappelijk schrijven, met voorbeelden van hoe het beter kan.
+
+- **Vage kwantificaties**  
+  Vermijd woorden als *veel*, *regelmatig* of *enigszins*. Ze klinken veilig, maar zeggen niets concreets. Gebruik in plaats daarvan cijfers, aantallen of percentages.
+
+  ::: Example
+  **Niet:** *"Er zijn best wat verschillen tussen de groepen, wat interessant is."*  
+  **Wel:** *"De interventiegroep scoorde gemiddeld 2,3 punten hoger dan de controlegroep (SD = 0,9; t(38) = 4,1; p < 0,001), wat wijst op een matig tot groot effect."*
+  :::
+
+- **Te lange zinnen**  
+  Lange, samengestelde zinnen maken een tekst moeilijk leesbaar. Knip zinnen met meer dan ongeveer 25 woorden op in twee of herschrijf ze met duidelijke verbandwoorden.  
+
+  ::: Example
+  **Niet:** *"Omdat de temperatuur, de vochtigheid en de lichtintensiteit allemaal invloed hadden op de groei van de planten, besloten we om de drie factoren tegelijk te meten om hun gecombineerde effect te onderzoeken."*  
+  **Wel:** *"Temperatuur, vochtigheid en lichtintensiteit beïnvloedden de plantengroei. Daarom werden de drie factoren tegelijk gemeten om hun gecombineerde effect te onderzoeken."*
+  :::
+
+- **Jargon zonder uitleg**  
+  Vaktaal is nuttig, maar alleen als de lezer die begrijpt. Leg een term kort uit bij het eerste gebruik of geef een herkenbaar voorbeeld.  
+
+  ::: Example
+  **Niet:** *"De viscositeit vertoonde een niet-lineair gedrag bij lage Reynoldsgetallen."*  
+  **Wel:** *"De vloeistof werd stroperiger bij lage stroomsnelheden — een typisch voorbeeld van niet-lineair gedrag bij lage Reynoldsgetallen."*
+  :::
+
+- **Citeren zonder context**  
+  Een citaat of bronvermelding heeft pas waarde als je uitlegt *waarom* het relevant is. Een losse verwijzing zegt de lezer weinig.  
+
+  ::: Example
+  **Niet:** *"Volgens Janssens (2020) speelt motivatie een rol in leerprestaties."*  
+  **Wel:** *"Zoals Janssens (2020) aangeeft, verhoogt intrinsieke motivatie de kans dat leerlingen leerstrategieën actief toepassen, wat aansluit bij onze bevindingen."*
+  :::
+
+- **Te algemene uitspraken**  
+  Vermijd vage beweringen zoals *"De resultaten waren positief"* of *"Het experiment werkte goed."* Benoem wat “positief” of “goed” precies betekent.  
+
+  ::: Example
+  **Niet:** *"De resultaten waren positief en ondersteunen onze hypothese."*  
+  **Wel:** *"De resultaten tonen een stijging van 15% in reactie-efficiëntie, wat de hypothese over het katalytische effect ondersteunt."*
+  :::
+
+- **Overmatig gebruik van bijvoeglijke naamwoorden**  
+  Woorden als *interessant*, *belangrijk* of *opvallend* voegen zelden inhoud toe. Laat data of argumenten het werk doen.  
+
+  ::: Example
+  **Niet:** *"Er werd een opvallende toename in de concentratie waargenomen."*  
+  **Wel:** *"De concentratie steeg van 0,3 mol/L naar 0,45 mol/L na 10 minuten verwarmen."*
+  :::
+
+Kleine verbeteringen in precisie en duidelijkheid maken het verschil tussen een tekst die “wel goed leest” en een tekst die echt wetenschappelijk overtuigt.
 
 
 ## Mondeling rapporteren
 
-Wetenschappelijk presenteren.
+Een wetenschappelijke presentatie is meer dan het voorlezen van cijfers of tabellen. Het is een beknopte, goed gestructureerde samenvatting van je onderzoek, ondersteund door duidelijke visuals. Zelfs het meest complexe onderwerp kan helder worden uitgelegd als het verhaal logisch is opgebouwd.
 
-## Vertel het verhaal op maat van je doelpubliek
+### Kies zorgvuldig je doelpubliek
 
-Wetenschappelijk communiceren door middel van analytisch verhalen vertellen, ook wel bekend als analytic storytelling, is een benadering waarbij wetenschappelijke informatie op een narratieve en boeiende manier wordt gepresenteerd. Hierbij wordt gebruik gemaakt van verhaalstructuren en elementen om complexe gegevens en resultaten op een toegankelijke manier over te brengen naar verschillende doelgroepen.
+Een goede presentatie begint met een duidelijk beeld van *voor wie* je spreekt. Je kunt niet tegelijk uitleggen voor je grootmoeder én voor een fysicus — tenzij je grootmoeder toevallig fysicus is, natuurlijk.  
 
-Analytische storytelling combineert de analytische en rigoureuze aspecten van wetenschap met de kracht van verhalen. Het omvat de volgende elementen:
+Je publiek bepaalt de toon, de woordenschat en de hoeveelheid detail. Een niet-wetenschappelijk publiek heeft baat bij eenvoudige taal en beeldende voorbeelden, terwijl een expert juist verwacht dat je de diepte in gaat, vaktermen gebruikt en kritisch nuanceert.  
 
-1.  Identificeer het verhaal: Begin met het identificeren van het kernverhaal dat je wilt vertellen. Dit kan bijvoorbeeld het belangrijkste wetenschappelijke resultaat zijn dat je wilt communiceren of de ontdekking die je hebt gedaan.
-1. Kies een narratieve structuur: Selecteer een geschikte narratieve structuur, zoals een reisverhaal, een heldenreis of een probleem-oplossingsverhaal. Het doel is om een logische en meeslepende verhaallijn te creëren die de lezer of luisteraar aanspreekt.
-1.  Gebruik personages: Introduceer personages, zoals wetenschappers, proefpersonen of historische figuren, om het verhaal menselijker en persoonlijker te maken. Dit helpt de lezers zich te identificeren met de wetenschappelijke context en betrokken te raken bij het verhaal.
-1.  Gebruik visuele elementen: Ondersteun het verhaal met visuele elementen, zoals afbeeldingen, grafieken, diagrammen of video's. Deze visuele hulpmiddelen kunnen helpen om complexe gegevens begrijpelijker te maken en de boodschap te versterken.
-1.  Maak gebruik van emotie en spanning: Creëer emotie en spanning in het verhaal om de interesse van het publiek te wekken en vast te houden. Dit kan gedaan worden door uitdagingen, onverwachte wendingen of persoonlijke anekdotes toe te voegen.
-1.  Wees duidelijk en beknopt: Zorg ervoor dat de wetenschappelijke informatie duidelijk en beknopt wordt gecommuniceerd. Vermijd jargon en technisch taalgebruik en leg complexe concepten op een begrijpelijke manier uit.
-1.  Verbind met de bredere betekenis: Breng de wetenschappelijke bevindingen in verband met bredere betekenis en relevantie, bijvoorbeeld in termen van maatschappelijke impact, toekomstig onderzoek of praktische toepassingen.
+**Voorbeeld:**  
+Stel dat je een presentatie geeft over elektromagnetische inductie.  
+Voor je grootmoeder zeg je:  
+> “Wanneer je een spoel van koperdraad in de buurt van een magneet beweegt, ontstaat er een kleine elektrische stroom. Dat is het basisprincipe van een dynamo, waarmee bijvoorbeeld fietslampen werken.”  
+
+Voor een fysicus zeg je:  
+> “De verandering van de magnetische flux door de spoel induceert een spanning volgens de wet van Faraday: \( \varepsilon = - \frac{d\Phi_B}{dt} \). De experimentele waarden liggen binnen de foutmarge van 3% ten opzichte van het theoretisch model.”  
+
+Beide verklaringen zijn juist, maar afgestemd op een totaal ander publiek.  
+Het doel is niet om te tonen *hoeveel* je weet, maar *hoe goed* je kunt uitleggen wat relevant is voor jouw luisteraars.
+
+### Vertel het verhaal op maat van je publiek
+
+Goede wetenschappers zijn ook goede vertellers. *Analytic storytelling* (analytisch verhalen vertellen) betekent dat je wetenschappelijke informatie omzet in een begrijpelijk en samenhangend verhaal. Je gebruikt verhaalelementen om data betekenis te geven, zodat het publiek niet alleen begrijpt *wat* je hebt onderzocht, maar ook *waarom* dat belangrijk is.
+
+Deze aanpak combineert de precisie van wetenschap met de kracht van narratie en steunt op drie pijlers:
+
+1. **Structuur** – Bouw je presentatie op als een verhaal met een begin, midden en einde. Start met de onderzoeksvraag of het probleem, toon vervolgens je aanpak en sluit af met de belangrijkste inzichten.  
+2. **Betekenis** – Leg steeds uit *waarom* je resultaten ertoe doen. Koppel cijfers aan context, vergelijkingen of gevolgen.  
+3. **Visualisatie** – Gebruik figuren, grafieken of schema’s die je uitleg ondersteunen, niet afleiden. Eén goed gekozen beeld zegt meer dan vijf tabellen.
+
+Een effectieve mondelinge rapportering is helder, beknopt en afgestemd op het publiek. De spreker leidt het publiek door het onderzoek, niet door slides — en elke zin draagt bij aan het verhaal dat de data vertelt.
+
+
+### Analytische storytelling
+
+1. Identificeer het verhaal
+    : Begin met het identificeren van het kernverhaal dat je wilt vertellen. Dit kan bijvoorbeeld het belangrijkste wetenschappelijke resultaat zijn dat je wilt communiceren of de ontdekking die je hebt gedaan.
+1. Kies een narratieve structuur
+   : Selecteer een geschikte narratieve structuur, zoals een reisverhaal, een heldenreis of een probleem-oplossingsverhaal. Het doel is om een logische en meeslepende verhaallijn te creëren die de lezer of luisteraar aanspreekt.
+1. Gebruik personages
+   : Introduceer personages, zoals wetenschappers, proefpersonen of historische figuren, om het verhaal menselijker en persoonlijker te maken. Dit helpt de lezers zich te identificeren met de wetenschappelijke context en betrokken te raken bij het verhaal.
+1. Gebruik visuele elementen
+   : Ondersteun het verhaal met visuele elementen, zoals afbeeldingen, grafieken, diagrammen of video's. Deze visuele hulpmiddelen kunnen helpen om complexe gegevens begrijpelijker te maken en de boodschap te versterken.
+1. Maak gebruik van emotie en spanning
+   : Creëer emotie en spanning in het verhaal om de interesse van het publiek te wekken en vast te houden. Dit kan gedaan worden door uitdagingen, onverwachte wendingen of persoonlijke anekdotes toe te voegen.
+1. Wees duidelijk en beknopt
+   : Zorg ervoor dat de wetenschappelijke informatie duidelijk en beknopt wordt gecommuniceerd. Vermijd jargon en technisch taalgebruik en leg complexe concepten op een begrijpelijke manier uit.
+1. Verbind met de bredere betekenis
+   : Breng de wetenschappelijke bevindingen in verband met bredere betekenis en relevantie, bijvoorbeeld in termen van maatschappelijke impact, toekomstig onderzoek of praktische toepassingen.
 
 Door analytische storytelling toe te passen, kunnen wetenschappers hun onderzoek op een boeiende en begrijpelijke manier presenteren aan verschillende doelgroepen, waaronder niet-wetenschappers. Dit draagt bij aan een betere verspreiding van wetenschappelijke kennis, vergroot het begrip en de waardering voor wetenschap, en bevordert de dialoog tussen wetenschappers en de samenleving.
-
-
-:::
