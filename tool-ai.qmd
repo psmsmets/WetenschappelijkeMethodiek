@@ -479,6 +479,19 @@ Een enkel ChatGPT-verzoek verbruikt tien keer meer elektriciteit dan een Google-
 Tegelijk verbruikt een sessie van 10 tot 50 ChatGPT-vragen ongeveer een halve liter water [@li2025], voornamelijk voor de koeling van servers. Het mondiale waterverbruik door datacenters kan in 2030 oplopen tot miljarden kubieke meters, wat neerkomt op het waterverbruik van hele landen. 
 
 Deze snelle groei wordt gedreven door zogenaamde “accelerated servers” voor AI, waarvan het elektriciteitsverbruik jaarlijks met ongeveer 30 % toeneemt, tegen zo'n 9 % voor reguliere servers. De productie van chips voor AI draagt daarnaast ook aan het waterverbruik bij.
+
+{{< video https://youtu.be/DGjj7wDYaiI?si=EyVU5hadV6czoN5s >}}
+:::
+
+
+::: {.callout-warning title="Controversies"}
+Het belangrijkste product van Perplexity is een zoekmachine die wordt aangedreven door generatieve AI, die online en binnen interne documenten naar informatie zoekt en deze samenvat om de vraag van de gebruiker te beantwoorden. In vakjargon een *RAG* ofwel *retrieval-augmented generation* techniek wat LLMs voorziet in het ophalen en verwerken van nieuwe informatie. Heel handig, zou je denken. Van alle AI-tools is Perplexity het beste in het zoeken op het internet en voorleggen van referenties waaronder tijdschriften en boeken. Maar hoe is Perplexity aan deze bronnen en kennis geraakt?
+
+Perplexity is meermaals beschuldigd van inbreuk op auteursrechten en handelsmerken [@Nikkei2025_ai;@BritannicaMerriamWebster2025_ai]. 
+Er is ook aangetoond dat Perplexity gebruik maakt van heimelijke, niet-aangegeven crawlers om no-crawl-richtlijnen van websites te omzeilen [@Cloudflare2025_ai].
+
+Perplexity is lang niet de enige. Alleen al in 2025 lopen 77 rechtzaken omtrent het schenden van auteursrechtelijke kwesties met betrekking tot het creëren en gebruiken van generatieve AI [@Panettieri2025_ai; @Weisenberger2025_ai].
+Gen-AI heeft zijn voordelen, maar ben je er van bewust dat modellen altijd getraind en gevoed moeten worden met kennis. Stel dus voldoende in vraag waar die kennis vandaan komt.
 :::
 
 
