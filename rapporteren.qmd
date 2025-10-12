@@ -10,71 +10,15 @@ Het hoofddoel van wetenschappelijk onderzoek is het rapporteren van de bevinding
 Een schriftelijke rapportering zoals een rapport, onderzoeksverslag, paper, artikel, essay, betoog, scriptie of onderzoeksbrief wordt geschreven in een *wetenschappelijke* of *academische stijl*: helder, gestructureerd en objectief. Het doel is niet om te overtuigen met meningen, maar om feiten en redeneringen zo precies mogelijk weer te geven.
 Ook bij presentaties, posters, onderzoeksvoorstellen en samenvattingen blijft diezelfde stijl belangrijk: helder, precies, onderbouwd en zonder persoonlijke mening.
 
-::: {.callout-note title="Wetenschappelijke schrijfstijl"}
+::: {.callout-note title="Wetenschappelijke of academische schrijfstijl"}
 Wetenschappelijk schrijven zet het onderwerp centraal, niet de schrijver. 
 Jouw mening is dus niet van belang. Het gaat niet om wat jij vindt, maar om wat het onderzoek aantoont. 
 Gebruik daarom neutrale taal, onderbouw uitspraken met bronnen, en vermijd subjectieve formuleringen zoals *ik denk dat* of *naar mijn mening*.
 :::
 
-### Typische kenmerken van wetenschappelijk schrijven
-
-Het kernidee van wetenschappelijk schrijven is dat een slimme, maar niet-ingewijde lezer je tekst moet kunnen volgen. Maak elke stap controleerbaar, helder en voorspelbaar in opbouw.
-
-- Objectiviteit
-  : Schrijf zonder emotionele of persoonlijke kleur. Richt je op *wat* er is gemeten of gevonden, niet op *wat je ervan vindt*.
-
-  ::: Example
-  **Niet:** *"Ik vind de resultaten verrassend en best indrukwekkend."*  
-  **Wel:** *"De resultaten tonen een stijging van 18% (95%-BI: 12–24%)."*
-  :::
-
-- Precisie
-  : Gebruik termen correct en leg sleutelbegrippen kort uit bij eerste gebruik. Vermijd vage woorden zoals *een beetje*, *regelmatig*, *vaak*.  
-
-  ::: Example
-  **Niet:** *"De temperatuur was vaak hoger."*  
-  **Wel:** *"De temperatuur overschreed in 7 van de 10 metingen de 25 °C."*
-  :::
-
-- **Bronvermelding**  
-  Onderbouw uitspraken met controleerbare bronnen (bv. APA7-stijl). Verwijs bij feiten, theorieën en cijfers naar literatuur.  
-
-  ::: Example
-  **Niet:** *"Bekend is dat cafeïne slaap verstoort."*  
-  **Wel:** *"Cafeïne kan inslaaptijd verlengen en slaapkwaliteit verlagen (Smith, 2022)."*
-  :::
-
-- **Consistentie**  
-  Hanteer overal dezelfde termen, notatie en tijdsvorm. Bij wetenschappelijk schrijven zorgt herhaling voor duidelijkheid. Blijf niet eindeloos variëren met synoniemen en varianten van eenzelfde begrip.
-
-  ::: Example
-  Als je *nitraatconcentratie* gebruikt, wissel dan niet later naar *NO₃⁻-gehalte* zonder dit vooraf te definiëren.
-  :::
-  **Tip:** Maak een mini-woordenlijst met jouw gekozen termen en afkortingen.
-
-- **Logische opbouw**  
-  Leid de lezer stap voor stap door je redenering: van vraag → methode → resultaat → betekenis.
-  Pas dit niet alleen toe op het geheel, maar hanteer ook bij alinea's met een vaste structuur:
-
-    1. kernzin met de hoofdgedachte,  
-    2. toelichting/bewijs (data, citaat, figuur),  
-    3. mini-conclusie of brug naar de volgende alinea.
-
-  ::: {.callout-tip title="Kleine checklist per alinea"}
-  Hanteer volgende checklist om te controleren of een alinea wetenschappelijk en logisch onderbouwd is:
-
-    - Staat de **kernzin** vooraan en is die één duidelijke boodschap?  
-    - Is elk **feit controleerbaar** (data, bron, figuur)?  
-    - Sluit de **slotzin** aan op de volgende stap in je verhaal?
-
-  :::
-
 ### De titel en de samenvatting
 
 Er wordt enorm veel geschreven, maar lang niet alles wordt gelezen. De **titel** en de **samenvatting** zijn daarom de twee belangrijkste onderdelen van elk wetenschappelijk werk (zie @fig-rapporteren). Ze vormen je uithangbord: het is wat lezers als eerste zien, en vaak ook het enige wat ze lezen. 
-
-Na publicatie worden de titel en samenvatting opgenomen in bibliotheeksystemen en databanken zoals *Google Scholar*. Veel lezers — ook onderzoekers — baseren hun oordeel enkel op titel en samenvatting om te beslissen of ze het volledige artikel willen lezen.  
-Een goed gekozen titel trekt de lezer aan, een goed geschreven samenvatting houdt hem vast. Samen bepalen ze of jouw onderzoek gezien, begrepen en geciteerd wordt.
 
 ::: {#fig-rapporteren fig-cap="Rapporteren en het (beperkte) lezersbereik." fig-align="center"}
 ```{tikz}
@@ -106,20 +50,24 @@ Een goed gekozen titel trekt de lezer aan, een goed geschreven samenvatting houd
 ```
 :::
 
-#### Titel
-De **titel** bepaalt of iemand je werk überhaupt aanklikt. Een goede titel is kort, informatief en prikkelt de nieuwsgierigheid zonder overdreven te zijn. Vermijd vage of te algemene titels zoals *"Onderzoek naar planten"* of *"Analyse van data"*. Kies in plaats daarvan voor iets dat de inhoud concreet samenvat:  
+- Titel
+  : De titel bepaalt of iemand je werk überhaupt aanklikt. Een goede titel is kort, informatief en prikkelt de nieuwsgierigheid zonder overdreven te zijn. Vermijd vage of te algemene titels zoals *"Onderzoek naar planten"* of *"Analyse van data"*. Kies in plaats daarvan voor iets dat de inhoud concreet samenvat:  
 *"Invloed van lichtintensiteit op de fotosynthesesnelheid bij tuinbonen (Vicia faba)"*.  
 Zo weet de lezer meteen wat, bij wie en onder welke omstandigheden je onderzocht hebt.  
 
-Zie [How to write a great title](https://plos.org/resource/how-to-write-a-great-title/).  
+  Zie [How to write a great title](https://plos.org/resource/how-to-write-a-great-title/).  
 
-#### Samenvatting of Abstract
-Na de titel is de **samenvatting** (abstract) het meest gelezen deel van je werk. 
-Een sterke samenvatting is een beknopt, zelfstandig leesbaar geheel dat de essentie van het onderzoek weergeeft: 
-*wat je onderzocht hebt, hoe, met welke resultaten en wat die betekenen.* 
-Gebruik geen afkortingen of symbolen die je niet toelicht, en vermijd referenties naar tabellen of figuren — de samenvatting moet op zichzelf begrijpelijk zijn.
+- Samenvatting of Abstract
+  : Na de titel is de samenvatting (abstract) het meest gelezen deel van je werk. 
+  Een sterke samenvatting is een beknopt, zelfstandig leesbaar geheel dat de essentie van het onderzoek weergeeft: 
+  *wat je onderzocht hebt, hoe, met welke resultaten en wat die betekenen.* 
+  Gebruik geen afkortingen of symbolen die je niet toelicht, en vermijd referenties naar tabellen of figuren — de samenvatting moet op zichzelf begrijpelijk zijn.
 
-Zie [How to write a great abstract](https://plos.org/resource/how-to-write-a-great-abstract/).  
+  Zie [How to write a great abstract](https://plos.org/resource/how-to-write-a-great-abstract/).
+
+
+Na publicatie worden de titel en samenvatting opgenomen in bibliotheeksystemen en databanken zoals *Google Scholar*. Veel lezers — ook onderzoekers — baseren hun oordeel enkel op titel en samenvatting om te beslissen of ze het volledige artikel willen lezen. 
+Een goed gekozen titel trekt de lezer aan, een goed geschreven samenvatting houdt hem vast. Samen bepalen ze of jouw onderzoek gezien, begrepen en geciteerd wordt.
 
 <!-- Klaarmaken ter publicatie: [How to edit your work](https://plos.org/resource/how-to-edit-your-work/) -->
 
@@ -129,47 +77,6 @@ De *IMRD*-methode is de standaardstructuur voor wetenschappelijke rapporten en a
 De afkorting staat voor **Inleiding – Methode – Resultaten – Discussie**.
 Deze indeling helpt je om logisch te redeneren en je onderzoek helder te presenteren.
 
-#### Inleiding
-De **Inleiding** schetst de context van je onderzoek.
-Je legt uit *waarom* het onderwerp belangrijk is, *wat* er al over bekend is, en *welke vraag* jij onderzoekt.
-Een goede inleiding eindigt met een duidelijke [onderzoeksvraag](onderzoek.html#onderzoeksvraag) of [hypothese](onderzoek.html#hypothese).
-
-::: Example 
-"Hoewel de invloed van temperatuur op gistgroei bekend is, is er minder onderzoek gedaan naar de rol van pH. Dit onderzoek bestudeert hoe de pH-waarde de groeisnelheid van bakkersgist beïnvloedt."
-:::
-
-#### Methode
-In het onderdeel **Methode** beschrijf je *hoe* je het onderzoek hebt uitgevoerd. 
-Je vermeldt welke materialen, proefopstellingen, meetinstrumenten en analysemethoden gebruikt zijn. 
-Het doel is dat een andere onderzoeker jouw experiment kan *herhalen* op basis van deze beschrijving.
-
-::: {.callout-important}
-Wees concreet en nauwkeurig, maar vermijd overbodige details.
-:::
-
-Zie [How to write your methods](https://plos.org/resource/how-to-write-your-methods/).
-
-#### Resultaten
-De **Resultaten** presenteren de bevindingen van je onderzoek, zonder interpretatie.
-Gebruik tabellen, grafieken of figuren om trends en verbanden duidelijk te tonen.
-Vat kort samen wat de gegevens laten zien, maar bewaar de verklaring voor de *Discussie*.
-
-::: Example
-"De gist groeide het snelst bij een pH van 5,0. Bij pH-waarden boven 7,0 werd geen groei waargenomen."
-:::
-
-#### Discussie
-In de **Discussie** interpreteer je de resultaten: *wat betekenen ze* en *hoe verhouden ze zich tot eerdere studies*? 
-Je trekt conclusies, bespreekt mogelijke foutenbronnen of beperkingen, en doet suggesties voor vervolgonderzoek. 
-Vaak wordt de conclusie in dit deel geïntegreerd of apart als slothoofdstuk toegevoegd.
-
-::: Example
-"De resultaten bevestigen dat gistgroei sterk afhankelijk is van pH. Dit ondersteunt eerdere bevindingen van Janssens (2018), maar suggereert dat de optimale waarde lager ligt dan tot nu toe werd aangenomen."
-:::
-
-Zie [How to write conclusions](https://plos.org/resource/how-to-write-conclusions/).
-
-#### Waarom IMRD werkt
 De IMRD-structuur weerspiegelt de logica van wetenschappelijk denken:
 
 1. **Wat weten we al?** → Inleiding  
@@ -177,7 +84,100 @@ De IMRD-structuur weerspiegelt de logica van wetenschappelijk denken:
 3. **Wat vonden we?** → Resultaten  
 4. **Wat betekent dat?** → Discussie  
 
-Deze opbouw is internationaal herkenbaar en maakt het voor lezers makkelijker om snel te vinden wat ze zoeken.
+De opbouw is internationaal herkenbaar en maakt het voor lezers makkelijker om snel te vinden wat ze zoeken.
+
+- Inleiding
+  : De inleiding schetst de context van je onderzoek.
+  Je legt uit *waarom* het onderwerp belangrijk is, *wat* er al over bekend is, en *welke vraag* jij onderzoekt.
+  Een goede inleiding eindigt met een duidelijke [onderzoeksvraag](onderzoek.html#onderzoeksvraag) of [hypothese](onderzoek.html#hypothese).
+
+  ::: Example 
+  "Hoewel de invloed van temperatuur op gistgroei bekend is, is er minder onderzoek gedaan naar de rol van pH. Dit onderzoek bestudeert hoe de pH-waarde de groeisnelheid van bakkersgist beïnvloedt."
+  :::
+
+- Methode
+  : In het onderdeel methode beschrijf je *hoe* je het onderzoek hebt uitgevoerd. 
+Je vermeldt welke materialen, proefopstellingen, meetinstrumenten en analysemethoden gebruikt zijn. 
+Het doel is dat een andere onderzoeker jouw experiment kan *herhalen* op basis van deze beschrijving.
+
+  ::: {.callout-important}
+  Wees concreet en nauwkeurig, maar vermijd overbodige details.
+  :::
+
+  Zie [How to write your methods](https://plos.org/resource/how-to-write-your-methods/).
+
+- Resultaten
+  : De resultaten presenteren de bevindingen van je onderzoek, zonder interpretatie.
+  Gebruik tabellen, grafieken of figuren om trends en verbanden duidelijk te tonen.
+  Vat kort samen wat de gegevens laten zien, maar bewaar de verklaring voor de *Discussie*.
+
+  ::: Example
+  "De gist groeide het snelst bij een pH van 5,0. Bij pH-waarden boven 7,0 werd geen groei waargenomen."
+  :::
+
+- Discussie
+  : In de discussie interpreteer je de resultaten: *wat betekenen ze* en *hoe verhouden ze zich tot eerdere studies*? 
+  Je trekt conclusies, bespreekt mogelijke foutenbronnen of beperkingen, en doet suggesties voor vervolgonderzoek. 
+Vaak wordt de conclusie in dit deel geïntegreerd of apart als slothoofdstuk toegevoegd.
+
+  ::: Example
+  "De resultaten bevestigen dat gistgroei sterk afhankelijk is van pH. Dit ondersteunt eerdere bevindingen van Janssens (2018), maar suggereert dat de optimale waarde lager ligt dan tot nu toe werd aangenomen."
+  :::
+
+  Zie [How to write conclusions](https://plos.org/resource/how-to-write-conclusions/).
+
+
+### Typische kenmerken van wetenschappelijk schrijven
+
+Het kernidee van wetenschappelijk schrijven is dat een slimme, maar niet-ingewijde lezer je tekst moet kunnen volgen. Maak elke stap controleerbaar, helder en voorspelbaar in opbouw.
+
+- Objectiviteit
+  : Schrijf zonder emotionele of persoonlijke kleur. Richt je op *wat* er is gemeten of gevonden, niet op *wat je ervan vindt*.
+
+  ::: Example
+  **Niet:** *"Ik vind de resultaten verrassend en best indrukwekkend."*  
+  **Wel:** *"De resultaten tonen een stijging van 18% (95%-BI: 12–24%)."*
+  :::
+
+- Precisie
+  : Gebruik termen correct en leg sleutelbegrippen kort uit bij eerste gebruik. Vermijd vage woorden zoals *een beetje*, *regelmatig*, *vaak*.  
+
+  ::: Example
+  **Niet:** *"De temperatuur was vaak hoger."*  
+  **Wel:** *"De temperatuur overschreed in 7 van de 10 metingen de 25 °C."*
+  :::
+
+- Bronvermelding
+  : Onderbouw uitspraken met controleerbare bronnen (bv. APA7-stijl). Verwijs bij feiten, theorieën en cijfers naar literatuur.  
+
+  ::: Example
+  **Niet:** *"Bekend is dat cafeïne slaap verstoort."*  
+  **Wel:** *"Cafeïne kan inslaaptijd verlengen en slaapkwaliteit verlagen (Smith, 2022)."*
+  :::
+
+- Consistentie
+  : Hanteer overal dezelfde termen, notatie en tijdsvorm. Bij wetenschappelijk schrijven zorgt herhaling voor duidelijkheid. Blijf niet eindeloos variëren met synoniemen en varianten van eenzelfde begrip.
+
+  ::: Example
+  Als je *nitraatconcentratie* gebruikt, wissel dan niet later naar *NO₃⁻-gehalte* zonder dit vooraf te definiëren.
+  :::
+  **Tip:** Maak een mini-woordenlijst met jouw gekozen termen en afkortingen.
+
+- Logische opbouw
+  : Leid de lezer stap voor stap door je redenering: van vraag → methode → resultaat → betekenis.
+  Pas dit niet alleen toe op het geheel, maar hanteer ook bij alinea's met een vaste structuur:
+
+    1. kernzin met de hoofdgedachte,  
+    2. toelichting/bewijs (data, citaat, figuur),  
+    3. mini-conclusie of brug naar de volgende alinea.
+
+  ::: {.callout-tip title="Kleine checklist per alinea"}
+  Hanteer volgende checklist om te controleren of een alinea wetenschappelijk en logisch onderbouwd is:
+
+    - Staat de **kernzin** vooraan en is die één duidelijke boodschap?  
+    - Is elk **feit controleerbaar** (data, bron, figuur)?  
+    - Sluit de **slotzin** aan op de volgende stap in je verhaal?
+  :::
 
 ### Twintig tips voor een wetenschappelijke schrijfstijl
 
@@ -310,18 +310,22 @@ Een wetenschappelijke presentatie is meer dan het voorlezen van cijfers of tabel
 
 Een goede presentatie begint met een duidelijk beeld van *voor wie* je spreekt. Je kunt niet tegelijk uitleggen voor je grootmoeder én voor een fysicus — tenzij je grootmoeder toevallig fysicus is, natuurlijk.  
 
-Je publiek bepaalt de toon, de woordenschat en de hoeveelheid detail. Een niet-wetenschappelijk publiek heeft baat bij eenvoudige taal en beeldende voorbeelden, terwijl een expert juist verwacht dat je de diepte in gaat, vaktermen gebruikt en kritisch nuanceert.  
+Je publiek bepaalt de toon, de woordenschat en de hoeveelheid detail. Een niet-wetenschappelijk publiek heeft baat bij eenvoudige taal en beeldende voorbeelden, terwijl een expert juist verwacht dat je de diepte in gaat, vaktermen gebruikt en kritisch nuanceert. 
+Het doel is niet om te tonen *hoeveel* je weet, maar *hoe goed* je kunt uitleggen wat relevant is voor jouw luisteraars.
 
-**Voorbeeld:**  
-Stel dat je een presentatie geeft over elektromagnetische inductie.  
-Voor je grootmoeder zeg je:  
-> “Wanneer je een spoel van koperdraad in de buurt van een magneet beweegt, ontstaat er een kleine elektrische stroom. Dat is het basisprincipe van een dynamo, waarmee bijvoorbeeld fietslampen werken.”  
+::: {.callout-note title="Elektromagnetische inductie voor je grootmoeder of een fysicus"}
+Stel dat je een presentatie geeft over elektromagnetische inductie. 
 
-Voor een fysicus zeg je:  
-> “De verandering van de magnetische flux door de spoel induceert een spanning volgens de wet van Faraday: \( \varepsilon = - \frac{d\Phi_B}{dt} \). De experimentele waarden liggen binnen de foutmarge van 3% ten opzichte van het theoretisch model.”  
+Voor je grootmoeder zeg je: 
+ 
+> *"Wanneer je een spoel van koperdraad in de buurt van een magneet beweegt, ontstaat er een kleine elektrische stroom. Dat is het basisprincipe van een dynamo, waarmee bijvoorbeeld fietslampen werken."*
+
+Voor een fysicus zeg je:
+  
+> *"De verandering van de magnetische flux door de spoel induceert een spanning volgens de wet van Faraday: \( \varepsilon = - \frac{d\Phi_B}{dt} \). De experimentele waarden liggen binnen de foutmarge van 3% ten opzichte van het theoretisch model."* 
 
 Beide verklaringen zijn juist, maar afgestemd op een totaal ander publiek.  
-Het doel is niet om te tonen *hoeveel* je weet, maar *hoe goed* je kunt uitleggen wat relevant is voor jouw luisteraars.
+:::
 
 ### Vertel het verhaal op maat van je publiek
 
@@ -336,7 +340,7 @@ Deze aanpak combineert de precisie van wetenschap met de kracht van narratie en 
 Een effectieve mondelinge rapportering is helder, beknopt en afgestemd op het publiek. De spreker leidt het publiek door het onderzoek, niet door slides — en elke zin draagt bij aan het verhaal dat de data vertelt.
 
 
-### Analytische storytelling
+### Scripten van een wetenschappelijk verhaal
 
 1. Identificeer het verhaal
     : Begin met het identificeren van het kernverhaal dat je wilt vertellen. Dit kan bijvoorbeeld het belangrijkste wetenschappelijke resultaat zijn dat je wilt communiceren of de ontdekking die je hebt gedaan.
