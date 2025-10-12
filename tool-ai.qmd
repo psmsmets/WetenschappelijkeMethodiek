@@ -8,11 +8,16 @@ In feite is er van intelligentie geen sprake, een taalmodel kan namelijk niet de
 
 Het resultaat is een krachtige technologie die vloeiende en creatieve teksten kan produceren, maar die tegelijk kritisch gebruik en controle vereist. Voor onderwijs betekent dit: altijd nagaan of de output klopt, bronnen checken, en leren om de sterktes en beperkingen van AI in te schatten.
 
-::: {.callout-note title="Welke AI model?"}
+::: {.callout-note title="Welk Gen-AI model?"}
 De bekendste AI-modellen zijn onder meer [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Copilot](https://copilot.microsoft.com), [Gemini](https://gemini.google.com) en [Perplexity](https://perplexity.ai).
 
 Het meest ideale model voor onderwijs (veilig, transparant en zonder vendor lock-in) is **[Le Chat](https://chat.mistral.ai)**, een AI-model ontwikkeld door het Franse Mistral AI en ontworpen met focus op Europese privacywaarden en GDPR-compliance. Gebruikers kunnen zonder account werken en hebben de optie om modeltraining met hun data uit te schakelen (*opt-out* via de instellingen bovenaan).
 :::
+
+::: {.callout-tip title="AI, Machine Learning, Deep Learning en Generatieve AI toegelicht"}
+{{< video https://youtu.be/qYNweeDHiyU?si=6rDmckRHYTAB1mzL >}}
+:::
+
 
 ## Beknopte werking
 
@@ -36,10 +41,10 @@ Gebruik de [OpenAI Tokenizer](https://platform.openai.com/tokenizer) tool om te 
 Een LLM bestaat uit vele lagen (layers) die de verbanden omvatten tussen de tokens:
 
 - **Inputlaag**: zet de tokens om in getallen (vectoren) die het model kan verwerken.  
-- **Verborgen lagen**: duizenden tot miljoenen rekencellen (“neuronen”) die verbanden zoeken tussen woorden. Elke laag leert andere patronen, van simpele verbanden (meervouden, grammatica) tot complexe relaties (stijl, betekenis).  
+- **Verborgen lagen**: duizenden tot miljoenen rekencellen ("neuronen") die verbanden zoeken tussen woorden. Elke laag leert andere patronen, van simpele verbanden (meervouden, grammatica) tot complexe relaties (stijl, betekenis).  
 - **Outputlaag**: rekent voor alle mogelijke volgende tokens een kans uit, en kiest aan de hand van parameters welk token het meest geschikt is. 
 
-Hoe meer lagen en parameters een model heeft, hoe verfijnder de patronen die het kan herkennen en gebruiken. 
+De lagen, bestaande uit neuronen, vormen samen een *neuraal netwerk* (NN). Hoe meer lagen en parameters een netwerk of model heeft, hoe verfijnder de patronen die het kan herkennen en gebruiken. 
 
 ::: {#fig-ai-lagen fig-cap="Lagen of layers van een AI-model" fig-align="center"}
 ```{dot}
@@ -482,7 +487,6 @@ Deze snelle groei wordt gedreven door zogenaamde “accelerated servers” voor 
 
 {{< video https://youtu.be/DGjj7wDYaiI?si=EyVU5hadV6czoN5s >}}
 :::
-
 
 ::: {.callout-warning title="Controversies"}
 Het belangrijkste product van Perplexity is een zoekmachine die wordt aangedreven door generatieve AI, die online en binnen interne documenten naar informatie zoekt en deze samenvat om de vraag van de gebruiker te beantwoorden. In vakjargon een *RAG* ofwel *retrieval-augmented generation* techniek wat LLMs voorziet in het ophalen en verwerken van nieuwe informatie. Heel handig, zou je denken. Van alle AI-tools is Perplexity het beste in het zoeken op het internet en voorleggen van referenties waaronder tijdschriften en boeken. Maar hoe is Perplexity aan deze bronnen en kennis geraakt?

@@ -116,7 +116,7 @@ Tips
 
 Prompt om je op weg te helpen bij het zoeken van een onderwerp voor je onderzoeksvoorstel:
 
-```texinfo
+```default
 Je helpt mij bij het bedenken van een thema voor een onderzoeksproject.  
 Stel mij altijd eerst vragen om mijn **input** te krijgen. Bijvoorbeeld:  
 - Welke vakken of vakdomeinen vind ik interessant?  
@@ -139,3 +139,123 @@ Op basis van mijn input mag je suggesties doen, maar:
 :::
 
 ## Module 1: Onderzoeksvoorstel schrijven
+
+::: {.callout-note title="Doel"}
+Je stelt een **onderzoeksvoorstel** op en verbetert dit iteratief op basis van gerichte vragen en feedback. Je leert helder formuleren, kritisch nadenken en correct verwijzen naar bronnen.
+:::
+
+::: {.callout-tip title="Tips bij het wetenschappelijk schrijven"}
+- Schrijf **kort en bondig**; begin alinea’s met kernzinnen. Het vakjargon en de inhoud zorgen voor de nodige complexiteit, niet je taalkunde. 
+- Beperk je **scope**: liever een scherp, klein onderzoek dan vaag en groot.
+- Houd je **onderzoeksvraag** zichtbaar bij het schrijven; elke paragraaf moet bijdragen.
+:::
+
+::: {.callout-tip title="AI-hulp voor het schrijven van je onderzoeksvoorstel" collapse="true"}
+Maak gebruik van de [W-M Onderzoekswizard](https://chatgpt.com/g/g-67a8d12322f88191b2a57e67c9bd328d-w-m-onderzoekswizard) voor magische hulp bij het schrijven van een onderzoeksvoorstel.
+:::
+
+::: Opdracht
+### Onderzoeksvoorstel
+
+In deze opdracht werk je een **onderzoeksvoorstel** uit waarin je een wetenschappelijke vraag onderzoekt binnen een haalbare en afgebakende context. Het doel is om te tonen dat je kritisch kunt nadenken over een onderwerp, een duidelijke onderzoeksvraag kunt formuleren en een verantwoorde methode kunt kiezen om die te beantwoorden. Je leert je ideeën structureren, je keuzes onderbouwen en correct verwijzen naar bronnen. De opdracht vormt de basis voor een eventueel vervolgonderzoek, dus focus op helderheid, haalbaarheid en een logische opbouw.
+
+#### In te leveren bestand
+- **Word-document:** Maak gebruik van [`template onderzoeksvoorstel.dotx`](project6_files/Template Onderzoeksvoorstel.dotx)
+- **Naamgeving:** `Achternaam_Voornaam_Onderzoeksvoorstel.docx`
+- **Upload:** via de afgesproken digitale omgeving (Smartschool uploadzone)
+
+#### Vereiste onderdelen van je voorstel
+1. **Titel**
+2. **Auteur** (jouw naam)
+3. **Kernwoorden** (3–7)
+4. **Korte samenvatting** (± 150–250 woorden)
+5. **Introductie**
+6. **Middenstuk** (Onderzoeksopzet & Achtergrond)
+7. **Slot** (korte afronding/conclusie)
+8. **Referenties** (gemaakt met Zotero in de **Vancouver** referentiestijl)
+
+---
+
+#### Checklists & reflectievragen per onderdeel
+
+ 1. **Titel**
+
+    Controleer of de titel voldoet aan volgende vragen:
+
+    - Is de titel beknopt en duidelijk?
+    - Wekt de titel interesse zonder vakjargon?
+    - Vermijdt de titel onnodige afkortingen?
+
+    *Reflectievraag:* _Maakt je titel meteen duidelijk waar je onderzoek over gaat?_
+
+ 2. **Korte samenvatting**
+
+    Bevat de samenvatting:
+
+    - **Wat** je onderzoekt en **waarom**?
+    - **Hoe** je het onderzoek uitvoert (methode)?
+    - De **verwachte hypothese**?
+    - Een **globale planning**?
+
+    Is de samenvatting representatief voor het hele onderzoek?
+
+    *Reflectievraag:* _Beschrijft je samenvatting alle belangrijke onderdelen van je onderzoek?_
+
+ 3. **Introductie**
+
+    Bevat de introductie:
+
+    - De **motivatie** voor het onderzoek?
+    - Het **kennisgebied/veld**?
+    - Het **soort antwoord** dat je zoekt (beschrijvend, verklarend, ontwerp, meting…)?
+    - De globale **strategie/aanpak**?
+
+    *Reflectievraag:* _Kun je in één zin uitleggen waarom je dit onderzoek doet, en staat dat duidelijk in je introductie?_
+
+ 4. **Middenstuk (Onderzoeksopzet & Achtergrond)**
+
+    Bevat het midden:
+
+    - Voldoende **achtergrondinformatie** en definities?
+    - **Praktische uitvoerbaarheid** binnen enkele weken?
+    - Expliciet benoemde **aannames**?
+    - Duidelijke **methodologie** en stap voor stap opgebouwd?
+
+    *Reflectievraag:* _Hoe ga je je onderzoek precies uitvoeren? Vat dit samen in enkele zinnen._
+
+ 5. **Slot**
+
+    Bevat het slot van je onderzoeksvoorstel:
+
+    - Korte **samenvatting** van de belangrijkste punten?
+    - **Logische afronding** zonder nieuwe informatie?
+
+    *Reflectievraag:* _Sluit je conclusie logisch aan op de rest van je voorstel?_
+
+ 6. **Referenties (Zotero; Vancouver)**
+
+    - **Korte verwijzingen** in de tekst én een **volledige literatuurlijst**?
+    - **Citaten**, **figuren** en **tabellen** correct voorzien van bronvermelding?
+    - **Consistentie** in de gekozen referentiestijl?
+
+    *Reflectievraag:* _Staan al je bronnen correct in de tekst én in de literatuurlijst?_
+
+
+---
+
+#### Kernvragen (voor je hele voorstel)
+- Kun je in **één zin** je **onderzoeksvraag** formuleren?
+- **Welke methode** gebruik je om je vraag te beantwoorden?
+- Zijn **middelen, tijd en data** realistisch beschikbaar?
+
+---
+
+#### Beoordeling
+
+Je onderzoeksvoorstel wordt beoordeeld op 100 punten verdeeld over vier criteria:
+
+- **Structuur & Inhoud (40 punten):** Titel is duidelijk, aantrekkelijk en zonder vakjargon of afkortingen. Samenvatting bevat: onderwerp, doel, aanpak, hypothese én planning. Introductie bevat: motivatie, kennisdomein, onderzoekstype en strategie. Achtergrond is informatief en relevant, met expliciete aannames. Onderzoeksmethode is concreet, logisch en uitvoerbaar binnen beschikbare tijd/middelen. Slot bevat een heldere samenvatting zonder nieuwe informatie.
+- **Onderzoekskwaliteit & Reflectie (30 punten)**: Onderzoeksvraag is scherp, afgebakend en relevant. Doel en verwachte resultaten worden helder verwoord. Reflectie over aanpak en methodologische keuzes is aanwezig. Leerling toont initiatief en originele keuzes of perspectieven. Beperkingen of mogelijke moeilijkheden worden benoemd en doordacht. Er is bewijs van denkwerk: keuzes worden verantwoord. 
+- **Taalgebruik & Vormgeving (15 punten)**: Taal is correct en verzorgd (spelling, grammatica, zinsbouw). De tekst leest vlot dankzij een duidelijke structuur en overgangszinnen. Lay-out is overzichtelijk en consistent met titels, tussenkopjes en witruimte. 
+- **Brongebruik (15 punten):** Gebruikte bronnen zijn relevant, betrouwbaar en gevarieerd. Verwijzingen in de tekst (bronnen/figuren/tabellen/citaten) zijn correct en consequent volgens de opgegeven stijl. Literatuurlijst is volledig en correct gegenereerd met Zotero of vergelijkbaar.
+:::

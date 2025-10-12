@@ -16,3 +16,5 @@
  [**Opdracht 8**](project5.qmd#generatieve-ai-en-llms-verdieping-en-kritisch-gebruik): Generatieve AI en LLMs – Verdieping en Kritisch Gebruik\Pageref{generatieve-ai-en-llms-verdieping-en-kritisch-gebruik}
 
  [**Opdracht 1**](project6.qmd#verkennen-onderwerpen): Verkennen onderwerpen\Pageref{verkennen-onderwerpen}
+
+ [**Opdracht 2**](project6.qmd#onderzoeksvoorstel): Onderzoeksvoorstel\Pageref{onderzoeksvoorstel}

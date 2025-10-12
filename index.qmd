@@ -1,22 +1,21 @@
 # Voorwoord {.unnumbered}
 
-Dit is de eerste en lopende editie van het boek "Wetenschappelijke Methodiek". 
-Het is een project dat herhaaldelijk wordt bijgewerkt doorheen het schooljaar 2023-2024. 
-De eerste publicatiedatum is 1 juli 2023. 
-De publicatiedatum hierboven toont de datum van de laatste aanpassing. 
-Het hele traject daartussen is terug te beleven op [Github](https://github.com/psmsmets/WetenschappelijkeMethodiek).  
-Het boek is in de eerste plaats een resultaat van meerdere handen. 
-Een grote inspiratie en hulp is de bundel _Onderzoekscompetenties -- Het begin van een lange carrière._ (2014) van ASO Spijker, waaraan verschillende (oud-) collega's mee hebben geschreven. 
-Ik wil hen daarvoor uitdrukkelijk bedanken. 
-Dankjewel voor dit schitterende werk én dat ik de inhoud mag meenemen in dit verhaal.
-Sommige delen uit de bundel zal je hier direct herkennen, andere delen heb ik compleet naar mijn hand gezet.  
-Het verhaal van de wetenschappelijke methodiek is aangevuld met 12 jaar aan eigen onderzoekservaring en bevindingen, geuit in vele rapporten, papers, boeken, poster presentaties en lezingen. 
-Het belangrijkste aan onderzoek is kennis door ervaring. Dus door het zelf te doen. 
-Dit boek is er om je hierbij op weg te helpen en biedt je een praktische kijk op wetenschappelijk onderzoek. 
-Verwacht je echt niet alleen aan kennis en tips. 
-Wat kan je best doen en vooral, wat moet je zeker niet doen bij je onderzoek. 
-Er worden ook zoveel mogelijk digitale hulpmiddelen uit de kast gehaald om jullie hierbij te helpen. 
-Al is het hoofdoel eigenlijk heel eenvoudig: gewoon zelf aan wetenschappelijk onderzoek doen.
+Het boek *Wetenschappelijke Methodiek* is een levend document dat gedurende het schooljaar regelmatig wordt bijgewerkt.
+De eerste versie verscheen op **1 juli 2023**, terwijl de hierboven genoemde datum de meest recente update weergeeft.
+Het hele proces is terug te volgen op [GitHub](https://github.com/psmsmets/WetenschappelijkeMethodiek).
+
+Dit boek is vooral het resultaat van een gezamenlijke inspanning.
+Een belangrijke bron van inspiratie en ondersteuning was de bundel *Onderzoekscompetenties – Het begin van een lange carrière* (2014) van ASO Spijker, waaraan verschillende (oud-)collega’s hebben bijgedragen.
+Ik wil hen hiervoor hartelijk bedanken voor hun schitterende werk en de mogelijkheid om delen daarvan in dit verhaal te integreren.
+Sommige fragmenten zullen je bekend voorkomen, andere heb ik volledig naar mijn eigen inzicht herschreven.
+
+Het verhaal over wetenschappelijke methodiek is verrijkt met twaalf jaar eigen onderzoekservaring, vastgelegd in rapporten, artikelen, boeken, posters en presentaties.
+Want onderzoek draait vooral om **kennis door ervaring** – door zelf aan de slag te gaan.
+Dit boek helpt je op weg en biedt een praktische kijk op wetenschappelijk onderzoek.
+Verwacht niet alleen kennis en tips, maar ook concrete adviezen: wat werkt wel, en vooral, wat werkt niet?
+
+Daarnaast zetten we zoveel mogelijk digitale hulpmiddelen in om je te ondersteunen.
+Toch blijft het hoofddoel eenvoudig: **zelf wetenschappelijk onderzoek doen**.
 
 ::: {.hidden}
 
