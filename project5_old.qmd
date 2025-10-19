@@ -96,14 +96,18 @@ Reflectievraag
 
 ## Module 2: Informatiebeheer
 
-::: Exercise
-
-#### Informatiebeheer
-
-Nu we effectief kunnen zoeken naar informatie gaan we concreet informatie zoeken, selecteren en ordenen. 
+Nu we effectief kunnen zoeken naar informatie is de volgende stap het selecteren en ordenen zodat je de informatie in je onderzoek vlot kan raadplegen. 
 De nadruk ligt in dit geval op het zorgvuldig ordenen en voorbereiden van je informatie. 
 Een zeer belangrijke stap die je nadien heel wat werk kan besparen. 
 We maken hiervoor gebruik van de referentiebeheerder `Zotero` (zie [@sec-tool-zotero]).
+
+
+
+## Module 4: Bronnenkritiek
+
+::: Exercise
+
+#### Bronnenkritiek
 
 Verschillende wetenschappers hadden een grote invloed op de wetenschappelijke methode. De drie voornaamste van de hedendaagse methode zijn:
 

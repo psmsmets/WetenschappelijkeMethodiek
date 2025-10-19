@@ -91,7 +91,7 @@ De opbouw is internationaal herkenbaar en maakt het voor lezers makkelijker om s
   Je legt uit *waarom* het onderwerp belangrijk is, *wat* er al over bekend is, en *welke vraag* jij onderzoekt.
   Een goede inleiding eindigt met een duidelijke [onderzoeksvraag](onderzoek.html#onderzoeksvraag) of [hypothese](onderzoek.html#hypothese).
 
-  ::: Example 
+  ::: {.Example}
   "Hoewel de invloed van temperatuur op gistgroei bekend is, is er minder onderzoek gedaan naar de rol van pH. Dit onderzoek bestudeert hoe de pH-waarde de groeisnelheid van bakkersgist beïnvloedt."
   :::
 
@@ -111,7 +111,7 @@ Het doel is dat een andere onderzoeker jouw experiment kan *herhalen* op basis v
   Gebruik tabellen, grafieken of figuren om trends en verbanden duidelijk te tonen.
   Vat kort samen wat de gegevens laten zien, maar bewaar de verklaring voor de *Discussie*.
 
-  ::: Example
+  ::: {.Example}
   "De gist groeide het snelst bij een pH van 5,0. Bij pH-waarden boven 7,0 werd geen groei waargenomen."
   :::
 
@@ -120,7 +120,7 @@ Het doel is dat een andere onderzoeker jouw experiment kan *herhalen* op basis v
   Je trekt conclusies, bespreekt mogelijke foutenbronnen of beperkingen, en doet suggesties voor vervolgonderzoek. 
 Vaak wordt de conclusie in dit deel geïntegreerd of apart als slothoofdstuk toegevoegd.
 
-  ::: Example
+  ::: {.Example}
   "De resultaten bevestigen dat gistgroei sterk afhankelijk is van pH. Dit ondersteunt eerdere bevindingen van Janssens (2018), maar suggereert dat de optimale waarde lager ligt dan tot nu toe werd aangenomen."
   :::
 
@@ -134,7 +134,7 @@ Het kernidee van wetenschappelijk schrijven is dat een slimme, maar niet-ingewij
 - Objectiviteit
   : Schrijf zonder emotionele of persoonlijke kleur. Richt je op *wat* er is gemeten of gevonden, niet op *wat je ervan vindt*.
 
-  ::: Example
+  ::: {.Example}
   **Niet:** *"Ik vind de resultaten verrassend en best indrukwekkend."*  
   **Wel:** *"De resultaten tonen een stijging van 18% (95%-BI: 12–24%)."*
   :::
@@ -142,7 +142,7 @@ Het kernidee van wetenschappelijk schrijven is dat een slimme, maar niet-ingewij
 - Precisie
   : Gebruik termen correct en leg sleutelbegrippen kort uit bij eerste gebruik. Vermijd vage woorden zoals *een beetje*, *regelmatig*, *vaak*.  
 
-  ::: Example
+  ::: {.Example}
   **Niet:** *"De temperatuur was vaak hoger."*  
   **Wel:** *"De temperatuur overschreed in 7 van de 10 metingen de 25 °C."*
   :::
@@ -150,7 +150,7 @@ Het kernidee van wetenschappelijk schrijven is dat een slimme, maar niet-ingewij
 - Bronvermelding
   : Onderbouw uitspraken met controleerbare bronnen (bv. APA7-stijl). Verwijs bij feiten, theorieën en cijfers naar literatuur.  
 
-  ::: Example
+  ::: {.Example}
   **Niet:** *"Bekend is dat cafeïne slaap verstoort."*  
   **Wel:** *"Cafeïne kan inslaaptijd verlengen en slaapkwaliteit verlagen (Smith, 2022)."*
   :::
@@ -158,7 +158,7 @@ Het kernidee van wetenschappelijk schrijven is dat een slimme, maar niet-ingewij
 - Consistentie
   : Hanteer overal dezelfde termen, notatie en tijdsvorm. Bij wetenschappelijk schrijven zorgt herhaling voor duidelijkheid. Blijf niet eindeloos variëren met synoniemen en varianten van eenzelfde begrip.
 
-  ::: Example
+  ::: {.Example}
   Als je *nitraatconcentratie* gebruikt, wissel dan niet later naar *NO₃⁻-gehalte* zonder dit vooraf te definiëren.
   :::
   **Tip:** Maak een mini-woordenlijst met jouw gekozen termen en afkortingen.
@@ -254,7 +254,7 @@ Zelfs ervaren schrijvers trappen weleens in klassieke valkuilen. Hieronder vind 
 - **Vage kwantificaties**  
   Vermijd woorden als *veel*, *regelmatig* of *enigszins*. Ze klinken veilig, maar zeggen niets concreets. Gebruik in plaats daarvan cijfers, aantallen of percentages.
 
-  ::: Example
+  ::: {.Example}
   **Niet:** *"Er zijn best wat verschillen tussen de groepen, wat interessant is."*  
   **Wel:** *"De interventiegroep scoorde gemiddeld 2,3 punten hoger dan de controlegroep (SD = 0,9; t(38) = 4,1; p < 0,001), wat wijst op een matig tot groot effect."*
   :::
@@ -262,7 +262,7 @@ Zelfs ervaren schrijvers trappen weleens in klassieke valkuilen. Hieronder vind 
 - **Te lange zinnen**  
   Lange, samengestelde zinnen maken een tekst moeilijk leesbaar. Knip zinnen met meer dan ongeveer 25 woorden op in twee of herschrijf ze met duidelijke verbandwoorden.  
 
-  ::: Example
+  ::: {.Example}
   **Niet:** *"Omdat de temperatuur, de vochtigheid en de lichtintensiteit allemaal invloed hadden op de groei van de planten, besloten we om de drie factoren tegelijk te meten om hun gecombineerde effect te onderzoeken."*  
   **Wel:** *"Temperatuur, vochtigheid en lichtintensiteit beïnvloedden de plantengroei. Daarom werden de drie factoren tegelijk gemeten om hun gecombineerde effect te onderzoeken."*
   :::
@@ -270,7 +270,7 @@ Zelfs ervaren schrijvers trappen weleens in klassieke valkuilen. Hieronder vind 
 - **Jargon zonder uitleg**  
   Vaktaal is nuttig, maar alleen als de lezer die begrijpt. Leg een term kort uit bij het eerste gebruik of geef een herkenbaar voorbeeld.  
 
-  ::: Example
+  ::: {.Example}
   **Niet:** *"De viscositeit vertoonde een niet-lineair gedrag bij lage Reynoldsgetallen."*  
   **Wel:** *"De vloeistof werd stroperiger bij lage stroomsnelheden — een typisch voorbeeld van niet-lineair gedrag bij lage Reynoldsgetallen."*
   :::
@@ -278,7 +278,7 @@ Zelfs ervaren schrijvers trappen weleens in klassieke valkuilen. Hieronder vind 
 - **Citeren zonder context**  
   Een citaat of bronvermelding heeft pas waarde als je uitlegt *waarom* het relevant is. Een losse verwijzing zegt de lezer weinig.  
 
-  ::: Example
+  ::: {.Example}
   **Niet:** *"Volgens Janssens (2020) speelt motivatie een rol in leerprestaties."*  
   **Wel:** *"Zoals Janssens (2020) aangeeft, verhoogt intrinsieke motivatie de kans dat leerlingen leerstrategieën actief toepassen, wat aansluit bij onze bevindingen."*
   :::
@@ -286,7 +286,7 @@ Zelfs ervaren schrijvers trappen weleens in klassieke valkuilen. Hieronder vind 
 - **Te algemene uitspraken**  
   Vermijd vage beweringen zoals *"De resultaten waren positief"* of *"Het experiment werkte goed."* Benoem wat “positief” of “goed” precies betekent.  
 
-  ::: Example
+  ::: {.Example}
   **Niet:** *"De resultaten waren positief en ondersteunen onze hypothese."*  
   **Wel:** *"De resultaten tonen een stijging van 15% in reactie-efficiëntie, wat de hypothese over het katalytische effect ondersteunt."*
   :::
@@ -294,7 +294,7 @@ Zelfs ervaren schrijvers trappen weleens in klassieke valkuilen. Hieronder vind 
 - **Overmatig gebruik van bijvoeglijke naamwoorden**  
   Woorden als *interessant*, *belangrijk* of *opvallend* voegen zelden inhoud toe. Laat data of argumenten het werk doen.  
 
-  ::: Example
+  ::: {.Example}
   **Niet:** *"Er werd een opvallende toename in de concentratie waargenomen."*  
   **Wel:** *"De concentratie steeg van 0,3 mol/L naar 0,45 mol/L na 10 minuten verwarmen."*
   :::

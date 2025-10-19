@@ -131,10 +131,23 @@ Ga niet zomaar wat freewheelen in de hoop zo op de juiste informatie te stoten.
 De kans dat dat gebeurt is wel bijzonder klein.
 
 Als je informatie zoekt op het internet is het van belang dat je dat doet aan de hand van goede zoektermen en op betrouwbare websites (zie @sec-tool-zoekmachines). 
-Als je informatie vindt die jou op het eerste gezicht interessant lijkt, sla je ze best meteen op in je referentiebeheersysteem. 
+Als je informatie vindt die jou op het eerste gezicht interessant lijkt, sla je ze best meteen op in je referentiebeheersysteem (zie @sec-tool-zotero). 
+
+> Het gebruik van ISBN- en DOI-nummers bespaart tijd, vermindert fouten en verhoogt de kwaliteit van je bibliografie. 
+
 Weet dat *metadata* -- gegevens die de gegevenskarakteristieken beschrijven -- net zo belangrijk zijn als de data zelf. 
 Zorg dat alle gegevens of _velden_ van je bron direct compleet zijn. 
-Dat bespaart je een hoop werk achteraf als je je uiteindelijke bibliografie gaat (of eerder laat) maken. 
+Dat bespaart je een hoop werk achteraf als je je uiteindelijke bibliografie gaat (of eerder laat) maken.
+
+::: {.callout-tip title="DOI en ISBN"}
+Een **ISBN** (*International Standard Book Number*) is een uniek identificatienummer dat aan elk afzonderlijk boek of educatief werk wordt toegekend. 
+Het zorgt ervoor dat uitgevers, bibliotheken en databanken exact weten over welke editie van een werk het gaat. 
+In Zotero kun je een bron snel toevoegen door het ISBN in te voeren via *“Voeg item toe via identifier”* — alle bibliografische velden (titel, auteur, uitgever, jaar) worden dan automatisch ingevuld.
+
+Een **DOI** (*Digital Object Identifier*) werkt op een gelijkaardige manier, maar wordt gebruikt voor **digitale publicaties** zoals wetenschappelijke artikels, papers en datasets. 
+Een DOI blijft altijd geldig, zelfs als de oorspronkelijke website verandert. 
+Door het DOI in Zotero in te voeren, haal je automatisch betrouwbare metadata op uit internationale databanken zoals *Crossref* of *DataCite*.
+::: 
 
 ### Stap 3 - selecteren en ordenen
 
@@ -214,14 +227,6 @@ Er bestaan verschillende manieren om een bibliografie op te stellen.
 Het is niet zo heel belangrijk welke je gebruikt als je maar consequent en grondig bent. 
 Ook hiervoor bestaan verschillende hulpmiddelen om je hierbij te helpen (zie oa. `Zotero` in @sec-tool-zotero).
 
-::: {.hidden}
-Om door het bos de bomen nog te kunnen zien, hebben we voor jullie een vereenvoudigde versie gemaakt van wat aan de KUL gehanteerd wordt. 
-Je vindt het document onderaan deze pagina. 
-Als je later daadwerkelijk gaat verder studeren, zou het kunnen dat je gevraagd wordt om een ander principe te hanteren. 
-Dat hangt af van waar je gaat studeren en ook van welke richting je volgt. 
-Geen nood, je werkt je dan wel weer in in dat nieuwe systeem, voor nu is het vooral belangrijk dat je jezelf de reflex aanmeet om bronnen volgens een vastgelegd principe te vermelden. 
-:::
-
 ### Wanneer is een bronvermelding verplicht?
 
 Hiervoor geldt de regel dat je bij iedere impliciete of expliciete verwijzing naar de ideeën van anderen
@@ -256,10 +261,10 @@ In je werk beperk je je consequent tot een enkele referentiestijl.
 
 Een juiste bronvermelding verschilt per referentiestijl en per type bron, maar wat bij iedere stijl en type bron hetzelfde is, is dat je **tweemaal moet refereren** [@kuleuven2023]:
 
-1.  Een verkorte referentie
+1.  Een verkorte in-tekstverwijzing
     : in je tekst waar je de informatiebron citeert, parafraseert, samenvat, vertaalt...
 
-1.  Een volledige referentie
+1.  Een volledige referentie in de literatuurlijst
     : in je literatuurlijst, bibliografie en/of voet(of eind)noten.
 
 Afhankelijk van het brontype wordt de referentie op een andere manier samengesteld. 
@@ -276,31 +281,31 @@ Wij beperken ons tot de APA-stijl (zie Definitie \ref{definition-apa}), al is wi
 De referentiestijl van de *American Psychological Association* (APA) is een **naam-jaar-systeem**. 
 Een bronvermelding in de APA-stijl houdt in:
 
-*   Een verkorte referentie
+*   Een verkorte in-tekstverwijzing
     : in de tekst (of het document) meteen na het idee dat je uit de bron hebt gehaald:
     +   Naam (of namen) van de auteur(s) en publicatiejaar, tussen haakjes. Bij personen is dit enkel de familienaam. 
     +   Wanneer de auteur al vernoemd wordt in de tekst, dan noteer je het publicatiejaar tussen haakjes.
     +   Vanaf drie auteurs noteer je de familienaam van de eerste auteur, gevolgd door et al. 
     +   Bij een citaat noteer je ook de pagina waaruit je de tekst hebt gehaald.
 
-*   Een volledige referentie
+*   Een volledige referentie in de literatuurlijst
     : in de bibliografie volgens de APA-stijl. De referenties staan daarbij in alfabetische volgorde per auteur.
 
 De APA-stijl is meer dan een referentiestijl (zie @sec-rapporteren). 
 De APA-stijl wordt gebruikt door schrijvers in vele disciplines over de hele wereld voor beknopte, krachtige en overtuigende wetenschappelijke communicatie.
 :::
 
-
 ::: {.Example}
-#### Korte referentie in tekst
-Software engineering is een georganiseerde, analytische benadering van het ontwerpen, ontwikkelen, het gebruik en de onderhoud van software (Stephens, 2015).
+#### Refereren volgens de APA-stijl (7de editie 2020)
 
-Stephens (2015) toont in zijn studie dat software engineering een georganiseerde, analytische benadering van het ontwerpen, ontwikkelen, het gebruik en de onderhoud van software is.
-:::
+*   Een verkorte in-tekstverwijzing
+    : Software engineering is een georganiseerde, analytische benadering van het ontwerpen, ontwikkelen, het gebruik en de onderhoud van software (Stephens, 2015).
 
-::: {.Example}
-#### Volledige referentie in de bibliografie
-Stephens, R. (2015). Beginning Software Engineering. Wrox.
+    Stephens (2015) toont in zijn studie dat software engineering een georganiseerde, analytische benadering van het ontwerpen, ontwikkelen, het gebruik en de onderhoud van software is.
+
+
+*   Een volledige referentie in de literatuurlijst
+    : Stephens, R. (2015). *Beginning Software Engineering.* Wrox.
 :::
 
 Soms zijn niet alle gegevens van je referentie te vinden. 
@@ -313,3 +318,51 @@ Maak je gebruik van een referentiebeheerder dan wordt in de meeste gevallen de a
 | datum/jaartal | s.d. | sine dato |
 | plaats van uitgave | s.l. | sine loco |
 : Te gebruiken afkortingen bij ontbrekende gegevens van een referentie. {#tbl-bronnen-ontbrekend"}
+
+
+### AI-gegenereerde tekst of output citeren
+
+De de APA-stijl (7e editie) heeft sinds 2023 richtlijnen voor het refereren naar AI-gegeneerde tekst of output. 
+Je vermeldt steeds het model en de ontwikkelaar (bv. "OpenAI") en dus niet jezelf of het systeem als auteur.
+
+::: {.callout-important title="Belangrijkste principe voor refereren naar AI"}
+Een AI-tool zoals ChatGPT is geen auteur en kan niet als primaire bron worden beschouwd, omdat ze geen eigen verantwoordelijkheid draagt voor de inhoud.
+:::
+
+Er zijn twee situaties voor je rekening dient te houden bij het refereren:
+
+1. Inhoud gegenereerd door AI.
+2. AI als hulpmiddel gebruikt bij je schrijfproces.
+
+Vermijd het citeren van AI als bron bij wetenschappelijk onderzoek en gebruik het enkel als ondersteunend hulpmiddel.
+
+#### AI-gegenereerde tekst of output citeren
+
+Je behandelt de AI als een softwarebron en vermeldt de exacte prompt in de tekst of in een bijlage en geeft de volledige referentie in de literatuurlijst zoals alle andere bronnen.
+
+::: {.Example}
+#### Refereren naar AI-gegenereerde tekst
+
+*   Een verkorte in-tekstverwijzing
+    : De volgende uitleg over inductie werd gegenereerd met behulp van ChatGPT (OpenAI, 2025) op basis van de prompt "Leg inductie uit in eenvoudige woorden."
+
+*   Een volledige referentie in de literatuurlijst
+    : OpenAI. (2025). *ChatGPT (GPT-5)* [Large language model]. https://chat.openai.com/
+
+    **Opmerking:** Als je de specifieke versie kent (zoals GPT-4 of GPT-5), mag je die toevoegen.
+:::
+
+#### Vermelden van AI als hulpmiddel
+Als je AI enkel gebruikt om bijvoorbeeld ideeën te genereren, te herformuleren of te structureren, maar niet om inhoud rechtstreeks over te nemen, dan hoef je geen bronvermelding in de literatuurlijst te plaatsen.
+Wel vermeld je het gebruik transparant in een aparte sectie, bijvoorbeeld in de methode, verantwoording, of reflectie.
+
+::: {.Example}
+#### Refereren naar AI als hulpmiddel
+
+Voor de voorbereiding van deze tekst werd ChatGPT (OpenAI, 2025) gebruikt als hulpmiddel om de tekststructuur te verbeteren. Alle inhoud werd gecontroleerd en herschreven door de auteur.
+:::
+
+::: {.callout-caution title="Aandachtspunten voor refereren naar AI"}
+Noteer altijd de datum van gebruik, want AI-output verandert in de tijd.
+Bewaar je prompt en de gegenereerde output als bijlage of screenshot als bewijs van transparantie. Bij gebruik van een referentiebeheer (zie @sec-tool-zotero) voeg je best de prompt toe als notitie en tag je de bron met bv. `AI`.
+:::

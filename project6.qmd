@@ -46,12 +46,14 @@ Tijdens deze fase leer je:
 
 In jaar twee werken we rond en aan een persoonlijk onderzoek.
 
-::: {#fig-planning-jaar2 fig-cap="Planning jaar 2" fig-align="center"}
+::: {#fig-planning-jaar2 fig-cap="Planning jaar 2 - eigen onderzoek" fig-align="center"}
 ```{mermaid}
 gantt
     title Wetenschappelijke Methodiek - Jaar 2
     dateFormat   YYYY-MM-DD
     excludes     weekends
+
+    Onderzoeksvoorstel               :2025-09-01, 2025-12-08
 
     Verkennen onderwerpen            :a1, 2025-09-01, 20d
     Onderzoeksvoorstel schrijven     :a2, after a1, 20d
@@ -61,6 +63,9 @@ gantt
 
     Kerstvakantie                    :done, break2, 2025-12-22, 10d
     Elevator pitch & storytelling    :b1, after break2, 10d
+
+    Onderzoek                        :2026-01-19, 2026-05-15
+
     Cyclus 1 - Onderzoek en logboek  :c1, after b1, 20d
 
     Krokusvakantie                   :done, break3, 2026-02-16, 5d

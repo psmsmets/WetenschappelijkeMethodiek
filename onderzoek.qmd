@@ -1,11 +1,12 @@
 # Onderzoek {#sec-onderzoek}
 
-Onderzoek is een systematisch en doelgericht proces dat steeds begint met het helder formuleren van een probleemstelling, gevolgd door het gericht opstellen van hypothesen. Vervolgens worden experimenten of observaties doelgericht uitgevoerd om data te verzamelen. Deze gegevens worden gestructureerd geanalyseerd om nieuwe kennis op te bouwen, bestaande inzichten te verfijnen of specifieke vragen te beantwoorden. Dit proces sluit naadloos aan bij de wetenschappelijke methode en de cyclus van wetenschappelijk denken (zie @sec-wetenschappelijke-methode), waarin observatie, hypothesevorming, experimenteren en toetsing centraal staan. In deze cyclische aanpak groeit ons begrip en ontwikkelen we innovaties, telkens met ruimte voor nieuwe vragen en verdere ontdekkingen.
+Onderzoek is een systematisch en doelgericht proces dat begint met het helder formuleren van een probleemstelling, gevolgd door het opstellen van hypothesen. Vervolgens worden experimenten of observaties uitgevoerd om data te verzamelen. Deze gegevens worden geanalyseerd om nieuwe kennis op te bouwen, bestaande inzichten te verfijnen of specifieke vragen te beantwoorden. Dit proces sluit aan bij de wetenschappelijke methode en de cyclus van wetenschappelijk denken (zie @sec-wetenschappelijke-methode), waarin observatie, hypothesevorming, experiment en toetsing centraal staan. In deze cyclische aanpak groeit ons begrip en ontwikkelen we innovaties, telkens met ruimte voor nieuwe vragen en ontdekkingen.
 
-> If you know how it's going to turn out, it's not science, it's engineering
+
+> If you know how it's going to turn out, it's not science, it's engineering  
 > -- [Albert Einstein](https://nl.wikipedia.org/wiki/Albert_Einstein)[^1]
 
-[^1]: Volgens @Levitin2019. Het "oorsprongelijke" citaat van Albert Einstein (vertaald naar Engels) luidt: "*Scientists investigate that which already is; engineers create that which has never been.*".
+[^1]: Volgens @Levitin2019. Het “oorspronkelijke” citaat van Albert Einstein (vertaald naar Engels) luidt: "*Scientists investigate that which already is; engineers create that which has never been.*".
 
 ## Kernaspecten
 
@@ -21,18 +22,21 @@ Onderzoek is een systematisch en doelgericht proces dat steeds begint met het he
 
 Deze verschillende typen maken onderzoek flexibel en toepasbaar in uiteenlopende disciplines en vraagstukken.
 
-**Onderzoek is essentieel.** Het vergroot ons begrip van de wereld, helpt bij het oplossen van problemen en draagt bij aan de verbetering van technologieën en methoden in diverse disciplines. Dankzij onderzoek kunnen we nieuwe inzichten verwerven, complexe vraagstukken aanpakken en innovatie bevorderen in wetenschap, gezondheidszorg, onderwijs, en vele andere gebieden.
+**Onderzoek is essentieel.** 
+Het vergroot ons begrip van de wereld, helpt bij het oplossen van problemen en draagt bij aan de verbetering van technologieën en methoden in diverse disciplines. Dankzij onderzoek kunnen we nieuwe inzichten verwerven, complexe vraagstukken aanpakken en innovatie bevorderen in wetenschap, gezondheidszorg, onderwijs, en vele andere gebieden.
 
-**Onderzoeken is doen.** Het proces van onderzoek omvat actie: je begint met het formuleren van een probleemstelling, vervolgens stel je hypothesen op, voer je experimenten of observaties uit, en analyseer je de resultaten. Elk van deze stappen vraagt om actieve betrokkenheid en zorgvuldige uitvoering om zo tot nieuwe inzichten en betrouwbare conclusies te komen.
+**Onderzoeken is doen.** 
+Het proces van onderzoek omvat actie: je begint met het formuleren van een probleemstelling, vervolgens stel je hypothesen op, voer je experimenten of observaties uit, en analyseer je de resultaten. Elk van deze stappen vraagt om actieve betrokkenheid en zorgvuldige uitvoering om zo tot nieuwe inzichten en betrouwbare conclusies te komen.
 
-**Onderzoek is ook falen.** Het is een proces van vallen en opstaan, waarin fouten maken onvermijdelijk is. Juist door mislukkingen en vergissingen ontstaan waardevolle leermomenten die leiden tot verbetering en verdieping van kennis. Elk mislukte experiment en elke fout biedt nieuwe inzichten en brengt ons een stap dichter bij het antwoord. Onderzoek is daarmee niet alleen gericht op succes, maar ook op het leren uit wat niet werkt.
+**Onderzoek is ook falen.** 
+Het is een proces van vallen en opstaan, waarin fouten maken onvermijdelijk is. Juist door mislukkingen en vergissingen ontstaan waardevolle leermomenten die leiden tot verbetering en verdieping van kennis. Elk mislukte experiment en elke fout biedt nieuwe inzichten en brengt ons een stap dichter bij het antwoord. Onderzoek is daarmee niet alleen gericht op succes, maar ook op het leren uit wat niet werkt.
 
-**Onderzoek is communiceren.** Het is samenwerken, voortbouwen op elkaars werk, en openlijk delen van kennis. Effectieve communicatie gaat niet alleen over het rapporteren van resultaten, maar ook over het delen van de processen en methoden, zowel gesproken als geschreven, zodat anderen het onderzoek kunnen begrijpen, herhalen en verder ontwikkelen. Dit vereist gestandaardiseerde communicatie, zodat informatie toegankelijk en eenduidig wordt overgebracht binnen en buiten de wetenschappelijke gemeenschap.
+**Onderzoek is communiceren.** 
+Het is samenwerken, voortbouwen op elkaars werk, en openlijk delen van kennis. Effectieve communicatie gaat niet alleen over het rapporteren van resultaten, maar ook over het delen van de processen en methoden, zowel gesproken als geschreven, zodat anderen het onderzoek kunnen begrijpen, herhalen en verder ontwikkelen. Dit vereist gestandaardiseerde communicatie, zodat informatie toegankelijk en eenduidig wordt overgebracht binnen en buiten de wetenschappelijke gemeenschap.
 
 ## Onderzoeksvraag
 
 <!--
-
 https://www.cs.ru.nl/E.Barendsen/onderwijs/onderzoeksvaardigheden/doc3a.html
 https://www.scribbr.nl/starten-met-je-scriptie/type-onderzoeksvragen/
 -->
@@ -41,11 +45,11 @@ De onderzoeksvraag is de kern van je hele onderzoek; alles draait om die ene vra
 
 [^2]: Al is dit relatief, want in de praktijk krijgt de onderzoeksvraag pas echt vorm tijdens het (voor-) onderzoek.
 
-Als je je hoofdvraag eenmaal hebt geformuleerd, is het handig om deze op te delen in deelvragen. Dit helpt om overzicht te houden en precies te weten wat je moet onderzoeken. Vervolgens is het belangrijk om na te gaan of je onderzoeksvraag haalbaar is. Het kan zijn dat je een prachtige vraag hebt bedacht, maar dat deze in de praktijk lastig te onderzoeken is. Het is ook heel normaal om je hoofd- en deelvragen aan te passen tijdens het proces, omdat je inzichten groeien.
+ls je je hoofdvraag eenmaal hebt geformuleerd, is het handig om deze op te delen in deelvragen. Dit helpt om overzicht te houden en precies te weten wat je moet onderzoeken. Vervolgens is het belangrijk om na te gaan of je onderzoeksvraag haalbaar is. Het kan zijn dat je een prachtige vraag hebt bedacht, maar dat deze in de praktijk lastig te onderzoeken is. Het is ook heel normaal om je hoofd- en deelvragen aan te passen tijdens het proces, omdat je inzichten groeien.
 
 Je kunt een onderzoek opzetten vanuit eigen interesse in een onderwerp, maar soms krijg je de opdracht van iemand anders, zoals een werkgever of docent. De kwestie die je wilt onderzoeken noemen we het onderzoeksprobleem. Dit hoeft niet altijd om een probleem te gaan, zoals pesten op school of geweld in stadions. Ook neutrale onderwerpen, zoals het verband tussen buitentemperatuur en drankverkoop in een supermarkt, vallen hieronder. Wat belangrijk is, is dat je weet wat je met het onderzoek wilt bereiken en dit vastlegt in je onderzoeksvraag.
 
-Twee methoden om tot een goede onderzoeksvraag te komen zijn het gebruik van de vier vaste elementen van een onderzoek en de vier eisen van de onderzoeksvraag. Deze criteria worden toegepast om een vraag te creëren die richting en focus geeft aan het onderzoek.
+Twee methoden om tot een goede onderzoeksvraag te komen zijn het gebruik van de vier vaste elementen van een onderzoek en de vier eisen van de onderzoeksvraag. Deze criteria worden toegepast om een vraag te creëren die richting en focus geeft aan het onderzoek [@oost2002_voorbereiden; @RUG_onderzoeksvraag; @TUD_onderzoeksvraag].
 
 ### Structureren van een onderzoek
 
@@ -66,13 +70,14 @@ De vier vaste elementen om het onderzoek te structureren:
     : `Hoe` ga je de vraag aanpakken? De aanpak en methodologie die je gaat gebruiken
 :::
 
-Deze elementen vormen de basis om de onderzoeksvraag op
+Deze elementen vormen de basis om de onderzoeksvraag op te bouwen. 
+Ze zorgen ervoor dat je helder krijgt *waarover* je onderzoek gaat, *waarom* het belangrijk is, *wat* je wilt weten en *hoe* je dat zult doen.
+
 
 ### Formuleren van een onderzoeksvraag
 
 De onderzoeksvraag vormt de basis van het hele onderzoeksplan en moet zorgvuldig worden geformuleerd volgens de vier eisen aan de onderzoeksvraag:
 
-<!-- https://www.youtube.com/watch?v=uNkzlghEjQQ -->
 ::: {.Feature}
 #### De 4 eisen aan de onderzoeksvraag
 1.  Vragend
@@ -87,8 +92,6 @@ De onderzoeksvraag vormt de basis van het hele onderzoeksplan en moet zorgvuldig
 1.  Duidelijk
     : Het doel van het onderzoek moet helder zijn; de vraag moet aangeven wat het onderzoek precies wil ontdekken.
 :::
-
-### Hulpvragen
 
 Een goede onderzoeksvraag voldoet aan elk van de vier eisen en de vier vaste elementen en is daarbij:
 
@@ -123,13 +126,13 @@ De onderstaande hulpvragen helpen je om na te gaan of je onderzoeksvraag voldoet
     +   ***Variabelen*** --- Identificeer de variabelen die je gaat onderzoeken. Deze kenmerken vormen de basis voor je conclusies.
 
         ::: {.Example}
-        Voorbeeld: "Wat is het profiel van de doorsnee leerling van de derde graad ASO van het Spijker?"
-         +  Afbakening: derde graad, ASO, Spijker
+        "Wat is het profiel van de doorsnee leerling van de derde graad doorstroomfinaliteit?"
+         +  Afbakening: derde graad, doorstroomfinaliteit
          +  Variabelen: geslacht, leeftijd, herkomst, studierichtingen
         :::
 
         ::: {.Example}
-        Voorbeeld van verschillende invalshoeken bij hetzelfde onderzoeksobject (Het Sportpaleis in Antwerpen):
+        Verschillende invalshoeken bij hetzelfde onderzoeksobject "Het Sportpaleis in Antwerpen":
          +  Econoom: "Welke economische doelgroepen bezochten het Sportpaleis op basis van het programma in 2023-2024?"
          +  Socioloog: "Welke verschillen bestaan er tussen het publiek van Clouseau en dat van Alex Agnew?"
          +  Ingenieur: "Wat is de fysische draagkracht van de fundamenten van het Sportpaleis?
@@ -146,9 +149,8 @@ De onderstaande hulpvragen helpen je om na te gaan of je onderzoeksvraag voldoet
 
 Hieronder vind je de verschillende soorten onderzoeksvragen met een voorbeeld erbij.
 
-*  De beschrijvende onderzoeksvraag
-
-   : Deze onderzoeksvraag wil een beschrijving geven van een situatie of een persoon en vraag naar 
+*  De beschrijvende onderzoeksvraag  
+   : Deze onderzoeksvraag wil een beschrijving geven van een situatie of een persoon en vraagt naar 
    `Wie?` `Wat?` `Waar?` `Wanneer?` `Hoe?`
 
    ::: {.Example}
@@ -156,8 +158,8 @@ Hieronder vind je de verschillende soorten onderzoeksvragen met een voorbeeld er
     +  "Met welke vormen van onveiligheid worden leerlingen op onze school geconfronteerd?"
    :::
 
-*   De verklarende onderzoeksvraag (probleemstructuur + onderzoeksstructuur)
-    : Dit type onderzoeksvraag biedt een antwoord op de vraag: `Waarom?`.
+*   De verklarende onderzoeksvraag (probleemstructuur + onderzoeksstructuur)  
+    : Dit type onderzoeksvraag biedt een antwoord op de vraag: `Waarom?`  
     Je zoekt naar oorzaken, redenen, achtergronden van een bepaald onderwerp. 
     Deze vragen zijn moeilijker te beantwoorden omdat ze zoeken naar iets *onzichtbaars*, 
     iets wat je niet simpelweg kan waarnemen. 
@@ -168,15 +170,15 @@ Hieronder vind je de verschillende soorten onderzoeksvragen met een voorbeeld er
      +  "Hoe komt het dat Engelsen zich geen Europeaan voelen?"
     :::
 
-*   De vergelijkende onderzoeksvraag (vergelijkende structuur)
-    : Deze onderzoeksvraag wil een antwoord geven op vragen als "Wat zijn de verschillen en gelijkenissen tussen ...?".
+*   De vergelijkende onderzoeksvraag (vergelijkende structuur)  
+    : Deze onderzoeksvraag wil een antwoord geven op vragen als "Wat zijn de verschillen en gelijkenissen tussen ...?"
 
     ::: {.Example}
      +  "Wat zijn de verschillen in morele ontwikkeling tussen Vlaamse jongens en meisjes in de adolescentiefase?"
      +  "Wat is het verschil in ontwikkeling tussen een paardenbloem in het laagland en in het hooggebergte?"
     :::
 
-*   De evaluerende onderzoeksvraag (evaluatiestructuur)
+*   De evaluerende onderzoeksvraag (evaluatiestructuur)  
     : Dit type onderzoeksvraag stelt een onderzoek in om iets te evalueren en een oordeel uit te spreken. 
     Ze gaat in op open vragen als: 
      +  "Wat zijn de positieve punten van ...?"
@@ -190,8 +192,7 @@ Hieronder vind je de verschillende soorten onderzoeksvragen met een voorbeeld er
      +  "Voldoet de opleiding verpleegkunde in Vlaanderen aan de eisen van de verschillende medische centra?"
     :::
 
-*   Ontwerpende onderzoeksvragen (maatregelenstructuur)
-
+*   Ontwerpende onderzoeksvragen (maatregelenstructuur)  
     : Deze vragen zijn bedoeld om nieuwe maatregelen voor een probleem te vinden. 
     Deze vragen beginnen met:
      +  "Wat kan eraan gedaan worden?"
@@ -204,76 +205,203 @@ Hieronder vind je de verschillende soorten onderzoeksvragen met een voorbeeld er
      +  "Welk protocol volg je om onderzoek te doen naar de invloed van chemotherapie op de werking van de zenuwbanen?"
     :::
 
-::: {.hidden}
-
-## Hypothese
-
 <!-- https://www.scribbr.nl/starten-met-je-scriptie/type-onderzoeksvragen/ -->
 <!-- https://www.cs.ru.nl/E.Barendsen/onderwijs/onderzoeksvaardigheden/doc3a.html -->
 <!-- https://sysmod.tbm.tudelft.nl/wiki/index.php?title=Onderzoeksvraag -->
 <!-- https://sysmod.tbm.tudelft.nl/wiki/index.php/Oefeningen:Onderzoeksvraag -->
 
-::: {.Definition}
-#### De 3 eisen aan een hypothese
-1.  Propositie
-    : Het is een stelling of bewering
-1.  Onverklarend
-    : Er wordt niets uitgelegd
-1.  Toelichten 
-    : Er wordt duidelijk welk experiment wordt uitgevoerd
 
-https://www.rug.nl/society-business/scholierenacademie/scholieren/pws-hulp/fase2/hypothese-opstellen#:~:text=Een%20hypothese%20moet%20te%20testen,zin%20om%20deze%20te%20testen.
+## Hypothese
+
+Na het formuleren van een duidelijke onderzoeksvraag volgt meestal de **hypothese**. Meestal, want niet elk onderzoek bevat een hypothese. Een hypothese is een voorlopige verklaring, een voorspelling van wat je verwacht te vinden — het mogelijke antwoord op je onderzoeksvraag. Ze vormt een schakel tussen theorie en praktijk: op basis van bestaande kennis voorspel je een uitkomst die je vervolgens gaat toetsen.
+
+> Een hypothese is niet hetzelfde als een verwachting.  
+> Een hypothese is een **redenering**, een verwachting is een **gevolg** daarvan.
+
+Een hypothese helpt om richting te geven aan je onderzoek. Ze dwingt je om concreet te formuleren wat je denkt dat de relatie is tussen bepaalde factoren. Door die verwachting expliciet te maken, kun je ze ook **toetsen** — en dat is de kern van wetenschappelijk onderzoek.
+
+Een goede hypothese stel je niet zomaar op. Ze moet aan enkele belangrijke voorwaarden voldoen [@RUG_hypothese]:
+
+- **Gebaseerd op bestaande kennis**  
+  Je hypothese moet voortbouwen op wat al bekend is. Tijdens het literatuuronderzoek verzamel je informatie die jouw redenering ondersteunt. Zo laat je zien *waarom* jouw verwachting logisch is.  
+  Bijvoorbeeld: als eerdere onderzoeken hebben aangetoond dat voldoende slaap concentratie bevordert, dan kun jij veronderstellen dat slaaptekort het concentratievermogen verlaagt.
+
+- **Bestaat uit variabelen**  
+  In elke hypothese komen een **onafhankelijke variabele** (de mogelijke oorzaak) en een **afhankelijke variabele** (het mogelijke gevolg) voor.  
+  Bijvoorbeeld: bij onderzoek naar klimaatverandering is de *CO₂-uitstoot* de onafhankelijke variabele (de oorzaak) en het *klimaat* de afhankelijke variabele (het gevolg).  
+  In andere woorden: *als* de onafhankelijke variabele verandert, *dan* heeft dat invloed op de afhankelijke.
+
+- **Moet te weerleggen zijn**  
+  Een hypothese moet **toetsbaar** zijn: je moet haar kunnen bevestigen of juist ontkrachten. Anders kun je haar niet wetenschappelijk onderzoeken.  
+  Denk aan *Russell’s theepot*: een denkbeeldige theepot die rond de zon draait. Omdat het bestaan ervan nooit te bewijzen of te ontkrachten valt, is het geen zinvolle hypothese.  
+  Wetenschappelijke hypotheses onderscheiden zich dus van meningen of overtuigingen omdat ze objectief kunnen worden getoetst.
+
+Net als de onderzoeksvraag kan je eisen aan de hypothese stellen [@oost2002_voorbereiden]:
+
+::: {.Feature}
+#### De drie eisen aan een hypothese
+1. **Propositie**  
+   : De hypothese is een stelling of bewering over een verband tussen variabelen.  
+   Bijvoorbeeld: *"Leerlingen die elke dag ontbijten, presteren beter op school."*
+2. **Onverklarend**  
+   : De hypothese beschrijft wat je verwacht te zien, maar legt nog niet uit *waarom* dat zo is. De verklaring volgt pas na toetsing.  
+3. **Toelichtend**  
+   : Uit de hypothese blijkt welk onderzoek of experiment je uitvoert om haar te toetsen. Ze suggereert dus een methode.  
 :::
+
+Wanneer je hypothese aan deze eisen voldoet, kun je er een **verwachting** uit afleiden. Die verwachting is concreet: *als* de hypothese klopt, *dan* zou je een bepaald resultaat moeten zien.
+
+::: {.callout-note title="Voorbeelden van hypotheses"}
+*"Als zonlicht belangrijk is voor de groei van appels, dan krijgen appelbomen die in het donker staan geen appels."* 
+
+- Onafhankelijke variabele
+  : hoeveelheid zonlicht.
+- Afhankelijke variabele
+  : groei van appels.
+
+*"Sinds het begin van de coronacrisis zijn de gemiddelde prestaties van leerlingen gedaald."*
+
+- Onafhankelijke variabele
+  : periode (voor of na de coronacrisis).  
+- Afhankelijke variabele
+  : prestaties van leerlingen.
+:::
+
+Een hypothese is dus een **voorspelling** op basis van redenering. 
+Ze is niet altijd juist — en dat is precies de bedoeling. 
+Een onderzoek dat een hypothese weerlegt, kan even waardevol zijn als een dat haar bevestigt. Beide dragen bij aan kennis en begrip.
+
+Een veelgemaakte fout is om de hypothese te verwarren met een verwachting. Een verwachting is een concreet, toetsbaar gevolg van de hypothese, niet de hypothese zelf.
+
+::: {.callout-note title="Voorbeeld van een verwachting"}
+*"Groepsdruk beïnvloedt de mening van scholieren in de klas."* 
+
+Als dat klopt, dan **verwacht** je dat een leerling een ander antwoord geeft wanneer hij individueel wordt ondervraagd dan wanneer hij datzelfde antwoord in de klas moet geven.
+:::
+
+Soms heb je meer dan één hypothese. In dat geval noem je de eerste de **nulhypothese** (*H₀*) en de alternatieve de **alternatieve hypothese** (*H₁*).  
+De nulhypothese gaat uit van géén verband of effect (*"er is geen verschil tussen groep A en groep B"*), terwijl de alternatieve hypothese juist het te onderzoeken verband veronderstelt (*"groep A scoort beter dan groep B"*).  
+Door je experiment uit te voeren, test je of de nulhypothese kan worden verworpen ten gunste van de alternatieve. Dit vormt de basis van statistisch onderzoek.
+
+Een goed opgebouwde hypothese geeft richting, afbakening en toetsbaarheid. 
+Ze vormt het kompas van je onderzoek — een kleine, precieze bewering die bepaalt hoe groot je kennis uiteindelijk wordt.
 
 ## Methoden
 
-Verschillende methoden
+De methode beschrijft hoe je je onderzoek uitvoert: welke stappen je neemt om gegevens te verzamelen, te analyseren en daaruit conclusies te trekken. 
+Een goed gekozen methode maakt je onderzoek betrouwbaar, herhaalbaar en controleerbaar. 
+Welke methode je kiest, hangt af van je *onderzoeksvraag*, het *soort gegevens* dat je nodig hebt en de *haalbaarheid* binnen de beschikbare tijd en middelen.
 
+### Onderzoeksmethoden
 
-  * Literatuurstudie
+Er bestaan verschillende manieren om onderzoek te doen. Hieronder staan enkele veelgebruikte methoden met hun toepassing:
 
-  * Observatie
+- Literatuurstudie
+  : Je onderzoekt wat er al bekend is over je onderwerp door bestaande bronnen te bestuderen, zoals artikelen, boeken of rapporten.  
 
-  * Interview
+  ::: {.callout-tip title="Doel van een literatuurstudie"}  
+  Inzicht krijgen in bestaande kennis en theorieën, en de basis leggen voor je eigen onderzoek.
+  :::
 
-  * Enquête
+- Observatie
+  : Je observeert en registreert wat er in een bepaalde situatie gebeurt, zonder actief in te grijpen.  
 
-  * Experiment
+  ::: {.callout-tip title="Doel van een observatie"}  
+  Gedrag, processen of verschijnselen beschrijven zoals ze zich voordoen.
+  :::
 
-  * Simulatie
+- Interview
+  : Je stelt open vragen aan één of meerdere personen om hun kennis, ervaringen of meningen te achterhalen.  
 
-  * ...
+  ::: {.callout-tip title="Doel van een interview"}  
+  Diepgaand inzicht krijgen in persoonlijke perspectieven of motivaties.
+  :::
 
+- Enquête
+  : Je verzamelt gegevens via gestandaardiseerde vragen bij een grotere groep mensen.  
 
-Verkennend onderzoek, dat helpt bij het identificeren en definiëren van een probleem of vraag. Constructief onderzoek, waarbij theorieën worden getest en oplossingen voor een probleem of vraag worden voorgesteld. Empirisch onderzoek, waarbij de haalbaarheid van een oplossing wordt getest met behulp van empirisch bewijs.
+  ::: {.callout-tip title="Doel van een enquête"}  
+  Meningen, gedragingen of kennis op kwantitatieve (meetbare) wijze onderzoeken.
+  :::
 
-### Kwalitatief onderzoek
+- Experiment
+  : Je verandert één variabele (de onafhankelijke) en bekijkt het effect op een andere (de afhankelijke).  
 
-### Kwantitatief onderzoek
+  ::: {.callout-tip title="Doel van een experiment"}  
+  Nagaan of er een oorzakelijk verband bestaat.
+  :::
 
+- Simulatie
+  : Je bootst een verschijnsel of proces na, vaak met behulp van een model of computersimulatie.  
+
+  ::: {.callout-tip title="Doel van een simulatie"}  
+  Complexe of risicovolle situaties analyseren zonder ze in werkelijkheid uit te voeren.
+  :::
+
+Vaak worden methoden gecombineerd — bijvoorbeeld een literatuurstudie voorafgaand aan een experiment of enquête.
+
+### Soorten onderzoek
+
+Er zijn verschillende typen onderzoek, afhankelijk van het doel:
+
+- Verkennend onderzoek
+  : Richt zich op het verkennen en afbakenen van een probleem of vraag. 
+  Dit type onderzoek helpt je te begrijpen *wat* je precies moet onderzoeken.
+
+- Constructief onderzoek
+  : Ontwikkelt of toetst een theorie of biedt een oplossing voor een concreet probleem. 
+  Vaak theoretisch van aard, maar met een praktische insteek.
+
+- Empirisch onderzoek
+  : Toetst ideeën of hypothesen aan de hand van waarnemingen, metingen of experimenten. 
+  Kennis wordt hier verkregen door directe ervaring en data.
+
+### Kwalitatief en kwantitatief onderzoek
+
+**Kwalitatief onderzoek** richt zich op betekenissen, ervaringen en interpretaties. 
+Het probeert te begrijpen *waarom* iets gebeurt of *hoe* mensen iets ervaren. 
+De gegevens zijn meestal tekstueel (interviews, observaties, documenten) en worden thematisch geanalyseerd.
+
+**Kwantitatief onderzoek** richt zich op metingen en cijfers. 
+Het gebruikt statistische methoden om verbanden, patronen of verschillen aan te tonen. 
+De gegevens komen uit enquêtes, experimenten of meetinstrumenten en worden numeriek verwerkt.
+
+Soms worden beide benaderingen gecombineerd in **mixed methods-onderzoek**, waarbij kwalitatieve en kwantitatieve gegevens elkaar aanvullen voor een vollediger beeld.
 
 ## Stappen bij het uitvoeren van onderzoek
 
-Onderzoek wordt vaak uitgevoerd met behulp van de zandlopermodelstructuur van onderzoek. 
-Het zandlopermodel begint met een breed spectrum voor onderzoek, richt zich op de benodigde informatie via de methode van het project (zoals de hals van de zandloper) en breidt het onderzoek vervolgens uit in de vorm van discussie en resultaten.
+Het onderzoeksproces verloopt vaak volgens het **zandlopermodel**. 
+Dat model start breed met oriëntatie en theorie, vernauwt zich in de kern (de methode en uitvoering) en breidt zich opnieuw uit bij de bespreking van resultaten en conclusies. 
 
-Nauw verwant aan het model van de wetenschappelijke-methode (@fig-methode-elementen). 
+De belangrijkste stappen zijn:
 
-De belangrijkste stappen in het uitvoeren van onderzoek zijn:
+1. **Identificeren van het onderzoeksprobleem**  
+   Wat wil je precies begrijpen of verklaren?
+2. **Literatuuronderzoek**  
+   Wat is er al bekend en waar liggen nog open vragen?
+3. **Formuleren van het doel en de onderzoeksvragen**  
+   Wat wil je met het onderzoek bereiken, en welke vragen moeten daarvoor worden beantwoord?
+4. **Opstellen van een conceptueel kader en hypothesen**  
+   Welke theorieën, concepten of verwachtingen vormen de basis van je onderzoek?
+5. **Kiezen van een geschikte methodologie**  
+   Hoe ga je de gegevens verzamelen en analyseren?
+6. **Verzamelen van gegevens**  
+   Uitvoeren van metingen, observaties, interviews, enquêtes of experimenten.
+7. **Controleren van de gegevens**  
+   Nagaan of de gegevens volledig, betrouwbaar en correct zijn.
+8. **Analyseren en interpreteren**  
+   De resultaten verwerken en betekenis geven aan wat ze laten zien.
+9. **Rapporteren en evalueren**  
+   Beschrijven van de werkwijze, resultaten en beperkingen van het onderzoek.
+10. **Communiceren van bevindingen**  
+    Delen van conclusies en aanbevelingen via een verslag, presentatie of poster.
 
-  * Identificatie van het onderzoeksprobleem
-  * Literatuuronderzoek
-  * Specificeren van het doel van het onderzoek
-  * Bepalen van specifieke onderzoeksvragen
-  * Specificatie van een conceptueel kader, soms inclusief een reeks hypothesen[31]
-  * Keuze van een methodologie (voor gegevensverzameling)
-  * Verzamelen van gegevens
-  * Verifiëren van gegevens
-  * Analyseren en interpreteren van de gegevens
-  * Rapporteren en evalueren van onderzoek
-  * Communiceren van de onderzoeksresultaten en eventueel aanbevelingen
 
+De stappen geven het algemene proces weer; ze moeten echter worden gezien als een voortdurend veranderend en iteratief proces in plaats van een vaste reeks stappen.
+Onderzoek is zelden een rechte lijn (@fig-methode-elementen). Tijdens het cyclisch proces ontdek je vaak nieuwe inzichten die je terugleiden naar een eerdere stap. 
+Net als in een zandloper kan de stroom van ideeën steeds opnieuw worden omgekeerd en verfijnd.
 
+::: {.hidden}
 ```{dot}
 #| label: fig-onderzoek-cyclus
 #| fig-cap: "De cyclus van wetenschappelijk onderzoek"
@@ -312,7 +440,4 @@ digraph "De cyclus van wetenschappelijk onderzoek" {
   1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 1;
 }
 ```
-
-De stappen geven het algemene proces weer; ze moeten echter worden gezien als een voortdurend veranderend en iteratief proces in plaats van een vaste reeks stappen.
-
 :::

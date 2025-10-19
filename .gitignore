@@ -152,3 +152,5 @@ dask-worker-space/
 *.nc
 .DS_Store
 /_resources/
+
+**/*.quarto_ipynb

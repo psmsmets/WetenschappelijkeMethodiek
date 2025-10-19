@@ -17,6 +17,10 @@ Verwacht niet alleen kennis en tips, maar ook concrete adviezen: wat werkt wel, 
 Daarnaast zetten we zoveel mogelijk digitale hulpmiddelen in om je te ondersteunen.
 Toch blijft het hoofddoel eenvoudig: **zelf wetenschappelijk onderzoek doen**.
 
+## Verantwoording
+
+Voor de voorbereiding van dit boek werd ChatGPT (OpenAI, 2025) gebruikt als hulpmiddel om de tekststructuur te verbeteren. Alle inhoud werd gecontroleerd en herschreven door de auteur.
+
 ::: {.hidden}
 
 ## Conventies gebruikt in dit boek

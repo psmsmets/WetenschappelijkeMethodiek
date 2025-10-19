@@ -80,41 +80,27 @@ Praktische tips voor onderhoud
 
 Het eerste jaar is een stapsgewijze voorbereiding met vooraf bepaalde onderwerpen en thema's.
 
-::: {#fig-planning fig-cap="Planning jaar 1" fig-align="center"}
+::: {#fig-planning fig-cap="Planning jaar 1 - portfolio" fig-align="center"}
 ```{mermaid}
 gantt
     title Wetenschappelijke Methodiek - Jaar 1
     dateFormat  YYYY-MM-DD
     excludes    weekends
 
-    Portfolio trimester 1            :2025-09-01, 2025-12-08
+    Portfolio trimester 1              :2025-09-01, 2025-12-08
 
-    Introductie en visie             :i1, 2025-09-01, 10d
-    Zoekstrategieën & databanken     :a1, after i1, 15d
-    AI & zoekethiek                  :a2, after a1, 15d
-    Herfstvakantie                   :done, break1, 2025-10-27, 5d
+    Introductie en visie               :i1, 2025-09-01, 10d
+    Zoekstrategieën                    :a1, after i1, 15d
+    AI & kritisch gebruik              :a2, after a1, 15d
+    Herfstvakantie                     :done, break1, 2025-10-27, 5d
 
-    Zotero & Bronnenkritiek          :a3, after break1, 25d
-#   = Betrouwbaarheid en validiteit van bronnen
+    Informatiebeheer & Bronnenkritiek  :a3, after break1, 25d
 
-#   Speed reading?
+    Portfolio                          :milestone, 2025-12-08, 0d
 
-    Portfolio                        :milestone, 2025-12-08, 0d
-
-    Kerstvakantie                    :done, break2, 2025-12-22, 10d
-    Krokusvakantie                   :done, break3, 2026-02-16, 5d
-    Paasvakantie                     :done, break4, 2026-04-06, 10d
-
-#    Metawetenschap: Onderzoeksmethoden :i3, after break2, 2w
-#
-#    Rapporten & kritisch denken      :proj1, after i3, 3w
-#    Open wetenschap                  :i4, after proj1, 2w
-#    LaTeX voor onderzoeksbrief       :h3, after i4, 4w
-#    Kerstvakantie                    :v2, 2025-12-22, 2w
-#    Slides & presenteren             :h4, after v2, 2w
-#    Eindproject: onderzoeksbrief     :proj2, after h4, 5w
-#    Paasvakantie                     :v3, 2026-04-06, 2w
-#    Portfolio                        :milestone, 2026-06-01, 0d
+    Kerstvakantie                      :done, break2, 2025-12-22, 10d
+    Krokusvakantie                     :done, break3, 2026-02-16, 5d
+    Paasvakantie                       :done, break4, 2026-04-06, 10d
 ```
 :::
 
@@ -154,7 +140,7 @@ Reflectievraag
 :::
 
 
-## Module 1: Zoekstrategieën en databanken
+## Module 1: Zoekstrategieën
 
 ::: {.callout-note title="Doel"}
 - Betrouwbare informatiebronnen herkennen en evalueren.
@@ -230,7 +216,7 @@ Reflectievraag
 
 
 ::: Opdracht
-### Zoekmachines Vergelijken
+### Zoekmachines vergelijken
 
 1.  Voer dezelfde zoekopdracht uit in 3 zoekmachines:
 
@@ -240,7 +226,6 @@ Reflectievraag
 
     -   De top 3 resultaten (titel + URL). Je kan ook een printscreen nemen van de resultaten per zoekmachine.
     -   Of er commerciële bias is (bv. gesponsorde links).
-    -   Of de resultaten relevant, actueel en betrouwbaar zijn (gebruik hiervoor de [CRAAP-test](bronnen.html#craap-test)).
 
 2.  Gebruik een wetenschappelijke zoekmachine (_Google Scholar_ of _arXiv_) om een wetenschappelijk artikel te vinden over _klimaatadaptatie in stedelijke gebieden_ (2020-2025).
 
@@ -255,7 +240,7 @@ Reflectievraag
 
 
 ::: Opdracht
-### Databanken en Onderzoeksgerelateerd Zoeken
+### Databanken en onderzoeksgerelateerd zoeken
 
 1.  Gebruik Google Scholar om:
 
@@ -280,13 +265,15 @@ Reflectievraag
 :::
 
 
-## Module 2: AI & zoekethiek
+## Module 2: AI & kritisch gebruik
 
 ::: {.callout-note title="Doel"}
-- Begrijpen wat generatieve AI en Large Language Models (LLMs) zijn en hoe ze werken.  
-- Leren hoe je duidelijke en effectieve prompts opstelt.  
-- AI-output kritisch beoordelen op juistheid, bronvermelding en bias.  
-- AI verantwoord gebruiken als hulpmiddel bij onderzoek en schrijven.  
+- Inzicht verwerven in wat generatieve AI en Large Language Models (LLMs) zijn en hoe ze werken.  
+- Leren hoe je duidelijke en doelgerichte prompts opstelt en begrijpt hoe formulering de output beïnvloedt.  
+- AI-resultaten kritisch beoordelen op juistheid, bronvermelding en mogelijke bias.  
+- Hallucinaties en foutieve informatie herkennen en verifiëren met externe bronnen.  
+- AI verantwoord, transparant en ethisch gebruiken als hulpmiddel bij onderzoek en schrijven.  
+- Aandacht hebben voor duurzaamheid, betrouwbaarheid en de grenzen van AI-systemen.  
 :::
 
 ::: {.callout-caution}
@@ -337,29 +324,37 @@ Maak in deze module enkel gebruik van de toegestane AI-tools: [ChatGPT](https://
 :::
 
 ::: Opdracht
-### Generatieve AI en LLMs – Toepassing en Kritische Reflectie
+### Generatieve AI en LLMs – Toepassing
 
 1.  Gebruik een toegestaan AI-model naar keuze om
     : Een beknopte uitleg (max. 150 woorden) te genereren over *"de invloed van artificiële intelligentie op wetenschappelijk onderzoek"*.
-    - Vraag daarna expliciet naar **de gebruikte bronnen** of **de kennisdatum** van het model.
+    - Vraag daarna expliciet naar *de gebruikte bronnen* of *de kennisdatum* van het model.
     - Noteer het antwoord en controleer of de bronnen of datums kloppen.
 
-2.  Vergelijk twee modellen
-    : Voer exact dezelfde prompt uit in **twee verschillende AI-systemen** (bv. ChatGPT, Le Chat, Perplexity).  
-    - Vergelijk de antwoorden op **stijl**, **inhoudelijke nauwkeurigheid** en **bronvermelding**.  
-    - Welke verschillen vallen je op? Welke vind je betrouwbaarder en waarom?
-
-3.  Experimenteer met prompt engineering
+2.  Experimenteer met prompt engineering
     : Gebruik een van de volgende startprompts, en verbeter hem stap voor stap volgens het *stappenplan* in de cursus:
     - *"Leg uit wat een groot taalmodel is."*  
     - *"Schrijf een tekst over de risico’s van AI in het onderwijs."*  
     - *"Vat samen hoe neurale netwerken werken in eenvoudige taal."*  
     Toon telkens je oorspronkelijke prompt en de verbeterde versie, en geef aan wat het effect was op de kwaliteit van het antwoord.
 
-4.  Controleer op hallucinaties
-    : Vraag het AI-model om een **bronvermelding** bij een concreet feit (bv. "Wie introduceerde het transformer-model in 2017?").
-    - Controleer of de bron echt bestaat (gebruik Google Scholar of Wikipedia).  
-    - Als de bron fout of verzonnen blijkt, beschrijf kort hoe je dit ontdekt hebt.
+3.  Vergelijk twee AI-modellen
+    : Voer exact dezelfde prompt uit in *twee verschillende AI-systemen*, bijvoorbeeld:  
+    ```default
+    Leg in 100 woorden uit hoe klimaatverandering het leven in steden beïnvloedt.
+    ```
+    - Vergelijk de antwoorden op *stijl*, *inhoudelijke nauwkeurigheid* en *bronvermelding*.  
+    - Welke verschillen vallen je op? Welke vind je betrouwbaarder en waarom?
+
+4.  Verbeter je prompt stap voor stap
+    : Gebruik één AI-tool en geef eerst een eenvoudige vraag
+    ```default
+    Wat zijn de voordelen van zonne-energie?
+    ```
+    Verbeter daarna je prompt volgens het *stappenplan uit de cursus* (meer context, beperkingen, gewenste vorm).  
+    - Toon je eerste en je verbeterde prompt.
+    - Beschrijf wat er veranderde aan het antwoord.
+    - Heeft het AI-model zelf nog suggesties om de prompt te verbeteren?
 
 ---
 
@@ -368,42 +363,16 @@ Maak in deze module enkel gebruik van de toegestane AI-tools: [ChatGPT](https://
 
 :::
 
-::: {.callout-note title="Doel – Verdieping"}
-- Verschillende AI-modellen vergelijken op stijl, nauwkeurigheid en betrouwbaarheid.  
-- Inzicht krijgen in de werking van prompts en de invloed van formulering op de output.  
-- Hallucinaties en foutieve informatie leren herkennen en verifiëren met externe bronnen.  
-- Reflecteren over ethisch, transparant en duurzaam gebruik van AI in onderzoek.  
-:::
-
 ::: Opdracht
-### Generatieve AI en LLMs – Verdieping en Kritisch Gebruik
+### Generatieve AI en LLMs – Verdieping en kritisch gebruik
 
-1.  Vergelijk twee AI-modellen
-    : Gebruik dezelfde prompt in **twee verschillende AI-tools**.  
-    ```default
-    Leg in 100 woorden uit hoe klimaatverandering het leven in steden beïnvloedt.
-    ```
-    - Welke verschillen merk je in stijl, taalgebruik en inhoud?  
-    - Welke output vind jij het meest betrouwbaar en waarom?  
-
-2.  Verbeter je prompt stap voor stap
-    : Gebruik één AI-tool en geef eerst een eenvoudige vraag
-    ```default
-    Wat zijn de voordelen van zonne-energie?
-    ```
-    Verbeter daarna je prompt volgens het *stappenplan uit de cursus* (meer context, beperkingen, gewenste vorm).  
-    - Toon je eerste en je verbeterde prompt.  
-    - Beschrijf wat er veranderde aan het antwoord.  
-
-3.  Controleer op hallucinaties
-    : Vraag de AI om een bronvermelding bij een concreet feit:
-    ```default
-    Noem één wetenschappelijk onderzoek uit 2022 over microplastics in drinkwater.
-    ```
-    Controleer vervolgens of die bron echt bestaat (via Google Scholar of DOAJ).
+1.  Controleer op hallucinaties
+    : Vraag het AI-model om een **bronvermelding** bij een concreet feit (bv. "Wie introduceerde het transformer-model in 2017?" of "Noem één wetenschappelijk onderzoek uit 2022 over microplastics in drinkwater.").
+    - Controleer of de bron echt bestaat (gebruik Google Scholar of Wikipedia).  
     - Wat ontdekte je? Was de bron correct of verzonnen?  
+    - Als de bron fout of verzonnen blijkt, beschrijf kort hoe je dit ontdekt hebt.
 
-4.  Ethisch gebruik en transparantie
+2.  Ethisch gebruik en transparantie
     : Vraag het model :
     ```default
     Mag ik AI gebruiken bij het schrijven van mijn onderzoeksvoorstel?  
@@ -419,8 +388,228 @@ Maak in deze module enkel gebruik van de toegestane AI-tools: [ChatGPT](https://
 
 :::
 
-
-
 ## Module 3: Informatiebeheer
 
+Nu we effectief kunnen zoeken naar informatie, is de volgende stap het **ordenen en beheren** van die informatie. 
+Goed informatiebeheer is de ruggengraat van elk onderzoek: het zorgt ervoor dat je overzicht houdt, bronnen correct kunt vermelden en later moeiteloos kunt citeren. 
+We gebruiken hiervoor de referentiebeheerder **Zotero** (zie [@sec-tool-zotero]).
+
+::: {.callout-note title="Doel"}
+- Reflecteren over hoe je tot nu toe informatie verzamelde en bewaarde.  
+- Inzicht krijgen in het belang van gestructureerd informatiebeheer.  
+- Leren hoe bibliografische gegevens correct verzameld, opgeslagen en beheerd worden.  
+- Kennismaken met het gebruik van referentiebeheerders zoals *Zotero*.  
+- Bronnen efficiënt ordenen, taggen en aantekeningen toevoegen.  
+- De basis leggen voor correct citeren en refereren volgens academische normen.  
+:::
+
+::: Opdracht
+### Informatiebeheer – Reflectie en verkenning
+
+1. Terugblik op je eigen werkwijze
+   : Beschrijf kort hoe jij tot nu toe informatie verzamelde voor schooltaken of projecten. 
+   Denk aan: waar je zoekt, hoe je links of bronnen bewaart, en hoe je citeert.  
+   - Wat werkte goed?  
+   - Wat liep vaak mis of kostte veel tijd?  
+
+2. Waarom structuur belangrijk is
+   : Lees de toelichting in de cursus over informatiebeheer. 
+   Bespreek (in groepjes van 2 of 3 en noteer beknopt in je portfolio): 
+   - Waarom is het belangrijk om je bronnen al tijdens het zoeken te ordenen?  
+   - Welke risico’s zijn er als je dat niet doet (bv. bij het schrijven van een verslag)?  
+
+3. **Voorbeeldsituatie**  
+   Stel: je werkt wekenlang aan een onderzoeksvoorstel en vergeet bij te houden waar een aantal citaten vandaan kwamen.  
+   - Wat zijn de gevolgen?  
+   - Hoe zou Zotero dat kunnen voorkomen?
+
+---
+
+**Reflectievraag**  
+: _Wat zegt jouw huidige manier van werken over hoe je met informatie omgaat? Wat zou je willen verbeteren?_
+:::
+
+::: Opdracht
+### Bibliografiebeheer (basis) – Eerste stappen met Zotero
+
+1. **Verken Zotero**  
+   Installeer Zotero en de browserextensie.  
+   Verken kort de interface: hoe voeg je een bron toe, waar vind je de metadata, hoe maak je notities?
+
+2. **Eerste bronnen verzamelen**  
+   Kies één onderwerp dat je interesseert binnen de wetenschappelijke methodiek of jouw onderzoeksdomein.  
+   Voeg drie relevante bronnen toe met:  
+   - correcte titel, auteur(s) en jaartal  
+   - het juiste type bron  
+   - een korte notitie in eigen woorden over de inhoud  
+
+3. **Taggen en organiseren**  
+   Voorzie elk item van minstens twee tags (bv. *primair/secundair*, *boek/artikel*, *betrouwbaar/twijfelachtig*).  
+   Maak één verzameling aan met een duidelijke naam die het onderwerp weergeeft.
+
+4. **Checklist – controleer je werk**
+   - [ ] Alle velden correct ingevuld (titel, auteur, jaar, type).  
+   - [ ] Minstens 2 tags per item.  
+   - [ ] Eén korte notitie per bron.  
+   - [ ] Verzameling correct benoemd.  
+
+---
+
+**Reflectievraag**  
+: _Wat merk je na deze oefening over het verschil tussen "informatie verzamelen" en "informatie beheren"?_
+:::
+
+::: Opdracht
+### Bibliografiebeheer (verdieping) – Structuur vergelijken en verbeteren
+
+In deze oefening leer je hoe belangrijk een duidelijke structuur en correcte metadata zijn, zonder dat je online hoeft samen te werken.  
+Je werkt lokaal in Zotero, maar vergelijkt daarna met het werk van een klasgenoot.
+
+1. **Maak een eigen Zotero-verzameling**  
+   Maak in Zotero een nieuwe verzameling met de naam  
+   `Informatiebeheer – Naam Familienaam`.  
+   Voeg minstens **5 verschillende bronnen** toe over een onderwerp dat je interesseert:
+   - Voeg boeken toe via het **ISBN-nummer** (*Extra → Voeg item toe via identifier*).  
+     Zotero vult automatisch titel, auteur en uitgever in.  
+   - Voeg wetenschappelijke artikels toe via hun **DOI** (Digital Object Identifier).  
+     Ook hier wordt de bibliografische informatie automatisch opgehaald.  
+   - Voeg websites toe door ze te **slepen naar Zotero** of de **browserknop** te gebruiken.  
+     Controleer of de titel, auteur en datum correct zijn ingevuld.
+
+   > Vergelijk daarna zelf: bij welke bron werden de meeste velden automatisch correct ingevuld?  
+   > Wat zegt dat over de kwaliteit of betrouwbaarheid van de bron?
+
+2. **Taggen en notities toevoegen**  
+   - Voeg per item minstens twee tags toe (bv. *boek/artikel*, *primair/secundair*).  
+   - Noteer kort in eigen woorden wat de bron behandelt of waarom ze relevant is.
+
+3. **Exporteer en wissel uit**  
+   - Exporteer je verzameling naar een **Zotero RDF-bestand** met de opties  
+     `Exporteer aantekeningen` en `Exporteer bestanden`.  
+   - Gebruik een duidelijke bestandsnaam, bv. `familienaam_voornaam_zotero.rdf`.  
+   - Wissel het bestand uit met een klasgenoot (via Smartschool, OneDrive of Google Drive)  
+     en importeer diens verzameling tijdelijk in een aparte map.
+
+4. **Vergelijk en verbeter**  
+   - Kijk of jullie dezelfde velden (titel, auteur, jaartal, uitgever) consequent hebben ingevuld.  
+   - Welke bronnen hebben de beste metadata (volledige gegevens, correcte velden)?  
+   - Welke bronnen zijn onvolledig of onnauwkeurig, en waarom?  
+   - Verbeter vervolgens je eigen bibliotheek op basis van deze vergelijking.
+
+---
+
+**Reflectievraag**  
+: _Wat leer je over het belang van ISBN- en DOI-gegevens bij het beheren van betrouwbare bronnen?  
+En hoe helpt Zotero om fouten of hiaten op te sporen?_  
+:::
+
 ## Module 4: Bronnenkritiek
+
+Met Zotero heb je geleerd hoe je bronnen zorgvuldig verzamelt, ordent en documenteert. 
+De volgende stap is **bronnenkritiek**: niet enkel weten *waar* je informatie vandaan komt, maar ook *hoe betrouwbaar* en *relevant* ze is.
+
+Waar informatiebeheer draait om structuur en overzicht, richt bronnenkritiek zich op beoordeling en inzicht. 
+In module 4 leer je dus om de kwaliteit van je bronnen te wegen, ze in hun context te plaatsen en onderbouwde keuzes te maken over wat je in je onderzoek gebruikt.
+
+::: {.callout-tip title="Overgang tussen modules"}
+Denk aan het verschil tussen een archivaris en een onderzoeker:
+
+- de **archivaris** zorgt dat alles netjes bewaard wordt,  
+- de **onderzoeker** beslist wat echt waardevol is voor zijn onderzoek.
+:::
+
+::: {#fig-leerlijn-informatiebeheer fig-cap="Samenhang tussen de modules over informatie zoeken en beheren in de leerlijn wetenschapsmethodiek." fig-align="center"}
+```{mermaid}
+---
+config:
+  look: handDrawn
+  theme: neutral
+---
+flowchart TD
+    A["**Module 1:<br/>Zoekstrategieën**<br/>informatie vinden"]
+    B["**Module 2:<br/>AI & kritisch gebruik**<br/>informatie verwerken"]
+    C["**Module 3:<br/>Informatiebeheer**<br/>informatie ordenen en beheren"]
+    D["**Module 4:<br/>Bronnenkritiek**<br/>informatie beoordelen en verantwoorden"]
+    E["*Toepassing van alle vaardigheden*"]
+    F["**2 Bronnen**"]
+    G["**3 Onderzoek**"]
+    H["**4 Rapporteren**"]
+
+    A <--> B
+    A --> C
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    E --> G
+    E --> H
+
+    classDef basis fill:#e0f7fa,color:#004d40,text-align:center,font-size:10pt;
+    classDef kritisch fill:#f1f8e9,color:#33691e,text-align:center,font-size:10pt;
+    classDef toepassen fill:#fff8e1,color:#e65100,text-align:center,font-size:10pt;
+    classDef nadien fill:#eee,color:#333,text-align:center,font-size:10pt;
+
+    class A,B basis;
+    class C kritisch;
+    class D toepassen;
+    class E,F,G,H nadien;
+```
+:::
+
+In dit schema zie je hoe elke module voortbouwt op de vorige: van zoeken naar evalueren, van verzamelen naar oordelen. Zo ontwikkel je stap voor stap de onderzoeksvaardigheden die nodig zijn om later zelfstandig en kritisch wetenschappelijk werk te verrichten.
+
+::: {.callout-note title="Doel"}
+- Leren bronnen kritisch te analyseren op betrouwbaarheid, herkomst en doel.  
+- Verschil herkennen tussen primaire, secundaire en tertiaire bronnen.  
+- Inzicht krijgen in hoe bias, perspectief en context de waarde van informatie beïnvloeden.  
+- Bronnen correct documenteren, taggen en evalueren in Zotero.  
+- Eerder geleerde vaardigheden integreren: zoeken, AI-gebruik en informatiebeheer.  
+:::
+
+::: Exercise
+### Bronnenkritiek – De ontwikkeling van de wetenschappelijke methode
+
+De opdracht bestaat uit drie fasen: **zoeken**, **beoordelen** en **documenteren**.
+
+1. **Zoeken**  
+   Gebruik je kennis uit de vorige modules (zoekmachines, databanken, AI) om **wetenschappers te vinden die de wetenschappelijke methode beïnvloed hebben**.  
+   Denk aan namen als *Bacon*, *Descartes*, *Newton*, maar breid dit uit met andere figuren uit verschillende periodes.  
+
+   Verzamel minstens **10 wetenschappers** en voor elk:
+   - hun **belangrijkste bijdrage**,  
+   - het **jaar** of de periode,  
+   - en een korte **toelichting in eigen woorden**.  
+   *Streef naar variatie in brontypes: minstens 3 boeken, 3 artikels, 3 webbronnen en 3 andere.*
+
+2. **Beoordelen**  
+   Verzamel minstens **10 tot 15 bronnen** en beoordeel ze op:
+   - betrouwbaarheid van auteur of uitgever,  
+   - actualiteit en wetenschappelijke waarde,  
+   - mogelijke bias of interpretatie.  
+   Gebruik hiervoor de [CRAAP-test](bronnen.html#craap-test) en criteria in [@sec-bronnen].  
+   > Vermeld expliciet als een bron via AI gevonden is. AI-output mag niet als bron worden gebruikt,  
+   > maar het gebruik van AI als *zoekhulp* of *samenvattend hulpmiddel* mag wel vermeld worden.
+
+3. **Documenteren in Zotero**  
+   - Maak een deelverzameling `Opdracht 4 – Naam Familienaam`.  
+   - Voeg je bronnen toe en zorg voor correcte metadata.  
+   - Voorzie elk item van:  
+     - **minstens 2 tags** (*primair/secundair*, *geschreven/gesproken/iconografisch/materieel*),  
+     - **1 tag** voor de periode (bv. `1700`),  
+     - **1 aantekening** waarin je de kwaliteit van de bron beoordeelt.  
+   - Voeg indien mogelijk een **bijlage** toe (pdf, webpagina, afbeelding).
+
+4. **Exporteer en dien in**  
+   Exporteer je verzameling als `Zotero RDF` met de opties  
+   *Exporteer aantekeningen* en *Exporteer bestanden*.  
+   Gebruik de bestandsnaam `voornaam_familienaam.rdf`.
+
+---
+
+**Reflectievraag**  
+: _Wat bepaalt volgens jou of een bron betrouwbaar genoeg is om te gebruiken in een wetenschappelijk onderzoek?_  
+:::
+
+## Module 5: Bronvermelding
+
+## Module 6: Onderzoeksmethoden

@@ -5,15 +5,23 @@
 
  [**Opdracht 3**](project5.qmd#zoeksyntaxis-en-google-advanced-search): Zoeksyntaxis en Google Advanced Search\Pageref{zoeksyntaxis-en-google-advanced-search}
 
- [**Opdracht 4**](project5.qmd#zoekmachines-vergelijken): Zoekmachines Vergelijken\Pageref{zoekmachines-vergelijken}
+ [**Opdracht 4**](project5.qmd#zoekmachines-vergelijken): Zoekmachines vergelijken\Pageref{zoekmachines-vergelijken}
 
- [**Opdracht 5**](project5.qmd#databanken-en-onderzoeksgerelateerd-zoeken): Databanken en Onderzoeksgerelateerd Zoeken\Pageref{databanken-en-onderzoeksgerelateerd-zoeken}
+ [**Opdracht 5**](project5.qmd#databanken-en-onderzoeksgerelateerd-zoeken): Databanken en onderzoeksgerelateerd zoeken\Pageref{databanken-en-onderzoeksgerelateerd-zoeken}
 
  [**Opdracht 6**](project5.qmd#eerste-kennismaking-met-generatieve-ai-en-llms): Eerste kennismaking met Generatieve AI en LLMs\Pageref{eerste-kennismaking-met-generatieve-ai-en-llms}
 
- [**Opdracht 7**](project5.qmd#generatieve-ai-en-llms-toepassing-en-kritische-reflectie): Generatieve AI en LLMs – Toepassing en Kritische Reflectie\Pageref{generatieve-ai-en-llms-toepassing-en-kritische-reflectie}
+ [**Opdracht 7**](project5.qmd#generatieve-ai-en-llms-toepassing): Generatieve AI en LLMs – Toepassing\Pageref{generatieve-ai-en-llms-toepassing}
 
- [**Opdracht 8**](project5.qmd#generatieve-ai-en-llms-verdieping-en-kritisch-gebruik): Generatieve AI en LLMs – Verdieping en Kritisch Gebruik\Pageref{generatieve-ai-en-llms-verdieping-en-kritisch-gebruik}
+ [**Opdracht 8**](project5.qmd#generatieve-ai-en-llms-verdieping-en-kritisch-gebruik): Generatieve AI en LLMs – Verdieping en kritisch gebruik\Pageref{generatieve-ai-en-llms-verdieping-en-kritisch-gebruik}
+
+ [**Opdracht 9**](project5.qmd#informatiebeheer-reflectie-en-verkenning): Informatiebeheer – Reflectie en verkenning\Pageref{informatiebeheer-reflectie-en-verkenning}
+
+ [**Opdracht 10**](project5.qmd#bibliografiebeheer-basis-eerste-stappen-met-zotero): Bibliografiebeheer (basis) – Eerste stappen met Zotero\Pageref{bibliografiebeheer-basis-eerste-stappen-met-zotero}
+
+ [**Opdracht 11**](project5.qmd#bibliografiebeheer-verdieping-structuur-vergelijken-en-verbeteren): Bibliografiebeheer (verdieping) – Structuur vergelijken en verbeteren\Pageref{bibliografiebeheer-verdieping-structuur-vergelijken-en-verbeteren}
+
+ [**Opdracht 12**](project5.qmd#bronnenkritiek-de-ontwikkeling-van-de-wetenschappelijke-methode): Bronnenkritiek – De ontwikkeling van de wetenschappelijke methode\Pageref{bronnenkritiek-de-ontwikkeling-van-de-wetenschappelijke-methode}
 
  [**Opdracht 1**](project6.qmd#verkennen-onderwerpen): Verkennen onderwerpen\Pageref{verkennen-onderwerpen}
 
