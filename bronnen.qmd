@@ -225,7 +225,7 @@ Er bestaan online programma’s die teksten kunnen scannen op plagiaat, maar voo
 
 Er bestaan verschillende manieren om een bibliografie op te stellen. 
 Het is niet zo heel belangrijk welke je gebruikt als je maar consequent en grondig bent. 
-Ook hiervoor bestaan verschillende hulpmiddelen om je hierbij te helpen (zie oa. `Zotero` in @sec-tool-zotero).
+Ook hiervoor bestaan verschillende hulpmiddelen om je hierbij te helpen (zie o.a. `Zotero` in @sec-tool-zotero).
 
 ### Wanneer is een bronvermelding verplicht?
 
@@ -277,7 +277,7 @@ Wij beperken ons tot de APA-stijl (zie Definitie \ref{definition-apa}), al is wi
 [^1]: Handleidingen van de KU Leuven Bibliotheken 2Bergen voor de [APA-stijl](https://bib.kuleuven.be/training-en-tutorials/apa-2023), [IEEE-stijl](https://bib.kuleuven.be/training-en-tutorials/ieee-2023) en de [NLM/Vancouverstijl](https://bib.kuleuven.be/training-en-tutorials/vancouver-2023).
 
 ::: {.Definition #definition-apa}
-#### APA-stijl (7de editie 2020)
+#### APA-stijl (7de editie)
 De referentiestijl van de *American Psychological Association* (APA) is een **naam-jaar-systeem**. 
 Een bronvermelding in de APA-stijl houdt in:
 
@@ -328,7 +328,7 @@ Maak je gebruik van een referentiebeheerder dan wordt in de meeste gevallen de a
 
 
 De APA-stijl (7e editie) heeft sinds 2023 richtlijnen voor het refereren naar AI-gegenereerde tekst of output.  
-Je vermeldt steeds het *model* en de *ontwikkelaar* (bijv. "OpenAI") en dus niet jezelf of het systeem als auteur.
+Je vermeldt steeds het *model* en de *ontwikkelaar* (bv. "OpenAI") en dus niet jezelf of het systeem als auteur.
 
 ::: {.callout-important title="Belangrijkste principe bij het refereren naar AI"}
 Een AI-tool zoals ChatGPT is geen auteur en kan niet als primaire bron worden beschouwd, omdat ze geen eigen verantwoordelijkheid draagt voor de inhoud.
