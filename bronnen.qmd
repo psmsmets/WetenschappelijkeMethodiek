@@ -298,14 +298,18 @@ De APA-stijl wordt gebruikt door schrijvers in vele disciplines over de hele wer
 ::: {.Example}
 #### Refereren volgens de APA-stijl (7de editie 2020)
 
-*   Een verkorte in-tekstverwijzing
-    : Software engineering is een georganiseerde, analytische benadering van het ontwerpen, ontwikkelen, het gebruik en de onderhoud van software (Stephens, 2015).
+*In-tekstverwijzing (passief):* 
 
-    Stephens (2015) toont in zijn studie dat software engineering een georganiseerde, analytische benadering van het ontwerpen, ontwikkelen, het gebruik en de onderhoud van software is.
+> Software engineering is een georganiseerde, analytische benadering van het ontwerpen, ontwikkelen, het gebruik en de onderhoud van software (Stephens, 2015).
 
+*In-tekstverwijzing (actief):* 
 
-*   Een volledige referentie in de literatuurlijst
-    : Stephens, R. (2015). *Beginning Software Engineering.* Wrox.
+> Stephens (2015) toont in zijn studie dat software engineering een georganiseerde, analytische benadering van het ontwerpen, ontwikkelen, het gebruik en de onderhoud van software is.
+
+*Volledige referentie in de literatuurlijst:*
+
+> Stephens, R. (2015). *Beginning Software Engineering.* Wrox.
+
 :::
 
 Soms zijn niet alle gegevens van je referentie te vinden. 
@@ -322,47 +326,55 @@ Maak je gebruik van een referentiebeheerder dan wordt in de meeste gevallen de a
 
 ### AI-gegenereerde tekst of output citeren
 
-De de APA-stijl (7e editie) heeft sinds 2023 richtlijnen voor het refereren naar AI-gegeneerde tekst of output. 
-Je vermeldt steeds het model en de ontwikkelaar (bv. "OpenAI") en dus niet jezelf of het systeem als auteur.
 
-::: {.callout-important title="Belangrijkste principe voor refereren naar AI"}
+De APA-stijl (7e editie) heeft sinds 2023 richtlijnen voor het refereren naar AI-gegenereerde tekst of output.  
+Je vermeldt steeds het *model* en de *ontwikkelaar* (bijv. "OpenAI") en dus niet jezelf of het systeem als auteur.
+
+::: {.callout-important title="Belangrijkste principe bij het refereren naar AI"}
 Een AI-tool zoals ChatGPT is geen auteur en kan niet als primaire bron worden beschouwd, omdat ze geen eigen verantwoordelijkheid draagt voor de inhoud.
 :::
 
-Er zijn twee situaties voor je rekening dient te houden bij het refereren:
+Er zijn twee situaties waarmee je rekening moet houden bij het verwijzen naar AI-gebruik:
 
-1. Inhoud gegenereerd door AI.
-2. AI als hulpmiddel gebruikt bij je schrijfproces.
+1. Je citeert **inhoud die door AI is gegenereerd**.  
+2. Je hebt **AI als hulpmiddel gebruikt** tijdens je schrijfproces.
 
-Vermijd het citeren van AI als bron bij wetenschappelijk onderzoek en gebruik het enkel als ondersteunend hulpmiddel.
+Vermijd het citeren van AI als een primaire bron bij wetenschappelijk onderzoek en gebruik het enkel als ondersteunend hulpmiddel.
 
 #### AI-gegenereerde tekst of output citeren
 
-Je behandelt de AI als een softwarebron en vermeldt de exacte prompt in de tekst of in een bijlage en geeft de volledige referentie in de literatuurlijst zoals alle andere bronnen.
+Je behandelt de AI als een *softwarebron* en vermeldt de exacte prompt in de tekst of in een bijlage.  
+In de literatuurlijst geef je de volledige referentie, net als bij andere bronnen.
 
 ::: {.Example}
 #### Refereren naar AI-gegenereerde tekst
 
-*   Een verkorte in-tekstverwijzing
-    : De volgende uitleg over inductie werd gegenereerd met behulp van ChatGPT (OpenAI, 2025) op basis van de prompt "Leg inductie uit in eenvoudige woorden."
+*In-tekstverwijzing:*  
 
-*   Een volledige referentie in de literatuurlijst
-    : OpenAI. (2025). *ChatGPT (GPT-5)* [Large language model]. https://chat.openai.com/
+> De volgende uitleg over inductie werd gegenereerd met behulp van ChatGPT (OpenAI, 2025) op basis van de prompt “Leg inductie uit in eenvoudige woorden.”
 
-    **Opmerking:** Als je de specifieke versie kent (zoals GPT-4 of GPT-5), mag je die toevoegen.
+*Volledige referentie in de literatuurlijst:*  
+
+> OpenAI. (2025). *ChatGPT (GPT-5)* [Large language model]. https://chat.openai.com/  
+
+**Opmerking:** Als je de specifieke versie kent (zoals GPT-4 of GPT-5), vermeld die dan in de referentie.
 :::
 
 #### Vermelden van AI als hulpmiddel
-Als je AI enkel gebruikt om bijvoorbeeld ideeën te genereren, te herformuleren of te structureren, maar niet om inhoud rechtstreeks over te nemen, dan hoef je geen bronvermelding in de literatuurlijst te plaatsen.
-Wel vermeld je het gebruik transparant in een aparte sectie, bijvoorbeeld in de methode, verantwoording, of reflectie.
+
+Wanneer je AI enkel gebruikt om bijvoorbeeld ideeën te genereren, te herformuleren of te structureren, maar geen inhoud rechtstreeks overneemt, hoef je *geen bronvermelding in de literatuurlijst* op te nemen. Vermeld het gebruik wel **transparant** in een aparte sectie, bijvoorbeeld in de methode, verantwoording of reflectie.
 
 ::: {.Example}
-#### Refereren naar AI als hulpmiddel
+#### Vermelden van AI als hulpmiddel
 
-Voor de voorbereiding van deze tekst werd ChatGPT (OpenAI, 2025) gebruikt als hulpmiddel om de tekststructuur te verbeteren. Alle inhoud werd gecontroleerd en herschreven door de auteur.
+Plaats volgende paragraaf in bijvoorbeeld het *dankwoord*:
+
+> Voor de voorbereiding van deze tekst werd ChatGPT (OpenAI, 2025) gebruikt als hulpmiddel om de tekststructuur te verbeteren.  
+Alle inhoud werd gecontroleerd en herschreven door de auteur.
 :::
 
-::: {.callout-caution title="Aandachtspunten voor refereren naar AI"}
-Noteer altijd de datum van gebruik, want AI-output verandert in de tijd.
-Bewaar je prompt en de gegenereerde output als bijlage of screenshot als bewijs van transparantie. Bij gebruik van een referentiebeheer (zie @sec-tool-zotero) voeg je best de prompt toe als notitie en tag je de bron met bv. `AI`.
+::: {.callout-caution title="Aandachtspunten bij het refereren naar AI"}
+- Noteer altijd de **datum van gebruik**, want AI-output kan in de tijd veranderen.  
+- Bewaar de **prompt** en de **gegenereerde output** als bijlage of screenshot als bewijs van transparantie.  
+- Gebruik je een referentiebeheerder (zie @sec-tool-zotero), voeg dan de prompt toe als **notitie** en tag de bron bijvoorbeeld met `AI`.  
 :::

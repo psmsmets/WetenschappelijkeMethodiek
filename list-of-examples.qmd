@@ -5,7 +5,7 @@
 
  [**Voorbeeld 2.3**](bronnen.qmd#refereren-naar-ai-gegenereerde-tekst): Refereren naar AI-gegenereerde tekst\Pageref{refereren-naar-ai-gegenereerde-tekst}
 
- [**Voorbeeld 2.4**](bronnen.qmd#refereren-naar-ai-als-hulpmiddel): Refereren naar AI als hulpmiddel\Pageref{refereren-naar-ai-als-hulpmiddel}
+ [**Voorbeeld 2.4**](bronnen.qmd#vermelden-van-ai-als-hulpmiddel-1): Vermelden van AI als hulpmiddel\Pageref{vermelden-van-ai-als-hulpmiddel-1}
 
  [**Voorbeeld 10.1**](tool-data-analyse.qmd#Example-10.1)\Pageref{Example-10.1}
 
