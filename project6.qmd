@@ -1,5 +1,9 @@
 # Jaar 2: Eigen onderzoek {.unnumbered}
 
+::: {.callout-important}
+Voor dit vak geldt een jaarevaluatie met een eindcijfer op het einde van het schooljaar. Leerlingen krijgen tussentijds gerichte feedback binnen een doorlopend leertraject. De beoordeling gebeurt op basis van het onderzoeksvoorstel, het onderzoek en de posterpresentatie.
+:::
+
 ## Eigen onderzoek
 
 In het zesde jaar breng je alles wat je geleerd hebt in de praktijk: je voert een zelfstandig wetenschappelijk onderzoek uit over een onderwerp naar keuze binnen een wetenschappelijk domein. Je maakt hierbij gebruik van de vaardigheden, inzichten en tools die je in het vijfde jaar verworven hebt.

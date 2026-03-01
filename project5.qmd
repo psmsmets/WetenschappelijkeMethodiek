@@ -99,8 +99,26 @@ gantt
     Portfolio                          :milestone, 2025-12-08, 0d
 
     Kerstvakantie                      :done, break2, 2025-12-22, 10d
+
+    Portfolio trimester 2              :2026-01-05, 2026-06-08
+
+    Kritisch denken                    :i2, after break2, 10d
+    Tekstverwerking Word               :b1, after i2, 10d
+    Tekstverwerking Markdown           :b2, after b1, 10d
+
     Krokusvakantie                     :done, break3, 2026-02-16, 5d
+
+    Tekstverwerking LaTeX              :b3, after break3, 15d
+    Reken met onzekerheden             :b4, after b3, 15d
+
     Paasvakantie                       :done, break4, 2026-04-06, 10d
+
+    Bronvermelding                     :c1, after break4, 10d
+    Wetenschappelijk schrijven         :c2, after c1, 25d
+
+    Portfolio                          :milestone, 2026-06-08, 0d
+
+    Zomervakantie                      :done, break5, 2026-07-01, 45d
 ```
 :::
 
@@ -610,6 +628,231 @@ De opdracht bestaat uit drie fasen: **zoeken**, **beoordelen** en **documenteren
 : _Wat bepaalt volgens jou of een bron betrouwbaar genoeg is om te gebruiken in een wetenschappelijk onderzoek?_  
 :::
 
-## Module 5: Bronvermelding
+## Module 5: Kritisch denken
 
-## Module 6: Onderzoeksmethoden
+## Module 6: Tekstopmaak met stijlen in Word
+
+
+Microsoft Word gebruikt **stijlen** om tekst automatisch en consistent op te maken. In plaats van handmatig koppen groter of vet te maken, pas je een stijl toe zoals *Kop 1*, *Kop 2* of *Normaal*. Dit zorgt voor structuur, maakt navigatie eenvoudiger en laat je in één keer de volledige opmaak aanpassen.
+
+Het **stijlenpaneel** (Start → Stijlen → pijltje rechtsonder) toont alle stijlen in je document. Hiermee kun je:
+
+- controleren of stijlen correct gebruikt zijn  
+- handmatige opmaak opsporen  
+- stijlen wijzigen  
+- nieuwe stijlen maken  
+- documentstructuur verbeteren  
+
+Stijlen zijn essentieel bij grotere documenten zoals portfolio’s en onderzoeksverslagen omdat ze automatische inhoudsopgaven en consistente lay-out mogelijk maken.
+
+
+
+::: Exercise
+### Analyse van tekstopmaak met stijlen
+
+Controleer je portfolio voor *Wetenschappelijke Methodiek* op correct gebruik van stijlen.
+
+1. Open het stijlenpaneel in Word.  
+2. Controleer of koppen stijlen gebruiken (Kop 1, Kop 2, …).  
+3. Zoek handmatige opmaak en vervang die door stijlen.  
+4. Controleer consistentie van lopende tekst (stijl *Normaal*).  
+5. Pas indien nodig stijlen aan zodat het hele document automatisch correct opgemaakt wordt.
+
+---
+
+**Reflectievraag**  
+: _Hoe gebruikte je stijlen vóór deze oefening, wat viel je op tijdens de analyse, en hoe ervaar je het gebruiksgemak van stijlen en geavanceerde opmaakfuncties in Word?_  
+:::
+
+## Module 7: Tekstopmaak met Markdown
+
+Markdown is een lichte opmaaktaal waarmee je snel en overzichtelijk tekst schrijft, zonder afleiding van ingewikkelde menu's of knoppen. Vele online platformen (en AI-tools) ondersteunen Markdown als opmaaktaal.
+
+In plaats van op knoppen te klikken voor **vet** of *cursief*, typ je gewoon `**vet**` of `*cursief*`. Het resultaat? Tekst die zowel in platte vorm als na conversie goed leesbaar is.
+
+Markdown-bestanden hebben meestal de extensie `.md` en zijn gewoon tekstbestanden. Je kunt ze openen met elke teksteditor — van Kladblok tot professionele tools als VS Code of Obsidian.
+
+- Offline editor: [marktext.me](https://marktext.me)  
+- Online editor: [onlinemarkdown.com](https://onlinemarkdown.com) of [stackedit.io](https://stackedit.io)
+- Documentatie: [markdown.nl]((https://www.markdown.nl/cursus/basis-markdown))
+
+
+::: Exercise
+### Tekstopmaak met Markdown
+
+De opdracht is eenvoudig: voltooi **lessen 1 en 2** van de basiscursus Markdown.
+
+1. **Wat is Markdown?** [Uitleg, syntax en voorbeelden voor beginners](https://www.markdown.nl)  
+
+2. **Basiscursus Markdown!** Voltooi [Lessen 1 en 2](https://www.markdown.nl/cursus/basis-markdown) van de cursus
+
+   - [Les 1 - Introductie en basis opmaak](https://www.markdown.nl/cursus/basis-markdown/les-1-introductie-en-basis-opmaak) 
+   - [Les 2 - Lijsten en structuur](https://www.markdown.nl/cursus/basis-markdown/les-2-lijsten-en-structuur) 
+
+---
+
+**Reflectievraag**  
+: _Wat vond je eenvoudig, wat moeilijk, en in welke situaties zou je Markdown verkiezen boven een tekstverwerker?_  
+:::
+
+## Module 8: Tekstopmaak met LaTeX in Overleaf
+
+
+LaTeX is een opmaaktaal voor wetenschappelijke documenten. In plaats van handmatig opmaak toe te passen, beschrijf je de structuur van je document in code. LaTeX zorgt vervolgens voor consistente lay-out, automatische nummering, referenties en correcte weergave van wiskunde.
+
+We werken met **Overleaf**, een online LaTeX-editor die automatisch compileert naar PDF.
+
+- Online editor: [overleaf.com](https://www.overleaf.com)  
+- Documentatie: [Leer LaTeX in 30 minuten](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
+
+::: Exercise
+### Werken met LaTeX in Overleaf
+
+Inhoud van je document
+: Kies **één** van onderstaande opties:
+
+-   **Optie 1 — Informatief onderwerp**  
+    Schrijf een korte academische tekst over een informatief onderwerp (bv. AI, klimaat, ruimtevaart, internet, vaccinatie, energie, robotica).
+
+-   **Optie 2 — Persoonlijk onderwerp**  
+    Schrijf een gestructureerde tekst over een persoonlijk onderwerp (bv. hobby, game, sport, studie-aanpak, interessegebied), maar in **formele academische schrijfstijl**.
+
+---
+
+Structuurvereisten (verplicht voor beide opties)
+: Je document moet bevatten:
+
+-   titel  
+-   inleiding  
+-   minstens 2 secties  
+-   1 afbeelding met caption en label  
+-   1 lijst  
+-   1 wiskundige formule  
+-   besluit / samenvatting  
+
+
+Minimale lengte: ± 400 woorden.
+
+---
+
+Uitwerking met LaTeX in Overleaf
+: 
+
+
+1. **Voorbereiding**
+
+    1. Ga naar Overleaf en maak een account of log in.
+    2. Start een nieuw **Blank Project** met als naam:  
+       `Wetenschappelijke Methodiek -- Opdracht LaTeX`
+    3. Zet **Auto Compile** aan.
+
+2. **Preamble en documentstructuur**
+
+    1.  Bekijk de `\documentclass`.
+
+        -   Verander tijdelijk naar `letter`, `book` en `report`.
+        -   Observeer verschillen in structuur en opmaak.
+        -   Zet terug naar de oorspronkelijke instelling.
+
+    2.  Voeg toe in de preamble:
+
+        ```latex
+        \usepackage[dutch]{babel}
+        ```
+
+    3.  Voeg een titel, auteur en datum toe.
+
+        -   Gebruik zowel een vaste datum als `\today`.
+        -   Vergelijk het verschil in notatie.
+
+
+3. Basisopmaak in de tekst
+   : Werk tussen `\begin{document}` en `\end{document}`.
+
+    1.  Voeg een commentaarregel toe met `%`.
+        Wat gebeurt er bij compilatie?
+
+    2.  Schrijf minstens twee paragrafen (minstens 3 zinnen per paragraaf).
+        Gebruik:
+
+        -   vet
+        -   cursief
+        -   onderlijnen
+
+    3.  Test:
+
+        -   Nieuwe regel vs. nieuwe paragraaf
+        -   `\noindent`
+        -   `\setlength{\parindent}{0pt}` in de preamble
+
+    Beschrijf kort wat elke wijziging doet (als commentaar in je code).
+
+4. **Secties, labels en verwijzingen**
+
+    1.  Maak minstens twee secties met `\section{...}`.
+    2.  Voeg bij elke sectie een `\label{sec:...}` toe.
+    3.  Verwijs in je inleiding naar minstens één andere sectie met `\ref`.
+
+5. **Afbeelding**
+
+    1.  Voeg een afbeelding toe in een `figure`-omgeving.
+    2.  Breedte: `0.75\textwidth`
+    3.  Voeg toe:
+          - `\caption{...}`
+          - `\label{fig:voorbeeld}`
+    4.  Verwijs ernaar in de tekst met:
+        `figuur~\ref{fig:voorbeeld}`
+
+6. **Lijsten**
+
+    1.  Maak een ongenummerde lijst (`itemize`).
+    2.  Maak een genummerde lijst (`enumerate`).
+    3.  Voeg minstens één geneste lijst toe.
+
+7. **Wiskunde**
+
+    1.  Voeg in de preamble toe:
+
+    ```latex
+    \usepackage{amssymb,amsmath}
+    ```
+
+    2.  Gebruik:
+
+        -   Minstens twee inline formules
+        -   Minstens twee vergelijkingen in display-mode
+        -   Minstens één genummerde vergelijking met `\label`
+
+    3.  Verwijs correct naar de genummerde vergelijking met `\eqref`.
+
+8. ***Abstract***
+
+    Voeg een korte samenvatting toe met:
+
+    ```latex
+    \begin{abstract}
+    Korte samenvatting van je document.
+    \end{abstract}
+    ```
+
+    Plaats deze net na `\maketitle`.
+
+---
+
+Indienen
+: Upload het `.tex`-bestand en de gecompileerde `.pdf` in de uploadzone van Smartschool.
+
+---
+
+**Reflectievraag**  
+: _Wat viel je op aan het verschil tussen werken in een tekstverwerker en werken met LaTeX? Hoe ervaar je het gebruiksgemak van structuur-gebaseerde opmaak (code) tegenover visuele opmaak?_ 
+
+:::
+
+
+## Module 9: Rekenen met onzekerheden
+
+## Module 10: Bronvermelding
+
+## Module 11: Wetenschappelijk schrijven
