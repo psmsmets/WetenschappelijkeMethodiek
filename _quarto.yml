@@ -10,7 +10,7 @@ book:
   title: "Wetenschappelijke Methodiek"
   subtitle: "Richtlijnen en Strategieën voor Goed Onderzoek"
   site-url: https://w-m.pietersmets.be
-  date: "1 march 2026"
+  date: "22 march 2026"
   author:
     - name: Pieter Smets
       id: ps
@@ -32,8 +32,9 @@ book:
         - onderzoek.qmd
 #        - statistiek.qmd
         - rapporteren.qmd
-        - open-wetenschap.qmd
         - kritisch-denken.qmd
+        - onzekerheden.qmd
+        - open-wetenschap.qmd
     - part: tools.qmd
       chapters:
         - tool-zoekmachines-en-databanken.qmd
