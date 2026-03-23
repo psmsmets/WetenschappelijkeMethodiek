@@ -182,6 +182,8 @@ Voor analoge metingen wordt de onzekerheid $\Delta x$ bepaald als de grootste va
 De grootste van deze twee bepaalt de uiteindelijke onzekerheid.
 
 ::: {.callout-note title="Lengtemeting met een liniaal"}
+![Lengtemeting met een liniaal](_assets/figs/liniaal.png){#fig-liniaal fig-align="center" width=250}
+
 Gegeven:
 
 - $\delta = 0{,}5 \, \text{cm}$
@@ -199,6 +201,8 @@ $$
 :::
 
 ::: {.callout-note title="Spanningsmeting (analoge voltmeter)"}
+![Spanningsmeting met een analoge voltmeter](_assets/figs/voltmeter.png){#fig-voltmeter fig-align="center" height=200}
+
 Gegeven:
 
 - $\delta = 0{,}2 \, \text{V}$
@@ -226,6 +230,8 @@ $$
 Dit betekent dat de onzekerheid gelijk is aan één eenheid van het laatste weergegeven cijfer.
 
 ::: {.callout-note title="Massameting (digitale balans)"}
+![Massameting met een digitale balans](_assets/figs/balans.png){#fig-balans fig-align="center" height=200}
+
 Gemeten waarde:
 $$
 m = 136{,}4 \, \text{g}
@@ -315,8 +321,8 @@ $$
 ::: {.callout-important title="Omrekenregels en eenheden"}
 De **plaats van de eenheid** bepaalt het type onzekerheid:
 
-- $4{,}00 \pm 0{,}25\,\text{kg}$ → absoluut  
-- $4{,}00\,\text{kg} \pm 0{,}25$ → relatief
+- $4{,}00 \pm 0{,}25\,\text{\textbf{kg}}$ → absoluut  
+- $4{,}00\,\text{\textbf{kg}} \pm 0{,}25$ → relatief
 :::
 
 ### Afronden
