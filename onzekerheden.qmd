@@ -20,10 +20,7 @@ Wanneer gemeten grootheden verder gebruikt worden in berekeningen, moeten de bij
 
 ::: {.callout-warning title="Belangrijk inzicht"}
 Het omgaan met onzekerheden is één van de moeilijkste en vaak vergeten onderdelen van experimenteel werk. 
-
 Fouten in dit proces leiden tot onnauwkeurige resultaten en kunnen volledig verkeerde conclusies veroorzaken.
-
-Onzekerheden zijn geen detail, maar een essentieel onderdeel van elke meting en berekening.
 :::
 
 ::: {.callout-note title="Space Shuttle Challenger (1996)" collapse="true"}
@@ -106,7 +103,7 @@ Alle waarden tussen 2 en 8 zijn mogelijk, zoals weergegeven in @fig-onzekerheid.
     \node[below right] at (10.5,0) {$x$};
 
     % Ticks
-    \foreach \x in {0,1,2,3,4,5,6,7,8,9,10} {
+    \foreach \x in {0,...,10} {
         \draw (\x,-0.15) -- (\x,0.15);
         \node[below] at (\x,-0.15) {\x};
     }
@@ -347,13 +344,13 @@ In deze cursus gebruiken we **vereenvoudigde rekenregels** voor onzekerheden, ge
 
 Wanneer grootheden met een onzekerheid worden opgeteld of afgetrokken, wordt de **absolute onzekerheid** van het resultaat bepaald door de som van de absolute onzekerheden.
 
-::: {.callout-tip title="Rekenregel voor som en verschil"}
+::: {.callout-tip title="Rekenregels voor som en verschil"}
 Voor:
 $$
 y = a + b
 $$
 
-geldt:
+geldt in de worst-case (lineaire) benadering:
 $$
 \Delta y = \Delta a + \Delta b
 $$
@@ -362,6 +359,7 @@ of in volledige notatie:
 $$
 (a \pm \Delta a) + (b \pm \Delta b) = (a + b) \pm (\Delta a + \Delta b)
 $$
+Hierbij worden onzekerheden lineair opgeteld.  
 
 De rekenregel voor een verschil is hetzelfde als voor een som:
 $$
@@ -386,10 +384,10 @@ $$
 
     % As
     \draw[->, thick] (0,0) -- (10.5,0);
-    \node[below right] at (10.5,0) {$b$};
+    \node[below right] at (10.5,0) {$a$};
 
     % Ticks
-    \foreach \x in {0,1,2,3,4,5,6,7,8,9,10} {
+    \foreach \x in {0,...,10} {
         \draw (\x,-0.15) -- (\x,0.15);
         \node[below] at (\x,-0.15) {\x};
     }
@@ -408,10 +406,10 @@ $$
 
     % As
     \draw[->, thick] (0,0) -- (10.5,0);
-    \node[below right] at (10.5,0) {$a$};
+    \node[below right] at (10.5,0) {$b$};
 
     % Ticks
-    \foreach \x in {0,1,2,3,4,5,6,7,8,9,10} {
+    \foreach \x in {0,...,10} {
         \draw (\x,-0.15) -- (\x,0.15);
         \node[below] at (\x,-0.15) {\x};
     }
@@ -432,7 +430,7 @@ $$
     \node[below right] at (10.5,0) {$y$};
 
     % Ticks
-    \foreach \x in {0,1,2,3,4,5,6,7,8,9,10} {
+    \foreach \x in {0,...,10} {
         \draw (\x,-0.15) -- (\x,0.15);
         \node[below] at (\x,-0.15) {\x};
     }
@@ -446,7 +444,7 @@ $$
 :::
 :::
 
-::: {.callout-caution title="Statische benadering"}
+::: {.callout-caution title="Statische benadering" collapse="true"}
 Bij de statistische benadering worden onafhankelijke onzekerheden niet lineair opgeteld, maar gecombineerd via de kwadratische som. Kleine, willekeurige meetfouten heffen elkaar deels op, waardoor de totale onzekerheid typisch kleiner is dan bij de worst-case benadering.
 
 Voor een som:
@@ -466,59 +464,210 @@ Onzekerheden worden gecombineerd op basis van varianties (kwadraten van standaar
 
 Wanneer grootheden met een onzekerheid worden vermenigvuldigd of gedeeld, wordt de **relatieve onzekerheid** van het resultaat bepaald door de som van de relatieve onzekerheden van de gebruikte grootheden.
 
-::: {.callout-tip title="Rekenregel voor vermenigvuldigen en delen"}
+
+::: {.callout-tip title="Rekenregels voor product en quotiënt (eerste-orde benadering)"}
 Voor:
 $$
-y = \frac{ab}{c}
+y = ab \quad \text{of} \quad y = \frac{a}{b}
 $$
 
-geldt:
+geldt volgens de eerste-orde (lineaire) benadering:
 $$
-\frac{\Delta y}{y} = \frac{\Delta a}{a} + \frac{\Delta b}{b} + \frac{\Delta c}{c}
+\frac{\Delta y}{y} \approx \frac{\Delta a}{a} + \frac{\Delta b}{b}
 $$
 
-of in volledige notatie:
+Dus:
 
-- product
+- bij product en quotiënt tel je **relatieve onzekerheden** op
+- de absolute onzekerheid volgt via:
+$$
+\Delta y = y \left( \frac{\Delta a}{a} + \frac{\Delta b}{b} \right)
+$$
 
-  $$
-  \Big(a \pm \Delta a\Big) \Big(b \pm \Delta b\Big)
-  =
-  \Big( a \, b \Big) \pm \bigg(\frac{\Delta a}{a}+\frac{\Delta b}{b}\bigg)
-  $$
+De volledige notatie voor
 
-- quotiënt
-  $$
-  \dfrac{a \pm \Delta a}{b \pm \Delta b}
-  =
-  \dfrac{a}{b} \pm \bigg(\frac{\Delta a}{a}+\frac{\Delta b}{b}\bigg)
-  $$
+- product:
+$$
+\Big( a \pm \Delta a \Big) \Big( b \pm \Delta b \Big)
+\approx
+ab \pm ab\bigg( \frac{\Delta a}{a}+\frac{\Delta b}{b} \bigg)
+$$
+
+- quotiënt:
+$$
+\dfrac{a \pm \Delta a}{b \pm \Delta b}
+\approx
+\dfrac{a}{b} \pm \dfrac{a}{b}\bigg(\frac{\Delta a}{a}+\frac{\Delta b}{b}\bigg)
+$$
 :::
+
+::: {.callout-note title="Voorbeeld"}
+$$
+\begin{split}
+  \big( 4 \pm 1 \big) \big( 3 \pm 0{,}5 \big)
+  & \approx \big(4 \cdot 3 \big) \pm \big(3 \cdot 1 + 4 \cdot 0{,}5 \big) \\
+  & = 12 \pm \big( 3 + 2 \big) \\
+  & = 12 \pm 5
+\end{split}
+$$
+
+::: {#fig-onzekerheid-product fig-cap="Product van twee waarden met onzekerheden: exact interval en eerste-orde benadering. De lineaire benadering geeft een symmetrisch interval, het exacte interval niet." fig-align="center"}
+```{tikz}
+\large
+\begin{tikzpicture}[scale=1]
+
+    \node at (10.5,1) {};
+
+    % As
+    \draw[->, thick] (0,0) -- (20.5,0)
+      node[below right] {$a$}
+      ;
+
+    % Ticks
+    \foreach \x in {0,...,20} {
+        \draw (\x,-0.15) -- (\x,0.15);
+        \node[below] at (\x,-0.15) {\x};
+    }
+
+    \draw[line width=3pt, cyan] (3,0) -- (5,0);
+    \draw[fill=cyan, thick] (3,0) circle (3pt);
+    \draw[fill=cyan, thick] (5,0) circle (3pt);
+    \draw[fill=orange, thick] (4,0) circle (4.5pt);
+\end{tikzpicture}
+```
+```{tikz}
+\large
+\begin{tikzpicture}[scale=1]
+
+    \node at (10.5,1) {$\times$};
+
+    % As
+    \draw[->, thick] (0,0) -- (20.5,0)
+      node[below right] {$b$}
+      ;
+
+    % Ticks
+    \foreach \x in {0,...,20} {
+        \draw (\x,-0.15) -- (\x,0.15);
+        \node[below] at (\x,-0.15) {\x};
+    }
+    \draw[line width=3pt, cyan] (2.5,0) -- (3.5,0);
+    \draw[fill=cyan, thick] (2.5,0) circle (3pt);
+    \draw[fill=cyan, thick] (3.5,0) circle (3pt);
+    \draw[fill=orange, thick] (3,0) circle (4.5pt);
+\end{tikzpicture}
+```
+```{tikz}
+\large
+\begin{tikzpicture}[scale=1]
+
+    \node at (10.5,1) {$=$};
+
+    % As
+    \draw[->, thick] (0,0) -- (20.5,0)
+      node[below right] {$y$}
+      ;
+
+    % Ticks
+    \foreach \x in {0,...,20} {
+        \draw (\x,-0.15) -- (\x,0.15);
+        \node[below] at (\x,-0.15) {\x};
+    }
+
+    \draw[line width=3pt, cyan] (7.5,0) -- (17.5,0);
+    \draw[fill=cyan, thick] (7.5,0) circle (3pt);
+    \draw[fill=cyan, thick] (17.5,0) circle (3pt);
+    \draw[fill=orange, thick] (12,0) circle (4.5pt);
+    \draw[thick] (7,0) circle (3pt);
+    \draw[thick] (17,0) circle (3pt);
+\end{tikzpicture}
+```
+:::
+:::
+
+
+::: {.callout-warning title="Duiding: afwijking van de exacte onzekerheid"}
+De eerste-orde (lineaire) benadering geeft
+$$y = 12 \pm 5$$
+
+Het exacte interval volgt uit de uiterste waarden:
+$$
+\begin{split}
+  y_{\min} & = 3 \cdot 2{,}5 = 7{,}5, \\
+  y_{\max} & = 5 \cdot 3{,}5 = 17{,}5
+\end{split}
+$$
+dus:
+$$
+y = 12 \pm 5{,}5
+$$
+
+De lineaire benadering onderschat hier de onzekerheid. 
+Dit komt doordat termen van hogere orde (zoals $\Delta a$ en $\Delta b$) worden verwaarloosd.
+
+De benadering is nauwkeurig zolang de relatieve onzekerheden klein zijn:
+$$
+\frac{\Delta a}{a} \ll 1, \quad \frac{\Delta b}{b} \ll 1
+$$
+:::
+
 
 ### Machten en wortels
 
 Wanneer een grootheid met een onzekerheid tot een macht wordt verheven of daaruit een wortel wordt genomen, wordt de **relatieve onzekerheid** van het resultaat bepaald door de absolute waarde van het product van de exponent en de oorspronkelijke relatieve onzekerheid.
 
-::: {.callout-tip title="Rekenregel voor machten en wortels"}
+::: {.callout-tip title="Rekenregels voor machten en wortels (eerste-orde benadering)"}
 Voor:
 $$
 y = a^n
 $$
 
-geldt:
+geldt volgens de eerste-orde (lineaire) benadering:
 $$
-\frac{\Delta y}{y} = \left|n\frac{\Delta a}{a}\right|
+\frac{\Delta y}{y} \approx \left| n \right| \frac{\Delta a}{a}
 $$
 
-of in volledige notatie:
+Dus:
+
+- bij machten wordt de **relatieve onzekerheid vermenigvuldigd met $|n|$**
+- de absolute onzekerheid volgt via:
 $$
-(a \pm \Delta a)^n = a^n \pm \left|n\frac{\Delta a}{a}\right|
+\Delta y = |n|\, y \frac{\Delta a}{a}
+$$
+
+De volledige notatie:
+$$
+(a \pm \Delta a)^n
+\approx
+a^n \pm |n|\, a^n \frac{\Delta a}{a}
 $$
 
 Merk op:
 $$
-\sqrt[m]{x} = x^{1/m}
+\sqrt[m]{a} = a^{1/m}
 $$
+dus:
+$$
+\frac{\Delta y}{y} \approx \frac{1}{m} \frac{\Delta a}{a}
+$$
+:::
+
+
+::: {.callout-note title="Voorbeeld"}
+$$
+\begin{split}
+  \big( 4 \pm 1 \big)^2
+  & \approx 4^2 \pm \left|2\right| \cdot 4^2 \cdot \frac{1}{4} \\
+  & = 16 \pm 8
+\end{split}
+$$
+
+Exact interval:
+$$
+[3,5]^2 = [9,25] = 17 \pm 8
+$$
+
+De eerste-orde benadering onderschat hier de centrale waarde, maar geeft een vergelijkbare spreiding.
 :::
 
 ## Oefeningen
@@ -658,10 +807,10 @@ Wortels van onzekerheden
 1. De absolute onzekerheid van de straal van een 2D-plaat is $\Delta b$.  
    Wat is de relatieve (fractionele) onzekerheid van de oppervlakte van de plaat?
 
-2. De lengte van elke zijde van een kubus is $(3\,\text{m} \pm 4\%)$. De massa van de kubus is $(5\,\text{kg} \pm 8\%)$.  
+2. De lengte van elke zijde van een kubus is $3\,\text{m} \pm 4\%$. De massa van de kubus is $5\,\text{kg} \pm 8\%$.  
    Wat bedraagt de procentuele onzekerheid van de massadichtheid van de kubus?
 
-3. Een bol bevindt zich in een kubus. Zowel de diameter van de bol als de lengte van een zijde van de kubus is $(20{,}0 \pm 0{,}8)\,\text{m}$.  
+3. Een bol bevindt zich in een kubus. Zowel de diameter van de bol als de lengte van een zijde van de kubus is $20{,}0 \pm 0{,}8\,\text{m}$.  
    Bepaal de verhouding van de procentuele onzekerheid van het volume van de bol tot die van het volume van de kubus.
 
 4. In de vergelijking

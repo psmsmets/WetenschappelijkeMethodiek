@@ -824,6 +824,8 @@ Uitwerking met LaTeX in Overleaf
         -   Minstens twee vergelijkingen in display-mode
         -   Minstens één genummerde vergelijking met `\label`
 
+        Raadpleeg de [Short Math Guide](https://tug.ctan.org/info/short-math-guide/short-math-guide.pdf) voor een overzicht van alle veelgebruikte wiskundige notaties en symbolen.
+
     3.  Verwijs correct naar de genummerde vergelijking met `\eqref`.
 
 8. ***Abstract***
