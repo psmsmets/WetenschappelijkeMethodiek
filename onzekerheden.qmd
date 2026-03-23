@@ -511,7 +511,7 @@ $$
 $$
 \begin{split}
   \big( 4 \pm 1 \big) \big( 3 \pm 0{,}5 \big)
-  & \approx \big(4 \cdot 3 \big) \pm \big(3 \cdot 1 + 4 \cdot 0{,}5 \big) \\
+  & \approx \big(4 \cdot 3 \big) \pm \big(4 \cdot 3 \big) \bigg( \dfrac{1}{4} + \dfrac{0{,}5}{3} \bigg) \\
   & = 12 \pm \big( 3 + 2 \big) \\
   & = 12 \pm 5
 \end{split}
