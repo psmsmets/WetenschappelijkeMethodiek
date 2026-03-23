@@ -1,0 +1,37 @@
+\documentclass{standalone}
+
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{tikz}
+
+\usetikzlibrary{shapes.geometric, arrows}
+\usetikzlibrary{calc,positioning}
+
+\graphicspath{{../../}}
+
+\begin{document}
+\nopagecolor
+\large
+\begin{tikzpicture}[scale=1.5]
+
+    % As
+    \draw[->, thick] (0,0) -- (10.5,0);
+
+    % Ticks
+    \foreach \x in {0,1,2,3,4,5,6,7,8,9,10} {
+        \draw (\x,-0.15) -- (\x,0.15);
+        \node[below] at (\x,-0.15) {\x};
+    }
+
+    % Rood: tot 4
+    %\draw[line width=3pt, red] (0,-.05) -- (5,-.05);
+
+    % Blauw: vanaf 3 tot 5
+    \draw[line width=4pt, cyan] (2,0) -- (8,0);
+
+    \draw[fill=orange, thick] (5,0) circle (5pt);
+    \draw[fill=orange, thick] (2,0) circle (3pt);
+    \draw[fill=orange, thick] (8,0) circle (3pt);
+
+\end{tikzpicture}
+\end{document}
