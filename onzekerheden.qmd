@@ -254,7 +254,7 @@ De formule $\Delta x = n \frac{\delta}{2}$ is een vereenvoudigde benadering. Bij
 
 ## Absolute en relatieve onzekerheden
 
-Onzekerheden kunnen op drie manieren worden weergegeven: **absoluut**, **fractieel (relatief)** en **procentueel**. Deze drukken dezelfde onzekerheid uit, maar in een andere vorm.
+Onzekerheden kunnen op drie manieren worden weergegeven: **absoluut**, **fractioneel (relatief)** en **procentueel**. Deze drukken dezelfde onzekerheid uit, maar in een andere vorm.
 
 ### Absolute onzekerheid
 
