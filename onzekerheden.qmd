@@ -332,11 +332,10 @@ De waarde wordt afgerond volgens de precisie van de onzekerheid.
 
 ::: {.callout-note title="Voorbeelden van afronden"}
 $$
-3{,}25 \pm 0{,}0435 \rightarrow 3{,}25 \pm 0{,}04
-$$
-
-$$
-3{,}2574 \pm 0{,}1 \rightarrow 3{,}3 \pm 0{,}1
+\begin{align}
+3{,}25 \pm 0{,}0435 & \rightarrow 3{,}25 \pm 0{,}04 \\
+3{,}2574 \pm 0{,}1 & \rightarrow 3{,}3 \pm 0{,}1
+\end{align}
 $$
 :::
 
@@ -450,7 +449,7 @@ $$
 :::
 :::
 
-::: {.callout-caution title="Statische benadering" collapse="true"}
+::: {.callout-caution title="Statistische benadering" collapse="true"}
 Bij de statistische benadering worden onafhankelijke onzekerheden niet lineair opgeteld, maar gecombineerd via de kwadratische som. Kleine, willekeurige meetfouten heffen elkaar deels op, waardoor de totale onzekerheid typisch kleiner is dan bij de worst-case benadering.
 
 Voor een som:
@@ -463,10 +462,15 @@ $$
 $$
 
 Onzekerheden worden gecombineerd op basis van varianties (kwadraten van standaardafwijkingen), onder de aanname dat de fouten onafhankelijk en willekeurig zijn.
+
+Voor het bovenstaande voorbeeld wordt de werkelijke gecombineerde onzekerheid
+$$
+\Delta y = \sqrt{\left(1\right)^2 + \left(0{,}5\right)^2} = \sqrt{1{,}25} \approx 1{,}12
+$$
 :::
 
 
-### Vermenigvuldigen en delen
+### Product en quotiënt
 
 Wanneer grootheden met een onzekerheid worden vermenigvuldigd of gedeeld, wordt de **relatieve onzekerheid** van het resultaat bepaald door de som van de relatieve onzekerheden van de gebruikte grootheden.
 
@@ -580,12 +584,13 @@ $$
         \node[below] at (\x,-0.15) {\x};
     }
 
-    \draw[line width=3pt, cyan] (7.5,0) -- (17.5,0);
-    \draw[fill=cyan, thick] (7.5,0) circle (3pt);
-    \draw[fill=cyan, thick] (17.5,0) circle (3pt);
+    \draw[line width=3pt, cyan] (7,0) -- (17,0);
+    \draw[fill=cyan, thick] (7,0) circle (3pt);
+    \draw[fill=cyan, thick] (17,0) circle (3pt);
     \draw[fill=orange, thick] (12,0) circle (4.5pt);
-    \draw[thick] (7,0) circle (3pt);
-    \draw[thick] (17,0) circle (3pt);
+    \draw[thick] (7.5,0) circle (3pt);
+    \draw[thick] (12.5,0) circle (4.5pt);
+    \draw[thick] (17.5,0) circle (3pt);
 \end{tikzpicture}
 ```
 :::
@@ -599,22 +604,24 @@ $$y = 12 \pm 5$$
 Het exacte interval volgt uit de uiterste waarden:
 $$
 \begin{split}
-  y_{\min} & = 3 \cdot 2{,}5 = 7{,}5, \\
+  y_{\min} & = 3 \cdot 2{,}5 = 7{,}5 \\
   y_{\max} & = 5 \cdot 3{,}5 = 17{,}5
 \end{split}
 $$
 dus:
 $$
-y = 12 \pm 5{,}5
+y = \dfrac{7{,}5 + 17{,}5}{2} \pm \dfrac{17{,}5 - 7{,}5}{2} = 12{,}5 \pm 5
 $$
 
-De lineaire benadering onderschat hier de onzekerheid. 
-Dit komt doordat termen van hogere orde (zoals $\Delta a$ en $\Delta b$) worden verwaarloosd.
+Bij het berekenen met de lineaire benadering wordt het resultaat geschat op $12 \pm 5$, maar in feite ligt het echte interval tussen $7{,}5$ en $17{,}5$. Dit betekent dat de centrale waarde verschuift van $12$ naar $12{,}5$ omdat de combinatie van onzekerheden niet lineair optreedt: kleine veranderingen in beide grootheden samen veroorzaken een grotere spreiding dan alleen hun afzonderlijke relatieve onzekerheden.
 
-De benadering is nauwkeurig zolang de relatieve onzekerheden klein zijn:
+
+Dit komt doordat termen van hogere orde (zoals kwadraten en producten van $\Delta a$ en $\Delta b$) worden verwaarloosd. 
+De benadering is nauwkeurig zolang de relatieve onzekerheden klein blijven:
 $$
 \frac{\Delta a}{a} \ll 1, \quad \frac{\Delta b}{b} \ll 1
 $$
+Als vuistregel kan je aannemen dat de relatieve onzekerheden kleiner dan $10\%$ moeten blijven voor betrouwbare resultaten.
 :::
 
 
@@ -776,7 +783,7 @@ Verschil van onzekerheden
 5. $(14 \pm 2\,\text{s}) - (6\,\text{s} \pm 15\%)$
 6. $(1{,}8 \pm 0{,}5\,\text{T}) - (1{,}2 \pm 0{,}4\,\text{T})$
 
-Vermenigvuldiging van onzekerheden
+Product van onzekerheden
 
 1. $(5 \pm 2\,\text{kg}) \times (8 \pm 4\,\text{kg})$
 2. $(2{,}5 \pm 0{,}5\,\text{m}) \times (7{,}0 \pm 0{,}3\,\text{m})$
@@ -785,7 +792,7 @@ Vermenigvuldiging van onzekerheden
 5. $(1{,}6 \pm 0{,}5\,\text{W}) \times (2{,}4\,\text{W} \pm 30\%)$
 6. $(7{,}2 \pm 3{,}1\,\text{A}) \times (8{,}3\,\text{A} \pm 0.25)$
 
-Deling van onzekerheden
+Quotiënt van onzekerheden
 
 1. $(10 \pm 2\,\text{V}^2)/(5 \pm 4\,\text{V})$
 2. $(12 \pm 2\,\text{K}^2)/(4 \pm 1\,\text{K})$
