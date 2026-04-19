@@ -29,6 +29,14 @@
 
  [**Opdracht 15**](project5.qmd#werken-met-latex-in-overleaf): Werken met LaTeX in Overleaf\Pageref{werken-met-latex-in-overleaf}
 
+ [**Opdracht 16**](project5.qmd#basisbewerkingen-met-onzekerheden): Basisbewerkingen met onzekerheden\Pageref{basisbewerkingen-met-onzekerheden}
+
+ [**Opdracht 17**](project5.qmd#wat-is-een-goede-onderzoeksvraag): Wat is een goede onderzoeksvraag?\Pageref{wat-is-een-goede-onderzoeksvraag}
+
+ [**Opdracht 18**](project5.qmd#onderzoeksvraag-opstellen): Onderzoeksvraag opstellen\Pageref{onderzoeksvraag-opstellen}
+
+ [**Opdracht 19**](project5.qmd#onderzoeksvraag-interpreteren-en-evalueren): Onderzoeksvraag interpreteren en evalueren\Pageref{onderzoeksvraag-interpreteren-en-evalueren}
+
  [**Opdracht 1**](project6.qmd#verkennen-onderwerpen): Verkennen onderwerpen\Pageref{verkennen-onderwerpen}
 
  [**Opdracht 2**](project6.qmd#onderzoeksvoorstel): Onderzoeksvoorstel\Pageref{onderzoeksvoorstel}

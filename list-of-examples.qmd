@@ -7,6 +7,10 @@
 
  [**Voorbeeld 2.4**](bronnen.qmd#vermelden-van-ai-als-hulpmiddel-1): Vermelden van AI als hulpmiddel\Pageref{vermelden-van-ai-als-hulpmiddel-1}
 
+ [**Voorbeeld 3.1**](onderzoek.qmd#Example-3.1)\Pageref{Example-3.1}
+
+ [**Voorbeeld 3.2**](onderzoek.qmd#Example-3.2)\Pageref{Example-3.2}
+
  [**Voorbeeld 11.1**](tool-data-analyse.qmd#Example-11.1)\Pageref{Example-11.1}
 
  [**Voorbeeld 11.2**](tool-data-analyse.qmd#Example-11.2)\Pageref{Example-11.2}

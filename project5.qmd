@@ -113,7 +113,7 @@ gantt
 
     Paasvakantie                       :done, break4, 2026-04-06, 10d
 
-    Bronvermelding                     :c1, after break4, 10d
+    Onderzoeksvraag                    :c1, after break4, 10d
     Wetenschappelijk schrijven         :c2, after c1, 25d
 
     Portfolio                          :milestone, 2026-06-08, 0d
@@ -855,6 +855,135 @@ Indienen
 
 ## Module 9: Rekenen met onzekerheden
 
-## Module 10: Bronvermelding
+::: {.callout-note title="Doel"}
+- Inzien dat metingen nooit exact zijn en altijd een onzekerheid bevatten.  
+- Verschil begrijpen tussen **absolute**, **relatieve** en **procentuele onzekerheid**.  
+- Onzekerheden correct **omzetten en afronden**.  
+- Onzekerheden correct **propageren** bij som, verschil, product en machten.  
+- Resultaten interpreteren als **interval** in plaats van exact getal.  
+:::
 
-## Module 11: Wetenschappelijk schrijven
+::: Opdracht
+### Basisbewerkingen met onzekerheden
+
+Je maakt de **oneven oefeningen** voor "Propagatie van onzekerheden" en **toepassing 2** (zie [@sec-onzekerheden]).
+
+Focus op:
+
+- correct noteren van onzekerheden  
+- juiste keuze van absolute vs. relatieve regels  
+- correct afronden  
+
+---
+
+**Reflectievraag**  
+: _Waarom is het belangrijk om onzekerheden mee te rekenen in plaats van enkel met exacte waarden te werken? Geef een concreet voorbeeld._
+:::
+
+
+## Module 10: Onderzoeksvraag formuleren en beoordelen
+
+::: {.callout-note title="Doel"}
+- Begrijpen wat een goede onderzoeksvraag is en waarom ze centraal staat in onderzoek.  
+- Onderzoeksvragen kunnen **onderscheiden van slechte of onduidelijke vragen**.  
+- Leren hoe je een onderzoeksvraag opstelt met **afbakening en variabelen**.  
+- Onderzoeksvragen **analyseren en interpreteren** (wat wordt precies onderzocht?).  
+- Onderzoeksvragen **evalueren en verbeteren** met behulp van een controlelijst.  
+- Inzicht krijgen in verschillende soorten onderzoeksvragen (beschrijvend, verklarend, vergelijkend, evaluerend, ontwerpgericht).  
+:::
+
+::: Opdracht
+### Wat is een goede onderzoeksvraag?
+
+1.  Eerste analyse
+    : Bekijk de volgende vragen:
+    - “Is sport gezond?”
+    - “Hoeveel uur sporten leerlingen per week?”
+    - “Wat is het effect van 3 uur sport per week op de conditie van leerlingen?”
+
+    Welke vraag is volgens jou het best? Leg uit waarom.
+
+2.  Herken fouten
+    : Leg uit wat er mis is met deze vragen:
+    - “Is huiswerk slecht?”
+    - “Waarom is klimaatverandering belangrijk?”
+    - “Heeft sociale media invloed op jongeren?”
+    - “Wat zijn de oorzaken en gevolgen van stress?”
+
+    Gebruik hierbij begrippen uit de cursus (bv. *te breed*, *niet meetbaar*, *normatief*, *meerdere vragen tegelijk*).
+
+3.  Verbeter de vragen
+    : Herschrijf bovenstaande vragen tot **goede onderzoeksvragen**.
+
+:::
+
+::: Opdracht
+### Onderzoeksvraag opstellen
+
+1.  Kies een onderwerp
+    : Kies één van de volgende thema’s:
+    - sociale media  
+    - gezondheid  
+    - school  
+    - vrije tijd  
+
+2.  Formuleer een onderzoeksvraag
+    : Gebruik een van de structuren:
+    - “Wat is het effect van X op Y bij Z?”
+    - “Wat is het verband tussen X en Y bij Z?”
+    - “Welke verschillen zijn er tussen X en Y in Z?”
+
+3.  Analyseer je vraag
+    : Noteer:
+    - Wat is **X** (oorzaak)?  
+    - Wat is **Y** (gevolg)?  
+    - Wat ga je **meten of observeren**?  
+
+4.  Controleer je vraag
+    : Gebruik de controlelijst uit de cursus:
+    - afgebakend?
+    - variabelen duidelijk?
+    - meetbaar?
+    - onderzoekbaar?
+    - enkelvoudig?
+    - haalbaar?
+    - neutraal?
+
+    Verbeter je vraag indien nodig.
+
+---
+
+**Reflectievraag**  
+: _Welke stap uit de controlelijst vond je het moeilijkst? Waarom?_
+
+:::
+
+::: Opdracht
+### Onderzoeksvraag interpreteren en evalueren
+
+1. Analyseer een onderzoeksvraag
+   : Bekijk de volgende vraag:  
+   _“Wat is het effect van smartphonegebruik (in uren per dag) op de slaapduur van leerlingen van 16 jaar?”_
+
+   Beantwoord:
+   - Wat is de **onafhankelijke variabele**?
+   - Wat is de **afhankelijke variabele**?
+   - Hoe zou je dit kunnen meten?
+
+2. Evalueer een onderzoeksvraag
+   : Welke van deze twee vragen is beter? Waarom?
+   - _“Heeft sociale media invloed op jongeren?”_
+   - _“Wat is het verband tussen dagelijks gebruik van sociale media (in uren) en concentratie tijdens de les bij leerlingen van 15–16 jaar?”_
+
+   Gebruik hierbij de [controlelijst](onderzoek.html#controlelijst-voor-een-goede-onderzoeksvraag).
+
+---
+
+**Reflectievraag (optioneel)**  
+: _Waarom is een duidelijk geformuleerde onderzoeksvraag essentieel voor de rest van het onderzoek?_
+
+:::
+ 
+
+## Module 11: Wetenschappelijk schrijven (en citeren)
+Schrijven en refereren conform de wetenschap.

@@ -37,173 +37,285 @@ Het is samenwerken, voortbouwen op elkaars werk, en openlijk delen van kennis. E
 ## Onderzoeksvraag
 
 <!--
+
 https://www.cs.ru.nl/E.Barendsen/onderwijs/onderzoeksvaardigheden/doc3a.html
+
 https://www.scribbr.nl/starten-met-je-scriptie/type-onderzoeksvragen/
+
 -->
 
-De onderzoeksvraag is de kern van je hele onderzoek; alles draait om die ene vraag. Voordat je effectief aan de slag kunt[^2], is het cruciaal om een goed geformuleerde onderzoeksvraag op te stellen, want die vormt de leidraad voor elke volgende stap. Een goede hoofdvraag bepaalt de richting en het kader van je onderzoek. We zullen eerst kijken naar wat een sterke hoofdvraag is en hoe het soms mis kan gaan bij het formuleren ervan.
+De onderzoeksvraag is de kern van je hele onderzoek; alles draait om die ene vraag. Voordat je effectief aan de slag kunt[^2], is het cruciaal om een goed geformuleerde onderzoeksvraag op te stellen, want die vormt de leidraad voor elke volgende stap. Een goede  bepaalt de richting en het kader van je onderzoek. We kijken eerst naar wat een sterke onderzoeksvraag is, hoe je ze kunt opbouwen en hoe het soms mis kan gaan bij het formuleren ervan.
 
 [^2]: Al is dit relatief, want in de praktijk krijgt de onderzoeksvraag pas echt vorm tijdens het (voor-) onderzoek.
 
-ls je je hoofdvraag eenmaal hebt geformuleerd, is het handig om deze op te delen in deelvragen. Dit helpt om overzicht te houden en precies te weten wat je moet onderzoeken. Vervolgens is het belangrijk om na te gaan of je onderzoeksvraag haalbaar is. Het kan zijn dat je een prachtige vraag hebt bedacht, maar dat deze in de praktijk lastig te onderzoeken is. Het is ook heel normaal om je hoofd- en deelvragen aan te passen tijdens het proces, omdat je inzichten groeien.
+Als je je  eenmaal hebt geformuleerd, is het handig om deze op te delen in deelvragen. Dit helpt om overzicht te houden en precies te weten wat je moet onderzoeken. Vervolgens is het belangrijk om na te gaan of je onderzoeksvraag haalbaar is. Het kan zijn dat je een sterke vraag hebt bedacht, maar dat die in de praktijk moeilijk te onderzoeken blijkt. Het is ook heel normaal om je hoofd- en deelvragen tijdens het proces bij te sturen, omdat je inzichten groeien.
 
-Je kunt een onderzoek opzetten vanuit eigen interesse in een onderwerp, maar soms krijg je de opdracht van iemand anders, zoals een werkgever of docent. De kwestie die je wilt onderzoeken noemen we het onderzoeksprobleem. Dit hoeft niet altijd om een probleem te gaan, zoals pesten op school of geweld in stadions. Ook neutrale onderwerpen, zoals het verband tussen buitentemperatuur en drankverkoop in een supermarkt, vallen hieronder. Wat belangrijk is, is dat je weet wat je met het onderzoek wilt bereiken en dit vastlegt in je onderzoeksvraag.
+Je kunt een onderzoek opzetten vanuit eigen interesse in een onderwerp, maar soms krijg je de opdracht van iemand anders, zoals een werkgever of docent. De kwestie die je wilt onderzoeken noemen we het **onderzoeksprobleem**. Dat hoeft niet altijd een probleem in negatieve zin te zijn, zoals pesten op school of geweld in stadions. Ook neutrale onderwerpen, zoals het verband tussen buitentemperatuur en drankverkoop in een supermarkt, vallen hieronder. Belangrijk is dat je weet wat je met je onderzoek wilt bereiken en dat je dit helder vastlegt in een onderzoeksvraag.
 
-Twee methoden om tot een goede onderzoeksvraag te komen zijn het gebruik van de vier vaste elementen van een onderzoek en de vier eisen van de onderzoeksvraag. Deze criteria worden toegepast om een vraag te creëren die richting en focus geeft aan het onderzoek [@oost2002_voorbereiden; @RUG_onderzoeksvraag; @TUD_onderzoeksvraag].
+Om tot een goede onderzoeksvraag te komen, helpt het om eerst stil te staan bij vier basiselementen: het **kennisgebied**, de **reden** van het onderzoek, het **soort antwoord** dat je zoekt en de **strategie** waarmee je de vraag wilt onderzoeken [@oost2002_voorbereiden; @RUG_onderzoeksvraag; @TUD_onderzoeksvraag]. Die elementen helpen om je vraag te situeren. Daarna kun je je onderzoeksvraag stap voor stap controleren en verbeteren.
 
-### Structureren van een onderzoek
-
-De vier vaste elementen om het onderzoek te structureren:
+### De 4 vaste elementen van een onderzoeksvraag
 
 ::: {.Feature}
-#### De 4 vaste elementen van een onderzoeksvraag
-1.  het kennisgebied
-    : `Waarover` gaat het? Het onderwerp of veld waarin de vraag zich bevindt.
 
-1.  de reden voor het onderzoek
-    : `Waarom` is deze vraag belangrijk? De waarde en motivatie achter het onderzoek.
+#### De 4 vaste elementen
 
-1.  het soort antwoord
-    : `Wat` wil je precies weten? Het type antwoord dat je zoekt, zoals een verklaring, vergelijking of analyse.
+1. het kennisgebied
 
-1.  de strategie
-    : `Hoe` ga je de vraag aanpakken? De aanpak en methodologie die je gaat gebruiken
+   : `Waarover` gaat het? Het onderwerp of veld waarin de vraag zich bevindt.
+
+2. de reden voor het onderzoek
+
+   : `Waarom` is deze vraag belangrijk? De waarde en motivatie achter het onderzoek.
+
+3. het soort antwoord
+
+   : `Wat` wil je precies weten? Het type antwoord dat je zoekt, zoals een beschrijving, verklaring, vergelijking of evaluatie.
+
+4. de strategie
+
+   : `Hoe` ga je de vraag aanpakken? De aanpak en methodologie die je zult gebruiken.
+
 :::
 
-Deze elementen vormen de basis om de onderzoeksvraag op te bouwen. 
-Ze zorgen ervoor dat je helder krijgt *waarover* je onderzoek gaat, *waarom* het belangrijk is, *wat* je wilt weten en *hoe* je dat zult doen.
+Deze vier elementen helpen om je onderzoeksvraag duidelijk te **situeren**: je weet waarover je onderzoek gaat, waarom het relevant is, wat je precies wilt weten en hoe je dat zult onderzoeken.
 
+::: {.callout-note title="Een goede onderzoeksvraag"}
+Een sterke onderzoeksvraag is:
 
-### Formuleren van een onderzoeksvraag
+- **verankerd** in een duidelijk kennisgebied,
+- **relevant** omdat er een goede reden is om ze te onderzoeken,
+- **precies** in wat ze wil weten,
+- **functioneel** omdat ze aansluit bij een geschikte methode,
+- **consistent** als samenhangend geheel.
+:::
 
-De onderzoeksvraag vormt de basis van het hele onderzoeksplan en moet zorgvuldig worden geformuleerd volgens de vier eisen aan de onderzoeksvraag:
+Met andere woorden: een goede onderzoeksvraag past inhoudelijk bij het onderwerp, is zinvol om te onderzoeken, is duidelijk afgebakend en stuurt het verdere onderzoek in een bruikbare richting.
+
+Om na te gaan of dat zo is, kun je de onderzoeksvraag stap voor stap controleren met onderstaande controlelijst.
+
+### Controlelijst voor een goede onderzoeksvraag
+
+Gebruik onderstaande stappen om je onderzoeksvraag te controleren en te verbeteren.
 
 ::: {.Feature}
-#### De 4 eisen aan de onderzoeksvraag
-1.  Vragend
-    : De vraag moet open zijn en beginnen met woorden als “hoe”, “wat”, “welke” of “waarom”.
 
-1.  Complex
-    : Het moet een vraag zijn die niet direct op te lossen is, maar onderzoek en diepgang vereist.
+#### Stap-voor-stap controlelijst
 
-1.  Haalbaar
-    : De vraag moet praktisch te onderzoeken zijn binnen de beschikbare tijd en middelen.
+1. **Is het onderwerp voldoende afgebakend?**
 
-1.  Duidelijk
-    : Het doel van het onderzoek moet helder zijn; de vraag moet aangeven wat het onderzoek precies wil ontdekken.
+   : Een te brede vraag is moeilijk uitvoerbaar. Beperk je onderwerp in tijd, plaats, doelgroep of context.
+
+2. **Zijn de variabelen duidelijk?**
+
+   : Geef aan wat je precies onderzoekt. Wat verandert er? Wat meet of observeer je?
+
+3. **Is de vraag meetbaar of observeerbaar?**
+
+   : Vermijd vage woorden zoals *beter*, *veel*, *belangrijk* of *invloed* zonder verdere specificatie.
+
+4. **Is de vraag onderzoekbaar?**
+
+   : Een onderzoeksvraag kun je niet eenvoudig opzoeken; je moet gegevens verzamelen, analyseren of interpreteren.
+
+5. **Is de vraag enkelvoudig?**
+
+   : Vermijd dat je meerdere vragen tegelijk stelt in één zin.
+
+6. **Is de vraag haalbaar?**
+
+   : De vraag moet uitvoerbaar zijn binnen de beschikbare tijd, middelen en context.
+
+7. **Is de vraag duidelijk en neutraal geformuleerd?**
+
+   : Vermijd sturende of normatieve woorden. De vraag moet helder zeggen wat je wilt onderzoeken, zonder het antwoord al te sturen.
+
 :::
 
-Een goede onderzoeksvraag voldoet aan elk van de vier eisen en de vier vaste elementen en is daarbij:
 
- *  **verankerd** in een `kennisgebied`,
- *  **relevant** om een duidelijke `reden`,
- *  **precies** in de formulering van het `antwoord`,
- *  **functioneel** in methode en `strategie`,
- *  **consistent** als samenhangend `geheel`.
+### Is je vraag precies genoeg?
 
-Door de onderzoeksvraag zorgvuldig aan deze criteria te toetsen, wordt de vraag richtinggevend en effectief voor het verdere onderzoek. 
-De onderstaande hulpvragen helpen je om na te gaan of je onderzoeksvraag voldoet aan alle benodigde criteria:
+De controlelijst hierboven helpt om fouten te vermijden. Hieronder zoomen we in op één cruciaal aspect: hoe precies je vraag geformuleerd is.
 
- *  Is mijn onderzoeksvraag voldoende verankerd? `kennisgebied`
-    : Een onderzoeksvraag wordt altijd gesteld binnen een bepaald kennisgebied. Hierbij is het belangrijk dat de invalshoek van de onderzoeker duidelijk is, want deze bepaalt de richting van het onderzoek en het soort antwoorden dat wordt gezocht. Dit omvat: 
-    +   het kennisgebied en de thematiek,
-    +   gemaakte keuzes en aannames,
-    +   een toelichting op de afbakening.
+Een goede onderzoeksvraag is niet alleen interessant, maar ook voldoende precies geformuleerd. Daarbij zijn twee zaken belangrijk: **afbakening** en **variabelen**.
 
- *  Is mijn onderzoeksvraag voldoende relevant? `reden`
-    : De onderzoeksvraag moet de moeite waard zijn om te beantwoorden. Dit houdt in dat:
-    +   de vraag nog niet eerder (bevredigend) is beantwoord,
-    +   het beantwoorden van de vraag waardevolle inzichten oplevert,
-    +   de verwachte opbrengst optimaal is.
+- **Afbakening**  
+  Zorg ervoor dat je onderzoeksvraag niet te breed is. Baken af op basis van:
+  - tijd
+  - plaats
+  - doelgroep
+  - situatie of context
 
-    ::: {.callout-note}
-    Vraag jezelf af of je onderzoek daadwerkelijk iets bijdraagt, en zo ja, voor wie. Overweeg ook een kosten-batenanalyse te maken om te beoordelen of de tijd en middelen die je in het onderzoek investeert in verhouding staan tot het verwachte resultaat. Dit helpt om de relevantie en haalbaarheid van je onderzoek te bepalen.
-    :::
+- **Variabelen**  
+  Identificeer wat je precies onderzoekt. Welke kenmerken of factoren spelen een rol? Die variabelen vormen de basis voor je analyse en conclusies.
 
- *  Is mijn onderzoeksvraag voldoende precies? `antwoord`
-    : Duidelijkheid over het domein en de variabelen is cruciaal. Een goede vraag moet zowel afgebakend als duidelijk zijn:
-    +   ***Afbakening*** --- Zorg ervoor dat je onderzoeksvraag niet te breed (onuitvoerbaar) of te smal (oppervlakkig) is. Baken je vraag bijvoorbeeld af op basis van tijd (onderzochte periode), ruimte (geografisch gebied) en eenheid (wie of wat je onderzoekt).
-    +   ***Variabelen*** --- Identificeer de variabelen die je gaat onderzoeken. Deze kenmerken vormen de basis voor je conclusies.
+::: {.callout-tip title="Tip: maak je variabelen expliciet"}
+Probeer je vraag te herschrijven als:  
+*“Wat is het effect van `X` op `Y`?”*
 
-        ::: {.Example}
-        "Wat is het profiel van de doorsnee leerling van de derde graad doorstroomfinaliteit?"
-         +  Afbakening: derde graad, doorstroomfinaliteit
-         +  Variabelen: geslacht, leeftijd, herkomst, studierichtingen
-        :::
+- `X` = **oorzaak** (onafhankelijke variabele)  
+- `Y` = **gevolg** (afhankelijke variabele)
+:::
 
-        ::: {.Example}
-        Verschillende invalshoeken bij hetzelfde onderzoeksobject "Het Sportpaleis in Antwerpen":
-         +  Econoom: "Welke economische doelgroepen bezochten het Sportpaleis op basis van het programma in 2023-2024?"
-         +  Socioloog: "Welke verschillen bestaan er tussen het publiek van Clouseau en dat van Alex Agnew?"
-         +  Ingenieur: "Wat is de fysische draagkracht van de fundamenten van het Sportpaleis?
-        :::
+::: {.callout-tip title="Controle: is je vraag meetbaar?"}
+Een onderzoeksvraag moet gebaseerd zijn op **meetbare of observeerbare variabelen**.
 
- *  Is mijn onderzoeksvraag voldoende functioneel? `strategie`
-    : Onderzoeksproblemen kunnen vanuit verschillende doelstellingen worden benaderd. Denk na over wat je wilt bereiken: wil je een probleem beschrijven, verklaren of oplossingen onderzoeken? Formuleer je vraag zo dat deze aansluit bij de doelstelling en de methodologie van je onderzoek. 
+Vermijd vage woorden zoals:
+- beter
+- veel
+- belangrijk
+- invloed
 
- *  Is mijn onderzoeksvraag consistent? `geheel`
-    : De vier elementen van de onderzoeksvraag (kennisgebied, reden, antwoord en strategie) moeten goed bij elkaar passen. Dit zorgt voor een samenhangende en goed geformuleerde vraag die het onderzoek effectief richting geeft.
+Maak ze concreet:
+- “beter” → toetsresultaten, cijfers, snelheid, nauwkeurigheid  
+- “veel” → aantal uren, frequentie, hoeveelheid  
+- “invloed” → effect op een specifieke variabele  
+
+**Test:** kun je exact zeggen *wat* je gaat meten of observeren en *hoe*?
+:::
+
+::: {.Example}
+**Voorbeeld**
+
+"Wat is het profiel van de doorsnee leerling in de derde graad doorstroomfinaliteit?"
+
+- Afbakening  
+  : derde graad, doorstroomfinaliteit  
+
+- Variabelen  
+  : leeftijd, geslacht, studierichting, thuistaal, woonplaats  
+:::
+
+::: {.Example}
+**Verschillende invalshoeken bij hetzelfde onderzoeksobject: de AFAS Dome in Antwerpen**
+
+- Econoom  
+  : "Welke verschillen zijn er in bestedingspatronen tussen bezoekers van concerten en sportevenementen in de AFAS Dome?"
+
+- Socioloog  
+  : "Welke verschillen bestaan er tussen het publiek van Clouseau en dat van Alex Agnew in de AFAS Dome?"
+
+- Ingenieur  
+  : "Wat is de maximale draagkracht van de tribunes van de AFAS Dome?"
+:::
+
+### Veelgemaakte fouten bij onderzoeksvragen
+
+::: {.callout-warning}
+
+Typische problemen:
+
+- Te breed
+  : “Waarom is klimaatverandering belangrijk?”
+- Niet meetbaar
+  : “Heeft sociale media een grote invloed?”
+- Normatief of sturend
+  : “Is huiswerk slecht?”
+- Ja/nee-vraag
+  : “Is sport gezond?”
+- Meerdere vragen tegelijk
+  : “Wat zijn de oorzaken en gevolgen van stress?”
+
+Een goede onderzoeksvraag vermijdt deze problemen door **afbakening, meetbaarheid en focus**.
+
+:::
 
 
 ### Soorten onderzoeksvragen
 
-Hieronder vind je de verschillende soorten onderzoeksvragen met een voorbeeld erbij.
+Er bestaan verschillende soorten onderzoeksvragen. Het soort vraag hangt samen met het soort antwoord dat je zoekt.
 
-*  De beschrijvende onderzoeksvraag  
-   : Deze onderzoeksvraag wil een beschrijving geven van een situatie of een persoon en vraagt naar 
-   `Wie?` `Wat?` `Waar?` `Wanneer?` `Hoe?`
+* De beschrijvende onderzoeksvraag  
 
-   ::: {.Example}
-    +  "Wat is er gebeurd op 11 september 2001?"
-    +  "Met welke vormen van onveiligheid worden leerlingen op onze school geconfronteerd?"
-   :::
+  : Deze onderzoeksvraag wil een situatie, groep of verschijnsel beschrijven. Ze vraagt naar  
 
-*   De verklarende onderzoeksvraag (probleemstructuur + onderzoeksstructuur)  
-    : Dit type onderzoeksvraag biedt een antwoord op de vraag: `Waarom?`  
-    Je zoekt naar oorzaken, redenen, achtergronden van een bepaald onderwerp. 
-    Deze vragen zijn moeilijker te beantwoorden omdat ze zoeken naar iets *onzichtbaars*, 
-    iets wat je niet simpelweg kan waarnemen. 
+  `Wie?` `Wat?` `Waar?` `Wanneer?` `Hoe?`
 
-    ::: {.Example}
-     +  "Welke factoren maken dat senioren het moeilijk hebben met moderne technologie?"
-     +  "Waarom viseren moslimfundamentalisten de VS?"
-     +  "Hoe komt het dat Engelsen zich geen Europeaan voelen?"
-    :::
+  ::: {.Example}
 
-*   De vergelijkende onderzoeksvraag (vergelijkende structuur)  
-    : Deze onderzoeksvraag wil een antwoord geven op vragen als "Wat zijn de verschillen en gelijkenissen tussen ...?"
+  + "Hoe werd 11 september 2001 weergegeven in Europese kranten in de week na de aanslagen?"
 
-    ::: {.Example}
-     +  "Wat zijn de verschillen in morele ontwikkeling tussen Vlaamse jongens en meisjes in de adolescentiefase?"
-     +  "Wat is het verschil in ontwikkeling tussen een paardenbloem in het laagland en in het hooggebergte?"
-    :::
+  + "Met welke vormen van onveiligheid worden leerlingen op onze school geconfronteerd?"
 
-*   De evaluerende onderzoeksvraag (evaluatiestructuur)  
-    : Dit type onderzoeksvraag stelt een onderzoek in om iets te evalueren en een oordeel uit te spreken. 
-    Ze gaat in op open vragen als: 
-     +  "Wat zijn de positieve punten van ...?"
-     +  "Wat zijn de negatieve punten van ...?"
-     +  "Hoe geschikt is ...?"
-     +  "Wat is de waarde van ...?"
+  :::
 
-    ::: {.Example}
-     +  "Welke aanbieder van mobiele telefoons is de beste voor jongeren onder de 25 jaar?"
-     +  "Is het huidige Amerikaanse buitenlands beleid een aanzet tot terrorisme?"
-     +  "Voldoet de opleiding verpleegkunde in Vlaanderen aan de eisen van de verschillende medische centra?"
-    :::
+* De verklarende onderzoeksvraag  
 
-*   Ontwerpende onderzoeksvragen (maatregelenstructuur)  
-    : Deze vragen zijn bedoeld om nieuwe maatregelen voor een probleem te vinden. 
-    Deze vragen beginnen met:
-     +  "Wat kan eraan gedaan worden?"
-     +  "Wat zijn de geschikte maatregelen?"
-     +  "Wat moet er gebeuren?"
+  : Deze onderzoeksvraag zoekt naar oorzaken, redenen of achtergronden. Ze probeert te verklaren `waarom` iets gebeurt.
 
-    ::: {.Example} 
-     +  "Welke maatregelen zijn nodig om het aantal dodelijke verkeersslachtoffers met 25% te verminderen tegen 2020?"
-     +  "Met welke maatregelen kan het fileprobleem tijdens de spitsuren op de snelwegen worden verminderd?"
-     +  "Welk protocol volg je om onderzoek te doen naar de invloed van chemotherapie op de werking van de zenuwbanen?"
-    :::
+  ::: {.Example}
+
+  + "Welke factoren beïnvloeden het gebruik van moderne technologie door senioren?"
+
+  + "Welke factoren beïnvloeden radicalisering bij jongeren in België volgens bestaande studies?"
+
+  + "Welke factoren beïnvloeden in welke mate inwoners van het Verenigd Koninkrijk zich Europees voelen?"
+
+  :::
+
+* De vergelijkende onderzoeksvraag  
+
+  : Deze onderzoeksvraag vergelijkt twee of meer groepen, situaties of omstandigheden.
+
+  ::: {.Example}
+
+  + "Welke verschillen zijn er in morele ontwikkeling tussen Vlaamse jongens en meisjes in de adolescentiefase?"
+
+  + "Welke verschillen zijn er in groei tussen paardenbloemen in het laagland en in het hooggebergte?"
+
+  :::
+
+* De evaluerende onderzoeksvraag  
+
+  : Deze onderzoeksvraag beoordeelt iets aan de hand van expliciete criteria.
+
+  ::: {.Example}
+
+  + "In welke mate voldoen mobiele abonnementen voor jongeren onder de 25 jaar aan de criteria prijs, datavolume en gebruiksgemak?"
+
+  + "In welke mate voldoet de opleiding verpleegkunde in Vlaanderen aan de verwachtingen van stagebegeleiders in ziekenhuizen?"
+
+  + "In welke mate vermindert het anti-pestbeleid op school het aantal pestincidenten volgens leerlingen en leerkrachten?"
+
+  :::
+
+
+  ::: {.callout-tip}
+
+  Evaluerende vragen vereisen duidelijke criteria, anders blijven ze subjectief.
+
+  :::
+
+* De ontwerpende onderzoeksvraag  
+
+  : Deze onderzoeksvraag zoekt naar maatregelen, oplossingen of een ontwerp voor een probleem.
+
+  ::: {.Example}
+
+  + "Welke maatregelen kunnen het aantal verkeersongevallen bij fietsers op weg naar school verminderen?"
+
+  + "Met welke maatregelen kan het fileprobleem tijdens de spitsuren op een bepaald traject worden verminderd?"
+
+  + "Hoe kan een protocol worden opgesteld om de invloed van chemotherapie op de werking van zenuwbanen te onderzoeken?"
+
+  :::
+
+### Hulpschema om een onderzoeksvraag te formuleren
+
+Je kunt je vraag opbouwen met een vaste structuur:
+
+- “Wat is het effect van ______ op ______ bij ______?”
+- “Wat is het verband tussen ______ en ______ bij ______?”
+- “Welke verschillen zijn er tussen ______ en ______ in ______?”
+- “In welke mate voldoet ______ aan ______?”
+- “Welke maatregelen kunnen ______ verminderen of verbeteren?”
+
+Dit helpt om:
+
+- variabelen expliciet te maken
+- de vraag concreet te formuleren
+- de onderzoekbaarheid te verhogen
+
 
 <!-- https://www.scribbr.nl/starten-met-je-scriptie/type-onderzoeksvragen/ -->
 <!-- https://www.cs.ru.nl/E.Barendsen/onderwijs/onderzoeksvaardigheden/doc3a.html -->
