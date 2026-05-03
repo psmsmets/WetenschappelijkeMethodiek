@@ -1,3 +1,0 @@
-# Statistiek {#sec-statistiek}
-
-Bayesiaanse statistiek

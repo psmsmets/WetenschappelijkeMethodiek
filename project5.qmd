@@ -632,7 +632,6 @@ De opdracht bestaat uit drie fasen: **zoeken**, **beoordelen** en **documenteren
 
 ## Module 6: Tekstopmaak met stijlen in Word
 
-
 Microsoft Word gebruikt **stijlen** om tekst automatisch en consistent op te maken. In plaats van handmatig koppen groter of vet te maken, pas je een stijl toe zoals *Kop 1*, *Kop 2* of *Normaal*. Dit zorgt voor structuur, maakt navigatie eenvoudiger en laat je in één keer de volledige opmaak aanpassen.
 
 Het **stijlenpaneel** (Start → Stijlen → pijltje rechtsonder) toont alle stijlen in je document. Hiermee kun je:
@@ -644,8 +643,6 @@ Het **stijlenpaneel** (Start → Stijlen → pijltje rechtsonder) toont alle sti
 - documentstructuur verbeteren  
 
 Stijlen zijn essentieel bij grotere documenten zoals portfolio’s en onderzoeksverslagen omdat ze automatische inhoudsopgaven en consistente lay-out mogelijk maken.
-
-
 
 ::: Exercise
 ### Analyse van tekstopmaak met stijlen
@@ -986,4 +983,136 @@ Focus op:
  
 
 ## Module 11: Wetenschappelijk schrijven (en citeren)
-Schrijven en refereren conform de wetenschap.
+
+In deze module breng je alle vaardigheden samen die je dit jaar hebt opgebouwd. 
+Je leerde onder andere [informatie zoeken](#module-1-zoekstrategieën), [bronnen beoordelen](#module-4-bronnenkritiek), [informatie structureren en correct beheren met Zotero](#module-3-informatiebeheer). 
+De volgende stap is deze kennis samen te laten komen in een *wetenschappelijk onderbouwde tekst*.
+
+Wetenschappelijk schrijven betekent dat je informatie duidelijk, gestructureerd en objectief presenteert, met correcte bronvermelding volgens academische normen. Je argumenteert op basis van bronnen, gebruikt vaktaal nauwkeurig en bouwt een logisch betoog op.
+
+In deze module maken jullie een *research letter* (onderzoeksbrief). 
+Dit is een korte wetenschappelijke publicatie waarin één centrale vraag of inzicht beknopt wordt uitgewerkt. 
+
+De nadruk ligt op:
+
+- helder formuleren  
+- selectief omgaan met informatie  
+- het verbinden van theorie en toepassing  
+
+::: {.callout-note title="Doel"}
+- Inzicht krijgen in de kenmerken van wetenschappelijk schrijven.  
+- Leren hoe je een beknopte wetenschappelijke tekst structureert.  
+- Informatie uit verschillende bronnen synthetiseren tot één samenhangend geheel.  
+- Correct citeren en refereren volgens APA7 met behulp van *Zotero*.  
+- Theorie (formules en concepten) koppelen aan toepassingen.  
+- Kritisch omgaan met bronnen en argumentatie.  
+:::
+
+
+::: Exercise
+### Synthese-opdracht: Wetenschappelijke Onderzoeksbrief
+
+Opdracht
+: 
+
+Schrijf een *onderzoeksbrief* (1–2 pagina's) over een elektromagnetische toepassing of systeem waarin een kerninzicht helder en bondig wordt gepresenteerd.
+
+Formuleer expliciet een **onderzoeksvraag** waarbij je:
+
+- minstens **twee concepten of toepassingen** verbindt  
+- deze **vergelijkt, analyseert of in relatie brengt**  
+
+> Het gaat om een *onderzoeksvraag op syntheseniveau*: je brengt informatie samen en legt verbanden, in plaats van enkel iets te beschrijven.
+
+Omvang
+: 
+
+- Maximaal **700 woorden** (exclusief referenties)  
+- Maximaal **2 figuren**  
+- Maximaal **1 tabel**
+
+Structuur
+: 
+
+Je tekst bevat:
+
+- **Inleiding** (±100 woorden)  
+- **Analyse & Synthese** (±400 woorden)  
+- **Conclusie** (±100–150 woorden)  
+
+Verplichte inhoud
+: 
+
+- Minstens **één formule**, geïntegreerd en functioneel gebruikt  
+- Een **vergelijking of verband** tussen concepten  
+- Kritische verwerking van bronnen  
+
+Onderwerpen (inspiratie, vrije keuze mogelijk)
+: 
+
+:::: {.columns}
+::: {.column width="50%"}
+- Condensator
+- Diode
+- Transformator
+- Alternator
+- Solenoïde
+- Tesla­spoel
+- Gitaarelement
+- Luidspreker
+- Antenne
+- Metaaldetector
+:::
+::: {.column width="50%"}
+- HDD
+- LHC
+- MRI
+- NFC
+- RFID
+- Wireless Power Transfer
+- Draadloos opladen
+- Inductiekookplaat
+- Elektromagnetische rem
+- Magnetische levitatie
+:::
+::::
+
+Template & Tools
+: 
+
+- **Microsoft Word**  
+  Gebruik de [APA7 Word-template](https://national.libguides.com/ld.php?content_id=55991559)
+
+- **LaTeX (optioneel)**  
+  Werk in {{< latex >}} via [Overleaf](https://www.overleaf.com)
+
+- **Zotero**  
+  Gebruik je bestaande bibliotheek en organiseer in  
+  `Wetenschappelijke Methodiek > <JouwOnderwerp>`
+
+- **AI**  
+  Gebruik AI verantwoord en correct. Raadpleeg zeker de [W-M InductieCoach GPT](https://chatgpt.com/g/g-6820fed5067c8191a2b37c8398d9a399-w-m-inductiecoach). 
+  
+
+Bronvermelding
+: 
+
+- Minimaal **5 bronnen**  
+- Minstens **2 niet-Nederlandstalig**  
+- APA7-stijl verplicht  
+- Alle bronnen in Zotero  
+
+Indienen
+: 
+
+Upload **vóór maandag 8 juni 2026** via Smartschool:
+
+- PDF van je onderzoeksbrief  
+- `.zip` met bronbestand + Zotero-export  
+
+---
+
+**Reflectievraag**  
+: _Wat beheers je volgens jezelf het best binnen de wetenschappelijke methodiek, en wat kost je nog moeite?_  
+
+:::

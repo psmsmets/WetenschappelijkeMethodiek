@@ -37,6 +37,8 @@
 
  [**Opdracht 19**](project5.qmd#onderzoeksvraag-interpreteren-en-evalueren): Onderzoeksvraag interpreteren en evalueren\Pageref{onderzoeksvraag-interpreteren-en-evalueren}
 
+ [**Opdracht 20**](project5.qmd#synthese-opdracht-wetenschappelijke-onderzoeksbrief): Synthese-opdracht: Wetenschappelijke Onderzoeksbrief\Pageref{synthese-opdracht-wetenschappelijke-onderzoeksbrief}
+
  [**Opdracht 1**](project6.qmd#verkennen-onderwerpen): Verkennen onderwerpen\Pageref{verkennen-onderwerpen}
 
  [**Opdracht 2**](project6.qmd#onderzoeksvoorstel): Onderzoeksvoorstel\Pageref{onderzoeksvoorstel}
