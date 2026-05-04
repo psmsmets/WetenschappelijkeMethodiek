@@ -42,3 +42,9 @@
  [**Opdracht 1**](project6.qmd#verkennen-onderwerpen): Verkennen onderwerpen\Pageref{verkennen-onderwerpen}
 
  [**Opdracht 2**](project6.qmd#onderzoeksvoorstel): Onderzoeksvoorstel\Pageref{onderzoeksvoorstel}
+
+ [**Opdracht 3**](project6.qmd#onderzoek-uitvoeren): Onderzoek uitvoeren\Pageref{onderzoek-uitvoeren}
+
+ [**Opdracht 4**](project6.qmd#maken-van-een-wetenschappelijke-poster): Maken van een wetenschappelijke poster\Pageref{maken-van-een-wetenschappelijke-poster}
+
+ [**Opdracht 5**](project6.qmd#presentatie-op-de-posterbeurs): Presentatie op de posterbeurs\Pageref{presentatie-op-de-posterbeurs}

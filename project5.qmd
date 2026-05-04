@@ -584,7 +584,7 @@ In dit schema zie je hoe elke module voortbouwt op de vorige: van zoeken naar ev
 - Eerder geleerde vaardigheden integreren: zoeken, AI-gebruik en informatiebeheer.  
 :::
 
-::: Exercise
+::: Opdracht
 ### Bronnenkritiek – De ontwikkeling van de wetenschappelijke methode
 
 De opdracht bestaat uit drie fasen: **zoeken**, **beoordelen** en **documenteren**.
@@ -644,7 +644,7 @@ Het **stijlenpaneel** (Start → Stijlen → pijltje rechtsonder) toont alle sti
 
 Stijlen zijn essentieel bij grotere documenten zoals portfolio’s en onderzoeksverslagen omdat ze automatische inhoudsopgaven en consistente lay-out mogelijk maken.
 
-::: Exercise
+::: Opdracht
 ### Analyse van tekstopmaak met stijlen
 
 Controleer je portfolio voor *Wetenschappelijke Methodiek* op correct gebruik van stijlen.
@@ -674,7 +674,7 @@ Markdown-bestanden hebben meestal de extensie `.md` en zijn gewoon tekstbestande
 - Documentatie: [markdown.nl]((https://www.markdown.nl/cursus/basis-markdown))
 
 
-::: Exercise
+::: Opdracht
 ### Tekstopmaak met Markdown
 
 De opdracht is eenvoudig: voltooi **lessen 1 en 2** van de basiscursus Markdown.
@@ -703,7 +703,7 @@ We werken met **Overleaf**, een online LaTeX-editor die automatisch compileert n
 - Documentatie: [Leer LaTeX in 30 minuten](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 
-::: Exercise
+::: Opdracht
 ### Werken met LaTeX in Overleaf
 
 Inhoud van je document
@@ -1009,7 +1009,7 @@ De nadruk ligt op:
 :::
 
 
-::: Exercise
+::: Opdracht
 ### Synthese-opdracht: Wetenschappelijke Onderzoeksbrief
 
 Opdracht
@@ -1052,28 +1052,31 @@ Onderwerpen (inspiratie, vrije keuze mogelijk)
 
 :::: {.columns}
 ::: {.column width="50%"}
-- Condensator
-- Diode
-- Transformator
-- Alternator
-- Solenoïde
-- Tesla­spoel
-- Gitaarelement
-- Luidspreker
-- Antenne
-- Metaaldetector
+- Condensator  
+- Diode  
+- Transformator  
+- Alternator  
+- Solenoïde  
+- Helmholtzspoel  
+- Tesla­spoel  
+- Hall-effect sensor  
+- Gitaarelement  
+- Antenne  
+- Metaaldetector  
 :::
 ::: {.column width="50%"}
-- HDD
-- LHC
-- MRI
-- NFC
-- RFID
-- Wireless Power Transfer
-- Draadloos opladen
-- Inductiekookplaat
-- Elektromagnetische rem
-- Magnetische levitatie
+- Luidspreker  
+- Inductiekookplaat  
+- Elektromagnetische rem  
+- Magnetische levitatie  
+- Wireless Power Transfer  
+- Draadloos opladen  
+- NFC  
+- RFID  
+- MRI  
+- LHC  
+- Magnetische opslag (HDD)  
+- Supergeleiding  
 :::
 ::::
 

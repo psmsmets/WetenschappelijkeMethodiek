@@ -10,41 +10,9 @@ In het zesde jaar breng je alles wat je geleerd hebt in de praktijk: je voert ee
 
 Het proces bestaat uit drie grote fasen:
 
-### Onderzoeksvoorstel schrijven
-
-Het schooljaar start met de verkenning van mogelijke onderwerpen. Je kiest een thema dat je interesseert en formuleert een duidelijke, afgebakende onderzoeksvraag. Op basis daarvan werk je een schriftelijk onderzoeksvoorstel uit, waarin je de achtergrond, onderzoeksmethode en bronnen toelicht. Je gebruikt hierbij correcte verwijzingen (via Zotero) en stemt je structuur af op de academische conventies.
-
-Tijdens deze fase leer je:
-
-- Onderwerpen verkennen en afbakenen
-- Relevante literatuur verzamelen en verwerken
-- Een onderzoeksvraag scherp formuleren
-- Een werkplan en methodologie uitschrijven
-
-Het goedgekeurde voorstel vormt het fundament voor de rest van het schooljaar.
-
-### Uitvoering van het onderzoek
-
-Na de kerstvakantie start de eigenlijke uitvoering. In drie onderzoekscycli van telkens vier weken werk je stapsgewijs aan je onderzoek. Je houdt een **logboek** bij waarin je je vooruitgang, keuzes, twijfels en eventuele problemen documenteert.
-
-Tussendoor werk je ook aan je communicatievaardigheden: je oefent een *elevator pitch* en leert via *storytelling* je onderzoek helder en overtuigend over te brengen.
-
-Tijdens deze fase leer je:
-
-- Onderzoek plannen en bijsturen
-- Data verzamelen en analyseren (kwalitatief of kwantitatief)
-- Reflecteren op je onderzoeksproces
-- Kritisch denken toepassen op je eigen werk
-
-### Posterpresentatie
-
-In de laatste fase bereid je een wetenschappelijke **poster** voor waarin je jouw onderzoek samenvat. Deze wordt gepresenteerd tijdens een posterbeurs in juni. De presentatie wordt beoordeeld op helderheid, inhoudelijke kwaliteit en visuele vormgeving. Je sluit hiermee het onderzoeksjaar af zoals een echte onderzoeker: door te delen wat je geleerd hebt.
-
-Tijdens deze fase leer je:
-
-- Een poster visueel en inhoudelijk opbouwen
-- Resultaten samenvatten en interpreteren
-- Je werk overtuigend presenteren aan een publiek
+1. Onderzoeksvoorstel schrijven
+2. Uitvoeren van het onderzoek
+3. Posterpresentatie
 
 ## Planning
 
@@ -85,7 +53,7 @@ gantt
 :::
 
 
-## Module 0: Verkennen onderwerpen
+## Fase 0: Verkennen onderwerpen
 
 ::: Opdracht
 ### Verkennen onderwerpen
@@ -125,7 +93,7 @@ Tips
 
 Prompt om je op weg te helpen bij het zoeken van een onderwerp voor je onderzoeksvoorstel:
 
-```default
+```{}
 Je helpt mij bij het bedenken van een thema voor een onderzoeksproject.  
 Stel mij altijd eerst vragen om mijn **input** te krijgen. Bijvoorbeeld:  
 - Welke vakken of vakdomeinen vind ik interessant?  
@@ -147,16 +115,27 @@ Op basis van mijn input mag je suggesties doen, maar:
 ```
 :::
 
-## Module 1: Onderzoeksvoorstel schrijven
+## Fase 1: Onderzoeksvoorstel schrijven
 
 ::: {.callout-note title="Doel"}
-Je stelt een **onderzoeksvoorstel** op en verbetert dit iteratief op basis van gerichte vragen en feedback. Je leert helder formuleren, kritisch nadenken en correct verwijzen naar bronnen.
+Je stelt een onderzoeksvoorstel op en verbetert dit iteratief op basis van gerichte vragen en feedback. Je leert helder formuleren, kritisch nadenken en correct verwijzen naar bronnen.
 :::
 
+Het schooljaar start met de verkenning van mogelijke onderwerpen. Je kiest een thema dat je interesseert en formuleert een duidelijke, afgebakende onderzoeksvraag. Op basis daarvan werk je een schriftelijk onderzoeksvoorstel uit, waarin je de achtergrond, onderzoeksmethode en bronnen toelicht. Je gebruikt hierbij correcte verwijzingen (via Zotero) en stemt je structuur af op de academische conventies.
+
+Tijdens deze fase leer je:
+
+- Onderwerpen verkennen en afbakenen
+- Relevante literatuur verzamelen en verwerken
+- Een onderzoeksvraag scherp formuleren
+- Een werkplan en methodologie uitschrijven
+
+Het goedgekeurde voorstel vormt het fundament voor de rest van het schooljaar.
+
 ::: {.callout-tip title="Tips bij het wetenschappelijk schrijven"}
-- Schrijf **kort en bondig**; begin alinea’s met kernzinnen. Het vakjargon en de inhoud zorgen voor de nodige complexiteit, niet je taalkunde. 
-- Beperk je **scope**: liever een scherp, klein onderzoek dan vaag en groot.
-- Houd je **onderzoeksvraag** zichtbaar bij het schrijven; elke paragraaf moet bijdragen.
+- Schrijf *kort en bondig*; begin alinea’s met kernzinnen. Het vakjargon en de inhoud zorgen voor de nodige complexiteit, niet je taalkunde. 
+- Beperk je *scope*: liever een scherp, klein onderzoek dan vaag en groot.
+- Houd je *onderzoeksvraag* zichtbaar bij het schrijven; elke paragraaf moet bijdragen.
 :::
 
 ::: {.callout-tip title="AI-hulp voor het schrijven van je onderzoeksvoorstel" collapse="true"}
@@ -168,12 +147,15 @@ Maak gebruik van de [W-M Onderzoekswizard](https://chatgpt.com/g/g-67a8d12322f88
 
 In deze opdracht werk je een **onderzoeksvoorstel** uit waarin je een wetenschappelijke vraag onderzoekt binnen een haalbare en afgebakende context. Het doel is om te tonen dat je kritisch kunt nadenken over een onderwerp, een duidelijke onderzoeksvraag kunt formuleren en een verantwoorde methode kunt kiezen om die te beantwoorden. Je leert je ideeën structureren, je keuzes onderbouwen en correct verwijzen naar bronnen. De opdracht vormt de basis voor een eventueel vervolgonderzoek, dus focus op helderheid, haalbaarheid en een logische opbouw.
 
-#### In te leveren bestand
+In te leveren bestand
+: 
+
 - **Word-document:** Maak gebruik van [`template onderzoeksvoorstel.dotx`](project6_files/Template Onderzoeksvoorstel.dotx)
 - **Naamgeving:** `Achternaam_Voornaam_Onderzoeksvoorstel.docx`
 - **Upload:** via de afgesproken digitale omgeving (Smartschool uploadzone)
 
-#### Vereiste onderdelen van je voorstel
+Vereiste onderdelen van je voorstel
+: 
 1. **Titel**
 2. **Auteur** (jouw naam)
 3. **Kernwoorden** (3–7)
@@ -185,86 +167,306 @@ In deze opdracht werk je een **onderzoeksvoorstel** uit waarin je een wetenschap
 
 ---
 
-#### Checklists & reflectievragen per onderdeel
+Checklists & reflectievragen per onderdeel
+: 
 
- 1. **Titel**
+1. **Titel**
 
-    Controleer of de titel voldoet aan volgende vragen:
+   Controleer of de titel voldoet aan volgende vragen:
 
-    - Is de titel beknopt en duidelijk?
-    - Wekt de titel interesse zonder vakjargon?
-    - Vermijdt de titel onnodige afkortingen?
+   - Is de titel beknopt en duidelijk?
+   - Wekt de titel interesse zonder vakjargon?
+   - Vermijdt de titel onnodige afkortingen?
 
-    *Reflectievraag:* _Maakt je titel meteen duidelijk waar je onderzoek over gaat?_
+   Reflectievraag: _Maakt je titel meteen duidelijk waar je onderzoek over gaat?_
 
- 2. **Korte samenvatting**
+2. **Korte samenvatting**
 
-    Bevat de samenvatting:
+   Bevat de samenvatting:
 
-    - **Wat** je onderzoekt en **waarom**?
-    - **Hoe** je het onderzoek uitvoert (methode)?
-    - De **verwachte hypothese**?
-    - Een **globale planning**?
+   - **Wat** je onderzoekt en **waarom**?
+   - **Hoe** je het onderzoek uitvoert (methode)?
+   - De **verwachte hypothese**?
+   - Een **globale planning**?
 
-    Is de samenvatting representatief voor het hele onderzoek?
+   Is de samenvatting representatief voor het hele onderzoek?
 
-    *Reflectievraag:* _Beschrijft je samenvatting alle belangrijke onderdelen van je onderzoek?_
+   Reflectievraag: _Beschrijft je samenvatting alle belangrijke onderdelen van je onderzoek?_
 
- 3. **Introductie**
+3. **Introductie**
 
-    Bevat de introductie:
+   Bevat de introductie:
 
-    - De **motivatie** voor het onderzoek?
-    - Het **kennisgebied/veld**?
-    - Het **soort antwoord** dat je zoekt (beschrijvend, verklarend, ontwerp, meting…)?
-    - De globale **strategie/aanpak**?
+   - De **motivatie** voor het onderzoek?
+   - Het **kennisgebied/veld**?
+   - Het **soort antwoord** dat je zoekt (beschrijvend, verklarend, ontwerp, meting ...)?
+   - De globale **strategie/aanpak**?
 
-    *Reflectievraag:* _Kun je in één zin uitleggen waarom je dit onderzoek doet, en staat dat duidelijk in je introductie?_
+   Reflectievraag: _Kun je in één zin uitleggen waarom je dit onderzoek doet, en staat dat duidelijk in je introductie?_
 
- 4. **Middenstuk (Onderzoeksopzet & Achtergrond)**
+4. **Middenstuk (Onderzoeksopzet & Achtergrond)**
 
-    Bevat het midden:
+   Bevat het midden:
 
-    - Voldoende **achtergrondinformatie** en definities?
-    - **Praktische uitvoerbaarheid** binnen enkele weken?
-    - Expliciet benoemde **aannames**?
-    - Duidelijke **methodologie** en stap voor stap opgebouwd?
+   - Voldoende **achtergrondinformatie** en definities?
+   - **Praktische uitvoerbaarheid** binnen enkele weken?
+   - Expliciet benoemde **aannames**?
+   - Duidelijke **methodologie** en stap voor stap opgebouwd?
 
-    *Reflectievraag:* _Hoe ga je je onderzoek precies uitvoeren? Vat dit samen in enkele zinnen._
+   Reflectievraag: _Hoe ga je je onderzoek precies uitvoeren? Vat dit samen in enkele zinnen._
 
- 5. **Slot**
+5. **Slot**
 
-    Bevat het slot van je onderzoeksvoorstel:
+   Bevat het slot van je onderzoeksvoorstel:
 
-    - Korte **samenvatting** van de belangrijkste punten?
-    - **Logische afronding** zonder nieuwe informatie?
+   - Korte **samenvatting** van de belangrijkste punten?
+   - **Logische afronding** zonder nieuwe informatie?
 
-    *Reflectievraag:* _Sluit je conclusie logisch aan op de rest van je voorstel?_
+   Reflectievraag: _Sluit je conclusie logisch aan op de rest van je voorstel?_
 
- 6. **Referenties (Zotero; Vancouver)**
+6. **Referenties (Zotero; Vancouver)**
 
-    - **Korte verwijzingen** in de tekst én een **volledige literatuurlijst**?
-    - **Citaten**, **figuren** en **tabellen** correct voorzien van bronvermelding?
-    - **Consistentie** in de gekozen referentiestijl?
+   - **Korte verwijzingen** in de tekst én een **volledige literatuurlijst**?
+   - **Citaten**, **figuren** en **tabellen** correct voorzien van bronvermelding?
+   - **Consistentie** in de gekozen referentiestijl?
 
-    *Reflectievraag:* _Staan al je bronnen correct in de tekst én in de literatuurlijst?_
-
+   Reflectievraag
+   : _Staan al je bronnen correct in de tekst én in de literatuurlijst?_
 
 ---
 
-#### Kernvragen (voor je hele voorstel)
+Kernvragen (voor je hele voorstel)
+:
+
 - Kun je in **één zin** je **onderzoeksvraag** formuleren?
-- **Welke methode** gebruik je om je vraag te beantwoorden?
+- **Welke methode** gebruik je om je onderzoeksvraag te beantwoorden?
 - Zijn **middelen, tijd en data** realistisch beschikbaar?
 
 ---
 
-#### Beoordeling
+Beoordeling
+: Je onderzoeksvoorstel wordt beoordeeld op 100 punten verdeeld over vier criteria:
 
-Je onderzoeksvoorstel wordt beoordeeld op 100 punten verdeeld over vier criteria:
+1. **Structuur & Inhoud (40 punten):** Titel is duidelijk, aantrekkelijk en zonder vakjargon of afkortingen. Samenvatting bevat: onderwerp, doel, aanpak, hypothese én planning. Introductie bevat: motivatie, kennisdomein, onderzoekstype en strategie. Achtergrond is informatief en relevant, met expliciete aannames. Onderzoeksmethode is concreet, logisch en uitvoerbaar binnen beschikbare tijd/middelen. Slot bevat een heldere samenvatting zonder nieuwe informatie.
 
-- **Structuur & Inhoud (40 punten):** Titel is duidelijk, aantrekkelijk en zonder vakjargon of afkortingen. Samenvatting bevat: onderwerp, doel, aanpak, hypothese én planning. Introductie bevat: motivatie, kennisdomein, onderzoekstype en strategie. Achtergrond is informatief en relevant, met expliciete aannames. Onderzoeksmethode is concreet, logisch en uitvoerbaar binnen beschikbare tijd/middelen. Slot bevat een heldere samenvatting zonder nieuwe informatie.
-- **Onderzoekskwaliteit & Reflectie (30 punten)**: Onderzoeksvraag is scherp, afgebakend en relevant. Doel en verwachte resultaten worden helder verwoord. Reflectie over aanpak en methodologische keuzes is aanwezig. Leerling toont initiatief en originele keuzes of perspectieven. Beperkingen of mogelijke moeilijkheden worden benoemd en doordacht. Er is bewijs van denkwerk: keuzes worden verantwoord. 
-- **Taalgebruik & Vormgeving (15 punten)**: Taal is correct en verzorgd (spelling, grammatica, zinsbouw). De tekst leest vlot dankzij een duidelijke structuur en overgangszinnen. Lay-out is overzichtelijk en consistent met titels, tussenkopjes en witruimte. 
-- **Brongebruik (15 punten):** Gebruikte bronnen zijn relevant, betrouwbaar en gevarieerd. Verwijzingen in de tekst (bronnen/figuren/tabellen/citaten) zijn correct en consequent volgens de opgegeven stijl. Literatuurlijst is volledig en correct gegenereerd met Zotero of vergelijkbaar.
+2. **Onderzoekskwaliteit & Reflectie (30 punten)**: Onderzoeksvraag is scherp, afgebakend en relevant. Doel en verwachte resultaten worden helder verwoord. Reflectie over aanpak en methodologische keuzes is aanwezig. Leerling toont initiatief en originele keuzes of perspectieven. Beperkingen of mogelijke moeilijkheden worden benoemd en doordacht. Er is bewijs van denkwerk: keuzes worden verantwoord. 
+
+3. **Taalgebruik & Vormgeving (15 punten)**: Taal is correct en verzorgd (spelling, grammatica, zinsbouw). De tekst leest vlot dankzij een duidelijke structuur en overgangszinnen. Lay-out is overzichtelijk en consistent met titels, tussenkopjes en witruimte. 
+
+4. **Brongebruik (15 punten):** Gebruikte bronnen zijn relevant, betrouwbaar en gevarieerd. Verwijzingen in de tekst (bronnen/figuren/tabellen/citaten) zijn correct en consequent volgens de opgegeven stijl. Literatuurlijst is volledig en correct gegenereerd met Zotero of vergelijkbaar.
+
+:::
+
+## Fase 2: Onderzoek uitvoeren
+
+::: {.callout-note title="Doel"}
+Je voert een zelfstandig onderzoek uit op basis van je goedgekeurde onderzoeksvoorstel. Je doorloopt drie onderzoekscycli waarin je je aanpak test, bijstuurt en verfijnt.  
+Je documenteert je proces in een logboek en ontwikkelt onderzoeksvaardigheden zoals dataverzameling, analyse en reflectie.
+:::
+
+Na de kerstvakantie start de eigenlijke uitvoering. In drie onderzoekscycli van telkens vier weken werk je stapsgewijs aan je onderzoek. Je houdt een **logboek** bij waarin je je vooruitgang, keuzes, twijfels en eventuele problemen documenteert.
+
+Tussendoor werk je ook aan je communicatievaardigheden: je oefent een *elevator pitch* en leert via *storytelling* je onderzoek helder en overtuigend over te brengen.
+
+Tijdens deze fase leer je:
+
+- Onderzoek plannen en bijsturen
+- Data verzamelen en analyseren (kwalitatief of kwantitatief)
+- Reflecteren op je onderzoeksproces
+- Kritisch denken toepassen op je eigen werk
+
+
+::: {.callout-important}
+Tijdens cyclus 1 en 2 is het logboek verplicht en maakt het deel uit van de evaluatie.  
+Tijdens cyclus 3 ligt de focus op afronding en verwerking; het logboek is dan niet meer vereist.
+:::
+
+::: Opdracht
+### Onderzoek uitvoeren
+
+**Cyclus 1 - Verkennen en opstarten**
+
+  - **Doel:**
+    In deze fase start je je onderzoek op en test je je aanpak in de praktijk.
+
+      * Je vertaalt je onderzoeksvoorstel naar een concreet stappenplan
+      * Je test je methode (pilootfase)
+      * Je verzamelt eerste gegevens
+      * Je identificeert problemen of beperkingen  
+
+  - **Logboek (verplicht):**
+    Noteer en reflecteer op je voortgang.
+
+      * Wat heb je gedaan?
+      * Wat werkte wel/niet?
+      * Welke problemen kwam je tegen?
+      * Welke aanpassingen overweeg je?  
+
+  - **Reflectievraag:**
+    _Werkt je methode zoals verwacht? Wat moet je aanpassen?_
+
+---
+
+**Cyclus 2 – Verdiepen en bijsturen**
+
+  - **Doel:**
+    In deze fase verzamel je systematisch data en verbeter je je aanpak.
+
+      * Je verfijnt je methode op basis van cyclus 1
+      * Je verzamelt gericht en voldoende data
+      * Je begint met eerste analyses
+      * Je denkt kritisch na over betrouwbaarheid en validiteit
+
+  - **Logboek (verplicht):**
+    Documenteer je keuzes en evalueer je aanpak.
+
+      * Welke keuzes maak je en waarom?
+      * Hoe evolueert je aanpak?
+      * Hoe betrouwbaar zijn je gegevens?
+
+  - **Reflectievraag:**
+    _In welke mate kan je met je huidige data je onderzoeksvraag beantwoorden?_
+
+---
+
+**Cyclus 3 – Afronden en analyseren**
+
+  - **Doel:**
+    In deze fase rond je je onderzoek af en formuleer je conclusies.
+
+      * Je voltooit je dataverzameling
+      * Je analyseert je resultaten (kwalitatief of kwantitatief)
+      * Je formuleert een antwoord op je onderzoeksvraag
+      * Je reflecteert op beperkingen en mogelijke foutenbronnen
+
+  - **Belangrijk:**
+    Geen logboek meer vereist. Focus ligt op verwerking en synthese.
+
+  - **Reflectievraag:**
+    _Wat tonen je resultaten, en hoe zeker ben je daarvan?_
+:::
+
+## Fase 3: Posterpresentatie
+
+::: {.callout-note title="Doel"}
+Je presenteert je onderzoek in de vorm van een wetenschappelijke poster. Je leert complexe informatie helder, visueel en beknopt communiceren aan een publiek.
+:::
+
+In de laatste fase bereid je een wetenschappelijke **poster** voor waarin je jouw onderzoek samenvat. Deze wordt gepresenteerd tijdens een posterbeurs in juni. De presentatie wordt beoordeeld op helderheid, inhoudelijke kwaliteit en visuele vormgeving. Je sluit hiermee het onderzoeksjaar af zoals een echte onderzoeker: door te delen wat je geleerd hebt.
+
+Tijdens deze fase leer je:
+
+- Een poster visueel en inhoudelijk opbouwen
+- Resultaten samenvatten en interpreteren
+- Je werk overtuigend presenteren aan een publiek
+
+::: Opdracht
+### Maken van een wetenschappelijke poster
+
+Je maakt een wetenschappelijke poster waarin je jouw onderzoek visueel en beknopt samenvat.
+
+**Praktische richtlijnen**
+
+- Tool:
+
+  Gebruik Canva om je poster te maken. Kies een geschikt research template als startpunt.
+  
+  Voorbeelden:
+
+    * [Templates](https://www.canva.com/templates/?query=research&category=tAFBBNL-eFc)
+    * [Academic research poster template](https://www.canva.com/templates/EAGWkgTOF6M-academic-research-poster-in-blue-and-white-contemporary-style/)
+
+- Formaat:
+
+    * Oriëntatie: **portrait (staand)**
+    * De poster wordt afdrukt op **A0**
+    * Houd bij het ontwerpen rekening met schaal: werk met voldoende grote tekst en duidelijke visuals
+
+- Exporteren naar `.pdf`:
+
+  Exporteer je poster correct voor drukwerk:
+
+    * Bestand > Download
+    * Bestandstype: `PDF`
+    * Optie: `Flatten PDF` aanvinken
+    * Kleurprofiel: `CMYK`
+    * Download
+
+---
+
+**Ontwerpregels**
+
+- Structuur:
+
+    * Werk in duidelijke kolommen of blokken (grid)
+    * Volg een logische leesrichting (van boven naar beneden)
+    * Gebruik duidelijke titels en tussenkopjes
+
+- Tekstgebruik:
+
+    * Schrijf kort en bondig (geen lopende tekstblokken)
+    * Gebruik kernzinnen en opsommingstekens
+    * Focus op je onderzoeksvraag en conclusie
+
+- Visueel:
+
+    * Gebruik grafieken, schema’s en afbeeldingen
+    * Vermijd overvolle posters (less is more)  
+    * Zorg voor voldoende witruimte
+
+- Kleur en stijl:
+
+    * Gebruik maximaal 2–3 kleuren
+    * Zorg voor voldoende contrast (leesbaarheid)  
+    * Kies een consistente stijl (lettertypes, kleuren)
+
+- Lettertypes:
+
+    * Gebruik maximaal 1–2 lettertypes
+    * Titel groot en leesbaar vanop afstand
+    * Tekst leesbaar op ±1 meter afstand
+
+---
+
+**Inhoud van de poster**
+
+- Je poster bevat minimaal:
+
+    * Titel
+    * Naam + klas
+    * Onderzoeksvraag
+    * Korte introductie
+    * Methode
+    * Resultaten (grafieken, tabellen, schema’s)
+    * Conclusie
+    * Reflectie / beperkingen
+    * Bronnen
+
+---
+
+Reflectievraag
+: _Hoe zorg je ervoor dat iemand jouw onderzoek begrijpt in minder dan 1 minuut?_
+:::
+
+
+::: Opdracht
+### Presentatie op de posterbeurs
+
+Tijdens de posterbeurs licht je je onderzoek mondeling toe. Je beantwoord je vragen van bezoekers en past je je uitleg aan je publiek aan.
+
+**Voorbereiding**
+
+* Je oefent je uitleg (elevator pitch uitbreiden)
+* Je denkt na over mogelijke vragen
+* Je test of je poster begrijpelijk is voor anderen
+
+**Beoordeling**
+
+De posterpresentatie wordt beoordeeld op:
+
+* Inhoud: correctheid en relevantie
+* Structuur: logische opbouw
+* Visuele vormgeving: leesbaarheid en overzicht
+* Presentatievaardigheden: helderheid en interactie
+* Inzicht: begrip van eigen onderzoek
 :::
