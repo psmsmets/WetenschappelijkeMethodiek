@@ -1,13 +1,96 @@
 # Kritisch denken {#sec-kritisch-denken}
 
-[Dit hoofdstuk is nog in opbouw]
+Hoe onderscheiden we betrouwbare informatie van misleidende informatie? Hoe weten we of een conclusie logisch volgt uit de gegevens waarop ze gebaseerd is? In een samenleving waarin informatie voortdurend beschikbaar is, volstaat het niet om gegevens eenvoudigweg te verzamelen. Het vermogen om informatie kritisch te beoordelen is minstens even belangrijk.
 
-::: {.hidden}
+Kritisch denken is het actief en systematisch evalueren van informatie, argumenten en conclusies. Het betekent niet dat alles automatisch in twijfel wordt getrokken, maar wel dat beweringen worden onderzocht op basis van bewijs, redenering en context. Binnen de wetenschappelijke methode vormt kritisch denken een essentieel hulpmiddel: het helpt om denkfouten te herkennen, bronnen correct te beoordelen en conclusies zorgvuldig te interpreteren.
 
-Hoe herkennen we verkeerde informatie, pseudo-feiten en verdraaiingen van betrouwbare informatie? Door het controleren van de geloofwaardigheid en redeneren, waarbij de wetenschappelijke methode en kritisch denken centraal staan. Daniel J. Levitin (New York Times) schreef er de bestseller “Een veldgids voor leugens” over.
+Wetenschap vertrekt niet vanuit overtuigingen, maar vanuit controleerbare observaties. Toch worden wetenschappelijke resultaten nog steeds geïnterpreteerd door mensen, en mensen maken fouten. Daarom vormt kritisch denken een noodzakelijke aanvulling op experimenten en gegevensverzameling.
 
-[@Ritchie2020]
+## Waarom kritisch denken belangrijk is
 
-[@Levitin2019]
+Dagelijks worden we geconfronteerd met cijfers, nieuwsberichten, grafieken, sociale media en uitspraken van experts. Veel van deze informatie lijkt betrouwbaar omdat ze professioneel wordt gepresenteerd of afkomstig lijkt van een gezaghebbende bron. Toch betekent overtuigend taalgebruik niet automatisch dat een conclusie correct is.
 
+Mensen nemen vaak mentale snelkoppelingen bij het verwerken van informatie. Dat maakt besluitvorming sneller, maar vergroot ook de kans op fouten. We beoordelen informatie soms op basis van intuïtie, persoonlijke ervaringen of eerdere overtuigingen, terwijl die niet noodzakelijk overeenkomen met objectief bewijs.
+
+Daniel J. Levitin beschrijft kritisch denken als een praktische vaardigheid om informatie te analyseren en misleidende argumenten te herkennen [@Levitin2019]. Niet elke verkeerde conclusie ontstaat door opzettelijke manipulatie. Ook correcte cijfers kunnen verkeerd geïnterpreteerd of selectief gebruikt worden.
+
+## Geloofwaardigheid van bronnen beoordelen
+
+Een eerste stap binnen kritisch denken is het beoordelen van de betrouwbaarheid van informatiebronnen. Niet alle bronnen hanteren dezelfde kwaliteitsnormen.
+
+Bij het lezen van een tekst, artikel of onderzoek kunnen enkele vragen helpen:
+
+- Wie is de auteur?
+- Welke expertise of achtergrond heeft deze persoon of organisatie?
+- Zijn de gebruikte gegevens controleerbaar?
+- Worden bronnen of referenties vermeld?
+- Worden beperkingen besproken?
+- Kunnen andere bronnen dezelfde conclusies ondersteunen?
+
+In wetenschappelijk onderzoek is transparantie belangrijk. Onderzoekers beschrijven hun methode, gebruikte gegevens en analyse zodat anderen het onderzoek kunnen controleren of herhalen [@Popper2005].
+
+Een persoonlijke mening, een populair bericht of een uitspraak van een bekende persoon kan overtuigend klinken, maar vormt op zichzelf geen wetenschappelijk bewijs.
+
+## Correlatie en causaliteit
+
+Een veelvoorkomende denkfout ontstaat wanneer twee verschijnselen samen voorkomen. Dat twee variabelen een verband vertonen, betekent niet automatisch dat de ene de oorzaak is van de andere.
+
+Een klassiek voorbeeld: tijdens de zomer stijgt zowel de verkoop van ijsjes als het aantal verdrinkingsongevallen. Dat betekent niet dat ijsjes verdrinking veroorzaken. Beide variabelen worden beïnvloed door een derde factor: warm weer.
+
+Wanneer twee variabelen samen veranderen spreken we van een *correlatie*. Een *causaal verband* betekent dat één factor daadwerkelijk een effect veroorzaakt.
+
+Wetenschappelijk onderzoek probeert zulke schijnverbanden te vermijden door gebruik te maken van controlegroepen, experimenten en statistische analyse [@Ritchie2020].
+
+::: {.callout-note}
+Correlatie betekent samenhang. Causaliteit betekent oorzaak-gevolg. Beide begrippen zijn niet hetzelfde.
 :::
+
+## Misleidende grafieken en visualisaties
+
+Grafieken en figuren worden vaak gebruikt om informatie overzichtelijk voor te stellen. Toch kunnen ze een vertekend beeld geven wanneer gegevens op een misleidende manier worden weergegeven.
+
+Enkele veelvoorkomende voorbeelden:
+
+- een verticale as die niet bij nul start;
+- ongelijke schaalverdelingen;
+- overdreven gebruik van pictogrammen;
+- selectief gekozen tijdsintervallen;
+- weglaten van relevante gegevens.
+
+Een kleine stijging kan hierdoor veel dramatischer lijken dan ze werkelijk is.
+
+Bij het interpreteren van grafieken is het daarom nuttig om niet alleen naar de boodschap te kijken, maar ook naar de presentatie van de gegevens. Levitin bespreekt hoe statistieken en visuele voorstellingen vaak overtuigend lijken terwijl de onderliggende interpretatie problematisch kan zijn [@Levitin2019].
+
+## Cognitieve vertekeningen
+
+Zelfs wanneer informatie correct is, verwerken mensen die informatie niet volledig objectief. Ons denken wordt beïnvloed door patronen en automatische beslissingen. Zulke systematische denkfouten noemen we *cognitieve vertekeningen* (*cognitive biases*).
+
+Enkele belangrijke voorbeelden:
+
+**Bevestigingsbias**  
+Mensen zoeken gemakkelijker informatie die hun bestaande overtuigingen ondersteunt en negeren tegenstrijdige gegevens.
+
+**Beschikbaarheidsbias**  
+Gebeurtenissen die gemakkelijk herinnerd worden, lijken vaak waarschijnlijker dan ze werkelijk zijn.
+
+**Autoriteitsbias**  
+Uitspraken van experts of bekende personen worden soms sneller geloofd zonder verdere controle.
+
+**Overlevingsbias**  
+Mensen richten zich op zichtbare successen terwijl mislukkingen minder aandacht krijgen.
+
+Onderzoek naar menselijke besluitvorming toont dat zulke denkfouten geen uitzonderingen zijn, maar terugkerende patronen in hoe mensen informatie verwerken [@Kahneman2013].
+
+Deze denkpatronen zijn geen uitzonderingen, maar normale eigenschappen van menselijk denken. Wetenschappelijke methoden proberen hun invloed te beperken door systematische procedures te gebruiken.
+
+## Kritisch denken binnen de wetenschappelijke methode
+
+Binnen wetenschappelijk onderzoek is kritisch denken geen afzonderlijke vaardigheid, maar een onderdeel van elke stap van het proces. Onderzoekers stellen vragen bij observaties, controleren hun methode en evalueren voortdurend de kwaliteit van hun conclusies.
+
+Karl Popper benadrukte dat wetenschap vooruitgaat doordat ideeën voortdurend getest en weerlegd kunnen worden [@Popper2005]. Wetenschap zoekt daardoor niet naar definitieve bevestiging, maar naar verklaringen die zo goed mogelijk bestand zijn tegen kritiek.
+
+Kritisch denken betekent daarom niet dat alles wordt afgewezen of gewantrouwd. Het betekent dat overtuigingen aangepast kunnen worden wanneer nieuwe gegevens beschikbaar komen.
+
+Wetenschap zoekt geen absolute zekerheid, maar de best onderbouwde verklaring op basis van beschikbaar bewijs.
+
+> Kritisch denken betekent niet minder geloven, maar betere redenen hebben om iets te geloven.

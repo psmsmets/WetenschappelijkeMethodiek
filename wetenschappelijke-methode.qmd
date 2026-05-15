@@ -309,9 +309,7 @@ Een *zelfvervullende voorspelling* (Engels: *self-fulfilling prophecy*) is een v
 
 In de wetenschap is het essentieel om niet alleen te begrijpen wat we weten, maar ook wat we nog níet weten. *Onwetendheid* speelt een cruciale rol in wetenschappelijk onderzoek, omdat het vaak dient als drijfveer voor nieuwe vragen en onderzoeksrichtingen. Door bewust te erkennen waar hiaten in kennis bestaan, kunnen wetenschappers prioriteiten stellen en onderzoek sturen naar gebieden met het grootste potentieel voor nieuwe ontdekkingen.
 
-Daarnaast kan onwetendheid ook strategisch worden ingezet in beleidsvorming en communicatie. Soms wordt informatie bewust weggelaten of vaag gehouden om bepaalde percepties te beïnvloeden of om onzekerheid te vergroten rond gevoelige onderwerpen. Dit proces wordt ook wel "agnotologie" genoemd, de studie van de productie van onwetendheid. Dit kan bijvoorbeeld voorkomen in de context van milieubeleid of de gezondheidsindustrie, waar belangen conflicteren en het sturen van publieke perceptie een belangrijke rol kan spelen.
-
-(<https://mitpress.mit.edu/9780262538213/science-and-the-production-of-ignorance/>)
+Daarnaast kan onwetendheid ook strategisch worden ingezet in beleidsvorming en communicatie. Soms wordt informatie bewust weggelaten of vaag gehouden om bepaalde percepties te beïnvloeden of om onzekerheid te vergroten rond gevoelige onderwerpen. Dit proces wordt ook wel "agnotologie" genoemd, de studie van de productie van onwetendheid. Dit kan bijvoorbeeld voorkomen in de context van milieubeleid of de gezondheidsindustrie, waar belangen conflicteren en het sturen van publieke perceptie een belangrijke rol kan spelen [@Kourany2020].
 
 
 ## Andere benaderingen

@@ -318,14 +318,13 @@ Maak je gebruik van een referentiebeheerder dan wordt in de meeste gevallen de a
 
 | Ontbrekende gegevens | Afkorting | Betekenis |
 | -------------------- | --------- | --------- |
-| naam van auteur of uitgeverij | s.n. | sine nomine |
-| datum/jaartal | s.d. | sine dato |
-| plaats van uitgave | s.l. | sine loco |
+| naam van auteur of uitgeverij | z.n. | zonder naam |
+| datum/jaartal | z.d. | zonder datum |
+| plaats van uitgave | z.pl. | zonder plaats |
 : Te gebruiken afkortingen bij ontbrekende gegevens van een referentie. {#tbl-bronnen-ontbrekend"}
 
 
 ### AI-gegenereerde tekst of output citeren
-
 
 De APA-stijl (7e editie) heeft sinds 2023 richtlijnen voor het refereren naar AI-gegenereerde tekst of output.  
 Je vermeldt steeds het *model* en de *ontwikkelaar* (bv. "OpenAI") en dus niet jezelf of het systeem als auteur.

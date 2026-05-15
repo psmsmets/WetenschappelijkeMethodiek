@@ -1017,12 +1017,23 @@ Opdracht
 
 Schrijf een *onderzoeksbrief* (1–2 pagina's) over een elektromagnetische toepassing of systeem waarin een kerninzicht helder en bondig wordt gepresenteerd.
 
+Alle voorgestelde onderwerpen behoren tot het overkoepelende thema **elektromagnetisme binnen fysica**. De focus ligt dus niet op een loutere beschrijving van een toestel of toepassing, maar op de onderliggende fysische principes zoals elektrische en magnetische velden, inductie, Lorentzkracht, elektromagnetische golven of de wisselwerking tussen stroom en magnetisme.
+
 Formuleer expliciet een **onderzoeksvraag** waarbij je:
 
 - minstens **twee concepten of toepassingen** verbindt  
 - deze **vergelijkt, analyseert of in relatie brengt**  
+- het verband legt via **elektromagnetische principes**
 
 > Het gaat om een *onderzoeksvraag op syntheseniveau*: je brengt informatie samen en legt verbanden, in plaats van enkel iets te beschrijven.
+
+Voorbeelden:
+
+- Niet: *Hoe werkt RFID?*  
+- Wel: *Hoe verschillen RFID en NFC in hun gebruik van elektromagnetische inductie en wat betekent dit voor hun bereik en toepassingen?*
+
+- Niet: *Wat is een Tesla-spoel?*  
+- Wel: *Welke rol speelt resonantie in zowel Tesla-spoelen als draadloze energieoverdracht?*
 
 Omvang
 : 
@@ -1045,7 +1056,9 @@ Verplichte inhoud
 
 - Minstens **één formule**, geïntegreerd en functioneel gebruikt  
 - Een **vergelijking of verband** tussen concepten  
-- Kritische verwerking van bronnen  
+- Kritische verwerking van bronnen
+
+De formule moet een functionele rol spelen in je analyse en gebruikt worden om een verband of verklaring te ondersteunen. Voeg dus geen formule los toe zonder verdere toepassing.
 
 Onderwerpen (inspiratie, vrije keuze mogelijk)
 : 
@@ -1103,7 +1116,9 @@ Bronvermelding
 - Minimaal **5 bronnen**  
 - Minstens **2 niet-Nederlandstalig**  
 - APA7-stijl verplicht  
-- Alle bronnen in Zotero  
+- Alle bronnen in Zotero
+
+De cursus of het handboek **Fysica** kan dienen als vertrekpunt, naslagwerk en eerste bron voor theoretische achtergrond, relevante formules en fundamentele elektromagnetische concepten. Gebruik bijkomende wetenschappelijke bronnen om verder te verdiepen en verbanden kritisch te analyseren.
 
 Indienen
 : 
