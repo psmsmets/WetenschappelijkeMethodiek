@@ -48,3 +48,5 @@
  [**Opdracht 4**](project6.qmd#maken-van-een-wetenschappelijke-poster): Maken van een wetenschappelijke poster\Pageref{maken-van-een-wetenschappelijke-poster}
 
  [**Opdracht 5**](project6.qmd#presentatie-op-de-posterbeurs): Presentatie op de posterbeurs\Pageref{presentatie-op-de-posterbeurs}
+
+ [**Opdracht 6**](project6.qmd#reflectie-op-het-onderzoeksproces): Reflectie op het onderzoeksproces\Pageref{reflectie-op-het-onderzoeksproces}
